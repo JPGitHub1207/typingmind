@@ -1,0 +1,14 @@
+# List of companies to process for Ofsted data
+# Add one company name per line
+# Lines starting with # are ignored
+
+ABC Learning Centre
+XYZ Training Academy
+Education Plus Ltd
+Skills Development Institute
+Future Leaders College
+Bright Minds Nursery
+Excellence Training Provider
+Learning Solutions UK
+Professional Development Centre
+Career Advancement Academy
