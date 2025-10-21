@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download Operations Management Providers CSV</title>
+</head>
+<body>
+    <h1>Operations Management Providers Data</h1>
+    <p>Click the button below to download the CSV file:</p>
+    <button onclick="downloadCSV()">Download CSV File</button>
+    
+    <script>
+    function downloadCSV() {
+        // CSV data will be inserted here
+        const csvContent = `Provider Name,UKPRN,Training Options,Employer Reviews,Apprentice Reviews,Achievement Rate,Detail URL
+HARTLEPOOL COLLEGE OF FURTHER EDUCATION,10002917,Day release,Good (1 employer review),Good (19 apprentice reviews),100% (out of 10 apprentices),https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/104/providers/10002917?distance=10
+WIGAN AND LEIGH COLLEGE,10007500,At apprentice's workplace,Good (3 employer reviews),Good (26 apprentice reviews),100% (out of 10 apprentices),https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/104/providers/10007500?distance=10`;
+        
+        // Create blob and download
+        const blob = new Blob([csvContent], { type: 'text/csv' });
+        const url = window.URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.setAttribute('hidden', '');
+        a.setAttribute('href', url);
+        a.setAttribute('download', 'operations_management_providers.csv');
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    }
+    </script>
+</body>
+</html>
