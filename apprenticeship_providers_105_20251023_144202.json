@@ -1,0 +1,112 @@
+[
+  {
+    "name": "GATESHEAD COUNCIL",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10002639?distance=10",
+    "provider_id": "10002639",
+    "ukprn": "10002639",
+    "registered_address": "Civic Centre, Regent Street, Gateshead, NE8 1HH",
+    "email": "apprenticeships@gateshead.gov.uk",
+    "telephone": "01914338727",
+    "website": "https://mylearningskills.co.uk/team-leader-or-supervisor-apprenticeship-level-3-20904",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "EDEN TRAINING SOLUTIONS LIMITED",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10027766?distance=10",
+    "provider_id": "10027766",
+    "ukprn": "10027766",
+    "registered_address": "Wallace House, 4 Falcon Way, Welwyn Garden City, AL7 1TW",
+    "email": "enquiries@eden-ts.com",
+    "telephone": "0800 7563985",
+    "website": "https://eden-ts.com",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "NEW CITY COLLEGE",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10006963?distance=10",
+    "provider_id": "10006963",
+    "ukprn": "10006963",
+    "registered_address": "112 Poplar High Street, London, E14 0AF",
+    "email": "Apprenticeships@ncclondon.ac.uk",
+    "telephone": "01708462738",
+    "website": "https://www.ncclondon.ac.uk/apprenticeships",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "SKILLS FOR SECURITY LIMITED",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10010523?distance=10",
+    "provider_id": "10010523",
+    "ukprn": "10010523",
+    "registered_address": "Axis Building 4, Rhodes Way, Watford, WD24 4YW",
+    "email": "info@skillsforsecurity.org.uk",
+    "telephone": "01905744000",
+    "website": "https://www.skills4security.com/",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "PIER TECHNOLOGY LTD",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10040417?distance=10",
+    "provider_id": "10040417",
+    "ukprn": "10040417",
+    "registered_address": "43 Calthorpe Road, Edgbaston, Birmingham, B15 1TS",
+    "email": "info@piertraining.co.uk",
+    "telephone": "01217400429",
+    "website": "http://piertraining.co.uk/",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "ALLIANCE LEARNING",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10000238?distance=10",
+    "provider_id": "10000238",
+    "ukprn": "10000238",
+    "registered_address": "The Hurst Building, Horwich Business Park, Chorley New Road, Horwich, Bolton, BL6 5UE",
+    "email": "info@alliancelearning.com",
+    "telephone": "01204 677888",
+    "website": "https://www.alliancelearning.com/page/team-leading-apprenticeships",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "BRADFORD CITY COUNCIL",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10000850?distance=10",
+    "provider_id": "10000850",
+    "ukprn": "10000850",
+    "registered_address": "City Hall, Centenary Square, Bradford, BD1 1HY",
+    "email": "businessdevelopment@bradford.gov.uk",
+    "telephone": "01274433648",
+    "website": "https://www.skills-for-work.co.uk/",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "DAVIDSON TRAINING UK LIMITED",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10001869?distance=10",
+    "provider_id": "10001869",
+    "ukprn": "10001869",
+    "registered_address": "Unit 51, Rectory Road, Globe Industrial Estate, Grays, RM17 6ST",
+    "email": "lorrainebunyard@davidsontraining.com",
+    "telephone": "01508 493639 / 07951 480169",
+    "website": "https://www.davidsontraining.org/_files/ugd/7f7e70_2653cbe4e0f945c5a3f34d8cd84cb54e.pdf",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "BURNLEY COLLEGE",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10001000?distance=10",
+    "provider_id": "10001000",
+    "ukprn": "10001000",
+    "registered_address": "Princess Way, Burnley, BB12 0AN",
+    "email": "Themis@burnley.ac.uk",
+    "telephone": "01282 733005",
+    "website": "https://www.instituteforapprenticeships.org/apprenticeship-standards/team-leader-or-supervisor-v1-2",
+    "achievement_rate": "61.5% national achievement rate"
+  },
+  {
+    "name": "NELSON AND COLNE COLLEGE",
+    "detail_url": "https://findapprenticeshiptraining.apprenticeships.education.gov.uk/courses/105/providers/10004552?distance=10",
+    "provider_id": "10004552",
+    "ukprn": "10004552",
+    "registered_address": "Scotland Road, Nelson, BB9 7YT",
+    "email": "apprenticeships@nelsongroup.ac.uk",
+    "telephone": "01282440319",
+    "website": "https://www.accross.ac.uk/apprenticeship/business-and-professional-services-apprenticeships/",
+    "achievement_rate": "61.5% national achievement rate"
+  }
+]
