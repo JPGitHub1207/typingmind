@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "lastUpdated": "",
+    "source": "",
+    "notes": "Comprehensive list of regional provider networks, communities of practice, and membership organisations within further education providers in England"
+  },
+  "regions": [
+    {
+      "region": "North East",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "North West",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "Yorkshire and the Humber",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "East Midlands",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "West Midlands",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "East of England",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "London",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "South East",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    },
+    {
+      "region": "South West",
+      "networks": [],
+      "communitiesOfPractice": [],
+      "membershipOrganisations": []
+    }
+  ],
+  "national": {
+    "networks": [],
+    "communitiesOfPractice": [],
+    "membershipOrganisations": []
+  }
+}
