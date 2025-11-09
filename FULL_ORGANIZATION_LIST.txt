@@ -1,0 +1,66 @@
+FULL LIST OF 60 ORGANIZATIONS
+
+1. Collab Group
+2. HOLEX
+3. Natspec
+4. Independent Training Provider Association
+5. Networks of Providers Community of Practice
+6. ETF Centres for Excellence in SEND
+7. North East Learning Providers
+8. Tees Valley Learning Provider Network
+9. Northumberland Learning Providers Network
+10. Northern Skills Network
+11. Greater Manchester Learning Provider Network
+12. Greater Merseyside Learning Providers Federation
+13. Lancashire Work Based Learning Executive Forum
+14. Cumbria Work Based Learning Provider Forum
+15. Cheshire and Warrington Learning Provider Network
+16. Lancashire Colleges Group
+17. Yorkshire Learning Providers
+18. South Yorkshire Providers Network
+19. Humber Learning Consortium
+20. West Yorkshire Consortium of Colleges
+21. North Yorkshire Provider Network
+22. East Midlands Provider Network
+23. East Midlands Accelerated Apprenticeship Network
+24. D2N2 Provider Network
+25. Leicester and Leicestershire Provider Network
+26. Lincolnshire Provider Network
+27. Birmingham and Solihull Provider Network
+28. Black Country Provider Network
+29. Coventry and Warwickshire Provider Network
+30. Herefordshire and Worcestershire Training Provider Association
+31. Marches Provider Network
+32. Staffordshire and Stoke-on-Trent Provider Network
+33. West Midlands 5G Skills Network
+34. Essex Provider Network
+35. Bedfordshire and Hertfordshire Provider Network
+36. Suffolk Provider Network
+37. Cambridgeshire and Peterborough Provider Network
+38. Norfolk Learning and Skills Provider Network
+39. Eastern Colleges Group
+40. Sussex Council of Training Providers
+41. Kent Association of Training Organisations
+42. ALPS
+43. ALPHI
+44. Thames Valley Berkshire Provider Network
+45. Buckinghamshire Skills Provider Network
+46. Oxfordshire Provider Network
+47. Solent Training Provider Network
+48. Western Training Provider Network
+49. Dorset and Somerset Training Provider Network
+50. Devon and Cornwall Training Provider Network
+51. Gloucestershire and Wiltshire Partnership
+52. Swindon and Wiltshire Provider Network
+53. Somerset Education Business Partnership
+54. Heart of the South West Colleges Partnership
+55. Cornwall and Isles of Scilly Skills Hub
+56. AELP London Strategic Forum
+57. Local London Skills Providers Network
+58. West London Alliance Skills & Employment
+59. South London Partnership Skills
+60. Central London Forward Skills Programmes
+
+---
+Branch: cursor/scrape-organization-member-lists-bceb
+Source: scrape_members.py (lines 16-77)
