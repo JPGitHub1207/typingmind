@@ -1,0 +1,334 @@
+======================================================================
+SCRAPING ORGANIZATION MEMBER INFORMATION
+======================================================================
+Total organizations: 60
+
+
+[1/60] Processing: Collab Group
+  Searching for Collab Group website...
+  ⚠ Status: no_url_found
+
+[2/60] Processing: HOLEX
+  Searching for HOLEX website...
+  Found URL: https://www.holex.org.uk
+  Found member list page: https://holex.org.uk/who-we-are/holex-members/
+  Extracted 174 member names
+  ✓ Found 174 member names
+
+[3/60] Processing: Natspec
+  Searching for Natspec website...
+  Found URL: https://www.natspec.org.uk
+  Found member list page: https://natspec.org.uk/wp-login.php?redirect_to=https%3a%2f%2fnatspec.org.uk%2fmembers%2fanswers
+  Extracted 40 member names from main page
+  ✓ Found 40 member names
+
+[4/60] Processing: Independent Training Provider Association
+  Searching for Independent Training Provider Association website...
+  ⚠ Status: no_url_found
+
+[5/60] Processing: Networks of Providers Community of Practice
+  Searching for Networks of Providers Community of Practice website...
+  ⚠ Status: no_url_found
+
+[6/60] Processing: ETF Centres for Excellence in SEND
+  Searching for ETF Centres for Excellence in SEND website...
+  ⚠ Status: no_url_found
+
+[7/60] Processing: North East Learning Providers
+  Searching for North East Learning Providers website...
+  ⚠ Status: no_url_found
+
+[8/60] Processing: Tees Valley Learning Provider Network
+  Searching for Tees Valley Learning Provider Network website...
+  ⚠ Status: no_url_found
+
+[9/60] Processing: Northumberland Learning Providers Network
+  Searching for Northumberland Learning Providers Network website...
+  ⚠ Status: no_url_found
+
+[10/60] Processing: Northern Skills Network
+  Searching for Northern Skills Network website...
+  Found URL: https://www.northernskillsnetwork.co.uk
+  Found member list page: https://www.northernskillsnetwork.co.uk/
+  Extracted 6 member names
+  ✓ Member count: 400
+  ✓ Found 6 member names
+
+[11/60] Processing: Greater Manchester Learning Provider Network
+  Searching for Greater Manchester Learning Provider Network website...
+  Found URL: https://www.gmlpn.co.uk
+  Found member list page: https://gmlpn.co.uk/gmlpn-members/nocn/
+  Extracted 42 member names
+  ✓ Member count: 140
+  ✓ Found 42 member names
+
+[12/60] Processing: Greater Merseyside Learning Providers Federation
+  Searching for Greater Merseyside Learning Providers Federation website...
+  ⚠ Status: no_url_found
+
+[13/60] Processing: Lancashire Work Based Learning Executive Forum
+  Searching for Lancashire Work Based Learning Executive Forum website...
+  ⚠ Status: no_url_found
+
+[14/60] Processing: Cumbria Work Based Learning Provider Forum
+  Searching for Cumbria Work Based Learning Provider Forum website...
+  ⚠ Status: no_url_found
+
+[15/60] Processing: Cheshire and Warrington Learning Provider Network
+  Searching for Cheshire and Warrington Learning Provider Network website...
+  ⚠ Status: no_url_found
+
+[16/60] Processing: Lancashire Colleges Group
+  Searching for Lancashire Colleges Group website...
+  ⚠ Status: no_url_found
+
+[17/60] Processing: Yorkshire Learning Providers
+  Searching for Yorkshire Learning Providers website...
+  ⚠ Status: no_url_found
+
+[18/60] Processing: South Yorkshire Providers Network
+  Searching for South Yorkshire Providers Network website...
+  ⚠ Status: no_url_found
+
+[19/60] Processing: Humber Learning Consortium
+  Searching for Humber Learning Consortium website...
+  ⚠ Status: no_url_found
+
+[20/60] Processing: West Yorkshire Consortium of Colleges
+  Searching for West Yorkshire Consortium of Colleges website...
+  ⚠ Status: no_url_found
+
+[21/60] Processing: North Yorkshire Provider Network
+  Searching for North Yorkshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[22/60] Processing: East Midlands Provider Network
+  Searching for East Midlands Provider Network website...
+  ⚠ Status: no_url_found
+
+[23/60] Processing: East Midlands Accelerated Apprenticeship Network
+  Searching for East Midlands Accelerated Apprenticeship Network website...
+  ⚠ Status: no_url_found
+
+[24/60] Processing: D2N2 Provider Network
+  Searching for D2N2 Provider Network website...
+  ⚠ Status: no_url_found
+
+[25/60] Processing: Leicester and Leicestershire Provider Network
+  Searching for Leicester and Leicestershire Provider Network website...
+  ⚠ Status: no_url_found
+
+[26/60] Processing: Lincolnshire Provider Network
+  Searching for Lincolnshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[27/60] Processing: Birmingham and Solihull Provider Network
+  Searching for Birmingham and Solihull Provider Network website...
+  ⚠ Status: no_url_found
+
+[28/60] Processing: Black Country Provider Network
+  Searching for Black Country Provider Network website...
+  ⚠ Status: no_url_found
+
+[29/60] Processing: Coventry and Warwickshire Provider Network
+  Searching for Coventry and Warwickshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[30/60] Processing: Herefordshire and Worcestershire Training Provider Association
+  Searching for Herefordshire and Worcestershire Training Provider Association website...
+  ⚠ Status: no_url_found
+
+[31/60] Processing: Marches Provider Network
+  Searching for Marches Provider Network website...
+  ⚠ Status: no_url_found
+
+[32/60] Processing: Staffordshire and Stoke-on-Trent Provider Network
+  Searching for Staffordshire and Stoke-on-Trent Provider Network website...
+  ⚠ Status: no_url_found
+
+[33/60] Processing: West Midlands 5G Skills Network
+  Searching for West Midlands 5G Skills Network website...
+  ⚠ Status: no_url_found
+
+[34/60] Processing: Essex Provider Network
+  Searching for Essex Provider Network website...
+  ⚠ Status: no_url_found
+
+[35/60] Processing: Bedfordshire and Hertfordshire Provider Network
+  Searching for Bedfordshire and Hertfordshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[36/60] Processing: Suffolk Provider Network
+  Searching for Suffolk Provider Network website...
+  ⚠ Status: no_url_found
+
+[37/60] Processing: Cambridgeshire and Peterborough Provider Network
+  Searching for Cambridgeshire and Peterborough Provider Network website...
+  ⚠ Status: no_url_found
+
+[38/60] Processing: Norfolk Learning and Skills Provider Network
+  Searching for Norfolk Learning and Skills Provider Network website...
+  ⚠ Status: no_url_found
+
+[39/60] Processing: Eastern Colleges Group
+  Searching for Eastern Colleges Group website...
+  ⚠ Status: no_url_found
+
+[40/60] Processing: Sussex Council of Training Providers
+  Searching for Sussex Council of Training Providers website...
+  Found URL: https://www.sctp.org.uk
+  Found member list page: https://www.sctp.org.uk/members-area/members-resources/
+  Extracted 36 member names
+  ✓ Member count: 80
+  ✓ Found 36 member names
+
+[41/60] Processing: Kent Association of Training Organisations
+  Searching for Kent Association of Training Organisations website...
+  ⚠ Status: no_url_found
+
+[42/60] Processing: ALPS
+  Searching for ALPS website...
+  Found URL: https://www.alps.com
+
+[43/60] Processing: ALPHI
+  Searching for ALPHI website...
+  Found URL: https://www.alphi.com
+  Extracted 26 member names from main page
+  ✓ Found 26 member names
+
+[44/60] Processing: Thames Valley Berkshire Provider Network
+  Searching for Thames Valley Berkshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[45/60] Processing: Buckinghamshire Skills Provider Network
+  Searching for Buckinghamshire Skills Provider Network website...
+  ⚠ Status: no_url_found
+
+[46/60] Processing: Oxfordshire Provider Network
+  Searching for Oxfordshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[47/60] Processing: Solent Training Provider Network
+  Searching for Solent Training Provider Network website...
+  ⚠ Status: no_url_found
+
+[48/60] Processing: Western Training Provider Network
+  Searching for Western Training Provider Network website...
+  ⚠ Status: no_url_found
+
+[49/60] Processing: Dorset and Somerset Training Provider Network
+  Searching for Dorset and Somerset Training Provider Network website...
+  ⚠ Status: no_url_found
+
+[50/60] Processing: Devon and Cornwall Training Provider Network
+  Searching for Devon and Cornwall Training Provider Network website...
+  ⚠ Status: no_url_found
+
+[51/60] Processing: Gloucestershire and Wiltshire Partnership
+  Searching for Gloucestershire and Wiltshire Partnership website...
+  ⚠ Status: no_url_found
+
+[52/60] Processing: Swindon and Wiltshire Provider Network
+  Searching for Swindon and Wiltshire Provider Network website...
+  ⚠ Status: no_url_found
+
+[53/60] Processing: Somerset Education Business Partnership
+  Searching for Somerset Education Business Partnership website...
+  ⚠ Status: no_url_found
+
+[54/60] Processing: Heart of the South West Colleges Partnership
+  Searching for Heart of the South West Colleges Partnership website...
+  ⚠ Status: no_url_found
+
+[55/60] Processing: Cornwall and Isles of Scilly Skills Hub
+  Searching for Cornwall and Isles of Scilly Skills Hub website...
+  ⚠ Status: no_url_found
+
+[56/60] Processing: AELP London Strategic Forum
+  Searching for AELP London Strategic Forum website...
+  Found URL: https://www.aelp.org.uk
+  Found member list page: https://www.aelp.org.uk/events/
+  Extracted 34 member names
+  ✓ Found 34 member names
+
+[57/60] Processing: Local London Skills Providers Network
+  Searching for Local London Skills Providers Network website...
+  ⚠ Status: no_url_found
+
+[58/60] Processing: West London Alliance Skills & Employment
+  Searching for West London Alliance Skills & Employment website...
+  ⚠ Status: no_url_found
+
+[59/60] Processing: South London Partnership Skills
+  Searching for South London Partnership Skills website...
+  ⚠ Status: no_url_found
+
+[60/60] Processing: Central London Forward Skills Programmes
+  Searching for Central London Forward Skills Programmes website...
+  ⚠ Status: no_url_found
+
+======================================================================
+SUMMARY
+======================================================================
+Collab Group: No member information found
+HOLEX: 174 members (list found)
+Natspec: 40 members (list found)
+Independent Training Provider Association: No member information found
+Networks of Providers Community of Practice: No member information found
+ETF Centres for Excellence in SEND: No member information found
+North East Learning Providers: No member information found
+Tees Valley Learning Provider Network: No member information found
+Northumberland Learning Providers Network: No member information found
+Northern Skills Network: 400 members
+Greater Manchester Learning Provider Network: 140 members
+Greater Merseyside Learning Providers Federation: No member information found
+Lancashire Work Based Learning Executive Forum: No member information found
+Cumbria Work Based Learning Provider Forum: No member information found
+Cheshire and Warrington Learning Provider Network: No member information found
+Lancashire Colleges Group: No member information found
+Yorkshire Learning Providers: No member information found
+South Yorkshire Providers Network: No member information found
+Humber Learning Consortium: No member information found
+West Yorkshire Consortium of Colleges: No member information found
+North Yorkshire Provider Network: No member information found
+East Midlands Provider Network: No member information found
+East Midlands Accelerated Apprenticeship Network: No member information found
+D2N2 Provider Network: No member information found
+Leicester and Leicestershire Provider Network: No member information found
+Lincolnshire Provider Network: No member information found
+Birmingham and Solihull Provider Network: No member information found
+Black Country Provider Network: No member information found
+Coventry and Warwickshire Provider Network: No member information found
+Herefordshire and Worcestershire Training Provider Association: No member information found
+Marches Provider Network: No member information found
+Staffordshire and Stoke-on-Trent Provider Network: No member information found
+West Midlands 5G Skills Network: No member information found
+Essex Provider Network: No member information found
+Bedfordshire and Hertfordshire Provider Network: No member information found
+Suffolk Provider Network: No member information found
+Cambridgeshire and Peterborough Provider Network: No member information found
+Norfolk Learning and Skills Provider Network: No member information found
+Eastern Colleges Group: No member information found
+Sussex Council of Training Providers: 80 members
+Kent Association of Training Organisations: No member information found
+ALPS: No member information found
+ALPHI: 26 members (list found)
+Thames Valley Berkshire Provider Network: No member information found
+Buckinghamshire Skills Provider Network: No member information found
+Oxfordshire Provider Network: No member information found
+Solent Training Provider Network: No member information found
+Western Training Provider Network: No member information found
+Dorset and Somerset Training Provider Network: No member information found
+Devon and Cornwall Training Provider Network: No member information found
+Gloucestershire and Wiltshire Partnership: No member information found
+Swindon and Wiltshire Provider Network: No member information found
+Somerset Education Business Partnership: No member information found
+Heart of the South West Colleges Partnership: No member information found
+Cornwall and Isles of Scilly Skills Hub: No member information found
+AELP London Strategic Forum: 34 members (list found)
+Local London Skills Providers Network: No member information found
+West London Alliance Skills & Employment: No member information found
+South London Partnership Skills: No member information found
+Central London Forward Skills Programmes: No member information found
+
+Detailed results saved to: member_results.json

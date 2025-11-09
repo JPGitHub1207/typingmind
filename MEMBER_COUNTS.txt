@@ -1,0 +1,13 @@
+ORGANIZATION MEMBER COUNTS
+
+Northern Skills Network: 400 members
+HOLEX: 174 members
+Greater Manchester Learning Provider Network: 140 members
+Sussex Council of Training Providers: 80 members
+Natspec: 40 members
+AELP London Strategic Forum: 34 members
+
+Note: The remaining 54 organizations either do not publish member counts publicly, 
+require login to access member information, or could not be located through web search.
+
+For detailed information, see MEMBER_COUNTS_SUMMARY.md
