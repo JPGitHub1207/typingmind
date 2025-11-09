@@ -1,0 +1,145 @@
+HOLEX - Member Names (140 members)
+
+1. Academy Transformation Trust – ATTFE (Sutton Community Academy)
+2. Adult College for Rural East Sussex (ACRES) (c/o East Sussex CC)
+3. Aldridge Adult Learning (was PACA/Portslade)
+4. Barnet & Southgate College
+5. Barnsley Metropolitan Borough Council – Adult Skills & Community Learning
+6. Bedford Training and Assessment Centre, Bedford Borough Council
+7. Birmingham Adult Education Service
+8. Blackburn with Darwen Council
+9. Blackpool Council
+10. Bournemouth, Christchurch and Poole Council – Skills & Learning Adult Community Education
+11. Bracknell Forest Borough Council
+12. Bradford Council Skills for Work
+13. Brighton & Hove City Council
+14. Bristol City Council, Adult and Community Learning Team
+15. Buckinghamshire Council – Adult Learning
+16. Bury Council – Bury Adult Learning Service
+17. Calderdale Adult Learning
+18. Cambridgeshire County Council – Cambridgeshire Skills
+19. Central Bedfordshire Council
+20. Cheshire West and Chester
+21. City College Peterborough
+22. City Lit
+23. City of London
+24. City of York Council – York Learning
+25. Community Learning in Partnership (CLIP)
+26. Cornwall Adult Education Service
+27. Coventry City Council
+28. Croydon Adult Learning and Training (CALAT)
+29. Darlington Borough Council – Learning & Skills
+30. Derby City Council Adult Learning Service
+31. Derbyshire Adult Community Education Service
+32. Doncaster Metropolitan Borough Council
+33. Dudley MBC – Adult & Community Learning Team
+34. DurhamLearn, Durham County Council (formerly Durham County Council Adult Learning & Skills Service)
+35. East Riding of Yorkshire Council Adult Learning and Employability
+36. East Sussex County Council
+37. Essex County Council – Adult Community Learning Essex
+38. Fircroft College Trust (Fircroft College of Adult Education)
+39. Gateshead Council
+40. Gloucestershire County Council
+41. Hampshire County Council
+42. Hartlepool Borough Council – Learning & Skills Service
+43. Hertfordshire County Council, Hertfordshire Adult & Family Learning Service
+44. Hull City Council, Hull Training and Adult Education
+45. Inspire – Culture, Learning and Libraries (Midlands) (Nottinghamshire CC)
+46. Isle of Wight Council – Adult Community Learning Service
+47. Joseph Chamberlain Sixth Form College
+48. Kent County Council – Community Learning and Skills
+49. Kingston Adult Education, Royal Borough of Kingston upon Thames
+50. Kirklees Council
+51. Learn Devon (Devon County Council)
+52. Learn Harrow Service, Harrow Council
+53. Leeds City Council
+54. Leicester City Council – Leicester Adult Skills and Learning Service
+55. Leicestershire County Council
+56. Lincolnshire County Council
+57. Liverpool City Council – Adult Learning Service
+58. London Borough of Barking and Dagenham
+59. London Borough of Brent
+60. London Borough of Bromley
+61. London Borough of Camden, Camden Adult Community Learning
+62. London Borough of Ealing – Ealing Adult Learning
+63. London Borough of Hackney
+64. London Borough of Hammersmith & Fulham Adult Learning & SKills Service
+65. London Borough of Haringey
+66. London Borough of Havering
+67. London Borough of Hillingdon
+68. London Borough of Hounslow
+69. London Borough of Islington Adult Community Learning
+70. London Borough of Lambeth
+71. London Borough of Lewisham
+72. London Borough of Merton – Adult Education
+73. London Borough of Newham – Our Newham Learning & Skills
+74. London Borough of Tower Hamlets (Idea Store Learning)
+75. London Borough of Waltham Forest Adult Learning Service
+76. Luton Borough Council (Luton Adult Learning)
+77. Manchester City Council – Manchester Adult Education
+78. Medway Council (Medway Adult Education)
+79. Middlesbrough Council
+80. Milton Keynes Council
+81. Morley College London
+82. Nelson and Colne College – Lancashire Adult Learning
+83. Newcastle City Council
+84. Norfolk County Council Adult Learning
+85. North Lincolnshire Council Adult Education and Community Learning
+86. North Northamptonshire Council – Adult Learning Service
+87. North Yorkshire County Council
+88. Northern College
+89. Nottingham City Council
+90. Oldham Council – Oldham Lifelong Learning Service
+91. Plymouth City Council – On Course South West
+92. Portsmouth City Council
+93. Reading Borough Council – New Directions
+94. Realise Futures CIC
+95. Redbridge Institute of Adult Education
+96. Redcar & Cleveland Borough Council Adult Learning Service
+97. Richmond & Hillcroft Adult & Community College
+98. Royal Borough of Greenwich
+99. Royal Borough of Kensington and Chelsea
+100. Rutland County Council, Rutland Adult Learning and Skills
+101. Sandwell Metropolitan Borough Council
+102. Sefton Community Learning Service
+103. Sheffield City Council
+104. Slough Borough Council
+105. Somerset County Council
+106. Somerset Skills & Learning CIC
+107. South Devon College
+108. South Gloucestershire Council
+109. Southampton City Council
+110. Southend Adult Community College
+111. Southwark Council
+112. St Helens Adult and Community Learning
+113. Staffordshire County Council
+114. Stockport Metropolitan Borough Council
+115. Stockton on Tees Borough Council
+116. Suffolk County Council
+117. Sunderland City Council – Learning and Skills
+118. Surrey County Council – Surrey Adult Learning
+119. Swindon Borough Council
+120. Telford & Wrekin Council
+121. The County of Herefordshire District Council
+122. The Learning and Enterprise College Bexley
+123. The Mary Ward Centre
+124. Thurrock Adult Community College
+125. Wakefield Council
+126. Walsall College
+127. Wandsworth Council Lifelong Learning
+128. Warwickshire Adult and Community Learning Service, Warwickshire County Council
+129. West Berkshire Council
+130. West Morland and Furness Council
+131. West Sussex County Council
+132. Westminster Adult Education Service
+133. Wigan Council
+134. Wiltshire Council
+135. Wirral Metropolitan Borough Council – Lifelong Learning Service
+136. Wokingham Borough Council
+137. Wolverhampton Adult Education Service
+138. Women's Technology Training Ltd (Blackburne House)
+139. Worcestershire County Council
+140. Workers' Educational Association
+
+Source: https://www.holex.org.uk
+Extracted from: member_results.json
