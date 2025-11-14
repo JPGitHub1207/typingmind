@@ -1,0 +1,324 @@
+<main id="main" tabindex="-1">
+ <div class="module title-block">
+  <div class="container">
+   <ol class="breadcrumbs">
+    <li class="crumb">
+     <a href="/">
+      Home
+     </a>
+    </li>
+    <li class="crumb">
+     Abbeygate Sixth Form College
+    </li>
+   </ol>
+   <h1 class="heading--title title-block__heading">
+    Abbeygate Sixth Form College
+   </h1>
+   <p class="heading--main title-block__subheading">
+    URN: 147063
+   </p>
+   <address class="title-block__address">
+    Address: Beetons Way, Bury St Edmunds, Suffolk, IP33 3YU
+   </address>
+   <a class="title-block__mat-link" href="/provider/1000/15795">
+    EASTERN EDUCATION GROUP TRUST
+   </a>
+  </div>
+ </div>
+ <div class="provider provider--default">
+  <div class="container">
+   <h2 class="timeline__title heading__main">
+    Rating and reports
+   </h2>
+   <h3>
+    Inspection outcome
+   </h3>
+   <div class="subjudgements__overall">
+    <p>
+     The overall outcome of the inspection on 16 May 2023 was:
+    </p>
+    <strong>
+     Outstanding
+    </strong>
+   </div>
+   <div class="subjudgements__rates">
+    <div class="subjudgements__rates__item">
+     <p>
+      Quality of education:
+     </p>
+     <strong>
+      Outstanding
+     </strong>
+    </div>
+    <div class="subjudgements__rates__item">
+     <p>
+      Behaviour and attitudes:
+     </p>
+     <strong>
+      Outstanding
+     </strong>
+    </div>
+    <div class="subjudgements__rates__item">
+     <p>
+      Personal development:
+     </p>
+     <strong>
+      Outstanding
+     </strong>
+    </div>
+    <div class="subjudgements__rates__item">
+     <p>
+      Leadership and management:
+     </p>
+     <strong>
+      Outstanding
+     </strong>
+    </div>
+    <div class="subjudgements__rates__item">
+     <p>
+      Education programmes for young people:
+     </p>
+     <strong>
+      Outstanding
+     </strong>
+    </div>
+   </div>
+   <div class="module latest-rating">
+    <h2 class="latest-rating__title">
+     <span class="nonvisual">
+      Outstanding
+     </span>
+    </h2>
+   </div>
+   <div class="module">
+    <h2 class="timeline__title heading--sub">
+     All reports
+    </h2>
+    <ol class="timeline">
+     <li class="timeline__day">
+      <div class="event">
+       <p class="timeline__date">
+        <time>
+         16 May 2023
+        </time>
+       </p>
+       <span class="event__title heading--sub">
+        <a class="publication-link" href="https://files.ofsted.gov.uk/v1/file/50221843" target="_blank">
+         Full inspection:
+         <strong>
+          Outstanding
+         </strong>
+         <span class="nonvisual">
+          Full inspection, PDF - 30 June 2023
+         </span>
+        </a>
+        <div class="event__metadata">
+         <span class="filetype">
+          PDF
+         </span>
+         –
+         <!--<span class="filesize">10kb</span>-->
+         Published
+         <time pubdate="">
+          30 June 2023
+         </time>
+        </div>
+       </span>
+      </div>
+     </li>
+     <li class="timeline__day">
+      <div class="event">
+       <p class="timeline__date">
+        <time>
+         12 January 2022
+        </time>
+       </p>
+       <span class="event__title heading--sub">
+        <a class="publication-link" href="https://files.ofsted.gov.uk/v1/file/50179174" target="_blank">
+         Monitoring visit
+         <span class="nonvisual">
+          Monitoring visit, PDF - 14 March 2022
+         </span>
+        </a>
+        <div class="event__metadata">
+         <span class="filetype">
+          PDF
+         </span>
+         –
+         <!--<span class="filesize">10kb</span>-->
+         Published
+         <time pubdate="">
+          14 March 2022
+         </time>
+        </div>
+       </span>
+      </div>
+     </li>
+     <li class="timeline__day timeline__day--opened">
+      <div class="event">
+       <span class="event__title heading--sub">
+        Opened
+       </span>
+      </div>
+     </li>
+    </ol>
+   </div>
+   <h2>
+    Next inspection
+   </h2>
+   <div class="next-inspection__content" data-nosnippet="">
+    <p>
+     We can inspect further education and skills providers at any time if we have concerns.
+    </p>
+    <p>
+     <strong>
+      Outstanding
+     </strong>
+    </p>
+    <p>
+     Providers judged outstanding are subject to routine inspection. Most providers will be inspected again by September 2025. They may receive monitoring and other visits.
+    </p>
+    <p>
+     <strong>
+      Good
+     </strong>
+    </p>
+    <p>
+     We normally inspect good providers within 5 years. They may receive monitoring and other visits.
+    </p>
+    <p>
+     <strong>
+      Requires improvement
+     </strong>
+    </p>
+    <p>
+     We normally inspect providers that require improvement within 12 to 30 months of the publication of their latest full inspection report. They will normally have a monitoring visit before the full inspection.
+    </p>
+    <p>
+     <strong>
+      Inadequate
+     </strong>
+    </p>
+    <p>
+     If they continue to be funded, we normally inspect inadequate providers within 15 months of the publication of their latest full inspection report. They also receive monitoring visits.
+    </p>
+    <p>
+     <strong>
+      New providers
+     </strong>
+    </p>
+    <p>
+     A new provider whose monitoring visit report was published by 31 March 2022 will normally receive their first full inspection within 24 months of publication.
+    </p>
+    <p>
+     A new provider whose monitoring visit report was published after 31 March 2022 will normally receive their first full inspection within 18 months of publication.
+    </p>
+    <p>
+     <strong>
+      Notice
+     </strong>
+    </p>
+    <p>
+     We normally give notice up to two working days before the inspection. We can also inspect without notice.
+    </p>
+    <p>
+    </p>
+   </div>
+  </div>
+  <div class="module">
+   <div class="container">
+    <h2>
+     <span class="js-details-collapse provider-details-header" role="button">
+      About Abbeygate Sixth Form College
+     </span>
+    </h2>
+    <div class="details-column">
+     <div class="module info-block info-block--details">
+      <ul class="info-block__items list-unstyled">
+       <li class="info-block__item">
+        <span>
+         Type:
+        </span>
+        <span>
+         Academy
+        </span>
+       </li>
+       <li class="info-block__item">
+        <span>
+         Boarding:
+        </span>
+        <span>
+         Unknown
+        </span>
+       </li>
+       <li class="info-block__item">
+        <span>
+         Religious character:
+        </span>
+        <span>
+         Unknown
+        </span>
+       </li>
+       <li class="info-block__item">
+        <span>
+         Local authority:
+        </span>
+        <span>
+         Suffolk
+        </span>
+       </li>
+      </ul>
+     </div>
+     <h3 class="info-block__title">
+      Location
+     </h3>
+     <a href="https://www.google.com/maps/search/?api=1&amp;query=52.2514722972,0.6970200118">
+      View location on Google maps
+     </a>
+     <ul class="info-block__items list-unstyled">
+      <li class="info-block__item">
+       <span>
+        Address:
+       </span>
+       <span>
+        Beetons Way, Bury St Edmunds, Suffolk, IP33 3YU
+       </span>
+      </li>
+      <li class="info-block__item">
+       <span>
+        Region:
+       </span>
+       <span>
+        East of England
+       </span>
+      </li>
+     </ul>
+     <div class="module info-block info-block--details">
+      <h3 class="info-block__title">
+       Contact details and general enquiries
+      </h3>
+      <ul class="info-block__items list-unstyled">
+       <li class="info-block__item">
+        <span>
+         Principal:
+        </span>
+        <span>
+         Dr Nikos Savvas
+        </span>
+       </li>
+       <li class="info-block__item">
+        <span>
+         Website:
+        </span>
+        <span>
+         <a href="https://www.abbeygatesfc.ac.uk/">
+          https://www.abbeygatesfc.ac.uk/
+         </a>
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="cont

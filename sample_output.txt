@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="/css/style.css" rel="stylesheet"/>
+  <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="ie=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="Double-A" name="eGMS.accessibility" scheme="WCAG"/>
+  <meta content="2024-07-19T04:05:59+00:00" name="dcterms.date"/>
+  <meta content="Ofsted Communications Team. enquiries@ofsted.gov.uk" name="dcterms.creator"/>
+  <meta content="Ofsted. enquiries@ofsted.gov.uk" name="dcterms.publisher"/>
+  <meta content="Find an inspection report and registered childcare" name="dc.keywords"/>
+  <meta content="Find an inspection report and registered childcare" name="dc.description"/>
+  <meta content="Find an inspection report and registered childcare" name="dc.title"/>
+  <meta content="Education and training, adult and community learning, schools, colleges, further education, childminders, nurseries, children's homes, fostering and adoption" name="dc.subject" scheme="IPSV"/>
+  <meta content="Inspection reports and registered childcare" name="dc.subject" scheme="ofsted"/>
+  <meta content="eng" name="dc.language" scheme="ISO 639-2/T"/>
+  <meta content="http://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/CARE/RP523142" name="dc.identifier"/>
+  <meta content="2022-07-25T12:34:36+00:00" name="dc.date.created" scheme="W3CDTF"/>
+  <meta content="2024-07-19T04:05:59+00:00" name="dc.date.modified" scheme="W3CDTF"/>
+  <meta content="zcTRll6V6a-_a6iLUbUcJC3FnbpUtg87OHJinysdsSM" name="google-site-verification"/>
+  <link href="http://reports.ofsted.gov.uk/inspection-reports/find-inspection-report" rel="canonical"/>
+  <title>
+   Abbeygate Sixth Form College  - Open - Find an Inspection Report - Ofsted
+  </title>
+ </head>
+ <body>
+  <script>
+   document.body.className = document.body.className + ' js-enabled';
+  </script>
+  <div class="container">
+   <a class="skip-link" href="#main">
+    Skip to main content
+   </a>
+  </div>
+  <div class="main-content">
+   <div class="cookie-banner" data-nosnippet="data-nosnippet">
+    <div class="container">
+     <h2 class="cookie-banner__heading heading--main">
+      Tell us whether you accept cookies
+     </h2>
+     <p class="cookie-banner__message">
+      We use
+      <a href="/privacy">
+       cookies to collect information
+      </a>
+      about how you use this website. We use this information to make the website work as well as possible and improve Ofsted services.
+     </p>
+     <div class="cookie-banner__buttons">
+      <button class="btn cookie-banner__close">
+       Accept all cookies
+      </button>
+      <a class="btn cookie-banner__info" href="/cookies">
+       Set cookie preferences
+      </a>
+     </div>
+    </div>
+   </div>
+   <header class="header">
+    <div class="container">
+     <a class="header__home-link" href="/">
+      <span class="nonvisual">
+       Ofsted homepage
+      </span>
+      <img alt="Ofsted Logo" class="header__logo" src="/images/logo.svg"/>
+     </a>
+    </div>
+    <div class="banners">
+     <div class="container">
+     </div>
+    </div>
+   </header>
+   <main id="main" tabindex="-1">
+    <div class="module title-block">
+     <div class="container">
+      <ol class="breadcrumbs">
+       <li class="crumb">
+        <a href="/">
+         Home
+        </a>
+       </li>
+       <li class="crumb">
+        Abbeygate Sixth Form College
+       </li>
+      </ol>
+      <h1 class="heading--title title-block__heading">
+       Abbeygate Sixth Form College
+      </h1>
+      <p class="heading--main title-block__subheading">
+       URN: 147063
+      </p>
+      <address class="title-block__address">
+       Address: Beetons Way, Bury St Edmunds, Suffolk, IP33 3YU
+      </address>
+      <a class="title-block__mat-link" href="/provider/1000/15795">
+       EASTERN EDUCATION GROUP TRUST
+      </a>
+     </div>
+    </div>
+    <div class="provider provider--default">
+     <div class="container">
+      <h2 class="timeline__title heading__main">
+       Rating and reports
+      </h2>
+      <h3>
+       Inspection outcome
+      </h3>
+      <div class="subjudgements__overall">
+       <p>
+        The overall outcome of the inspection on 16 May 2023 was:
+       </p>
+       <strong>
+        Outstanding
+       </strong>
+      </div>
+      <div class="subjudgements__rates">
+       <div class="subjudgements__rates__item">
+        <p>
+         Quality of education:
+        </p>
+        <strong>
+         Outstanding
+        </strong>
+       </div>
+       <div class="subjudgements__rates__item">
+        <p>
+         Behaviour and attitudes:
+        </p>
+        <strong>
+         Outstanding
+        </strong>
+       </div>
+       <div class="subjudgements__rates__item">
+        <p>
+         Personal development:
+        </p>
+        <strong>
+         Outstanding
+        </strong>
+       </div>
+       <div class="subjudgements__rates__ite
