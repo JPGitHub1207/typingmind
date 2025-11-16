@@ -1,0 +1,590 @@
+2025-11-16 00:46:00,246 - INFO - 
+======================================================================
+2025-11-16 00:46:00,246 - INFO - SCRAPING MEMBERSHIP ORGANIZATION MEMBER NAMES
+2025-11-16 00:46:00,246 - INFO - ======================================================================
+2025-11-16 00:46:00,246 - INFO - Total organizations: 60
+
+2025-11-16 00:46:00,246 - INFO - 
+[1/60] Collab Group
+2025-11-16 00:46:00,246 - INFO - 
+======================================================================
+2025-11-16 00:46:00,246 - INFO - Processing: Collab Group
+2025-11-16 00:46:00,246 - INFO - ======================================================================
+2025-11-16 00:46:00,246 - INFO -   Fetching: https://www.collabgroup.co.uk
+2025-11-16 00:46:00,309 - ERROR -   Error fetching https://www.collabgroup.co.uk: HTTPSConnectionPool(host='www.collabgroup.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4769c0>: Failed to resolve 'www.collabgroup.co.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:46:02,310 - INFO - 
+[2/60] HOLEX
+2025-11-16 00:46:02,310 - INFO - 
+======================================================================
+2025-11-16 00:46:02,310 - INFO - Processing: HOLEX
+2025-11-16 00:46:02,310 - INFO - ======================================================================
+2025-11-16 00:46:02,310 - INFO -   Fetching: https://www.holex.org.uk
+2025-11-16 00:46:07,235 - INFO -   Found 4 potential member pages
+2025-11-16 00:46:07,235 - INFO -     Extracting members from: https://www.holex.org.uk
+2025-11-16 00:46:07,237 - INFO -     Found 8 potential members
+2025-11-16 00:46:08,237 - INFO -   Fetching member page: https://holex.org.uk/who-we-are/holex-members/
+2025-11-16 00:46:09,587 - INFO -     Extracting members from: https://holex.org.uk/who-we-are/holex-members/
+2025-11-16 00:46:09,592 - INFO -     Found 146 potential members
+2025-11-16 00:46:10,592 - INFO -   Fetching member page: https://holex.org.uk/map-of-holex-members/
+2025-11-16 00:46:11,659 - INFO -     Extracting members from: https://holex.org.uk/map-of-holex-members/
+2025-11-16 00:46:11,660 - INFO -     Found 0 potential members
+2025-11-16 00:46:12,660 - INFO -   Fetching member page: https://holex.org.uk/membership_benefits/
+2025-11-16 00:46:14,350 - INFO -     Extracting members from: https://holex.org.uk/membership_benefits/
+2025-11-16 00:46:14,351 - INFO -     Found 6 potential members
+2025-11-16 00:46:14,351 - INFO -   ✓ Total unique members found: 160
+2025-11-16 00:46:16,353 - INFO - 
+[3/60] Natspec
+2025-11-16 00:46:16,354 - INFO - 
+======================================================================
+2025-11-16 00:46:16,354 - INFO - Processing: Natspec
+2025-11-16 00:46:16,354 - INFO - ======================================================================
+2025-11-16 00:46:16,354 - INFO -   Fetching: https://www.natspec.org.uk
+2025-11-16 00:46:18,500 - INFO -   Found 10 potential member pages
+2025-11-16 00:46:18,500 - INFO -     Extracting members from: https://www.natspec.org.uk
+2025-11-16 00:46:18,502 - INFO -     Found 3 potential members
+2025-11-16 00:46:19,502 - INFO -   Fetching member page: https://natspec.org.uk/colleges/
+2025-11-16 00:46:20,235 - INFO -     Extracting members from: https://natspec.org.uk/colleges/
+2025-11-16 00:46:20,236 - INFO -     Found 6 potential members
+2025-11-16 00:46:21,237 - INFO -   Fetching member page: https://natspec.org.uk/colleges/search/
+2025-11-16 00:46:22,166 - INFO -     Extracting members from: https://natspec.org.uk/colleges/search/
+2025-11-16 00:46:22,170 - INFO -     Found 141 potential members
+2025-11-16 00:46:23,171 - INFO -   Fetching member page: https://natspec.org.uk/colleges/specialist-colleges/
+2025-11-16 00:46:23,991 - INFO -     Extracting members from: https://natspec.org.uk/colleges/specialist-colleges/
+2025-11-16 00:46:23,993 - INFO -     Found 7 potential members
+2025-11-16 00:46:24,993 - INFO -   Fetching member page: https://natspec.org.uk/colleges/affiliates/
+2025-11-16 00:46:25,784 - INFO -     Extracting members from: https://natspec.org.uk/colleges/affiliates/
+2025-11-16 00:46:25,787 - INFO -     Found 12 potential members
+2025-11-16 00:46:26,788 - INFO -   Fetching member page: https://natspec.org.uk/colleges/applying-for-a-place/
+2025-11-16 00:46:27,404 - INFO -     Extracting members from: https://natspec.org.uk/colleges/applying-for-a-place/
+2025-11-16 00:46:27,406 - INFO -     Found 17 potential members
+2025-11-16 00:46:28,406 - INFO -   Fetching member page: https://natspec.org.uk/colleges/post-school-choices-in-wales/
+2025-11-16 00:46:29,049 - INFO -     Extracting members from: https://natspec.org.uk/colleges/post-school-choices-in-wales/
+2025-11-16 00:46:29,051 - INFO -     Found 12 potential members
+2025-11-16 00:46:30,051 - INFO -   Fetching member page: https://natspec.org.uk/colleges/history-of-specialist-colleges/
+2025-11-16 00:46:30,681 - INFO -     Extracting members from: https://natspec.org.uk/colleges/history-of-specialist-colleges/
+2025-11-16 00:46:30,683 - INFO -     Found 14 potential members
+2025-11-16 00:46:31,683 - INFO -   Fetching member page: https://natspec.org.uk/membership/
+2025-11-16 00:46:32,437 - INFO -     Extracting members from: https://natspec.org.uk/membership/
+2025-11-16 00:46:32,439 - INFO -     Found 6 potential members
+2025-11-16 00:46:33,439 - INFO -   Fetching member page: https://natspec.org.uk/membership/benefits/
+2025-11-16 00:46:34,072 - INFO -     Extracting members from: https://natspec.org.uk/membership/benefits/
+2025-11-16 00:46:34,074 - INFO -     Found 7 potential members
+2025-11-16 00:46:35,074 - INFO -   Fetching member page: https://natspec.org.uk/membership/benefits/networks/
+2025-11-16 00:46:35,725 - INFO -     Extracting members from: https://natspec.org.uk/membership/benefits/networks/
+2025-11-16 00:46:35,727 - INFO -     Found 10 potential members
+2025-11-16 00:46:35,727 - INFO -   ✓ Total unique members found: 178
+2025-11-16 00:46:37,730 - INFO - 
+[4/60] Independent Training Provider Association
+2025-11-16 00:46:37,730 - INFO - 
+======================================================================
+2025-11-16 00:46:37,730 - INFO - Processing: Independent Training Provider Association
+2025-11-16 00:46:37,730 - INFO - ======================================================================
+2025-11-16 00:46:37,730 - INFO -   Fetching: https://www.itpa.org.uk
+2025-11-16 00:46:37,744 - ERROR -   Error fetching https://www.itpa.org.uk: HTTPSConnectionPool(host='www.itpa.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537b6fbe00>: Failed to resolve 'www.itpa.org.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:46:39,744 - INFO - 
+[5/60] Networks of Providers Community of Practice
+2025-11-16 00:46:39,744 - INFO - 
+======================================================================
+2025-11-16 00:46:39,744 - INFO - Processing: Networks of Providers Community of Practice
+2025-11-16 00:46:39,744 - INFO - ======================================================================
+2025-11-16 00:46:39,744 - WARNING -   No URL available for Networks of Providers Community of Practice
+2025-11-16 00:46:41,745 - INFO - 
+[6/60] ETF Centres for Excellence in SEND
+2025-11-16 00:46:41,745 - INFO - 
+======================================================================
+2025-11-16 00:46:41,745 - INFO - Processing: ETF Centres for Excellence in SEND
+2025-11-16 00:46:41,745 - INFO - ======================================================================
+2025-11-16 00:46:41,745 - WARNING -   No URL available for ETF Centres for Excellence in SEND
+2025-11-16 00:46:43,745 - INFO - 
+[7/60] North East Learning Providers
+2025-11-16 00:46:43,745 - INFO - 
+======================================================================
+2025-11-16 00:46:43,745 - INFO - Processing: North East Learning Providers
+2025-11-16 00:46:43,745 - INFO - ======================================================================
+2025-11-16 00:46:43,745 - INFO -   Fetching: https://www.nelp.org.uk
+2025-11-16 00:46:43,820 - ERROR -   Error fetching https://www.nelp.org.uk: HTTPSConnectionPool(host='www.nelp.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537bc5a4b0>: Failed to resolve 'www.nelp.org.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:46:45,821 - INFO - 
+[8/60] Tees Valley Learning Provider Network
+2025-11-16 00:46:45,821 - INFO - 
+======================================================================
+2025-11-16 00:46:45,821 - INFO - Processing: Tees Valley Learning Provider Network
+2025-11-16 00:46:45,821 - INFO - ======================================================================
+2025-11-16 00:46:45,821 - WARNING -   No URL available for Tees Valley Learning Provider Network
+2025-11-16 00:46:47,821 - INFO - 
+[9/60] Northumberland Learning Providers Network
+2025-11-16 00:46:47,821 - INFO - 
+======================================================================
+2025-11-16 00:46:47,821 - INFO - Processing: Northumberland Learning Providers Network
+2025-11-16 00:46:47,821 - INFO - ======================================================================
+2025-11-16 00:46:47,821 - WARNING -   No URL available for Northumberland Learning Providers Network
+2025-11-16 00:46:49,821 - INFO - 
+[10/60] Northern Skills Network
+2025-11-16 00:46:49,821 - INFO - 
+======================================================================
+2025-11-16 00:46:49,821 - INFO - Processing: Northern Skills Network
+2025-11-16 00:46:49,821 - INFO - ======================================================================
+2025-11-16 00:46:49,821 - WARNING -   No URL available for Northern Skills Network
+2025-11-16 00:46:51,821 - INFO - 
+[11/60] Greater Manchester Learning Provider Network
+2025-11-16 00:46:51,822 - INFO - 
+======================================================================
+2025-11-16 00:46:51,822 - INFO - Processing: Greater Manchester Learning Provider Network
+2025-11-16 00:46:51,822 - INFO - ======================================================================
+2025-11-16 00:46:51,822 - WARNING -   No URL available for Greater Manchester Learning Provider Network
+2025-11-16 00:46:53,822 - INFO - 
+[12/60] Greater Merseyside Learning Providers Federation
+2025-11-16 00:46:53,822 - INFO - 
+======================================================================
+2025-11-16 00:46:53,822 - INFO - Processing: Greater Merseyside Learning Providers Federation
+2025-11-16 00:46:53,822 - INFO - ======================================================================
+2025-11-16 00:46:53,822 - WARNING -   No URL available for Greater Merseyside Learning Providers Federation
+2025-11-16 00:46:55,822 - INFO - 
+[13/60] Lancashire Work Based Learning Executive Forum
+2025-11-16 00:46:55,822 - INFO - 
+======================================================================
+2025-11-16 00:46:55,822 - INFO - Processing: Lancashire Work Based Learning Executive Forum
+2025-11-16 00:46:55,822 - INFO - ======================================================================
+2025-11-16 00:46:55,822 - WARNING -   No URL available for Lancashire Work Based Learning Executive Forum
+2025-11-16 00:46:57,822 - INFO - 
+[14/60] Cumbria Work Based Learning Provider Forum
+2025-11-16 00:46:57,823 - INFO - 
+======================================================================
+2025-11-16 00:46:57,823 - INFO - Processing: Cumbria Work Based Learning Provider Forum
+2025-11-16 00:46:57,823 - INFO - ======================================================================
+2025-11-16 00:46:57,823 - WARNING -   No URL available for Cumbria Work Based Learning Provider Forum
+2025-11-16 00:46:59,823 - INFO - 
+[15/60] Cheshire and Warrington Learning Provider Network
+2025-11-16 00:46:59,823 - INFO - 
+======================================================================
+2025-11-16 00:46:59,823 - INFO - Processing: Cheshire and Warrington Learning Provider Network
+2025-11-16 00:46:59,823 - INFO - ======================================================================
+2025-11-16 00:46:59,823 - WARNING -   No URL available for Cheshire and Warrington Learning Provider Network
+2025-11-16 00:47:01,823 - INFO - 
+[16/60] Lancashire Colleges Group
+2025-11-16 00:47:01,823 - INFO - 
+======================================================================
+2025-11-16 00:47:01,823 - INFO - Processing: Lancashire Colleges Group
+2025-11-16 00:47:01,823 - INFO - ======================================================================
+2025-11-16 00:47:01,823 - INFO -   Fetching: https://www.lancashirecolleges.ac.uk
+2025-11-16 00:47:02,055 - ERROR -   Error fetching https://www.lancashirecolleges.ac.uk: HTTPSConnectionPool(host='www.lancashirecolleges.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4bfc50>: Failed to resolve 'www.lancashirecolleges.ac.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:47:04,055 - INFO - 
+[17/60] Yorkshire Learning Providers
+2025-11-16 00:47:04,055 - INFO - 
+======================================================================
+2025-11-16 00:47:04,055 - INFO - Processing: Yorkshire Learning Providers
+2025-11-16 00:47:04,055 - INFO - ======================================================================
+2025-11-16 00:47:04,055 - INFO -   Fetching: https://www.ylp.org.uk
+2025-11-16 00:47:04,331 - ERROR -   Error fetching https://www.ylp.org.uk: HTTPSConnectionPool(host='www.ylp.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537ba72b70>: Failed to resolve 'www.ylp.org.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:47:06,331 - INFO - 
+[18/60] South Yorkshire Providers Network
+2025-11-16 00:47:06,331 - INFO - 
+======================================================================
+2025-11-16 00:47:06,331 - INFO - Processing: South Yorkshire Providers Network
+2025-11-16 00:47:06,331 - INFO - ======================================================================
+2025-11-16 00:47:06,331 - WARNING -   No URL available for South Yorkshire Providers Network
+2025-11-16 00:47:08,331 - INFO - 
+[19/60] Humber Learning Consortium
+2025-11-16 00:47:08,331 - INFO - 
+======================================================================
+2025-11-16 00:47:08,332 - INFO - Processing: Humber Learning Consortium
+2025-11-16 00:47:08,332 - INFO - ======================================================================
+2025-11-16 00:47:08,332 - WARNING -   No URL available for Humber Learning Consortium
+2025-11-16 00:47:10,332 - INFO - 
+[20/60] West Yorkshire Consortium of Colleges
+2025-11-16 00:47:10,332 - INFO - 
+======================================================================
+2025-11-16 00:47:10,332 - INFO - Processing: West Yorkshire Consortium of Colleges
+2025-11-16 00:47:10,332 - INFO - ======================================================================
+2025-11-16 00:47:10,332 - INFO -   Fetching: https://www.wycc.ac.uk
+2025-11-16 00:47:10,362 - ERROR -   Error fetching https://www.wycc.ac.uk: HTTPSConnectionPool(host='www.wycc.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537ba734d0>: Failed to resolve 'www.wycc.ac.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:47:12,362 - INFO - 
+[21/60] North Yorkshire Provider Network
+2025-11-16 00:47:12,362 - INFO - 
+======================================================================
+2025-11-16 00:47:12,362 - INFO - Processing: North Yorkshire Provider Network
+2025-11-16 00:47:12,362 - INFO - ======================================================================
+2025-11-16 00:47:12,362 - WARNING -   No URL available for North Yorkshire Provider Network
+2025-11-16 00:47:14,363 - INFO - 
+[22/60] East Midlands Provider Network
+2025-11-16 00:47:14,363 - INFO - 
+======================================================================
+2025-11-16 00:47:14,363 - INFO - Processing: East Midlands Provider Network
+2025-11-16 00:47:14,363 - INFO - ======================================================================
+2025-11-16 00:47:14,363 - WARNING -   No URL available for East Midlands Provider Network
+2025-11-16 00:47:16,363 - INFO - 
+[23/60] East Midlands Accelerated Apprenticeship Network
+2025-11-16 00:47:16,363 - INFO - 
+======================================================================
+2025-11-16 00:47:16,363 - INFO - Processing: East Midlands Accelerated Apprenticeship Network
+2025-11-16 00:47:16,363 - INFO - ======================================================================
+2025-11-16 00:47:16,363 - WARNING -   No URL available for East Midlands Accelerated Apprenticeship Network
+2025-11-16 00:47:18,363 - INFO - 
+[24/60] D2N2 Provider Network
+2025-11-16 00:47:18,363 - INFO - 
+======================================================================
+2025-11-16 00:47:18,363 - INFO - Processing: D2N2 Provider Network
+2025-11-16 00:47:18,363 - INFO - ======================================================================
+2025-11-16 00:47:18,363 - WARNING -   No URL available for D2N2 Provider Network
+2025-11-16 00:47:20,364 - INFO - 
+[25/60] Leicester and Leicestershire Provider Network
+2025-11-16 00:47:20,364 - INFO - 
+======================================================================
+2025-11-16 00:47:20,364 - INFO - Processing: Leicester and Leicestershire Provider Network
+2025-11-16 00:47:20,364 - INFO - ======================================================================
+2025-11-16 00:47:20,364 - WARNING -   No URL available for Leicester and Leicestershire Provider Network
+2025-11-16 00:47:22,364 - INFO - 
+[26/60] Lincolnshire Provider Network
+2025-11-16 00:47:22,364 - INFO - 
+======================================================================
+2025-11-16 00:47:22,364 - INFO - Processing: Lincolnshire Provider Network
+2025-11-16 00:47:22,364 - INFO - ======================================================================
+2025-11-16 00:47:22,364 - WARNING -   No URL available for Lincolnshire Provider Network
+2025-11-16 00:47:24,364 - INFO - 
+[27/60] Birmingham and Solihull Provider Network
+2025-11-16 00:47:24,364 - INFO - 
+======================================================================
+2025-11-16 00:47:24,364 - INFO - Processing: Birmingham and Solihull Provider Network
+2025-11-16 00:47:24,364 - INFO - ======================================================================
+2025-11-16 00:47:24,364 - WARNING -   No URL available for Birmingham and Solihull Provider Network
+2025-11-16 00:47:26,365 - INFO - 
+[28/60] Black Country Provider Network
+2025-11-16 00:47:26,365 - INFO - 
+======================================================================
+2025-11-16 00:47:26,365 - INFO - Processing: Black Country Provider Network
+2025-11-16 00:47:26,365 - INFO - ======================================================================
+2025-11-16 00:47:26,365 - WARNING -   No URL available for Black Country Provider Network
+2025-11-16 00:47:28,365 - INFO - 
+[29/60] Coventry and Warwickshire Provider Network
+2025-11-16 00:47:28,365 - INFO - 
+======================================================================
+2025-11-16 00:47:28,365 - INFO - Processing: Coventry and Warwickshire Provider Network
+2025-11-16 00:47:28,365 - INFO - ======================================================================
+2025-11-16 00:47:28,365 - WARNING -   No URL available for Coventry and Warwickshire Provider Network
+2025-11-16 00:47:30,365 - INFO - 
+[30/60] Herefordshire and Worcestershire Training Provider Association
+2025-11-16 00:47:30,365 - INFO - 
+======================================================================
+2025-11-16 00:47:30,365 - INFO - Processing: Herefordshire and Worcestershire Training Provider Association
+2025-11-16 00:47:30,365 - INFO - ======================================================================
+2025-11-16 00:47:30,366 - WARNING -   No URL available for Herefordshire and Worcestershire Training Provider Association
+2025-11-16 00:47:32,366 - INFO - 
+[31/60] Marches Provider Network
+2025-11-16 00:47:32,366 - INFO - 
+======================================================================
+2025-11-16 00:47:32,366 - INFO - Processing: Marches Provider Network
+2025-11-16 00:47:32,366 - INFO - ======================================================================
+2025-11-16 00:47:32,366 - WARNING -   No URL available for Marches Provider Network
+2025-11-16 00:47:34,366 - INFO - 
+[32/60] Staffordshire and Stoke-on-Trent Provider Network
+2025-11-16 00:47:34,366 - INFO - 
+======================================================================
+2025-11-16 00:47:34,366 - INFO - Processing: Staffordshire and Stoke-on-Trent Provider Network
+2025-11-16 00:47:34,366 - INFO - ======================================================================
+2025-11-16 00:47:34,366 - WARNING -   No URL available for Staffordshire and Stoke-on-Trent Provider Network
+2025-11-16 00:47:36,366 - INFO - 
+[33/60] West Midlands 5G Skills Network
+2025-11-16 00:47:36,367 - INFO - 
+======================================================================
+2025-11-16 00:47:36,367 - INFO - Processing: West Midlands 5G Skills Network
+2025-11-16 00:47:36,367 - INFO - ======================================================================
+2025-11-16 00:47:36,367 - WARNING -   No URL available for West Midlands 5G Skills Network
+2025-11-16 00:47:38,367 - INFO - 
+[34/60] Essex Provider Network
+2025-11-16 00:47:38,367 - INFO - 
+======================================================================
+2025-11-16 00:47:38,367 - INFO - Processing: Essex Provider Network
+2025-11-16 00:47:38,367 - INFO - ======================================================================
+2025-11-16 00:47:38,367 - WARNING -   No URL available for Essex Provider Network
+2025-11-16 00:47:40,367 - INFO - 
+[35/60] Bedfordshire and Hertfordshire Provider Network
+2025-11-16 00:47:40,367 - INFO - 
+======================================================================
+2025-11-16 00:47:40,367 - INFO - Processing: Bedfordshire and Hertfordshire Provider Network
+2025-11-16 00:47:40,367 - INFO - ======================================================================
+2025-11-16 00:47:40,367 - WARNING -   No URL available for Bedfordshire and Hertfordshire Provider Network
+2025-11-16 00:47:42,367 - INFO - 
+[36/60] Suffolk Provider Network
+2025-11-16 00:47:42,368 - INFO - 
+======================================================================
+2025-11-16 00:47:42,368 - INFO - Processing: Suffolk Provider Network
+2025-11-16 00:47:42,368 - INFO - ======================================================================
+2025-11-16 00:47:42,368 - WARNING -   No URL available for Suffolk Provider Network
+2025-11-16 00:47:44,368 - INFO - 
+[37/60] Cambridgeshire and Peterborough Provider Network
+2025-11-16 00:47:44,368 - INFO - 
+======================================================================
+2025-11-16 00:47:44,368 - INFO - Processing: Cambridgeshire and Peterborough Provider Network
+2025-11-16 00:47:44,368 - INFO - ======================================================================
+2025-11-16 00:47:44,368 - WARNING -   No URL available for Cambridgeshire and Peterborough Provider Network
+2025-11-16 00:47:46,368 - INFO - 
+[38/60] Norfolk Learning and Skills Provider Network
+2025-11-16 00:47:46,368 - INFO - 
+======================================================================
+2025-11-16 00:47:46,368 - INFO - Processing: Norfolk Learning and Skills Provider Network
+2025-11-16 00:47:46,368 - INFO - ======================================================================
+2025-11-16 00:47:46,368 - WARNING -   No URL available for Norfolk Learning and Skills Provider Network
+2025-11-16 00:47:48,368 - INFO - 
+[39/60] Eastern Colleges Group
+2025-11-16 00:47:48,369 - INFO - 
+======================================================================
+2025-11-16 00:47:48,369 - INFO - Processing: Eastern Colleges Group
+2025-11-16 00:47:48,369 - INFO - ======================================================================
+2025-11-16 00:47:48,369 - INFO -   Fetching: https://www.easterncollegesgroup.ac.uk
+2025-11-16 00:47:48,488 - ERROR -   Error fetching https://www.easterncollegesgroup.ac.uk: HTTPSConnectionPool(host='www.easterncollegesgroup.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4bf230>: Failed to resolve 'www.easterncollegesgroup.ac.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:47:50,488 - INFO - 
+[40/60] Sussex Council of Training Providers
+2025-11-16 00:47:50,488 - INFO - 
+======================================================================
+2025-11-16 00:47:50,488 - INFO - Processing: Sussex Council of Training Providers
+2025-11-16 00:47:50,488 - INFO - ======================================================================
+2025-11-16 00:47:50,488 - WARNING -   No URL available for Sussex Council of Training Providers
+2025-11-16 00:47:52,488 - INFO - 
+[41/60] Kent Association of Training Organisations
+2025-11-16 00:47:52,488 - INFO - 
+======================================================================
+2025-11-16 00:47:52,488 - INFO - Processing: Kent Association of Training Organisations
+2025-11-16 00:47:52,488 - INFO - ======================================================================
+2025-11-16 00:47:52,488 - INFO -   Fetching: https://www.kato.org.uk
+2025-11-16 00:47:52,593 - ERROR -   Error fetching https://www.kato.org.uk: HTTPSConnectionPool(host='www.kato.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537b6fbdd0>: Failed to resolve 'www.kato.org.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:47:54,593 - INFO - 
+[42/60] ALPS
+2025-11-16 00:47:54,594 - INFO - 
+======================================================================
+2025-11-16 00:47:54,594 - INFO - Processing: ALPS
+2025-11-16 00:47:54,594 - INFO - ======================================================================
+2025-11-16 00:47:54,594 - WARNING -   No URL available for ALPS
+2025-11-16 00:47:56,594 - INFO - 
+[43/60] ALPHI
+2025-11-16 00:47:56,594 - INFO - 
+======================================================================
+2025-11-16 00:47:56,594 - INFO - Processing: ALPHI
+2025-11-16 00:47:56,594 - INFO - ======================================================================
+2025-11-16 00:47:56,594 - WARNING -   No URL available for ALPHI
+2025-11-16 00:47:58,594 - INFO - 
+[44/60] Thames Valley Berkshire Provider Network
+2025-11-16 00:47:58,594 - INFO - 
+======================================================================
+2025-11-16 00:47:58,594 - INFO - Processing: Thames Valley Berkshire Provider Network
+2025-11-16 00:47:58,594 - INFO - ======================================================================
+2025-11-16 00:47:58,594 - WARNING -   No URL available for Thames Valley Berkshire Provider Network
+2025-11-16 00:48:00,594 - INFO - 
+[45/60] Buckinghamshire Skills Provider Network
+2025-11-16 00:48:00,594 - INFO - 
+======================================================================
+2025-11-16 00:48:00,595 - INFO - Processing: Buckinghamshire Skills Provider Network
+2025-11-16 00:48:00,595 - INFO - ======================================================================
+2025-11-16 00:48:00,595 - WARNING -   No URL available for Buckinghamshire Skills Provider Network
+2025-11-16 00:48:02,595 - INFO - 
+[46/60] Oxfordshire Provider Network
+2025-11-16 00:48:02,595 - INFO - 
+======================================================================
+2025-11-16 00:48:02,595 - INFO - Processing: Oxfordshire Provider Network
+2025-11-16 00:48:02,595 - INFO - ======================================================================
+2025-11-16 00:48:02,595 - WARNING -   No URL available for Oxfordshire Provider Network
+2025-11-16 00:48:04,595 - INFO - 
+[47/60] Solent Training Provider Network
+2025-11-16 00:48:04,595 - INFO - 
+======================================================================
+2025-11-16 00:48:04,595 - INFO - Processing: Solent Training Provider Network
+2025-11-16 00:48:04,595 - INFO - ======================================================================
+2025-11-16 00:48:04,595 - WARNING -   No URL available for Solent Training Provider Network
+2025-11-16 00:48:06,595 - INFO - 
+[48/60] Western Training Provider Network
+2025-11-16 00:48:06,595 - INFO - 
+======================================================================
+2025-11-16 00:48:06,595 - INFO - Processing: Western Training Provider Network
+2025-11-16 00:48:06,595 - INFO - ======================================================================
+2025-11-16 00:48:06,595 - WARNING -   No URL available for Western Training Provider Network
+2025-11-16 00:48:08,596 - INFO - 
+[49/60] Dorset and Somerset Training Provider Network
+2025-11-16 00:48:08,596 - INFO - 
+======================================================================
+2025-11-16 00:48:08,596 - INFO - Processing: Dorset and Somerset Training Provider Network
+2025-11-16 00:48:08,596 - INFO - ======================================================================
+2025-11-16 00:48:08,596 - WARNING -   No URL available for Dorset and Somerset Training Provider Network
+2025-11-16 00:48:10,596 - INFO - 
+[50/60] Devon and Cornwall Training Provider Network
+2025-11-16 00:48:10,596 - INFO - 
+======================================================================
+2025-11-16 00:48:10,596 - INFO - Processing: Devon and Cornwall Training Provider Network
+2025-11-16 00:48:10,596 - INFO - ======================================================================
+2025-11-16 00:48:10,596 - WARNING -   No URL available for Devon and Cornwall Training Provider Network
+2025-11-16 00:48:12,596 - INFO - 
+[51/60] Gloucestershire and Wiltshire Partnership
+2025-11-16 00:48:12,596 - INFO - 
+======================================================================
+2025-11-16 00:48:12,596 - INFO - Processing: Gloucestershire and Wiltshire Partnership
+2025-11-16 00:48:12,596 - INFO - ======================================================================
+2025-11-16 00:48:12,597 - WARNING -   No URL available for Gloucestershire and Wiltshire Partnership
+2025-11-16 00:48:14,597 - INFO - 
+[52/60] Swindon and Wiltshire Provider Network
+2025-11-16 00:48:14,597 - INFO - 
+======================================================================
+2025-11-16 00:48:14,597 - INFO - Processing: Swindon and Wiltshire Provider Network
+2025-11-16 00:48:14,597 - INFO - ======================================================================
+2025-11-16 00:48:14,597 - WARNING -   No URL available for Swindon and Wiltshire Provider Network
+2025-11-16 00:48:16,597 - INFO - 
+[53/60] Somerset Education Business Partnership
+2025-11-16 00:48:16,597 - INFO - 
+======================================================================
+2025-11-16 00:48:16,597 - INFO - Processing: Somerset Education Business Partnership
+2025-11-16 00:48:16,597 - INFO - ======================================================================
+2025-11-16 00:48:16,597 - WARNING -   No URL available for Somerset Education Business Partnership
+2025-11-16 00:48:18,597 - INFO - 
+[54/60] Heart of the South West Colleges Partnership
+2025-11-16 00:48:18,597 - INFO - 
+======================================================================
+2025-11-16 00:48:18,597 - INFO - Processing: Heart of the South West Colleges Partnership
+2025-11-16 00:48:18,597 - INFO - ======================================================================
+2025-11-16 00:48:18,598 - WARNING -   No URL available for Heart of the South West Colleges Partnership
+2025-11-16 00:48:20,598 - INFO - 
+[55/60] Cornwall and Isles of Scilly Skills Hub
+2025-11-16 00:48:20,598 - INFO - 
+======================================================================
+2025-11-16 00:48:20,598 - INFO - Processing: Cornwall and Isles of Scilly Skills Hub
+2025-11-16 00:48:20,598 - INFO - ======================================================================
+2025-11-16 00:48:20,598 - WARNING -   No URL available for Cornwall and Isles of Scilly Skills Hub
+2025-11-16 00:48:22,598 - INFO - 
+[56/60] AELP London Strategic Forum
+2025-11-16 00:48:22,598 - INFO - 
+======================================================================
+2025-11-16 00:48:22,598 - INFO - Processing: AELP London Strategic Forum
+2025-11-16 00:48:22,598 - INFO - ======================================================================
+2025-11-16 00:48:22,598 - INFO -   Fetching: https://www.aelp.org.uk
+2025-11-16 00:48:23,405 - INFO -   Found 10 potential member pages
+2025-11-16 00:48:23,406 - INFO -     Extracting members from: https://www.aelp.org.uk
+2025-11-16 00:48:23,409 - INFO -     Found 8 potential members
+2025-11-16 00:48:24,409 - INFO -   Fetching member page: https://www.aelp.org.uk/sectorsave/
+2025-11-16 00:48:25,167 - INFO -     Extracting members from: https://www.aelp.org.uk/sectorsave/
+2025-11-16 00:48:25,170 - INFO -     Found 5 potential members
+2025-11-16 00:48:26,170 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/
+2025-11-16 00:48:26,868 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/
+2025-11-16 00:48:26,871 - INFO -     Found 8 potential members
+2025-11-16 00:48:27,872 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/full-membership/
+2025-11-16 00:48:28,643 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/full-membership/
+2025-11-16 00:48:28,647 - INFO -     Found 5 potential members
+2025-11-16 00:48:29,647 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/associate-membership/
+2025-11-16 00:48:30,271 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/associate-membership/
+2025-11-16 00:48:30,274 - INFO -     Found 7 potential members
+2025-11-16 00:48:31,274 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/patron-membership/
+2025-11-16 00:48:31,475 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/patron-membership/
+2025-11-16 00:48:31,477 - INFO -     Found 8 potential members
+2025-11-16 00:48:32,477 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/regional-network-membership/
+2025-11-16 00:48:32,716 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/regional-network-membership/
+2025-11-16 00:48:32,718 - INFO -     Found 5 potential members
+2025-11-16 00:48:33,719 - INFO -   Fetching member page: https://www.aelp.org.uk/featured-members/
+2025-11-16 00:48:34,523 - INFO -     Extracting members from: https://www.aelp.org.uk/featured-members/
+2025-11-16 00:48:34,525 - INFO -     Found 1 potential members
+2025-11-16 00:48:35,526 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/advertising-with-aelp/
+2025-11-16 00:48:36,171 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/advertising-with-aelp/
+2025-11-16 00:48:36,174 - INFO -     Found 22 potential members
+2025-11-16 00:48:37,174 - INFO -   Fetching member page: https://www.aelp.org.uk/membership/aelp-exchange/
+2025-11-16 00:48:37,741 - INFO -     Extracting members from: https://www.aelp.org.uk/membership/aelp-exchange/
+2025-11-16 00:48:37,743 - INFO -     Found 0 potential members
+2025-11-16 00:48:38,744 - INFO -   Fetching member page: https://aelpaskashworth.org.uk/
+2025-11-16 00:48:39,834 - INFO -     Extracting members from: https://aelpaskashworth.org.uk/
+2025-11-16 00:48:39,836 - INFO -     Found 2 potential members
+2025-11-16 00:48:39,836 - INFO -   ✓ Total unique members found: 66
+2025-11-16 00:48:41,838 - INFO - 
+[57/60] Local London Skills Providers Network
+2025-11-16 00:48:41,839 - INFO - 
+======================================================================
+2025-11-16 00:48:41,839 - INFO - Processing: Local London Skills Providers Network
+2025-11-16 00:48:41,839 - INFO - ======================================================================
+2025-11-16 00:48:41,839 - WARNING -   No URL available for Local London Skills Providers Network
+2025-11-16 00:48:43,839 - INFO - 
+[58/60] West London Alliance Skills & Employment
+2025-11-16 00:48:43,839 - INFO - 
+======================================================================
+2025-11-16 00:48:43,839 - INFO - Processing: West London Alliance Skills & Employment
+2025-11-16 00:48:43,839 - INFO - ======================================================================
+2025-11-16 00:48:43,839 - WARNING -   No URL available for West London Alliance Skills & Employment
+2025-11-16 00:48:45,840 - INFO - 
+[59/60] South London Partnership Skills
+2025-11-16 00:48:45,840 - INFO - 
+======================================================================
+2025-11-16 00:48:45,840 - INFO - Processing: South London Partnership Skills
+2025-11-16 00:48:45,840 - INFO - ======================================================================
+2025-11-16 00:48:45,840 - WARNING -   No URL available for South London Partnership Skills
+2025-11-16 00:48:47,840 - INFO - 
+[60/60] Central London Forward Skills Programmes
+2025-11-16 00:48:47,840 - INFO - 
+======================================================================
+2025-11-16 00:48:47,840 - INFO - Processing: Central London Forward Skills Programmes
+2025-11-16 00:48:47,840 - INFO - ======================================================================
+2025-11-16 00:48:47,840 - WARNING -   No URL available for Central London Forward Skills Programmes
+2025-11-16 00:48:49,841 - INFO - 
+======================================================================
+2025-11-16 00:48:49,841 - INFO - SCRAPING COMPLETE
+2025-11-16 00:48:49,841 - INFO - ======================================================================
+2025-11-16 00:48:49,841 - INFO - Results saved to: organization_members.json
+2025-11-16 00:48:49,841 - INFO - 
+======================================================================
+2025-11-16 00:48:49,841 - INFO - SUMMARY
+2025-11-16 00:48:49,841 - INFO - ======================================================================
+2025-11-16 00:48:49,841 - INFO - ✗ Collab Group: No members found (error: HTTPSConnectionPool(host='www.collabgroup.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4769c0>: Failed to resolve 'www.collabgroup.co.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,841 - INFO - ✓ HOLEX: 160 members
+2025-11-16 00:48:49,842 - INFO - ✓ Natspec: 178 members
+2025-11-16 00:48:49,842 - INFO - ✗ Independent Training Provider Association: No members found (error: HTTPSConnectionPool(host='www.itpa.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537b6fbe00>: Failed to resolve 'www.itpa.org.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ Networks of Providers Community of Practice: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ ETF Centres for Excellence in SEND: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ North East Learning Providers: No members found (error: HTTPSConnectionPool(host='www.nelp.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537bc5a4b0>: Failed to resolve 'www.nelp.org.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ Tees Valley Learning Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Northumberland Learning Providers Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Northern Skills Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Greater Manchester Learning Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Greater Merseyside Learning Providers Federation: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Lancashire Work Based Learning Executive Forum: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Cumbria Work Based Learning Provider Forum: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Cheshire and Warrington Learning Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Lancashire Colleges Group: No members found (error: HTTPSConnectionPool(host='www.lancashirecolleges.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4bfc50>: Failed to resolve 'www.lancashirecolleges.ac.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ Yorkshire Learning Providers: No members found (error: HTTPSConnectionPool(host='www.ylp.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537ba72b70>: Failed to resolve 'www.ylp.org.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ South Yorkshire Providers Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Humber Learning Consortium: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ West Yorkshire Consortium of Colleges: No members found (error: HTTPSConnectionPool(host='www.wycc.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537ba734d0>: Failed to resolve 'www.wycc.ac.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ North Yorkshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ East Midlands Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ East Midlands Accelerated Apprenticeship Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ D2N2 Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Leicester and Leicestershire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Lincolnshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Birmingham and Solihull Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Black Country Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Coventry and Warwickshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Herefordshire and Worcestershire Training Provider Association: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Marches Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Staffordshire and Stoke-on-Trent Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ West Midlands 5G Skills Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Essex Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Bedfordshire and Hertfordshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Suffolk Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Cambridgeshire and Peterborough Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Norfolk Learning and Skills Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Eastern Colleges Group: No members found (error: HTTPSConnectionPool(host='www.easterncollegesgroup.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537c4bf230>: Failed to resolve 'www.easterncollegesgroup.ac.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ Sussex Council of Training Providers: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Kent Association of Training Organisations: No members found (error: HTTPSConnectionPool(host='www.kato.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f537b6fbdd0>: Failed to resolve 'www.kato.org.uk' ([Errno -2] Name or service not known)")))
+2025-11-16 00:48:49,842 - INFO - ✗ ALPS: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ ALPHI: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Thames Valley Berkshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Buckinghamshire Skills Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Oxfordshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Solent Training Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Western Training Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Dorset and Somerset Training Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Devon and Cornwall Training Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Gloucestershire and Wiltshire Partnership: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Swindon and Wiltshire Provider Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Somerset Education Business Partnership: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Heart of the South West Colleges Partnership: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ Cornwall and Isles of Scilly Skills Hub: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✓ AELP London Strategic Forum: 66 members
+2025-11-16 00:48:49,842 - INFO - ✗ Local London Skills Providers Network: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ West London Alliance Skills & Employment: No members found (no_url)
+2025-11-16 00:48:49,842 - INFO - ✗ South London Partnership Skills: No members found (no_url)
+2025-11-16 00:48:49,843 - INFO - ✗ Central London Forward Skills Programmes: No members found (no_url)
+2025-11-16 00:48:49,843 - INFO - 
+======================================================================
+2025-11-16 00:48:49,843 - INFO - Organizations with members found: 3/60
+2025-11-16 00:48:49,843 - INFO - Total member names collected: 404
+2025-11-16 00:48:49,843 - INFO - ======================================================================
+

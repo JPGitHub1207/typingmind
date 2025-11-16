@@ -1,0 +1,187 @@
+Natspec - Member Names
+======================================================================
+
+Total Members: 178
+Source: https://www.natspec.org.uk
+Date Scraped: 2025-11-16
+
+----------------------------------------------------------------------
+
+1. Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+2. This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+3. Keeping this cookie enabled helps us to improve our website.
+4. This content is for Natspec members only. Please log in to access it.
+5. Username or Email Address
+6. Remember Me
+7. CANTO Learning
+8. Creating Tomorrow College
+9. Landmarks College
+10. Pathways Provision CIC
+11. Portland College
+12. Sense College Loughborough
+13. Transition 2
+14. Calman Colaiste (Kisimul Group)
+15. Community College Initiative
+16. Sense College
+17. St Elizabeth’s College
+18. Ambitious College
+19. BeyondAutism Post-19
+20. Bromley Mencap Training Centre
+21. Great Oaks College
+22. Green Corridor
+23. John Dewey Independent Specialist College (part of Area 51 Education Ltd)
+24. Mencap Training Academy
+25. ONELAB College
+26. Orchard Hill College
+27. Phoenix College
+28. Queensmill College
+29. RSBC Dorton College of Further Education
+30. Shaftesbury Nash College
+31. Syon Manor College
+32. The Harington Scheme Ltd
+33. The Park College
+34. Cambian Dilston College
+35. Catcote Futures Learning & Skills Centre
+36. ESPA College
+37. Hedleys College
+38. NHS England - Choices College
+39. Thornbeck College - North East Autism Society
+40. Trinity Post 16 Solutions
+41. Arden College
+42. Ascent Autism Specialist College
+43. Beaumont College
+44. Birtenshaw College
+45. Brentwood Community College
+46. Bridge College
+47. Chatsworth Futures
+48. David Lewis College
+49. Digital Independent Specialist College (DISC)
+50. Expanse Learning College
+51. Flourish FE (KMBC)
+52. Future Finders Employability College
+53. Langdon College
+54. LifeBridge ASEND
+55. Navigators College
+56. Petty Pool College
+57. Pinc College
+58. Pure College
+59. Royal College Manchester
+60. TMP College
+61. Valley College
+62. Willow Green CIO
+63. Woodbridge College
+64. Beacon Plus College
+65. FAR Academy CIC
+66. Fortune Centre of Riding Therapy
+67. KITE College
+68. Liberty Training
+69. LINK19 College
+70. Little Gate College
+71. Oarsome Chance
+72. Sheiling College
+73. Southend Adult Community College
+74. St Catherine's Post 19
+75. St Piers College
+76. St. John’s College
+77. Talkback UK
+78. Team Domenica
+79. The Oaks Specialist College
+80. The Orpheus Centre
+81. Treloar College
+82. White Rocks Farm College
+83. Aurora Boveridge College
+84. Aurora Foxes
+85. Breakthrough College
+86. Cambian Lufton College
+87. Cambian Wing College.
+88. Eat That Frog CIC
+89. Employ My Ability
+90. Fairfield College
+91. Finding Futures College
+92. Futures - Autism Unlimited
+93. Horizons College
+94. Inclusion College
+95. InFocus College
+96. Lifeworks College
+97. National Star College
+98. Oakwood Specialist College
+99. ROC College
+100. Ruskin Mill College
+101. Shaftesbury Millie College
+102. South West Regional Assessment Centre (known as SWRAC!)
+103. St Martin’s (Post 19)
+104. Stratford Lodge
+105. The Deaf Academy
+106. Aspris College North Wales
+107. Aspris College South Wales
+108. Beechwood College
+109. Bevan College
+110. Cambian Pengwern College
+111. Coleg Elidyr
+112. Coleg Plas Dwbl
+113. National Star in Wales
+114. Chadsgrove Educational Trust Specialist College
+115. Condover College
+116. Derwen College
+117. Glasshouse College (Including Argent College)
+118. Heart of Birmingham Vocational College
+119. Hereward College
+120. Newfriars College
+121. Queen Alexandra College
+122. Regent College
+123. Royal National College for the Blind
+124. Strathmore College
+125. The Hive College
+126. Trinity Specialist College
+127. Victoria College
+128. Westminster Specialist College
+129. Camphill Wakefield
+130. Freeman College
+131. Future Horizons Leeds
+132. Henshaws Specialist College
+133. Lighthouse Futures Trust
+134. Linkage College
+135. Mercury College
+136. Personalised Learning College
+137. Rotherham Opportunities College
+138. The Ridge Employability College
+139. The William Henry Smith Specialist College
+140. Download PDF (5.5MB)
+141. Request Print Copy
+142. Select a letter of the alphabet below.
+143. South Yorkshire
+144. South East Wales
+145. East Anglia
+146. West Midlands
+147. Tyne and Weir
+148. Merthyr Tydfil
+149. have your views and wishes listened to
+150. request a place at a specialist college or any college of your choice
+151. get a personalised Education, Health and Care plan
+152. appeal to a tribunal if you are not happy with the decisions.
+153. Top Tips for Professionals who support CYP to participate in their EHCP
+154. EHCP Exemplar Guide 2017
+155. EHCP Exemplar for older children and young people – Yr 9 onwards
+156. You can request a place at a specialist college when this is the best place to meet a young person’s needs.
+157. DfE guidance on requesting a place includes:
+158. The Council for Disabled Children has produced a guide to help you get involved in your EHC Plan. They’ve also provided examples of good practice:
+159. It is possible to request a specialist college that is not S41 approved in the plan. However, the LA has no duty to secure the place.
+160. Additional Learning Needs (ALN) transformation in Wales is seeing significant changes for the way learners with complex learning needs access post-school education and training.
+161. General Further Education Colleges called Further Education Institutions (FEIs) in Wales are expected to meet the needs of learners with increasingly complex ALN.
+162. Statutory guidance in the ALN Code for Wales (2021) states
+163. (ALN Code, Chapter 17,paragraph 24).
+164. Welsh Government have published guidance for parents and families on how and when learners will move to the new system.
+165. SNAP Cymru provides information, advice and support for parents, children and young people who have or may have special educational needs or disabilities.
+166. Planned filling of gaps vs knee-jerk response to local demand
+167. More cost-efficient vs under resourced, low-cost provision
+168. More choice, higher quality vs increased pressure on ESFA and Ofsted
+169. Increased numbers of specialist staff vs dilution of staff and recruitment crisis
+170. to represent those providers working with students with the most complex needs
+171. Unlike incorporated colleges (which came out of local authority control and became designated under the 1992 Education Act), there has never been an official legal status for specialist colleges.
+172. Since the merger of SFA and EFA, and the market entry and due diligence system for becoming approved as a new specialist college, the number has risen to over 110 SPIs funded by the ESFA.
+173. Natspec covers England and Wales, and there is one member in Scotland. We represent the majority of approved specialist colleges in England and Wales, and have a dual role:
+174. Natspec offers the following benefits to members. There is a separate list of benefits for affiliate organisations
+175. Member-only networks
+176. Member and affiliate networks
+177. These networks are specifically for staff working in specialist colleges that are members of Natspec.
+178. These networks are for members and affiliates working within specialist provision, which may happen in a specialist or mainstream FE college.
