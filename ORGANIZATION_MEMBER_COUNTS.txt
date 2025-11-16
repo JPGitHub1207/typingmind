@@ -1,46 +1,51 @@
 MEMBERSHIP ORGANIZATIONS - MEMBER COUNTS
 ======================================================================
 
-Generated: 2025-11-16 00:49:34
+Generated: 2025-11-16 01:01:17
 
 ORGANIZATIONS WITH MEMBER NAMES FOUND:
 ----------------------------------------------------------------------
 
 Natspec: 178 members
 HOLEX: 160 members
+Tees Valley Learning Provider Network: 126 members
+Western Training Provider Network: 116 members
+Networks of Providers Community of Practice: 93 members
+ETF Centres for Excellence in SEND: 93 members
 AELP London Strategic Forum: 66 members
+Sussex Council of Training Providers: 44 members
+Greater Manchester Learning Provider Network: 38 members
+South London Partnership Skills: 31 members
+Gloucestershire and Wiltshire Partnership: 20 members
+East Midlands Provider Network: 9 members
 
-Total: 3 organizations, 404 members
+Total: 12 organizations, 974 members
 
 ======================================================================
 ORGANIZATIONS WITHOUT MEMBER NAMES:
 ----------------------------------------------------------------------
 
-ALPHI: No URL
-ALPS: No URL
+ALPHI: No members found
+ALPS: No members found
 Bedfordshire and Hertfordshire Provider Network: No URL
 Birmingham and Solihull Provider Network: No URL
 Black Country Provider Network: No URL
 Buckinghamshire Skills Provider Network: No URL
-Cambridgeshire and Peterborough Provider Network: No URL
+Cambridgeshire and Peterborough Provider Network: No members found
 Central London Forward Skills Programmes: No URL
 Cheshire and Warrington Learning Provider Network: No URL
 Collab Group: No members found
-Cornwall and Isles of Scilly Skills Hub: No URL
+Cornwall and Isles of Scilly Skills Hub: No members found
 Coventry and Warwickshire Provider Network: No URL
 Cumbria Work Based Learning Provider Forum: No URL
 D2N2 Provider Network: No URL
 Devon and Cornwall Training Provider Network: No URL
 Dorset and Somerset Training Provider Network: No URL
-ETF Centres for Excellence in SEND: No URL
-East Midlands Accelerated Apprenticeship Network: No URL
-East Midlands Provider Network: No URL
+East Midlands Accelerated Apprenticeship Network: No members found
 Eastern Colleges Group: No members found
-Essex Provider Network: No URL
-Gloucestershire and Wiltshire Partnership: No URL
-Greater Manchester Learning Provider Network: No URL
-Greater Merseyside Learning Providers Federation: No URL
-Heart of the South West Colleges Partnership: No URL
+Essex Provider Network: No members found
+Greater Merseyside Learning Providers Federation: No members found
+Heart of the South West Colleges Partnership: No members found
 Herefordshire and Worcestershire Training Provider Association: No URL
 Humber Learning Consortium: No URL
 Independent Training Provider Association: No members found
@@ -51,7 +56,6 @@ Leicester and Leicestershire Provider Network: No URL
 Lincolnshire Provider Network: No URL
 Local London Skills Providers Network: No URL
 Marches Provider Network: No URL
-Networks of Providers Community of Practice: No URL
 Norfolk Learning and Skills Provider Network: No URL
 North East Learning Providers: No members found
 North Yorkshire Provider Network: No URL
@@ -60,18 +64,14 @@ Northumberland Learning Providers Network: No URL
 Oxfordshire Provider Network: No URL
 Solent Training Provider Network: No URL
 Somerset Education Business Partnership: No URL
-South London Partnership Skills: No URL
 South Yorkshire Providers Network: No URL
 Staffordshire and Stoke-on-Trent Provider Network: No URL
 Suffolk Provider Network: No URL
-Sussex Council of Training Providers: No URL
 Swindon and Wiltshire Provider Network: No URL
-Tees Valley Learning Provider Network: No URL
 Thames Valley Berkshire Provider Network: No URL
-West London Alliance Skills & Employment: No URL
+West London Alliance Skills & Employment: No members found
 West Midlands 5G Skills Network: No URL
 West Yorkshire Consortium of Colleges: No members found
-Western Training Provider Network: No URL
 Yorkshire Learning Providers: No members found
 
-Total: 57 organizations
+Total: 48 organizations

@@ -588,3 +588,389 @@
 2025-11-16 00:48:49,843 - INFO - Total member names collected: 404
 2025-11-16 00:48:49,843 - INFO - ======================================================================
 
+2025-11-16 00:58:16,736 - INFO - 
+======================================================================
+2025-11-16 00:58:16,736 - INFO - SCRAPING NEWLY DISCOVERED ORGANIZATIONS
+2025-11-16 00:58:16,736 - INFO - ======================================================================
+2025-11-16 00:58:16,736 - INFO - New organizations to scrape: 18
+
+2025-11-16 00:58:16,736 - INFO - 
+[1/18] Networks of Providers Community of Practice
+2025-11-16 00:58:16,736 - INFO - 
+======================================================================
+2025-11-16 00:58:16,736 - INFO - Processing: Networks of Providers Community of Practice
+2025-11-16 00:58:16,736 - INFO - ======================================================================
+2025-11-16 00:58:16,737 - INFO -   Fetching: https://www.et-foundation.co.uk/supporting/practitioner-research/networks-of-providers-community-of-practice
+2025-11-16 00:58:17,641 - INFO -   Found 10 potential member pages
+2025-11-16 00:58:17,641 - INFO -     Extracting members from: https://www.et-foundation.co.uk/supporting/practitioner-research/networks-of-providers-community-of-practice
+2025-11-16 00:58:17,646 - INFO -     Found 33 potential members
+2025-11-16 00:58:18,646 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/
+2025-11-16 00:58:19,451 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/
+2025-11-16 00:58:19,454 - INFO -     Found 18 potential members
+2025-11-16 00:58:20,454 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-benefits/
+2025-11-16 00:58:21,233 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-benefits/
+2025-11-16 00:58:21,237 - INFO -     Found 33 potential members
+2025-11-16 00:58:22,237 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-grades/
+2025-11-16 00:58:22,945 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-grades/
+2025-11-16 00:58:22,949 - INFO -     Found 33 potential members
+2025-11-16 00:58:23,949 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-faqs/
+2025-11-16 00:58:24,658 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-faqs/
+2025-11-16 00:58:24,663 - INFO -     Found 42 potential members
+2025-11-16 00:58:25,663 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/
+2025-11-16 00:58:26,372 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/
+2025-11-16 00:58:26,376 - INFO -     Found 33 potential members
+2025-11-16 00:58:27,376 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/qualified-teacher-learning-skills-qtls/
+2025-11-16 00:58:28,078 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/qualified-teacher-learning-skills-qtls/
+2025-11-16 00:58:28,082 - INFO -     Found 33 potential members
+2025-11-16 00:58:29,083 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/advanced-teacher-status-ats/
+2025-11-16 00:58:29,799 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/advanced-teacher-status-ats/
+2025-11-16 00:58:29,804 - INFO -     Found 33 potential members
+2025-11-16 00:58:30,804 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/specialist-statuses/specialist-status-education-for-sustainable-development/
+2025-11-16 00:58:31,916 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/specialist-statuses/specialist-status-education-for-sustainable-development/
+2025-11-16 00:58:31,921 - INFO -     Found 33 potential members
+2025-11-16 00:58:32,921 - INFO -   Fetching member page: https://www.et-foundation.co.uk/for-organisations/elevate-teaching-and-learning/
+2025-11-16 00:58:33,704 - INFO -     Extracting members from: https://www.et-foundation.co.uk/for-organisations/elevate-teaching-and-learning/
+2025-11-16 00:58:33,714 - INFO -     Found 33 potential members
+2025-11-16 00:58:33,714 - INFO -   ✓ Total unique members found: 93
+2025-11-16 00:58:35,721 - INFO - 
+[2/18] ETF Centres for Excellence in SEND
+2025-11-16 00:58:35,723 - INFO - 
+======================================================================
+2025-11-16 00:58:35,723 - INFO - Processing: ETF Centres for Excellence in SEND
+2025-11-16 00:58:35,723 - INFO - ======================================================================
+2025-11-16 00:58:35,723 - INFO -   Fetching: https://www.et-foundation.co.uk/supporting/centres-of-excellence-in-send
+2025-11-16 00:58:36,440 - INFO -   Found 10 potential member pages
+2025-11-16 00:58:36,440 - INFO -     Extracting members from: https://www.et-foundation.co.uk/supporting/centres-of-excellence-in-send
+2025-11-16 00:58:36,448 - INFO -     Found 33 potential members
+2025-11-16 00:58:37,449 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/
+2025-11-16 00:58:38,093 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/
+2025-11-16 00:58:38,096 - INFO -     Found 18 potential members
+2025-11-16 00:58:39,096 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-benefits/
+2025-11-16 00:58:39,764 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-benefits/
+2025-11-16 00:58:39,769 - INFO -     Found 33 potential members
+2025-11-16 00:58:40,769 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-grades/
+2025-11-16 00:58:41,504 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-grades/
+2025-11-16 00:58:41,508 - INFO -     Found 33 potential members
+2025-11-16 00:58:42,509 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/membership-faqs/
+2025-11-16 00:58:43,180 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/membership-faqs/
+2025-11-16 00:58:43,186 - INFO -     Found 42 potential members
+2025-11-16 00:58:44,186 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/
+2025-11-16 00:58:44,850 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/
+2025-11-16 00:58:44,854 - INFO -     Found 33 potential members
+2025-11-16 00:58:45,854 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/qualified-teacher-learning-skills-qtls/
+2025-11-16 00:58:46,546 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/qualified-teacher-learning-skills-qtls/
+2025-11-16 00:58:46,550 - INFO -     Found 33 potential members
+2025-11-16 00:58:47,550 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/advanced-teacher-status-ats/
+2025-11-16 00:58:48,209 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/advanced-teacher-status-ats/
+2025-11-16 00:58:48,214 - INFO -     Found 33 potential members
+2025-11-16 00:58:49,214 - INFO -   Fetching member page: https://www.et-foundation.co.uk/membership/status/specialist-statuses/specialist-status-education-for-sustainable-development/
+2025-11-16 00:58:49,898 - INFO -     Extracting members from: https://www.et-foundation.co.uk/membership/status/specialist-statuses/specialist-status-education-for-sustainable-development/
+2025-11-16 00:58:49,902 - INFO -     Found 33 potential members
+2025-11-16 00:58:50,902 - INFO -   Fetching member page: https://www.et-foundation.co.uk/for-organisations/elevate-teaching-and-learning/
+2025-11-16 00:58:51,623 - INFO -     Extracting members from: https://www.et-foundation.co.uk/for-organisations/elevate-teaching-and-learning/
+2025-11-16 00:58:51,627 - INFO -     Found 33 potential members
+2025-11-16 00:58:51,627 - INFO -   ✓ Total unique members found: 93
+2025-11-16 00:58:53,631 - INFO - 
+[3/18] Tees Valley Learning Provider Network
+2025-11-16 00:58:53,631 - INFO - 
+======================================================================
+2025-11-16 00:58:53,631 - INFO - Processing: Tees Valley Learning Provider Network
+2025-11-16 00:58:53,631 - INFO - ======================================================================
+2025-11-16 00:58:53,631 - INFO -   Fetching: https://www.tvlpn.co.uk
+2025-11-16 00:58:55,644 - INFO -   Found 7 potential member pages
+2025-11-16 00:58:55,644 - INFO -     Extracting members from: https://www.tvlpn.co.uk
+2025-11-16 00:58:55,646 - INFO -     Found 10 potential members
+2025-11-16 00:58:56,646 - INFO -   Fetching member page: https://tvlpn.co.uk/members/
+2025-11-16 00:58:57,347 - INFO -     Extracting members from: https://tvlpn.co.uk/members/
+2025-11-16 00:58:57,350 - INFO -     Found 42 potential members
+2025-11-16 00:58:58,350 - INFO -   Fetching member page: https://tvlpn.co.uk/members-list/
+2025-11-16 00:58:58,915 - INFO -     Extracting members from: https://tvlpn.co.uk/members-list/
+2025-11-16 00:58:58,917 - INFO -     Found 34 potential members
+2025-11-16 00:58:59,917 - INFO -   Fetching member page: https://tvlpn.co.uk/membership-terms/
+2025-11-16 00:59:00,501 - INFO -     Extracting members from: https://tvlpn.co.uk/membership-terms/
+2025-11-16 00:59:00,503 - INFO -     Found 43 potential members
+2025-11-16 00:59:01,503 - INFO -   Fetching member page: https://tvlpn.co.uk/provider-support/
+2025-11-16 00:59:02,145 - INFO -     Extracting members from: https://tvlpn.co.uk/provider-support/
+2025-11-16 00:59:02,149 - INFO -     Found 32 potential members
+2025-11-16 00:59:03,149 - INFO -   Fetching member page: https://www.tvlpn.co.uk#network-info
+2025-11-16 00:59:04,254 - INFO -     Extracting members from: https://www.tvlpn.co.uk#network-info
+2025-11-16 00:59:04,256 - INFO -     Found 10 potential members
+2025-11-16 00:59:05,256 - INFO -   Fetching member page: https://tvlpn.co.uk/members
+2025-11-16 00:59:06,205 - INFO -     Extracting members from: https://tvlpn.co.uk/members
+2025-11-16 00:59:06,208 - INFO -     Found 42 potential members
+2025-11-16 00:59:07,209 - INFO -   Fetching member page: https://tvlpn.co.uk/membership-terms
+2025-11-16 00:59:07,996 - INFO -     Extracting members from: https://tvlpn.co.uk/membership-terms
+2025-11-16 00:59:07,998 - INFO -     Found 43 potential members
+2025-11-16 00:59:07,998 - INFO -   ✓ Total unique members found: 126
+2025-11-16 00:59:10,001 - INFO - 
+[4/18] Greater Manchester Learning Provider Network
+2025-11-16 00:59:10,001 - INFO - 
+======================================================================
+2025-11-16 00:59:10,001 - INFO - Processing: Greater Manchester Learning Provider Network
+2025-11-16 00:59:10,001 - INFO - ======================================================================
+2025-11-16 00:59:10,001 - INFO -   Fetching: https://gmlpn.co.uk
+2025-11-16 00:59:11,748 - INFO -   Found 10 potential member pages
+2025-11-16 00:59:11,748 - INFO -     Extracting members from: https://gmlpn.co.uk
+2025-11-16 00:59:11,754 - INFO -     Found 15 potential members
+2025-11-16 00:59:12,754 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/eal/
+2025-11-16 00:59:13,795 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/eal/
+2025-11-16 00:59:13,798 - INFO -     Found 6 potential members
+2025-11-16 00:59:14,799 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/gateway-qualifications/
+2025-11-16 00:59:16,158 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/gateway-qualifications/
+2025-11-16 00:59:16,162 - INFO -     Found 15 potential members
+2025-11-16 00:59:17,163 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/nqual/
+2025-11-16 00:59:18,397 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/nqual/
+2025-11-16 00:59:18,400 - INFO -     Found 4 potential members
+2025-11-16 00:59:19,401 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/cognisoft/
+2025-11-16 00:59:20,467 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/cognisoft/
+2025-11-16 00:59:20,471 - INFO -     Found 4 potential members
+2025-11-16 00:59:21,471 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/pupil-pathways/
+2025-11-16 00:59:22,492 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/pupil-pathways/
+2025-11-16 00:59:22,495 - INFO -     Found 3 potential members
+2025-11-16 00:59:23,496 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/coyne-recruitment/
+2025-11-16 00:59:24,042 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/coyne-recruitment/
+2025-11-16 00:59:24,046 - INFO -     Found 3 potential members
+2025-11-16 00:59:25,046 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/ncfe/
+2025-11-16 00:59:26,190 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/ncfe/
+2025-11-16 00:59:26,194 - INFO -     Found 17 potential members
+2025-11-16 00:59:27,194 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/institute-of-employability-professionals/
+2025-11-16 00:59:28,512 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/institute-of-employability-professionals/
+2025-11-16 00:59:28,515 - INFO -     Found 3 potential members
+2025-11-16 00:59:29,516 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/9293/
+2025-11-16 00:59:30,776 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/9293/
+2025-11-16 00:59:30,780 - INFO -     Found 3 potential members
+2025-11-16 00:59:31,780 - INFO -   Fetching member page: https://gmlpn.co.uk/gmlpn-members/mesma/
+2025-11-16 00:59:33,003 - INFO -     Extracting members from: https://gmlpn.co.uk/gmlpn-members/mesma/
+2025-11-16 00:59:33,007 - INFO -     Found 3 potential members
+2025-11-16 00:59:33,007 - INFO -   ✓ Total unique members found: 38
+2025-11-16 00:59:35,008 - INFO - 
+[5/18] Greater Merseyside Learning Providers Federation
+2025-11-16 00:59:35,008 - INFO - 
+======================================================================
+2025-11-16 00:59:35,008 - INFO - Processing: Greater Merseyside Learning Providers Federation
+2025-11-16 00:59:35,008 - INFO - ======================================================================
+2025-11-16 00:59:35,008 - INFO -   Fetching: https://www.gmlpf.org.uk
+2025-11-16 00:59:35,042 - ERROR -   Error fetching https://www.gmlpf.org.uk: HTTPSConnectionPool(host='www.gmlpf.org.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f7c68c42450>: Failed to resolve 'www.gmlpf.org.uk' ([Errno -2] Name or service not known)"))
+2025-11-16 00:59:37,042 - INFO - 
+[6/18] East Midlands Provider Network
+2025-11-16 00:59:37,042 - INFO - 
+======================================================================
+2025-11-16 00:59:37,042 - INFO - Processing: East Midlands Provider Network
+2025-11-16 00:59:37,042 - INFO - ======================================================================
+2025-11-16 00:59:37,042 - INFO -   Fetching: https://www.empn.co.uk
+2025-11-16 00:59:38,160 - INFO -   Found 0 potential member pages
+2025-11-16 00:59:38,160 - INFO -     Extracting members from: https://www.empn.co.uk
+2025-11-16 00:59:38,163 - INFO -     Found 9 potential members
+2025-11-16 00:59:38,163 - INFO -   ✓ Total unique members found: 9
+2025-11-16 00:59:40,164 - INFO - 
+[7/18] East Midlands Accelerated Apprenticeship Network
+2025-11-16 00:59:40,164 - INFO - 
+======================================================================
+2025-11-16 00:59:40,164 - INFO - Processing: East Midlands Accelerated Apprenticeship Network
+2025-11-16 00:59:40,164 - INFO - ======================================================================
+2025-11-16 00:59:40,164 - INFO -   Fetching: https://www.emaan.org.uk
+2025-11-16 00:59:40,558 - ERROR -   Error fetching https://www.emaan.org.uk: HTTPSConnectionPool(host='www.emaan.org.uk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)')))
+2025-11-16 00:59:42,558 - INFO - 
+[8/18] Essex Provider Network
+2025-11-16 00:59:42,558 - INFO - 
+======================================================================
+2025-11-16 00:59:42,558 - INFO - Processing: Essex Provider Network
+2025-11-16 00:59:42,558 - INFO - ======================================================================
+2025-11-16 00:59:42,558 - INFO -   Fetching: https://www.essex.gov.uk/topic/skills-learning
+2025-11-16 00:59:43,169 - ERROR -   Error fetching https://www.essex.gov.uk/topic/skills-learning: 404 Client Error: Not Found for url: https://www.essex.gov.uk/topic/skills-learning
+2025-11-16 00:59:45,169 - INFO - 
+[9/18] Cambridgeshire and Peterborough Provider Network
+2025-11-16 00:59:45,170 - INFO - 
+======================================================================
+2025-11-16 00:59:45,170 - INFO - Processing: Cambridgeshire and Peterborough Provider Network
+2025-11-16 00:59:45,170 - INFO - ======================================================================
+2025-11-16 00:59:45,170 - INFO -   Fetching: https://www.cappn.co.uk
+2025-11-16 00:59:45,471 - INFO -   Found 0 potential member pages
+2025-11-16 00:59:45,471 - INFO -     Extracting members from: https://www.cappn.co.uk
+2025-11-16 00:59:45,472 - INFO -     Found 0 potential members
+2025-11-16 00:59:45,472 - INFO -   ✓ Total unique members found: 0
+2025-11-16 00:59:47,473 - INFO - 
+[10/18] Sussex Council of Training Providers
+2025-11-16 00:59:47,473 - INFO - 
+======================================================================
+2025-11-16 00:59:47,473 - INFO - Processing: Sussex Council of Training Providers
+2025-11-16 00:59:47,473 - INFO - ======================================================================
+2025-11-16 00:59:47,473 - INFO -   Fetching: https://www.sctp.org.uk
+2025-11-16 00:59:49,210 - INFO -   Found 10 potential member pages
+2025-11-16 00:59:49,210 - INFO -     Extracting members from: https://www.sctp.org.uk
+2025-11-16 00:59:49,211 - INFO -     Found 5 potential members
+2025-11-16 00:59:50,211 - INFO -   Fetching member page: https://www.sctp.org.uk/members-area/members-resources/
+2025-11-16 00:59:52,631 - INFO -     Extracting members from: https://www.sctp.org.uk/members-area/members-resources/
+2025-11-16 00:59:52,632 - INFO -     Found 2 potential members
+2025-11-16 00:59:53,632 - INFO -   Fetching member page: https://www.sctp.org.uk/become-a-full-member/
+2025-11-16 00:59:55,026 - INFO -     Extracting members from: https://www.sctp.org.uk/become-a-full-member/
+2025-11-16 00:59:55,028 - INFO -     Found 21 potential members
+2025-11-16 00:59:56,028 - INFO -   Fetching member page: https://www.sctp.org.uk/become-a-member/
+2025-11-16 00:59:57,222 - INFO -     Extracting members from: https://www.sctp.org.uk/become-a-member/
+2025-11-16 00:59:57,224 - INFO -     Found 13 potential members
+2025-11-16 00:59:58,224 - INFO -   Fetching member page: https://www.sctp.org.uk/sctp-provider-members/
+2025-11-16 01:00:00,005 - INFO -     Extracting members from: https://www.sctp.org.uk/sctp-provider-members/
+2025-11-16 01:00:00,007 - INFO -     Found 0 potential members
+2025-11-16 01:00:01,007 - INFO -   Fetching member page: https://www.sctp.org.uk/sctp-associate-members/
+2025-11-16 01:00:02,398 - INFO -     Extracting members from: https://www.sctp.org.uk/sctp-associate-members/
+2025-11-16 01:00:02,399 - INFO -     Found 0 potential members
+2025-11-16 01:00:03,400 - INFO -   Fetching member page: https://www.sctp.org.uk/sctp-consultant-members/
+2025-11-16 01:00:04,581 - INFO -     Extracting members from: https://www.sctp.org.uk/sctp-consultant-members/
+2025-11-16 01:00:04,582 - INFO -     Found 2 potential members
+2025-11-16 01:00:05,582 - INFO -   Fetching member page: https://www.sctp.org.uk/sctp-strategic-partner-members/
+2025-11-16 01:00:06,744 - INFO -     Extracting members from: https://www.sctp.org.uk/sctp-strategic-partner-members/
+2025-11-16 01:00:06,745 - INFO -     Found 2 potential members
+2025-11-16 01:00:07,746 - INFO -   Fetching member page: https://www.sctp.org.uk/what-our-members-say/
+2025-11-16 01:00:09,134 - INFO -     Extracting members from: https://www.sctp.org.uk/what-our-members-say/
+2025-11-16 01:00:09,135 - INFO -     Found 4 potential members
+2025-11-16 01:00:10,135 - INFO -   Fetching member page: https://www.sctp.org.uk/apprenticeship-support-and-knowledge-for-schools-programme/
+2025-11-16 01:00:11,422 - INFO -     Extracting members from: https://www.sctp.org.uk/apprenticeship-support-and-knowledge-for-schools-programme/
+2025-11-16 01:00:11,424 - INFO -     Found 8 potential members
+2025-11-16 01:00:12,424 - INFO -   Fetching member page: https://www.sctp.org.uk/membership/become-a-full-member/
+2025-11-16 01:00:14,230 - INFO -     Extracting members from: https://www.sctp.org.uk/membership/become-a-full-member/
+2025-11-16 01:00:14,232 - INFO -     Found 21 potential members
+2025-11-16 01:00:14,232 - INFO -   ✓ Total unique members found: 44
+2025-11-16 01:00:16,233 - INFO - 
+[11/18] ALPS
+2025-11-16 01:00:16,234 - INFO - 
+======================================================================
+2025-11-16 01:00:16,234 - INFO - Processing: ALPS
+2025-11-16 01:00:16,234 - INFO - ======================================================================
+2025-11-16 01:00:16,234 - INFO -   Fetching: https://www.alps.com
+2025-11-16 01:00:17,006 - INFO -   Found 0 potential member pages
+2025-11-16 01:00:17,006 - INFO -     Extracting members from: https://www.alps.com
+2025-11-16 01:00:17,006 - INFO -     Found 0 potential members
+2025-11-16 01:00:17,006 - INFO -   ✓ Total unique members found: 0
+2025-11-16 01:00:19,006 - INFO - 
+[12/18] ALPHI
+2025-11-16 01:00:19,007 - INFO - 
+======================================================================
+2025-11-16 01:00:19,007 - INFO - Processing: ALPHI
+2025-11-16 01:00:19,007 - INFO - ======================================================================
+2025-11-16 01:00:19,007 - INFO -   Fetching: https://www.alphi.org.uk
+2025-11-16 01:00:19,151 - INFO -   Found 0 potential member pages
+2025-11-16 01:00:19,151 - INFO -     Extracting members from: https://www.alphi.org.uk
+2025-11-16 01:00:19,151 - INFO -     Found 0 potential members
+2025-11-16 01:00:19,151 - INFO -   ✓ Total unique members found: 0
+2025-11-16 01:00:21,152 - INFO - 
+[13/18] Western Training Provider Network
+2025-11-16 01:00:21,152 - INFO - 
+======================================================================
+2025-11-16 01:00:21,152 - INFO - Processing: Western Training Provider Network
+2025-11-16 01:00:21,152 - INFO - ======================================================================
+2025-11-16 01:00:21,152 - INFO -   Fetching: https://www.wtpn.org.uk
+2025-11-16 01:00:21,595 - INFO -   Found 5 potential member pages
+2025-11-16 01:00:21,595 - INFO -     Extracting members from: https://www.wtpn.org.uk
+2025-11-16 01:00:21,602 - INFO -     Found 13 potential members
+2025-11-16 01:00:22,602 - INFO -   Fetching member page: https://www.wtpn.org.uk/the-network
+2025-11-16 01:00:22,962 - INFO -     Extracting members from: https://www.wtpn.org.uk/the-network
+2025-11-16 01:00:22,966 - INFO -     Found 37 potential members
+2025-11-16 01:00:23,966 - INFO -   Fetching member page: https://www.wtpn.org.uk/wtpn-members
+2025-11-16 01:00:24,113 - INFO -     Extracting members from: https://www.wtpn.org.uk/wtpn-members
+2025-11-16 01:00:24,115 - INFO -     Found 9 potential members
+2025-11-16 01:00:25,115 - INFO -   Fetching member page: https://www.wtpn.org.uk/benefits-of-membership
+2025-11-16 01:00:25,821 - INFO -     Extracting members from: https://www.wtpn.org.uk/benefits-of-membership
+2025-11-16 01:00:25,823 - INFO -     Found 9 potential members
+2025-11-16 01:00:26,823 - INFO -   Fetching member page: https://www.linkedin.com/company/western-training-provider-network/?viewAsMember=true
+2025-11-16 01:00:27,690 - INFO -     Extracting members from: https://www.linkedin.com/company/western-training-provider-network/?viewAsMember=true
+2025-11-16 01:00:27,698 - INFO -     Found 48 potential members
+2025-11-16 01:00:28,698 - INFO -   Fetching member page: https://www.facebook.com/WesternTrainingProviderNetwork
+2025-11-16 01:00:28,901 - ERROR -   Error fetching https://www.facebook.com/WesternTrainingProviderNetwork: 400 Client Error: Bad Request for url: https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FWesternTrainingProviderNetwork
+2025-11-16 01:00:28,902 - INFO -   ✓ Total unique members found: 116
+2025-11-16 01:00:30,903 - INFO - 
+[14/18] Gloucestershire and Wiltshire Partnership
+2025-11-16 01:00:30,903 - INFO - 
+======================================================================
+2025-11-16 01:00:30,903 - INFO - Processing: Gloucestershire and Wiltshire Partnership
+2025-11-16 01:00:30,903 - INFO - ======================================================================
+2025-11-16 01:00:30,903 - INFO -   Fetching: https://www.gawp.co.uk
+2025-11-16 01:00:31,258 - INFO -   Found 0 potential member pages
+2025-11-16 01:00:31,258 - INFO -     Extracting members from: https://www.gawp.co.uk
+2025-11-16 01:00:31,259 - INFO -     Found 20 potential members
+2025-11-16 01:00:31,259 - INFO -   ✓ Total unique members found: 20
+2025-11-16 01:00:33,260 - INFO - 
+[15/18] Heart of the South West Colleges Partnership
+2025-11-16 01:00:33,260 - INFO - 
+======================================================================
+2025-11-16 01:00:33,260 - INFO - Processing: Heart of the South West Colleges Partnership
+2025-11-16 01:00:33,260 - INFO - ======================================================================
+2025-11-16 01:00:33,260 - INFO -   Fetching: https://www.heartofswlep.co.uk/colleges
+2025-11-16 01:00:33,835 - ERROR -   Error fetching https://www.heartofswlep.co.uk/colleges: 403 Client Error: Forbidden for url: https://www.heartofswlep.co.uk/colleges
+2025-11-16 01:00:35,836 - INFO - 
+[16/18] Cornwall and Isles of Scilly Skills Hub
+2025-11-16 01:00:35,836 - INFO - 
+======================================================================
+2025-11-16 01:00:35,836 - INFO - Processing: Cornwall and Isles of Scilly Skills Hub
+2025-11-16 01:00:35,836 - INFO - ======================================================================
+2025-11-16 01:00:35,836 - INFO -   Fetching: https://www.cioslep.com/skills
+2025-11-16 01:00:36,372 - ERROR -   Error fetching https://www.cioslep.com/skills: 403 Client Error: Forbidden for url: https://www.cioslep.com/skills
+2025-11-16 01:00:38,373 - INFO - 
+[17/18] West London Alliance Skills & Employment
+2025-11-16 01:00:38,374 - INFO - 
+======================================================================
+2025-11-16 01:00:38,374 - INFO - Processing: West London Alliance Skills & Employment
+2025-11-16 01:00:38,374 - INFO - ======================================================================
+2025-11-16 01:00:38,374 - INFO -   Fetching: https://www.westlondon.com/skills
+2025-11-16 01:00:38,899 - ERROR -   Error fetching https://www.westlondon.com/skills: 403 Client Error: Forbidden for url: https://www.westlondon.com/skills
+2025-11-16 01:00:40,900 - INFO - 
+[18/18] South London Partnership Skills
+2025-11-16 01:00:40,900 - INFO - 
+======================================================================
+2025-11-16 01:00:40,900 - INFO - Processing: South London Partnership Skills
+2025-11-16 01:00:40,900 - INFO - ======================================================================
+2025-11-16 01:00:40,900 - INFO -   Fetching: https://www.southlondonpartnership.co.uk
+2025-11-16 01:00:44,331 - INFO -   Found 10 potential member pages
+2025-11-16 01:00:44,331 - INFO -     Extracting members from: https://www.southlondonpartnership.co.uk
+2025-11-16 01:00:44,332 - INFO -     Found 2 potential members
+2025-11-16 01:00:45,333 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/
+2025-11-16 01:00:45,649 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/
+2025-11-16 01:00:45,651 - INFO -     Found 2 potential members
+2025-11-16 01:00:46,651 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/economy/
+2025-11-16 01:00:48,110 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/economy/
+2025-11-16 01:00:48,111 - INFO -     Found 10 potential members
+2025-11-16 01:00:49,112 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/south-london-growth-ambitions-statement/
+2025-11-16 01:00:50,192 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/south-london-growth-ambitions-statement/
+2025-11-16 01:00:50,193 - INFO -     Found 4 potential members
+2025-11-16 01:00:51,193 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/economy/big-south-london/
+2025-11-16 01:00:52,490 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/economy/big-south-london/
+2025-11-16 01:00:52,491 - INFO -     Found 8 potential members
+2025-11-16 01:00:53,492 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/economy/economic-insights/
+2025-11-16 01:00:54,872 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/economy/economic-insights/
+2025-11-16 01:00:54,873 - INFO -     Found 0 potential members
+2025-11-16 01:00:55,874 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/economy/green-jobs-and-skills-report-phase-1-and-2/
+2025-11-16 01:00:56,933 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/economy/green-jobs-and-skills-report-phase-1-and-2/
+2025-11-16 01:00:56,935 - INFO -     Found 2 potential members
+2025-11-16 01:00:57,935 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/health-and-care/
+2025-11-16 01:00:59,310 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/health-and-care/
+2025-11-16 01:00:59,311 - INFO -     Found 2 potential members
+2025-11-16 01:01:00,312 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/health-and-care/health-and-care-transformation-in-south-west-london/
+2025-11-16 01:01:01,477 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/health-and-care/health-and-care-transformation-in-south-west-london/
+2025-11-16 01:01:01,478 - INFO -     Found 2 potential members
+2025-11-16 01:01:02,478 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/health-and-care/social-care-workforce-2/
+2025-11-16 01:01:03,784 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/health-and-care/social-care-workforce-2/
+2025-11-16 01:01:03,786 - INFO -     Found 6 potential members
+2025-11-16 01:01:04,786 - INFO -   Fetching member page: https://southlondonpartnership.co.uk/infrastructure/
+2025-11-16 01:01:06,085 - INFO -     Extracting members from: https://southlondonpartnership.co.uk/infrastructure/
+2025-11-16 01:01:06,087 - INFO -     Found 3 potential members
+2025-11-16 01:01:06,087 - INFO -   ✓ Total unique members found: 31
+2025-11-16 01:01:08,092 - INFO - 
+======================================================================
+2025-11-16 01:01:08,092 - INFO - SCRAPING COMPLETE
+2025-11-16 01:01:08,092 - INFO - ======================================================================
+2025-11-16 01:01:08,092 - INFO - 
+New organizations with members found: 9/18
+2025-11-16 01:01:08,092 - INFO - New member names collected: 570
+2025-11-16 01:01:08,092 - INFO - 
+Successful organizations:
+2025-11-16 01:01:08,092 - INFO -   ✓ Networks of Providers Community of Practice: 93 members
+2025-11-16 01:01:08,092 - INFO -   ✓ ETF Centres for Excellence in SEND: 93 members
+2025-11-16 01:01:08,092 - INFO -   ✓ Tees Valley Learning Provider Network: 126 members
+2025-11-16 01:01:08,092 - INFO -   ✓ Greater Manchester Learning Provider Network: 38 members
+2025-11-16 01:01:08,092 - INFO -   ✓ East Midlands Provider Network: 9 members
+2025-11-16 01:01:08,092 - INFO -   ✓ Sussex Council of Training Providers: 44 members
+2025-11-16 01:01:08,092 - INFO -   ✓ Western Training Provider Network: 116 members
+2025-11-16 01:01:08,092 - INFO -   ✓ Gloucestershire and Wiltshire Partnership: 20 members
+2025-11-16 01:01:08,092 - INFO -   ✓ South London Partnership Skills: 31 members
+2025-11-16 01:01:08,092 - INFO - 
+Updated results saved to: organization_members.json
+
