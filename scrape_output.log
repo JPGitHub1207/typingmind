@@ -1,0 +1,803 @@
+======================================================================
+MEMBERSHIP ORGANIZATION MEMBER NAME SCRAPER
+======================================================================
+
+Reading organizations from training-provider-networks-and-organisations.md...
+Found 37 organizations with websites
+
+[1/37]
+
+======================================================================
+Processing: Association of Colleges (AoC)
+Website: https://www.aoc.co.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 262 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.aoc.co.uk/about
+  Found 259 members on this page
+  Fetching: https://www.aoc.co.uk/about/general-further-education-colleges
+  Found 258 members on this page
+  Fetching: https://www.aoc.co.uk/about/sixth-form-colleges
+  Found 258 members on this page
+  Fetching: https://www.aoc.co.uk/about/land-based-colleges
+  Found 258 members on this page
+  Fetching: https://www.aoc.co.uk/about/specialist-colleges
+  Found 258 members on this page
+
+  ✓ Successfully scraped 263 unique members
+  Saved to: member_names/Association_of_Colleges_AoC_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[2/37]
+
+======================================================================
+Processing: Association of Employment and Learning Providers (AELP)
+Website: https://www.aelp.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 12 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.aelp.org.uk/membership/
+  Found 7 members on this page
+  Fetching: https://www.aelp.org.uk/membership/full-member-benefits/
+  Found 1 members on this page
+
+  ✓ Successfully scraped 19 unique members
+  Saved to: member_names/Association_of_Employment_and_Learning_Providers_AELP_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[3/37]
+
+======================================================================
+Processing: The Education and Training Foundation (ETF)
+Website: https://www.et-foundation.co.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 12 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.et-foundation.co.uk/membership/
+  Found 7 members on this page
+  Fetching: https://www.et-foundation.co.uk/for-organisations/etf-partnership/
+  Found 12 members on this page
+  Fetching: https://www.et-foundation.co.uk/membership/status/qualified-teacher-learning-skills-qtls/
+  Found 12 members on this page
+  Fetching: https://www.et-foundation.co.uk/membership/status/advanced-teacher-status-ats/
+  Found 12 members on this page
+  Fetching: https://www.et-foundation.co.uk/membership/status/specialist-statuses/specialist-status-education-for-sustainable-development/
+  Found 12 members on this page
+
+  ✓ Successfully scraped 18 unique members
+  Saved to: member_names/The_Education_and_Training_Foundation_ETF_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[4/37]
+
+======================================================================
+Processing: The Skills Network
+Website: https://www.theskillsnetwork.com/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Looking for member list pages...
+  Fetching: https://courses.theskillsnetwork.com/courses/find-a-course
+  Found 1 members on this page
+  Fetching: https://courses.theskillsnetwork.com/courses/find-a-course?funded_location_england=england
+  Found 1 members on this page
+  Fetching: https://courses.theskillsnetwork.com/courses/find-a-course?funded_location_scotland=scotland
+  Found 1 members on this page
+  Fetching: https://courses.theskillsnetwork.com/courses/find-a-course?formInput=1&tag=accounting%20and%20finance
+  Found 1 members on this page
+  Fetching: https://courses.theskillsnetwork.com/courses/find-a-course?formInput=1&tag=health%20social%20care%20and%20wellbeing
+  Found 1 members on this page
+
+  ✓ Successfully scraped 1 unique members
+  Saved to: member_names/The_Skills_Network_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[5/37]
+
+======================================================================
+Processing: Sixth Form Colleges Association (SFCA)
+Website: https://www.sixthformcolleges.org/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 36 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.sixthformcolleges.org/462/sfca-trusted-partners-and-suppliers
+  Found 67 members on this page
+  Fetching: https://www.sixthformcolleges.org/386/member-college-vacancies
+  Found 36 members on this page
+  Fetching: https://www.sixthformcolleges.org/379/our-members
+  Found 37 members on this page
+  Fetching: https://www.sixthformcolleges.org/414/member-resources/category/26/human-resources-and-employment-law-guidance
+  Found 38 members on this page
+  Fetching: https://events.sixthformcolleges.org/events/sfca-summer-conference-2026-126
+  Found 9 members on this page
+
+  ✓ Successfully scraped 78 unique members
+  Saved to: member_names/Sixth_Form_Colleges_Association_SFCA_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[6/37]
+
+======================================================================
+Processing: Landex (Land-Based Colleges Aspiring to Excellence)
+Website: https://landex.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 3 potential members on main page
+  Looking for member list pages...
+  Fetching: https://landex.org.uk/membership/
+  Found 2 members on this page
+  Fetching: https://landex.org.uk/events/landex-residential-services-network-event/
+
+  ✓ Successfully scraped 3 unique members
+  Saved to: member_names/Landex_Land_Based_Colleges_Aspiring_to_Excellence_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[7/37]
+
+======================================================================
+Processing: Universities UK (UUK)
+Website: https://www.universitiesuk.ac.uk/
+======================================================================
+  Fetching main page...
+  ✗ Error: 403 Client Error: Forbidden for url: https://www.universitiesuk.ac.uk/
+
+  Waiting 3 seconds before next organization...
+
+[8/37]
+
+======================================================================
+Processing: GuildHE
+Website: https://guildhe.ac.uk/
+======================================================================
+  Fetching main page...
+  ✗ Error: 403 Client Error: Forbidden for url: https://guildhe.ac.uk/
+
+  Waiting 3 seconds before next organization...
+
+[9/37]
+
+======================================================================
+Processing: MillionPlus
+Website: https://millionplus.ac.uk/
+======================================================================
+  Fetching main page...
+  ✗ Error: HTTPSConnectionPool(host='millionplus.ac.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fde16edbb90>: Failed to resolve 'millionplus.ac.uk' ([Errno -3] Temporary failure in name resolution)"))
+
+  Waiting 3 seconds before next organization...
+
+[10/37]
+
+======================================================================
+Processing: Russell Group
+Website: https://russellgroup.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 1 potential members on main page
+  Looking for member list pages...
+  Fetching: https://russellgroup.ac.uk/who-we-are
+  Fetching: https://www.russellgroup.ac.uk/news/russell-group-universities-host-business-and-trade-select-committee
+  Fetching: https://russellgroup.ac.uk/impact/fast-track-success-professional-services
+
+  ✓ Successfully scraped 1 unique members
+  Saved to: member_names/Russell_Group_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[11/37]
+
+======================================================================
+Processing: University Alliance
+Website: https://unialliance.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 23 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.unialliance.ac.uk/2025/04/23/elevate-evaluate-collaborate-why-ua-members-created-an-evaluation-network-for-access-and-participation/
+  Found 3 members on this page
+  Fetching: https://www.unialliance.ac.uk/member/anglia-ruskin-university/
+  Found 3 members on this page
+  Fetching: https://www.unialliance.ac.uk/member/birmingham-city-university/
+  Found 4 members on this page
+  Fetching: https://www.unialliance.ac.uk/member/coventry-university/
+  Found 1 members on this page
+  Fetching: https://www.unialliance.ac.uk/member/kingston-university/
+  Found 1 members on this page
+
+  ✓ Successfully scraped 32 unique members
+  Saved to: member_names/University_Alliance_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[12/37]
+
+======================================================================
+Processing: The Society for Education and Training (SET)
+Website: https://set.et-foundation.co.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 2 potential members on main page
+  Looking for member list pages...
+  Fetching: https://set.et-foundation.co.uk/membership
+  Found 11 members on this page
+  Fetching: https://set.et-foundation.co.uk/#membershipgrades
+  Found 2 members on this page
+  Fetching: https://set.et-foundation.co.uk/#etfpartnerships
+  Found 2 members on this page
+  Fetching: https://set.et-foundation.co.uk/membership/etf-partnerships
+
+  ✓ Successfully scraped 12 unique members
+  Saved to: member_names/The_Society_for_Education_and_Training_SET_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[13/37]
+
+======================================================================
+Processing: The Chartered Institute of Personnel and Development (CIPD)
+Website: https://www.cipd.co.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 10 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.cipd.co.uk/en/membership/
+  Found 14 members on this page
+  Fetching: https://www.cipd.co.uk/en/membership/routes-to-membership/
+  Found 19 members on this page
+
+  ✓ Successfully scraped 43 unique members
+  Saved to: member_names/The_Chartered_Institute_of_Personnel_and_Development_CIPD_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[14/37]
+
+======================================================================
+Processing: The Learning and Performance Institute (LPI)
+Website: https://www.thelpi.org/
+======================================================================
+  Fetching main page...
+  ✗ Error: 403 Client Error: Forbidden for url: https://www.thelpi.org/
+
+  Waiting 3 seconds before next organization...
+
+[15/37]
+
+======================================================================
+Processing: The Association for Learning Technology (ALT)
+Website: https://www.alt.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 8 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.alt.ac.uk/membership
+  Found 15 members on this page
+  Fetching: https://www.alt.ac.uk/consultant-directory
+  Found 25 members on this page
+  Fetching: https://www.alt.ac.uk/certified-membership
+  Found 33 members on this page
+  Fetching: https://www.alt.ac.uk/certified-membership/cmalt-and-other-frameworks
+  Found 23 members on this page
+  Fetching: https://www.alt.ac.uk/groups
+  Found 39 members on this page
+
+  ✓ Successfully scraped 102 unique members
+  Saved to: member_names/The_Association_for_Learning_Technology_ALT_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[16/37]
+
+======================================================================
+Processing: The Association of Accounting Technicians (AAT)
+Website: https://www.aat.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 4 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.aat.org.uk/membership/professional-membership
+  Found 18 members on this page
+  Fetching: https://www.aat.org.uk/membership/licensed-membership-be-your-own-boss
+  Found 15 members on this page
+  Fetching: https://www.aat.org.uk/membership/professional-membership/membership-without-aat-qualifications
+  Found 83 members on this page
+  Fetching: https://www.aat.org.uk/membership/standards-requirements
+  Found 35 members on this page
+  Fetching: https://www.aat.org.uk/find-an-accountant-or-bookkeeper
+
+  ✓ Successfully scraped 155 unique members
+  Saved to: member_names/The_Association_of_Accounting_Technicians_AAT_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[17/37]
+
+======================================================================
+Processing: City & Guilds
+Website: https://www.cityandguilds.com/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 69 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.cityandguilds.com/tlevels/providers
+  Found 75 members on this page
+  Fetching: https://www.cityandguilds.com/#tab
+  Found 69 members on this page
+
+  ✓ Successfully scraped 91 unique members
+  Saved to: member_names/City_Guilds_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[18/37]
+
+======================================================================
+Processing: Pearson
+Website: https://www.pearson.com/uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Looking for member list pages...
+
+  ✓ Successfully scraped 0 unique members
+
+  Waiting 3 seconds before next organization...
+
+[19/37]
+
+======================================================================
+Processing: NCFE
+Website: https://www.ncfe.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 1 potential members on main page
+  Looking for member list pages...
+
+  ✓ Successfully scraped 1 unique members
+  Saved to: member_names/NCFE_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[20/37]
+
+======================================================================
+Processing: OCR (Oxford, Cambridge and RSA Examinations)
+Website: https://www.ocr.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 16 potential members on main page
+  Looking for member list pages...
+
+  ✓ Successfully scraped 16 unique members
+  Saved to: member_names/OCR_Oxford_Cambridge_and_RSA_Examinations_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[21/37]
+
+======================================================================
+Processing: European Association of Institutions in Higher Education (EURASHE)
+Website: https://www.eurashe.eu/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 34 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.eurashe.eu/about/become-a-member/
+  Found 36 members on this page
+  Fetching: https://www.eurashe.eu/about/become-a-member
+  Found 36 members on this page
+
+  ✓ Successfully scraped 38 unique members
+  Saved to: member_names/European_Association_of_Institutions_in_Higher_Education_EURASHE_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[22/37]
+
+======================================================================
+Processing: European University Association (EUA)
+Website: https://www.eua.eu/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 31 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.eua.eu/events/member-and-partner-events/towards-a-sustainable-and-responsible-european-society-social-sciences-and-humanities-in-the-new-european-political-directions.html
+  Found 12 members on this page
+  Fetching: https://www.eua.eu/events/eua-events/eua-webinar-for-prospective-members.html
+  Found 14 members on this page
+  Fetching: https://www.eua.eu/events/member-and-partner-events/celebrating-three-years-of-coara-collectively-shaping-the-future-of-research-assessment.html
+  Found 12 members on this page
+  Fetching: https://www.eua.eu/events/member-and-partner-events/eu-high-level-conference-on-reforming-research-assessment.html
+  Found 12 members on this page
+  Fetching: https://www.eua.eu/events/member-and-partner-events/bridging-continents-higher-education-as-a-tool-for-eu-southern-mediterranean-cooperation.html
+  Found 12 members on this page
+
+  ✓ Successfully scraped 33 unique members
+  Saved to: member_names/European_University_Association_EUA_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[23/37]
+
+======================================================================
+Processing: European Vocational Training Association (EVTA)
+Website: https://www.evta.eu/
+======================================================================
+  Fetching main page...
+  ✗ Error: 403 Client Error: Forbidden for url: https://www.evta.eu/
+
+  Waiting 3 seconds before next organization...
+
+[24/37]
+
+======================================================================
+Processing: American Association of Community Colleges (AACC)
+Website: https://www.aacc.nche.edu/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 21 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.aaccihub.com/network/members
+  Found 1 members on this page
+  Fetching: https://www.ccdaily.com/2025/11/why-community-colleges-cant-sit-this-one-out/?utm_source=rss&utm_medium=rss&utm_campaign=why-community-colleges-cant-sit-this-one-out
+  Found 4 members on this page
+
+  ✓ Successfully scraped 26 unique members
+  Saved to: member_names/American_Association_of_Community_Colleges_AACC_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[25/37]
+
+======================================================================
+Processing: Association of Canadian Community Colleges (ACCC) / Colleges and Institutes Canada (CICan)
+Website: https://www.collegesinstitutes.ca/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 93 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.collegesinstitutes.ca/microcredentials/uie/industrial-internet-of-things-iiot-microcredential/
+  Found 101 members on this page
+  Fetching: https://www.collegesinstitutes.ca/microcredentials/uie/solar-pv-installation/
+  Found 102 members on this page
+  Fetching: https://www.collegesinstitutes.ca/microcredentials/uie/integrated-design-fabrication-and-data-analysis-microcredential/
+  Found 101 members on this page
+  Fetching: https://www.collegesinstitutes.ca/microcredentials/uie/greenhouse-practices-and-operational-fundamentals/
+  Found 104 members on this page
+  Fetching: https://www.collegesinstitutes.ca/microcredentials/uie/employers/
+  Found 91 members on this page
+
+  ✓ Successfully scraped 173 unique members
+  Saved to: member_names/Association_of_Canadian_Community_Colleges_ACCC_Colleges_and_Institutes_Canada_CICan_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[26/37]
+
+======================================================================
+Processing: The League for Innovation in the Community College
+Website: https://www.league.org/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 8 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.league.org/news/member-spotlight-merced-college-transforms-learning-through-dreamscape-learn
+  Found 1 members on this page
+  Fetching: https://www.league.org/leadership-abstracts/what-presidents-need-know-about-impact-networking
+  Error fetching https://www.league.org/leadership-abstracts/what-presidents-need-know-about-impact-networking: 403 Client Error: Forbidden for url: https://www.league.org/leadership-abstracts/what-presidents-need-know-about-impact-networking
+  Fetching: https://www.league.org/about/partners
+  Found 6 members on this page
+
+  ✓ Successfully scraped 14 unique members
+  Saved to: member_names/The_League_for_Innovation_in_the_Community_College_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[27/37]
+
+======================================================================
+Processing: World Federation of Colleges and Polytechnics (WFCP)
+Website: https://wfcp.org/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 1 potential members on main page
+  Looking for member list pages...
+  Fetching: https://wfcp.org/members/
+  Found 41 members on this page
+  Fetching: https://wfcp.org/members/become-a-member/
+  Error fetching https://wfcp.org/members/become-a-member/: 404 Client Error: Not Found for url: https://wfcp.org/members/become-a-member/
+
+  ✓ Successfully scraped 42 unique members
+  Saved to: member_names/World_Federation_of_Colleges_and_Polytechnics_WFCP_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[28/37]
+
+======================================================================
+Processing: International Association of Universities (IAU)
+Website: https://www.iau-aiu.net/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 3 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.iau-aiu.net/membership
+  Found 1 members on this page
+  Fetching: https://www.iau-aiu.net/news/world-earth-month-2025
+  Found 6 members on this page
+  Fetching: https://www.iau-aiu.net/news/faubai-2025-towards-equitable-and-sustainable-partnerships
+  Found 9 members on this page
+  Fetching: https://www.iau-aiu.net/all-publications/internationalization-of-higher-education-insights-into-equity-diversity-amp-inclusion-sustainable-development-and-international-partnerships
+  Fetching: https://www.iau-aiu.net/all-publications/shaping-the-path-forward-higher-education-and-partnerships-ahead-of-2030
+
+  ✓ Successfully scraped 19 unique members
+  Saved to: member_names/International_Association_of_Universities_IAU_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[29/37]
+
+======================================================================
+Processing: The National Training Federation Wales (NTfW)
+Website: https://www.ntfw.org/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 12 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.members.ntfw.org
+  Found 43 members on this page
+
+  ✓ Successfully scraped 53 unique members
+  Saved to: member_names/The_National_Training_Federation_Wales_NTfW_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[30/37]
+
+======================================================================
+Processing: Scottish Training Federation
+Website: https://www.stf.org.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 23 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.stf.org.uk/members/
+  Found 10 members on this page
+  Fetching: https://www.stf.org.uk/stf-member-update-meeting-friday-21-november-2025/
+  Found 15 members on this page
+  Fetching: https://www.stf.org.uk/board-members/
+  Found 10 members on this page
+  Fetching: https://www.stf.org.uk/become-a-member/
+  Found 15 members on this page
+  Fetching: https://www.stf.org.uk/current-member-issues/
+  Found 10 members on this page
+
+  ✓ Successfully scraped 33 unique members
+  Saved to: member_names/Scottish_Training_Federation_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[31/37]
+
+======================================================================
+Processing: The Quality Assurance Agency for Higher Education (QAA)
+Website: https://www.qaa.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Looking for member list pages...
+  Fetching: https://www.membershipresources.qaa.ac.uk/
+  Found 4 members on this page
+
+  ✓ Successfully scraped 4 unique members
+  Saved to: member_names/The_Quality_Assurance_Agency_for_Higher_Education_QAA_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[32/37]
+
+======================================================================
+Processing: Ofsted (Office for Standards in Education, Children's Services and Skills)
+Website: https://www.gov.uk/government/organisations/ofsted
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 62 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.gov.uk/education/inspections-and-performance-of-education-providers
+  Found 81 members on this page
+  Fetching: https://www.gov.uk/government/collections/ofsteds-inspection-of-early-years-providers
+  Found 29 members on this page
+  Fetching: https://www.gov.uk/childcare-parenting/childrens-social-care-providers
+  Found 80 members on this page
+  Fetching: https://www.gov.uk/government/statistics/announcements/childcare-providers-and-inspections-as-at-31-august-2025
+  Found 2 members on this page
+  Fetching: https://www.gov.uk/guidance/report-a-serious-childcare-incident
+  Found 37 members on this page
+
+  ✓ Successfully scraped 249 unique members
+  Saved to: member_names/Ofsted_Office_for_Standards_in_Education_Childrens_Services_and_Skills_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[33/37]
+
+======================================================================
+Processing: The British Accreditation Council (BAC)
+Website: https://www.the-bac.org/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 4 potential members on main page
+  Looking for member list pages...
+
+  ✓ Successfully scraped 4 unique members
+  Saved to: member_names/The_British_Accreditation_Council_BAC_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[34/37]
+
+======================================================================
+Processing: The Society for Research into Higher Education (SRHE)
+Website: https://www.srhe.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 5 potential members on main page
+  Looking for member list pages...
+  Fetching: https://srhe.ac.uk/individual-membership-benefits/
+  Found 11 members on this page
+  Fetching: https://www.srhe.ac.uk/individual-membership-benefits/
+  Found 11 members on this page
+  Fetching: https://srhe.ac.uk/networks/professional-development-programme/
+  Found 6 members on this page
+  Fetching: https://srhe.ac.uk/networks/learning-teaching-and-assessment/
+  Found 6 members on this page
+  Fetching: https://srhe.ac.uk/networks/digital-university/
+  Found 6 members on this page
+
+  ✓ Successfully scraped 14 unique members
+  Saved to: member_names/The_Society_for_Research_into_Higher_Education_SRHE_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[35/37]
+
+======================================================================
+Processing: Jisc
+Website: https://www.jisc.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 2 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.jisc.ac.uk/news/all/jisc-and-the-association-of-colleges-formalise-partnership-to-accelerate-digital-transformation
+  Found 2 members on this page
+  Fetching: https://www.jisc.ac.uk/networkshop/
+  Found 1 members on this page
+  Fetching: https://www.jisc.ac.uk/cyber-security
+  Found 6 members on this page
+  Fetching: https://www.jisc.ac.uk/membership/
+  Found 7 members on this page
+  Fetching: https://www.jisc.ac.uk/customers
+
+  ✓ Successfully scraped 17 unique members
+  Saved to: member_names/Jisc_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[36/37]
+
+======================================================================
+Processing: The Association for Learning Technology (ALT)
+Website: https://www.alt.ac.uk/
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 8 potential members on main page
+  Looking for member list pages...
+  Fetching: https://www.alt.ac.uk/membership
+  Found 15 members on this page
+  Fetching: https://www.alt.ac.uk/consultant-directory
+  Found 25 members on this page
+  Fetching: https://www.alt.ac.uk/certified-membership
+  Found 33 members on this page
+  Fetching: https://www.alt.ac.uk/certified-membership/cmalt-and-other-frameworks
+  Found 23 members on this page
+  Fetching: https://www.alt.ac.uk/groups
+  Found 39 members on this page
+
+  ✓ Successfully scraped 102 unique members
+  Saved to: member_names/The_Association_for_Learning_Technology_ALT_MEMBER_NAMES.txt
+
+  Waiting 3 seconds before next organization...
+
+[37/37]
+
+======================================================================
+Processing: The National Apprenticeship Service
+Website: https://www.gov.uk/government/organisations/institute-for-apprenticeships-and-technical-education
+======================================================================
+  Fetching main page...
+  Extracting members from main page...
+  Found 13 potential members on main page
+  Looking for member list pages...
+
+  ✓ Successfully scraped 13 unique members
+  Saved to: member_names/The_National_Apprenticeship_Service_MEMBER_NAMES.txt
+
+
+Results saved to: member_names_results.json
+
+======================================================================
+SUMMARY
+======================================================================
+
+Organizations with members found: 31/37
+  Association of Colleges (AoC): 263 members
+  Ofsted (Office for Standards in Education, Children's Services and Skills): 249 members
+  Association of Canadian Community Colleges (ACCC) / Colleges and Institutes Canada (CICan): 173 members
+  The Association of Accounting Technicians (AAT): 155 members
+  The Association for Learning Technology (ALT): 102 members
+  The Association for Learning Technology (ALT): 102 members
+  City & Guilds: 91 members
+  Sixth Form Colleges Association (SFCA): 78 members
+  The National Training Federation Wales (NTfW): 53 members
+  The Chartered Institute of Personnel and Development (CIPD): 43 members
+  World Federation of Colleges and Polytechnics (WFCP): 42 members
+  European Association of Institutions in Higher Education (EURASHE): 38 members
+  European University Association (EUA): 33 members
+  Scottish Training Federation: 33 members
+  University Alliance: 32 members
+  American Association of Community Colleges (AACC): 26 members
+  Association of Employment and Learning Providers (AELP): 19 members
+  International Association of Universities (IAU): 19 members
+  The Education and Training Foundation (ETF): 18 members
+  Jisc: 17 members
+  OCR (Oxford, Cambridge and RSA Examinations): 16 members
+  The League for Innovation in the Community College: 14 members
+  The Society for Research into Higher Education (SRHE): 14 members
+  The National Apprenticeship Service: 13 members
+  The Society for Education and Training (SET): 12 members
+  The Quality Assurance Agency for Higher Education (QAA): 4 members
+  The British Accreditation Council (BAC): 4 members
+  Landex (Land-Based Colleges Aspiring to Excellence): 3 members
+  The Skills Network: 1 members
+  Russell Group: 1 members
+  NCFE: 1 members
+
+Total organizations processed: 37
+Total members found: 1669

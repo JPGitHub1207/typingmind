@@ -1,0 +1,44 @@
+European Association of Institutions in Higher Education (EURASHE) - Member Names (38 members)
+======================================================================
+
+1. _GRECAPTCHA
+2. 5 months 27 days
+3. This cookie is set by the Google recaptcha service to identify bots to protect the website against malicious spam attacks.
+4. cookielawinfo-checkbox-advertisement
+5. Set by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Advertisement" category .
+6. cookielawinfo-checkbox-analytics
+7. This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+8. cookielawinfo-checkbox-functional
+9. The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+10. cookielawinfo-checkbox-necessary
+11. This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+12. cookielawinfo-checkbox-others
+13. This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+14. cookielawinfo-checkbox-performance
+15. This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+16. CookieLawInfoConsent
+17. Records the default button state of the corresponding category & the status of CCPA. It works only in coordination with the primary cookie.
+18. This cookie is associated with Django web development platform for python. Used to help protect the website against Cross-Site Request Forgery attacks
+19. viewed_cookie_policy
+20. The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+21. This cookie is set by Eventbrite to deliver content tailored to the end user's interests and improve content creation. It is also used for event-booking purposes.
+22. Cookie used to facilitate the translation into the preferred language of the visitor.
+23. The _ga cookie, installed by Google Analytics, calculates visitor, session and campaign data and also keeps track of site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognize unique visitors.
+24. 1 year 1 month 4 days
+25. Google Analytics sets this cookie to store and count page views.
+26. _ga_L4W5XD0EKM
+27. This cookie is installed by Google Analytics.
+28. _gat_UA-27822045-1
+29. A variation of the _gat cookie set by Google Analytics and Google Tag Manager to allow website owners to track visitor behaviour and measure site performance. The pattern element in the name contains the unique identity number of the account or website it relates to.
+30. Installed by Google Analytics, _gid cookie stores information on how visitors use a website, while also creating an analytics report of the website's performance. Some of the data that are collected include the number of visitors, their source, and the pages they visit anonymously.
+31. This cookie is associated with Shopify's analytics suite.
+32. No description available.
+33. Join Eurashe
+34. Become a member of EURASHE
+35. EURASHE membership application form and affidavit by a legally authorised representative of the interested party (e.g. President, Secretary-General, Rector, Vice-Rector)
+36. Proof of legal existence (e.g. registration certificate)
+37. External Quality Assurance Certificate for individual Higher Education Institutions (compulsory for Full Members)
+38. Descriptive information (e.g. annual report, list of members and study programmes)
+
+
+Source: Extracted from organization website
