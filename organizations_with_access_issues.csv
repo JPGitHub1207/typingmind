@@ -1,0 +1,18 @@
+Organization,URL,Error_Type,Region,Type,Priority,Recommended_Action
+Collab Group,https://www.collabgroup.co.uk,DNS Resolution Failure,National,College collaboration group,Highest,Verify domain - may be inactive or rebranded
+Independent Training Provider Association,https://www.itpa.org.uk,DNS Resolution Failure,National,National training provider association,Highest,Check if merged with AELP or rebranded
+Yorkshire Learning Providers,https://www.ylp.org.uk,DNS Resolution Failure,Yorkshire and the Humber,Regional provider network,Highest,Try alternative domains (.co.uk .com)
+Lancashire Colleges Group,https://www.lancashirecolleges.ac.uk,DNS Resolution Failure,North West,Regional college group,High,Verify with individual Lancashire colleges
+West Yorkshire Consortium of Colleges,https://www.wycc.ac.uk,DNS Resolution Failure,Yorkshire and the Humber,College consortium,High,Contact member colleges directly
+Eastern Colleges Group,https://www.easterncollegesgroup.ac.uk,DNS Resolution Failure,East of England,Regional college group,High,Verify correct domain with Association of Colleges
+Greater Merseyside Learning Providers Federation,https://www.gmlpf.org.uk,No Public Member List,North West,Regional provider federation,High,Contact federation directly for member list
+North East Learning Providers,https://www.nelp.org.uk,DNS Resolution Failure,North East,Regional provider network,Medium,Try alternative domains check Combined Authority
+ALPHI,https://www.alphi.org.uk,No Public Member List,South East,Regional learning provider association,Medium,Contact organization directly - may have login-protected directory
+Kent Association of Training Organisations,https://www.kato.org.uk,DNS Resolution Failure,South East,County training organization association,Medium,Verify organization status via Companies House
+Cambridgeshire and Peterborough Provider Network,https://www.cappn.co.uk,No Public Member List,East of England,Regional provider network,Medium,Manual website navigation - member list may exist
+Heart of the South West Colleges Partnership,https://www.heartofswlep.co.uk/colleges,403 Forbidden,South West,Regional college partnership,Medium,Try different IP or contact directly - access blocked
+Cornwall and Isles of Scilly Skills Hub,https://www.cioslep.com/skills,403 Forbidden,South West,LEP skills hub,Medium,Check for public PDFs - LEP sites often have member docs
+West London Alliance Skills & Employment,https://www.westlondon.com/skills,403 Forbidden,London,London sub-regional partnership,Medium,Check borough websites - public sector partnership
+Essex Provider Network,https://www.essex.gov.uk/topic/skills-learning,No Public Member List,East of England,County provider network,Medium,FOI request to Essex County Council
+East Midlands Accelerated Apprenticeship Network,https://www.emaan.org.uk,No Public Member List,East Midlands,Specialist apprenticeship network,Lower,Contact network coordinator
+ALPS,https://www.alps.com,Wrong Organization,Unknown,Unknown,Research,This is a data benchmarking service not a provider network - research correct organization
