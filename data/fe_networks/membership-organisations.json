@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2025-11-16T00:55:00Z",
+  "organisations": [
+    {
+      "name": "Association of Colleges (AoC)",
+      "slug": "aoc",
+      "website": "https://www.aoc.co.uk/",
+      "membersPage": "https://www.aoc.co.uk/about/college-directory",
+      "regionScope": "UK",
+      "focus": "General further education colleges",
+      "harvest": {
+        "enabled": true,
+        "strategy": "aocInteractiveMap",
+        "source": "https://www.aoc.co.uk/aoc/ajax/interactive-map.json"
+      }
+    },
+    {
+      "name": "Landex (Land Based Colleges Aspiring to Excellence)",
+      "slug": "landex",
+      "website": "https://landex.org.uk/",
+      "membersPage": "https://landex.org.uk/membership/",
+      "regionScope": "UK",
+      "focus": "Land-based colleges and universities",
+      "harvest": {
+        "enabled": true,
+        "strategy": "landexHotspots",
+        "source": "https://landex.org.uk/membership/"
+      }
+    },
+    {
+      "name": "Association of Employment and Learning Providers (AELP)",
+      "slug": "aelp",
+      "website": "https://www.aelp.org.uk/",
+      "membersPage": "https://www.aelp.org.uk/aelp-members/member-directory/",
+      "regionScope": "England",
+      "focus": "Independent training providers",
+      "harvest": {
+        "enabled": false,
+        "strategy": null,
+        "reason": "Directory requires member login before results are returned"
+      }
+    },
+    {
+      "name": "Natspec (The Association of National Specialist Colleges)",
+      "slug": "natspec",
+      "website": "https://natspec.org.uk/",
+      "membersPage": "https://natspec.org.uk/membership/join-us/natspec-membership/",
+      "regionScope": "UK",
+      "focus": "Specialist FE colleges for students with learning difficulties and/or disabilities",
+      "harvest": {
+        "enabled": false,
+        "strategy": null,
+        "reason": "Public members list not published on the current site structure"
+      }
+    },
+    {
+      "name": "HOLEX (The Specialist Network for Adult Community Education)",
+      "slug": "holex",
+      "website": "https://holex.org.uk/",
+      "membersPage": "https://holex.org.uk/members/",
+      "regionScope": "England",
+      "focus": "Local authority adult community learning services",
+      "harvest": {
+        "enabled": false,
+        "strategy": null,
+        "reason": "Member details embedded inside gated documents"
+      }
+    },
+    {
+      "name": "Sixth Form Colleges Association (SFCA)",
+      "slug": "sfca",
+      "website": "https://www.sfca.org.uk/",
+      "membersPage": "https://www.sfca.org.uk/colleges",
+      "regionScope": "England",
+      "focus": "Sixth form colleges",
+      "harvest": {
+        "enabled": false,
+        "strategy": null,
+        "reason": "Site blocks automated scraping without authentication"
+      }
+    },
+    {
+      "name": "Collab Group",
+      "slug": "collab-group",
+      "website": "https://collabgroup.co.uk/",
+      "membersPage": "https://collabgroup.co.uk/members",
+      "regionScope": "UK",
+      "focus": "Large FE colleges and groups",
+      "harvest": {
+        "enabled": false,
+        "strategy": null,
+        "reason": "Domain currently parked; members page unavailable"
+      }
+    }
+  ]
+}

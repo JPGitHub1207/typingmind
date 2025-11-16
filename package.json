@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "http-server ./src/ -p 3000"
+    "start": "http-server ./src/ -p 3000",
+    "scrape:membership": "node scripts/scrape-membership-members.js"
   },
   "name": "typingmind",
   "version": "1.0.0",
@@ -10,5 +11,9 @@
   "license": "N/A",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "html-entities": "^2.6.0"
   }
 }
