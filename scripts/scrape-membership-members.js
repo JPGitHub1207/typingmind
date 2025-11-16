@@ -133,11 +133,26 @@ async function main() {
   for (const org of config.organisations || []) {
     const harvest = org.harvest || {};
     const strategy = harvest.strategy;
+    const baseRecord = {
+      name: org.name,
+      slug: org.slug,
+      website: org.website,
+      membersPage: org.membersPage,
+      source: harvest.source || null,
+      harvestedAt: null,
+      memberCount: 0,
+      members: [],
+      status: 'pending',
+      note: null
+    };
 
     if (!harvest.enabled || !strategy || !scrapers[strategy]) {
+      baseRecord.status = 'skipped';
+      baseRecord.note = harvest.reason || 'No scraper configured';
+      summary.push(baseRecord);
       skipped.push({
         name: org.name,
-        reason: harvest.reason || 'No scraper configured'
+        reason: baseRecord.note
       });
       continue;
     }
@@ -145,18 +160,16 @@ async function main() {
     console.log(`→ Scraping ${org.name} (${strategy})`);
     try {
       const members = await scrapers[strategy](org);
-      summary.push({
-        name: org.name,
-        slug: org.slug,
-        website: org.website,
-        membersPage: org.membersPage,
-        source: harvest.source,
-        harvestedAt: new Date().toISOString(),
-        memberCount: members.length,
-        members
-      });
+      baseRecord.members = members;
+      baseRecord.memberCount = members.length;
+      baseRecord.harvestedAt = new Date().toISOString();
+      baseRecord.status = 'scraped';
+      summary.push(baseRecord);
       console.log(`  ✓ Found ${members.length} members`);
     } catch (err) {
+      baseRecord.status = 'error';
+      baseRecord.note = err.message;
+      summary.push(baseRecord);
       skipped.push({
         name: org.name,
         reason: err.message

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-11-16T00:56:27.162Z",
+  "generatedAt": "2025-11-16T09:50:15.772Z",
   "organisations": [
     {
       "name": "Association of Colleges (AoC)",
@@ -7,7 +7,7 @@
       "website": "https://www.aoc.co.uk/",
       "membersPage": "https://www.aoc.co.uk/about/college-directory",
       "source": "https://www.aoc.co.uk/aoc/ajax/interactive-map.json",
-      "harvestedAt": "2025-11-16T00:56:25.303Z",
+      "harvestedAt": "2025-11-16T09:50:12.582Z",
       "memberCount": 554,
       "members": [
         {
@@ -6658,7 +6658,9 @@
             "address": "InfoZone, Sim Balk Lane, York, YO23 2BB"
           }
         }
-      ]
+      ],
+      "status": "scraped",
+      "note": null
     },
     {
       "name": "Landex (Land Based Colleges Aspiring to Excellence)",
@@ -6666,7 +6668,7 @@
       "website": "https://landex.org.uk/",
       "membersPage": "https://landex.org.uk/membership/",
       "source": "https://landex.org.uk/membership/",
-      "harvestedAt": "2025-11-16T00:56:27.162Z",
+      "harvestedAt": "2025-11-16T09:50:15.772Z",
       "memberCount": 51,
       "members": [
         {
@@ -6975,7 +6977,69 @@
           "memberType": "Full Member",
           "website": "https://abingdon-witney.ac.uk/campuses/common-leys-farm"
         }
-      ]
+      ],
+      "status": "scraped",
+      "note": null
+    },
+    {
+      "name": "Association of Employment and Learning Providers (AELP)",
+      "slug": "aelp",
+      "website": "https://www.aelp.org.uk/",
+      "membersPage": "https://www.aelp.org.uk/aelp-members/member-directory/",
+      "source": null,
+      "harvestedAt": null,
+      "memberCount": 0,
+      "members": [],
+      "status": "skipped",
+      "note": "Directory requires member login before results are returned"
+    },
+    {
+      "name": "Natspec (The Association of National Specialist Colleges)",
+      "slug": "natspec",
+      "website": "https://natspec.org.uk/",
+      "membersPage": "https://natspec.org.uk/membership/join-us/natspec-membership/",
+      "source": null,
+      "harvestedAt": null,
+      "memberCount": 0,
+      "members": [],
+      "status": "skipped",
+      "note": "Public members list not published on the current site structure"
+    },
+    {
+      "name": "HOLEX (The Specialist Network for Adult Community Education)",
+      "slug": "holex",
+      "website": "https://holex.org.uk/",
+      "membersPage": "https://holex.org.uk/members/",
+      "source": null,
+      "harvestedAt": null,
+      "memberCount": 0,
+      "members": [],
+      "status": "skipped",
+      "note": "Member details embedded inside gated documents"
+    },
+    {
+      "name": "Sixth Form Colleges Association (SFCA)",
+      "slug": "sfca",
+      "website": "https://www.sfca.org.uk/",
+      "membersPage": "https://www.sfca.org.uk/colleges",
+      "source": null,
+      "harvestedAt": null,
+      "memberCount": 0,
+      "members": [],
+      "status": "skipped",
+      "note": "Site blocks automated scraping without authentication"
+    },
+    {
+      "name": "Collab Group",
+      "slug": "collab-group",
+      "website": "https://collabgroup.co.uk/",
+      "membersPage": "https://collabgroup.co.uk/members",
+      "source": null,
+      "harvestedAt": null,
+      "memberCount": 0,
+      "members": [],
+      "status": "skipped",
+      "note": "Domain currently parked; members page unavailable"
     }
   ]
 }
