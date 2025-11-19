@@ -1,0 +1,164 @@
+{
+  "generated_at": "2025-11-19T16:48:45.802159",
+  "total_networks": 22,
+  "networks_by_type": {
+    "College Group": 6,
+    "College": 9,
+    "Training Provider Network": 3,
+    "Network/Association": 1,
+    "Network/Partnership": 1,
+    "Network": 1,
+    "Partnership Network": 1
+  },
+  "networks": [
+    {
+      "name": "Capital City College Group",
+      "type": "College Group",
+      "description": "One of London's largest further education groups, operating multiple colleges",
+      "website": "https://www.capitalccg.ac.uk",
+      "colleges": [
+        "City and Islington College",
+        "Westminster Kingsway College",
+        "The College of Haringey, Enfield and North East London"
+      ]
+    },
+    {
+      "name": "London South East Colleges",
+      "type": "College Group",
+      "description": "Large further education group serving South East London",
+      "website": "https://www.lsec.ac.uk",
+      "colleges": [
+        "Bromley College",
+        "Bexley College",
+        "Greenwich Community College"
+      ]
+    },
+    {
+      "name": "New City College",
+      "type": "College Group",
+      "description": "Further education group operating across East London",
+      "website": "https://www.ncclondon.ac.uk",
+      "colleges": [
+        "Hackney Community College",
+        "Redbridge College",
+        "Epping Forest College",
+        "Havering College",
+        "Tower Hamlets College"
+      ]
+    },
+    {
+      "name": "West Thames College",
+      "type": "College",
+      "description": "Further education college in West London",
+      "website": "https://www.west-thames.ac.uk"
+    },
+    {
+      "name": "Richmond and Hillcroft Adult Community College",
+      "type": "College",
+      "description": "Adult and community education provider",
+      "website": "https://www.rhacc.ac.uk"
+    },
+    {
+      "name": "Waltham Forest College",
+      "type": "College",
+      "description": "Further education college in North East London",
+      "website": "https://www.waltham.ac.uk"
+    },
+    {
+      "name": "Lambeth College",
+      "type": "College",
+      "description": "Further education college in South London",
+      "website": "https://www.lambethcollege.ac.uk"
+    },
+    {
+      "name": "Croydon College",
+      "type": "College",
+      "description": "Further education college in South London",
+      "website": "https://www.croydon.ac.uk"
+    },
+    {
+      "name": "Kensington and Chelsea College",
+      "type": "College",
+      "description": "Further education college in West London",
+      "website": "https://www.kcc.ac.uk"
+    },
+    {
+      "name": "Hammersmith and West London College",
+      "type": "College",
+      "description": "Further education college in West London",
+      "website": "https://www.wlc.ac.uk"
+    },
+    {
+      "name": "Barnet and Southgate College",
+      "type": "College Group",
+      "description": "Further education group in North London",
+      "website": "https://www.barnetsouthgate.ac.uk"
+    },
+    {
+      "name": "City of Westminster College",
+      "type": "College",
+      "description": "Further education college in Central London",
+      "website": "https://www.cwc.ac.uk"
+    },
+    {
+      "name": "Hackney Community College",
+      "type": "College",
+      "description": "Further education college in East London (part of New City College)",
+      "website": "https://www.ncclondon.ac.uk"
+    },
+    {
+      "name": "Lewisham Southwark College",
+      "type": "College Group",
+      "description": "Further education group in South London",
+      "website": "https://www.lscollege.ac.uk"
+    },
+    {
+      "name": "Ealing, Hammersmith and West London College",
+      "type": "College Group",
+      "description": "Further education group in West London",
+      "website": "https://www.wlc.ac.uk"
+    },
+    {
+      "name": "London Skills for Growth",
+      "type": "Training Provider Network",
+      "description": "Network of training providers supporting skills development in London",
+      "website": "https://www.londonskillsforgrowth.co.uk"
+    },
+    {
+      "name": "Association of Colleges (AoC) London Region",
+      "type": "Network/Association",
+      "description": "Regional network representing further education colleges in London",
+      "website": "https://www.aoc.co.uk"
+    },
+    {
+      "name": "Greater London Authority Skills for Londoners",
+      "type": "Network/Partnership",
+      "description": "Strategic partnership for skills and training in London",
+      "website": "https://www.london.gov.uk/what-we-do/skills-and-employment"
+    },
+    {
+      "name": "London Learning Consortium",
+      "type": "Training Provider Network",
+      "description": "Consortium of training providers in London",
+      "website": "https://www.londonlearningconsortium.co.uk"
+    },
+    {
+      "name": "London Apprenticeship Ambassador Network",
+      "type": "Network",
+      "description": "Network promoting apprenticeships in London",
+      "website": "https://www.gov.uk/government/groups/london-apprenticeship-ambassador-network"
+    },
+    {
+      "name": "London Providers Network",
+      "type": "Training Provider Network",
+      "description": "Network of independent training providers in London",
+      "website": null
+    },
+    {
+      "name": "Skills for Londoners Business Partnership",
+      "type": "Partnership Network",
+      "description": "Partnership between GLA, colleges, and training providers",
+      "website": "https://www.london.gov.uk/what-we-do/skills-and-employment/skills-londoners"
+    }
+  ]
+}
