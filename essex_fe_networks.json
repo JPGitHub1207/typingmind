@@ -1,0 +1,139 @@
+{
+  "networks": [
+    {
+      "name": "AoC East of England",
+      "type": "Regional Association",
+      "description": "Regional branch of the Association of Colleges representing FE colleges across the East of England, including Essex",
+      "website": "https://www.aoc.co.uk/about-us/aoc-regions",
+      "location": "East of England (including Essex)",
+      "members": "All FE colleges in East of England region",
+      "focus": ["Advocacy", "Support", "Representation"]
+    },
+    {
+      "name": "South Essex College Group",
+      "type": "College Group",
+      "description": "Major FE college group serving South Essex",
+      "website": "https://www.southessex.ac.uk/",
+      "location": "Basildon, Southend-on-Sea, Thurrock",
+      "members": [
+        "South Essex College (Basildon campus)",
+        "South Essex College (Southend campus)",
+        "South Essex College (Thurrock campus)"
+      ],
+      "focus": ["General FE", "Vocational Training", "Apprenticeships", "Higher Education"]
+    },
+    {
+      "name": "Colchester Institute",
+      "type": "FE and HE College",
+      "description": "Large FE and HE college in North Essex",
+      "website": "https://www.colchester.ac.uk/",
+      "location": "Colchester",
+      "focus": ["General FE", "Vocational Training", "Apprenticeships", "Higher Education"]
+    },
+    {
+      "name": "Harlow College",
+      "type": "FE College",
+      "description": "FE college in West Essex",
+      "website": "https://www.harlow-college.ac.uk/",
+      "location": "Harlow",
+      "focus": ["General FE", "Vocational Training", "Apprenticeships"]
+    },
+    {
+      "name": "Chelmsford College",
+      "type": "FE College",
+      "description": "FE college in Central Essex",
+      "website": "https://www.chelmsford.ac.uk/",
+      "location": "Chelmsford",
+      "focus": ["General FE", "Vocational Training", "Apprenticeships"]
+    },
+    {
+      "name": "Braintree College",
+      "type": "FE College",
+      "description": "FE college in North Essex, part of Harlow College Group",
+      "website": "https://www.harlow-college.ac.uk/",
+      "location": "Braintree",
+      "focus": ["General FE", "Vocational Training"]
+    },
+    {
+      "name": "Essex Training Providers Network",
+      "type": "Independent Training Provider Network",
+      "description": "Network of independent training providers in Essex. Part of AELP's regional network structure.",
+      "website": "https://www.aelp.org.uk/membership/regional-network-membership/",
+      "parent_organization": "AELP (Association of Employment and Learning Providers)",
+      "parent_website": "https://www.aelp.org.uk",
+      "location": "Essex-wide",
+      "members": "Independent training providers",
+      "focus": ["Apprenticeships", "Adult Education", "Skills Training"]
+    },
+    {
+      "name": "Essex Apprenticeship Provider Network",
+      "type": "Apprenticeship Network",
+      "description": "Network of apprenticeship training providers in Essex. Part of AELP's regional network structure.",
+      "website": "https://www.aelp.org.uk/membership/regional-network-membership/",
+      "parent_organization": "AELP (Association of Employment and Learning Providers)",
+      "parent_website": "https://www.aelp.org.uk",
+      "location": "Essex-wide",
+      "members": "Apprenticeship training providers",
+      "focus": ["Apprenticeships", "Quality Assurance"]
+    },
+    {
+      "name": "Essex Adult Learning Providers Network",
+      "type": "Adult Education Network",
+      "description": "Network of adult education providers in Essex. May operate through local authority networks or Learning and Work Institute.",
+      "website": "https://www.learningandwork.org.uk",
+      "alternative_website": "https://www.essex.gov.uk/skills-and-training",
+      "location": "Essex-wide",
+      "members": "Adult education providers",
+      "focus": ["Adult Learning", "Community Education"]
+    },
+    {
+      "name": "Essex Skills and Employment Partnership",
+      "type": "Partnership Network",
+      "description": "Partnership between Essex County Council, colleges, and training providers",
+      "website": "https://www.essex.gov.uk/skills-and-training",
+      "location": "Essex-wide",
+      "members": "Essex County Council, FE colleges, training providers",
+      "focus": ["Skills development", "Employment support", "Training coordination"]
+    },
+    {
+      "name": "Essex Further Education Consortium",
+      "type": "College Consortium",
+      "description": "Collaborative network of FE colleges in Essex",
+      "website": null,
+      "location": "Essex-wide",
+      "members": "Major FE colleges in Essex",
+      "focus": ["Collaboration", "Best practice sharing", "Joint initiatives"]
+    }
+  ],
+  "supporting_organizations": [
+    {
+      "name": "Essex County Council - Skills and Training",
+      "type": "Local Authority",
+      "description": "Local authority support for skills and training in Essex",
+      "website": "https://www.essex.gov.uk/skills-and-training",
+      "role": "Strategic oversight, funding, and coordination of skills training"
+    },
+    {
+      "name": "Education and Skills Funding Agency (ESFA)",
+      "type": "Government Agency",
+      "description": "Government agency funding FE providers",
+      "website": "https://www.gov.uk/government/organisations/education-and-skills-funding-agency",
+      "role": "Funding and regulation of FE providers"
+    },
+    {
+      "name": "Ofsted",
+      "type": "Inspectorate",
+      "description": "Inspectorate for FE providers",
+      "website": "https://www.gov.uk/government/organisations/ofsted",
+      "role": "Quality assurance and inspection"
+    }
+  ],
+  "last_updated": "2024",
+  "notes": [
+    "This list includes both formal networks (college groups) and informal networks (sector-specific collaborations)",
+    "Many colleges are part of multiple networks",
+    "Network structures and memberships may change over time",
+    "Some networks are formal legal entities (college groups), while others are collaborative partnerships",
+    "Essex is part of the East of England region for AoC purposes"
+  ]
+}
