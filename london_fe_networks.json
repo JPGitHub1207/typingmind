@@ -1,0 +1,170 @@
+{
+  "networks": [
+    {
+      "name": "AoC London",
+      "type": "Regional Association",
+      "description": "Regional branch of the Association of Colleges representing FE colleges across London",
+      "website": "https://www.aoc.co.uk/about-us/aoc-regions/aoc-london",
+      "location": "London-wide",
+      "members": "All FE colleges in London",
+      "focus": ["Advocacy", "Support", "Representation"]
+    },
+    {
+      "name": "Capital City Colleges Group",
+      "type": "College Group",
+      "description": "One of London's largest FE college groups",
+      "website": "https://www.capitalccg.ac.uk/",
+      "location": "North and Central London",
+      "members": [
+        "City and Islington College",
+        "Westminster Kingsway College",
+        "The College of Haringey, Enfield and North East London (CONEL)"
+      ],
+      "focus": ["General FE", "Vocational Training", "Apprenticeships"]
+    },
+    {
+      "name": "New City College",
+      "type": "College Group",
+      "description": "Large FE college group in East London",
+      "website": "https://www.ncclondon.ac.uk/",
+      "location": "East London",
+      "members": [
+        "Hackney Community College",
+        "Redbridge College",
+        "Tower Hamlets College",
+        "Epping Forest College",
+        "Havering College of Further and Higher Education"
+      ],
+      "focus": ["General FE", "Adult Education", "Apprenticeships"]
+    },
+    {
+      "name": "London South East Colleges",
+      "type": "College Group",
+      "description": "FE college group serving South East London",
+      "website": "https://www.lsec.ac.uk/",
+      "location": "South East London",
+      "members": [
+        "Bromley College",
+        "Bexley College",
+        "Greenwich Community College"
+      ],
+      "focus": ["General FE", "Vocational Training"]
+    },
+    {
+      "name": "United Colleges Group",
+      "type": "College Group",
+      "description": "FE college group in West London",
+      "website": "https://www.ucg.ac.uk/",
+      "location": "West London",
+      "members": [
+        "City of Westminster College",
+        "College of North West London"
+      ],
+      "focus": ["General FE", "Apprenticeships"]
+    },
+    {
+      "name": "Film London - Metro London Skills Cluster",
+      "type": "Sector-Specific Network",
+      "description": "Skills development network for the film and media industry",
+      "website": "https://www.aoc.co.uk/corporate-services/projects/film-london-metro-london-skills-cluster",
+      "location": "London-wide",
+      "members": "Multiple FE colleges and training providers",
+      "focus": ["Film", "Media", "Creative Industries"]
+    },
+    {
+      "name": "Creating a Greener London – Sustainable Construction Skills",
+      "type": "Sector-Specific Network",
+      "description": "Network focused on sustainable construction skills training",
+      "website": "https://www.aoc.co.uk/corporate-services/projects/creating-a-greener-london-sustainable-construction-skills",
+      "location": "London-wide",
+      "members": "FE colleges and construction industry partners",
+      "focus": ["Construction", "Sustainability", "Green Skills"]
+    },
+    {
+      "name": "London Training Providers Network",
+      "type": "Independent Training Provider Network",
+      "description": "Network of independent training providers in London",
+      "website": null,
+      "location": "London-wide",
+      "members": "Independent training providers",
+      "focus": ["Apprenticeships", "Adult Education", "Skills Training"]
+    },
+    {
+      "name": "London Apprenticeship Provider Network",
+      "type": "Apprenticeship Network",
+      "description": "Network of apprenticeship training providers",
+      "website": null,
+      "location": "London-wide",
+      "members": "Apprenticeship training providers",
+      "focus": ["Apprenticeships", "Quality Assurance"]
+    },
+    {
+      "name": "London Adult Learning Providers Network",
+      "type": "Adult Education Network",
+      "description": "Network of adult education providers",
+      "website": null,
+      "location": "London-wide",
+      "members": "Adult education providers",
+      "focus": ["Adult Learning", "Community Education"]
+    },
+    {
+      "name": "London Sixth Form Colleges Network",
+      "type": "Sixth Form Network",
+      "description": "Network of sixth form colleges in London",
+      "website": null,
+      "location": "London-wide",
+      "members": "Sixth form colleges",
+      "focus": ["A-levels", "Vocational Qualifications", "16-19 Education"]
+    }
+  ],
+  "supporting_organizations": [
+    {
+      "name": "Greater London Authority (GLA) - Skills and Employment",
+      "type": "Strategic Body",
+      "description": "London-wide skills and employment strategy",
+      "website": "https://www.london.gov.uk/what-we-do/education-and-youth/skills-and-employment",
+      "role": "Strategic oversight and funding for skills training"
+    },
+    {
+      "name": "Education and Skills Funding Agency (ESFA)",
+      "type": "Government Agency",
+      "description": "Government agency funding FE providers",
+      "website": "https://www.gov.uk/government/organisations/education-and-skills-funding-agency",
+      "role": "Funding and regulation of FE providers"
+    },
+    {
+      "name": "Ofsted",
+      "type": "Inspectorate",
+      "description": "Inspectorate for FE providers",
+      "website": "https://www.gov.uk/government/organisations/ofsted",
+      "role": "Quality assurance and inspection"
+    }
+  ],
+  "individual_colleges": [
+    {
+      "name": "Waltham Forest College",
+      "type": "Standalone FE College",
+      "location": "North East London",
+      "website": "https://www.waltham.ac.uk/"
+    },
+    {
+      "name": "Lewisham Southwark College",
+      "type": "FE College Group",
+      "location": "South London",
+      "website": "https://www.lewisham-southwark.ac.uk/"
+    },
+    {
+      "name": "Richmond and Hillcroft Adult Community College",
+      "type": "Adult Education College",
+      "location": "South West London",
+      "website": "https://www.rhacc.ac.uk/"
+    }
+  ],
+  "last_updated": "2024",
+  "notes": [
+    "This list includes both formal networks (college groups) and informal networks (sector-specific collaborations)",
+    "Many colleges are part of multiple networks",
+    "Network structures and memberships may change over time",
+    "Some networks are formal legal entities (college groups), while others are collaborative partnerships"
+  ]
+}
