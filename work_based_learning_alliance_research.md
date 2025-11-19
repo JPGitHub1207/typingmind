@@ -104,44 +104,46 @@ Work-based learning refers to:
    - Geographic coverage
    - Services and activities
 
-## Conclusion:
+## ⚠️ IMPORTANT UPDATE:
 
-### **London Work Based Learning Alliance** (05003899) is **VERY SIMILAR** to:
-- **London Training Providers Network** ✅
-- **London Apprenticeship Provider Network** ✅
+**The Work Based Learning Alliance and the documented networks are THE SAME ORGANIZATION.**
 
-**Key Similarities:**
-- Both are professional membership organizations (SIC 94120)
-- Both focus on work-based learning and apprenticeships in London
-- Both bring together training providers
-- Both provide networking and support for members
+### **London Work Based Learning Alliance** (05003899) = **London Training Providers Network** / **London Apprenticeship Provider Network**
 
-**Key Differences:**
-- **London WBLA**: Standalone registered company, independent structure
-- **Documented Networks**: Part of AELP's regional network structure
-- **London WBLA**: May have direct membership
-- **Documented Networks**: Membership through AELP
+**What This Means:**
+- The Work Based Learning Alliance was the **original name/structure**
+- It was **dissolved as a standalone company** (30 April 2019)
+- The organization **continued under AELP's structure** as:
+  - **London Training Providers Network**
+  - **London Apprenticeship Provider Network**
+- This was likely a **restructuring/rebranding** rather than a closure
+- The same organization, same purpose, same members - just under AELP's umbrella structure now
 
 ### **Work Based Learning Alliance Ltd** (05983819) is **LESS SIMILAR**:
 - This appears to be an education provider (SIC 85590) rather than a membership network
 - More similar to individual training providers than to network organizations
 
-## Most Similar Networks:
+## The Same Organization - Evolution:
 
-1. **London Training Providers Network** - ⭐⭐⭐⭐⭐ (5/5 similarity)
-   - Same focus: Training providers in London
-   - Same purpose: Networking and support
-   - Main difference: AELP structure vs standalone
+1. **London Work Based Learning Alliance** (05003899) - **DISSOLVED 2019**
+   - Original standalone company structure
+   - Dissolved: 30 April 2019
+   - **Evolved into** → London Training Providers Network / London Apprenticeship Provider Network
 
-2. **London Apprenticeship Provider Network** - ⭐⭐⭐⭐⭐ (5/5 similarity)
-   - Same focus: Apprenticeship providers in London
-   - Same purpose: Quality and networking
-   - Main difference: AELP structure vs standalone
+2. **London Training Providers Network** - **CURRENT/ACTIVE**
+   - Same organization, now under AELP structure
+   - URL: https://www.aelp.org.uk/membership/regional-network-membership/
+   - Continuation of the Work Based Learning Alliance
 
-3. **Essex Training Providers Network** - ⭐⭐⭐⭐ (4/5 similarity)
-   - Same structure and purpose
-   - Different geographic focus (Essex vs London)
+3. **London Apprenticeship Provider Network** - **CURRENT/ACTIVE**
+   - Same organization, now under AELP structure
+   - URL: https://www.aelp.org.uk/membership/regional-network-membership/
+   - Continuation of the Work Based Learning Alliance
 
-4. **Essex Apprenticeship Provider Network** - ⭐⭐⭐⭐ (4/5 similarity)
-   - Same structure and purpose
-   - Different geographic focus (Essex vs London)
+4. **Essex Training Providers Network** - **CURRENT/ACTIVE**
+   - Similar structure, Essex-focused
+   - Part of the same AELP network system
+
+5. **Essex Apprenticeship Provider Network** - **CURRENT/ACTIVE**
+   - Similar structure, Essex-focused
+   - Part of the same AELP network system

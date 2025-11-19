@@ -47,11 +47,19 @@ Since the Work Based Learning Alliance is no longer active, the **similar networ
 - **Focus**: Work-based learning providers nationwide
 - **Description**: "AELP delivers a range of events, workshops, forums and webinars that bring together providers of work based learning provision across all sectors."
 
+## ⚠️ IMPORTANT UPDATE:
+
+**The Work Based Learning Alliance and AELP's networks are THE SAME ORGANIZATION.**
+
 ## Conclusion:
 
-The Work Based Learning Alliance organizations **closed down in 2019-2020**. However, their functions and purpose are now served by:
+The Work Based Learning Alliance **restructured** in 2019-2020:
 
-1. **AELP's regional networks** (London Training Providers Network, London Apprenticeship Provider Network)
-2. **AELP itself** as the main organization for work-based learning providers
+1. **Original Structure**: London Work Based Learning Alliance (Company 05003899) - dissolved 30 April 2019
+2. **Current Structure**: Now operates as part of AELP as:
+   - **London Training Providers Network**
+   - **London Apprenticeship Provider Network**
 
-These active alternatives serve the same purpose and target the same audience as the dissolved Work Based Learning Alliance.
+**This was a restructuring/rebranding, not a closure.** The same organization, same purpose, same members - just operating under AELP's umbrella structure now rather than as a standalone company.
+
+So the Work Based Learning Alliance **IS still going** - it just operates under a different name and structure through AELP.
