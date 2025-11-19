@@ -70,17 +70,23 @@ This document lists the major further education (FE) training provider networks 
 ## Independent Training Provider Networks
 
 ### 11. **London Training Providers Network**
-- **Description**: Network of independent training providers in London
+- **Description**: Network of independent training providers in London. Part of AELP's regional network structure.
+- **Website**: https://www.aelp.org.uk/membership/regional-network-membership/
+- **Parent Organization**: AELP (Association of Employment and Learning Providers) - https://www.aelp.org.uk
 - **Focus**: Apprenticeships, adult education, and skills training
 
 ### 12. **London Apprenticeship Provider Network**
-- **Description**: Network of apprenticeship training providers
+- **Description**: Network of apprenticeship training providers. Part of AELP's regional network structure.
+- **Website**: https://www.aelp.org.uk/membership/regional-network-membership/
+- **Parent Organization**: AELP (Association of Employment and Learning Providers) - https://www.aelp.org.uk
 - **Focus**: Apprenticeship delivery and quality
 
 ## Specialist Networks
 
 ### 13. **London Adult Learning Providers Network**
-- **Description**: Network of adult education providers
+- **Description**: Network of adult education providers. May operate through Learning and Work Institute or local authority networks.
+- **Website**: https://www.learningandwork.org.uk
+- **Alternative Resource**: https://www.london.gov.uk/what-we-do/education-and-youth/skills-and-employment
 - **Focus**: Adult and community learning
 
 ### 14. **London Sixth Form Colleges Network**

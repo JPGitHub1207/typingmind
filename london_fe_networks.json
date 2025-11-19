@@ -83,8 +83,10 @@
     {
       "name": "London Training Providers Network",
       "type": "Independent Training Provider Network",
-      "description": "Network of independent training providers in London",
-      "website": null,
+      "description": "Network of independent training providers in London. Part of AELP's regional network structure.",
+      "website": "https://www.aelp.org.uk/membership/regional-network-membership/",
+      "parent_organization": "AELP (Association of Employment and Learning Providers)",
+      "parent_website": "https://www.aelp.org.uk",
       "location": "London-wide",
       "members": "Independent training providers",
       "focus": ["Apprenticeships", "Adult Education", "Skills Training"]
@@ -92,8 +94,10 @@
     {
       "name": "London Apprenticeship Provider Network",
       "type": "Apprenticeship Network",
-      "description": "Network of apprenticeship training providers",
-      "website": null,
+      "description": "Network of apprenticeship training providers. Part of AELP's regional network structure.",
+      "website": "https://www.aelp.org.uk/membership/regional-network-membership/",
+      "parent_organization": "AELP (Association of Employment and Learning Providers)",
+      "parent_website": "https://www.aelp.org.uk",
       "location": "London-wide",
       "members": "Apprenticeship training providers",
       "focus": ["Apprenticeships", "Quality Assurance"]
@@ -101,8 +105,9 @@
     {
       "name": "London Adult Learning Providers Network",
       "type": "Adult Education Network",
-      "description": "Network of adult education providers",
-      "website": null,
+      "description": "Network of adult education providers. May operate through Learning and Work Institute or local authority networks.",
+      "website": "https://www.learningandwork.org.uk",
+      "alternative_website": "https://www.london.gov.uk/what-we-do/education-and-youth/skills-and-employment",
       "location": "London-wide",
       "members": "Adult education providers",
       "focus": ["Adult Learning", "Community Education"]
