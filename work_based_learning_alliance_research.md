@@ -110,14 +110,19 @@ Work-based learning refers to:
 
 ### **London Work Based Learning Alliance** (05003899) = **London Training Providers Network** / **London Apprenticeship Provider Network**
 
-**What This Means:**
+**What We Know:**
 - The Work Based Learning Alliance was the **original name/structure**
 - It was **dissolved as a standalone company** (30 April 2019)
 - The organization **continued under AELP's structure** as:
   - **London Training Providers Network**
   - **London Apprenticeship Provider Network**
-- This was likely a **restructuring/rebranding** rather than a closure
-- The same organization, same purpose, same members - just under AELP's umbrella structure now
+- This was a **restructuring/rebranding** rather than a closure
+
+**What We Don't Know (and shouldn't assume):**
+- Whether the same members transferred over
+- Whether it's the same people running it
+- Whether the exact purpose/activities are identical
+- The specific details of how the transition occurred
 
 ### **Work Based Learning Alliance Ltd** (05983819) is **LESS SIMILAR**:
 - This appears to be an education provider (SIC 85590) rather than a membership network

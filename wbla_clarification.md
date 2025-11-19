@@ -20,10 +20,14 @@
 ## What Happened:
 
 The Work Based Learning Alliance **restructured** in 2019:
-- The standalone company was dissolved
+- The standalone company was dissolved (30 April 2019)
 - The organization **continued** under AELP's umbrella
-- Same organization, same purpose, same members
-- Just operating under a different name and structure
+- Operating under a different name and structure
+
+**Note:** We know they are the same organization, but we don't have specific details about:
+- Whether the same members transferred
+- Whether it's the same people running it
+- The exact details of the transition
 
 ## Current Active Networks (Same Organization):
 
