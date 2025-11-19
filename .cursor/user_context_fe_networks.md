@@ -1,5 +1,7 @@
 # User Context: Further Education Networks Research
 
+**Note for AI**: If user says "check this properly", read this file for context about FE networks and Work Based Learning Alliance.
+
 ## Key Learnings from Research Session
 
 ### Important Principle:
