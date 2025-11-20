@@ -1,0 +1,61 @@
+      <div class="gem-c-govspeak-html-publication">
+  <div data-module="govspeak" class="gem-c-govspeak govuk-govspeak gem-c-govspeak--direction-ltr govuk-!-margin-bottom-0">
+    
+    
+        <div class="govspeak">
+<p><a href="https://www.gov.uk/government/people/sue-lovelock">Sue Lovelock, Interim Regional Director for the West Midlands</a> meets with elected, appointed, and co-opted advisory board members:</p>
+
+<h2 id="elected-members">Elected members</h2>
+
+<ul>
+  <li>Dame Mo Brennan (Matrix Academy Trust)</li>
+  <li>Michael Thomas Donoghue (John Taylor MAT)</li>
+  <li>Sarah Finch (Marches Academy Trust)</li>
+  <li>Guy Shears (Central Region Schools Trust)</li>
+</ul>
+
+<h2 id="appointed-members">Appointed members</h2>
+
+<ul>
+  <li>Tom Leverage (Our Lady of the Magnificat MAC)</li>
+  <li>Steve Taylor (Robin Hood MAT)</li>
+</ul>
+
+<h2 id="co-opted-members">Co-opted members</h2>
+
+<ul>
+  <li>Amarjit Cheema (Perry Hall Multi Academy Trust)</li>
+  <li>Dan Parkes (The Mercian Trust)</li>
+</ul>
+</div>
+
+
+</div>
+</div>
+    </div>
+  </div>
+
+  <div class="govuk-grid-row">
+    
+<a class="govuk-link gem-c-back-to-top-link govuk-!-display-none-print" href="#contents">
+    <svg class="gem-c-back-to-top-link__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17" aria-hidden="true" focusable="false">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Back to top
+</a>
+  </div>
+</div>
+
+
+    </main>
+  </div>
+
+      <div class="govuk-width-container">
+        
+<div data-module="feedback ga4-event-tracker" class="gem-c-feedback govuk-!-display-none-print">
+  
+<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+  <div class="gem-c-feedback__prompt-content">
+    <div class="gem-c-feedback__prompt-questions js-prompt-questions" hidden>
+      <div class="gem-c-feedback__prompt-question-answer">
+        <h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
