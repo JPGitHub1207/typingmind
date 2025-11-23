@@ -1,0 +1,230 @@
+{
+  "generated_at": "2025-11-23T12:12:59.639080",
+  "aelp_2025_workshop_zones": [
+    {
+      "zone": "EMPLOYER ZONE",
+      "workshop": "How the NHS are navigating the current skills landscape",
+      "description": "Top tips on how the FE Sector and key stakeholders can support",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "FUNDING ZONE",
+      "workshop": "DfE / Apprenticeship Service \u2013 Improving access to funding and support for employer",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": [
+        "DfE",
+        "Apprenticeship Service"
+      ]
+    },
+    {
+      "zone": "GEN Z ZONE",
+      "workshop": "Empowering Gen Z: how to deliver high quality Careers Education",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "GROWTH ZONE",
+      "workshop": "Insight into Action: SME engagement in skills provision",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "INNOVATION ZONE",
+      "workshop": "Future-Proofing Provision: Retain, Support, and Succeed with Predictive Data & Analytics",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "PARTNERSHIP & COLLABORATION ZONE",
+      "workshop": "Navigating Change: Exploring the Future of Apprenticeships",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "POLICY ZONE",
+      "workshop": "Ask the Inspector",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": [
+        "Ofsted"
+      ]
+    },
+    {
+      "zone": "TEACHING & LEARNING ZONE",
+      "workshop": "Bridging the Skills Gap: Apprenticeships & CPD Working Together",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    },
+    {
+      "zone": "TECHNOLOGY ZONE",
+      "workshop": "A Practical Introduction to the Impact of Digital Badging for ITPs",
+      "time": "Monday, June 23, 2025 11:40 AM - 12:40 PM",
+      "potential_providers": []
+    }
+  ],
+  "known_providers": [
+    {
+      "name": "SDN (Skills Development Network)",
+      "type": "Consultancy",
+      "specialization": "Skills and apprenticeship consultancy"
+    },
+    {
+      "name": "FE Associates",
+      "type": "Consultancy",
+      "specialization": "Further education consultancy"
+    },
+    {
+      "name": "Strategic Development Network",
+      "type": "Consultancy",
+      "specialization": "Skills sector consultancy"
+    },
+    {
+      "name": "Emsi Burning Glass",
+      "type": "Analytics Provider",
+      "specialization": "Labor market analytics"
+    },
+    {
+      "name": "UVAC (University Vocational Awards Council)",
+      "type": "Organization",
+      "specialization": "Higher level skills"
+    },
+    {
+      "name": "NOCN",
+      "type": "Awarding Organization",
+      "specialization": "Qualifications and skills"
+    },
+    {
+      "name": "City & Guilds",
+      "type": "Awarding Organization",
+      "specialization": "Vocational qualifications"
+    },
+    {
+      "name": "Pearson",
+      "type": "Awarding Organization",
+      "specialization": "Education and assessment"
+    },
+    {
+      "name": "Learning Curve Group",
+      "type": "Training Provider",
+      "specialization": "Adult learning and apprenticeships"
+    },
+    {
+      "name": "BIIAB",
+      "type": "Awarding Organization",
+      "specialization": "Business skills"
+    },
+    {
+      "name": "Mindful Education",
+      "type": "Training Provider",
+      "specialization": "Leadership and management"
+    },
+    {
+      "name": "Corndel",
+      "type": "Training Provider",
+      "specialization": "Management and leadership training"
+    },
+    {
+      "name": "Hawk Training",
+      "type": "Training Provider",
+      "specialization": "Apprenticeships"
+    },
+    {
+      "name": "Lifetime Training",
+      "type": "Training Provider",
+      "specialization": "Apprenticeships and skills"
+    },
+    {
+      "name": "Kaplan",
+      "type": "Training Provider",
+      "specialization": "Professional education"
+    },
+    {
+      "name": "BPP",
+      "type": "Training Provider",
+      "specialization": "Professional qualifications"
+    },
+    {
+      "name": "Institute for Apprenticeships and Technical Education",
+      "type": "Government Body",
+      "specialization": "Apprenticeship standards"
+    },
+    {
+      "name": "Education and Skills Funding Agency (ESFA)",
+      "type": "Government Body",
+      "specialization": "Funding and regulation"
+    },
+    {
+      "name": "Ofsted",
+      "type": "Regulator",
+      "specialization": "Inspection and quality"
+    },
+    {
+      "name": "Ofqual",
+      "type": "Regulator",
+      "specialization": "Qualifications regulation"
+    },
+    {
+      "name": "Aptem",
+      "type": "Technology Provider",
+      "specialization": "Apprenticeship management software"
+    },
+    {
+      "name": "OneFile",
+      "type": "Technology Provider",
+      "specialization": "E-portfolio and learning management"
+    },
+    {
+      "name": "Bud",
+      "type": "Technology Provider",
+      "specialization": "Digital learning platform"
+    },
+    {
+      "name": "Smart Apprentices",
+      "type": "Technology Provider",
+      "specialization": "Apprenticeship management"
+    },
+    {
+      "name": "Credly",
+      "type": "Technology Provider",
+      "specialization": "Digital badging and credentials"
+    },
+    {
+      "name": "Acclaim",
+      "type": "Technology Provider",
+      "specialization": "Digital badges"
+    },
+    {
+      "name": "Liz Smith Consulting",
+      "type": "Independent Consultant",
+      "specialization": "FE and skills policy"
+    },
+    {
+      "name": "Holex",
+      "type": "Membership Organization",
+      "specialization": "Adult and community learning"
+    },
+    {
+      "name": "ACER",
+      "type": "Consultancy",
+      "specialization": "Education research and consulting"
+    }
+  ],
+  "events_found": [
+    {
+      "url": "https://www.aelp.org.uk/events",
+      "title": "Events  | AELP",
+      "speakers": [],
+      "workshops": [],
+      "organizations": [
+        "Site by Mentor Digital\n\n\n\nThe Association of Employment and Learning Providers Limited"
+      ]
+    }
+  ],
+  "recommendations": [
+    "Contact AELP directly at enquiries@aelp.org.uk for confirmed 2025 speaker list",
+    "Check AELP member portal for detailed programme information",
+    "Review past conference recordings if available to identify previous speakers",
+    "Monitor AELP social media (Twitter/LinkedIn) for speaker announcements",
+    "Consider reaching out to AELP sponsors who often deliver workshops"
+  ]
+}

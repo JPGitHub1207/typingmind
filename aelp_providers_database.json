@@ -1,0 +1,391 @@
+{
+  "generated": "2025-11-23T12:16:37.209431",
+  "total_providers": 55,
+  "providers": [
+    {
+      "Name": "SDN (Skills Development Network)",
+      "Type": "Consultancy",
+      "Specialization": "Skills and apprenticeship consultancy",
+      "Workshop_Topics": "Apprenticeship delivery, Skills planning, Provider improvement",
+      "Likely_2025_Zone": "Growth Zone, Partnership Zone"
+    },
+    {
+      "Name": "FE Associates",
+      "Type": "Consultancy",
+      "Specialization": "Further education consultancy",
+      "Workshop_Topics": "FE strategy, Quality improvement, Leadership",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Strategic Development Network",
+      "Type": "Consultancy",
+      "Specialization": "Skills sector consultancy",
+      "Workshop_Topics": "Strategic planning, Business development",
+      "Likely_2025_Zone": "Growth Zone"
+    },
+    {
+      "Name": "RCU Ltd",
+      "Type": "Consultancy",
+      "Specialization": "Research and consultancy",
+      "Workshop_Topics": "Market intelligence, Impact evaluation",
+      "Likely_2025_Zone": "Innovation Zone"
+    },
+    {
+      "Name": "ACER",
+      "Type": "Consultancy",
+      "Specialization": "Education research",
+      "Workshop_Topics": "Research insights, Policy analysis",
+      "Likely_2025_Zone": "Policy Zone"
+    },
+    {
+      "Name": "Liz Smith Consulting",
+      "Type": "Independent Consultant",
+      "Specialization": "FE and skills policy",
+      "Workshop_Topics": "Policy updates, Strategic advice",
+      "Likely_2025_Zone": "Policy Zone"
+    },
+    {
+      "Name": "Nick Linford Consulting",
+      "Type": "Independent Consultant",
+      "Specialization": "Apprenticeship funding",
+      "Workshop_Topics": "Funding rules, Financial planning",
+      "Likely_2025_Zone": "Funding Zone"
+    },
+    {
+      "Name": "Beej Kaczmarczyk Consulting",
+      "Type": "Independent Consultant",
+      "Specialization": "Education policy",
+      "Workshop_Topics": "Policy interpretation, Strategic planning",
+      "Likely_2025_Zone": "Policy Zone"
+    },
+    {
+      "Name": "Ofsted",
+      "Type": "Regulator",
+      "Specialization": "Inspection and quality",
+      "Workshop_Topics": "Inspection framework, Quality requirements, Ask the Inspector sessions",
+      "Likely_2025_Zone": "Policy Zone"
+    },
+    {
+      "Name": "ESFA",
+      "Type": "Government Body",
+      "Specialization": "Funding and regulation",
+      "Workshop_Topics": "Funding rules, Compliance, Contract management",
+      "Likely_2025_Zone": "Funding Zone"
+    },
+    {
+      "Name": "DfE",
+      "Type": "Government Department",
+      "Specialization": "Education policy",
+      "Workshop_Topics": "Policy updates, Strategic priorities",
+      "Likely_2025_Zone": "Funding Zone, Policy Zone"
+    },
+    {
+      "Name": "IfATE",
+      "Type": "Government Body",
+      "Specialization": "Apprenticeship standards",
+      "Workshop_Topics": "Standards development, EPA, T Levels",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "Ofqual",
+      "Type": "Regulator",
+      "Specialization": "Qualifications regulation",
+      "Workshop_Topics": "Qualification regulation, Quality assurance",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Learning Curve Group",
+      "Type": "Training Provider",
+      "Specialization": "Adult learning and apprenticeships",
+      "Workshop_Topics": "Best practice, Learner engagement",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Corndel",
+      "Type": "Training Provider",
+      "Specialization": "Management apprenticeships",
+      "Workshop_Topics": "Leadership development, Digital skills",
+      "Likely_2025_Zone": "Innovation Zone"
+    },
+    {
+      "Name": "Hawk Training",
+      "Type": "Training Provider",
+      "Specialization": "Apprenticeships",
+      "Workshop_Topics": "Apprenticeship delivery, Employer engagement",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Lifetime Training",
+      "Type": "Training Provider",
+      "Specialization": "Apprenticeships and skills",
+      "Workshop_Topics": "Hospitality skills, Retail training",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Kaplan",
+      "Type": "Training Provider",
+      "Specialization": "Professional education",
+      "Workshop_Topics": "Financial services training, Professional apprenticeships",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "BPP",
+      "Type": "Training Provider",
+      "Specialization": "Professional qualifications",
+      "Workshop_Topics": "Legal apprenticeships, Accountancy training",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "Mindful Education",
+      "Type": "Training Provider",
+      "Specialization": "Leadership and management",
+      "Workshop_Topics": "Management apprenticeships, Leadership skills",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "GP Strategies",
+      "Type": "Training Provider",
+      "Specialization": "Workforce development",
+      "Workshop_Topics": "Technical training, Apprenticeship programmes",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Babcock Training",
+      "Type": "Training Provider",
+      "Specialization": "Technical training",
+      "Workshop_Topics": "Engineering apprenticeships, Technical skills",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Remit Group",
+      "Type": "Training Provider",
+      "Specialization": "Employability and skills",
+      "Workshop_Topics": "Employability programmes, Skills development",
+      "Likely_2025_Zone": "Gen Z Zone"
+    },
+    {
+      "Name": "City & Guilds",
+      "Type": "Awarding Body",
+      "Specialization": "Vocational qualifications",
+      "Workshop_Topics": "Qualification updates, Assessment methods",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Pearson",
+      "Type": "Awarding Body",
+      "Specialization": "Education and assessment",
+      "Workshop_Topics": "BTEC updates, Apprenticeship assessment",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "NOCN",
+      "Type": "Awarding Body",
+      "Specialization": "Qualifications and skills",
+      "Workshop_Topics": "Functional skills, ESOL provision",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "NCFE",
+      "Type": "Awarding Body",
+      "Specialization": "Technical and vocational quals",
+      "Workshop_Topics": "Technical qualifications, Assessment",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "OCR",
+      "Type": "Awarding Body",
+      "Specialization": "General and vocational quals",
+      "Workshop_Topics": "Cambridge Technicals, Vocational qualifications",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "VTCT",
+      "Type": "Awarding Body",
+      "Specialization": "Vocational and technical quals",
+      "Workshop_Topics": "Hair and beauty, Sport and active leisure",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "AAT",
+      "Type": "Awarding Body",
+      "Specialization": "Accounting qualifications",
+      "Workshop_Topics": "Accounting apprenticeships, Finance skills",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "Aptem",
+      "Type": "Technology Provider",
+      "Specialization": "Apprenticeship management software",
+      "Workshop_Topics": "Digital transformation, ILR management",
+      "Likely_2025_Zone": "Technology Zone, Innovation Zone"
+    },
+    {
+      "Name": "OneFile",
+      "Type": "Technology Provider",
+      "Specialization": "E-portfolio and learning management",
+      "Workshop_Topics": "Digital portfolios, Remote learning",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "Bud",
+      "Type": "Technology Provider",
+      "Specialization": "Digital learning platform",
+      "Workshop_Topics": "Digital delivery, Learning analytics",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "Smart Apprentices",
+      "Type": "Technology Provider",
+      "Specialization": "Apprenticeship management",
+      "Workshop_Topics": "Compliance management, Learner tracking",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "Credly",
+      "Type": "Technology Provider",
+      "Specialization": "Digital badging",
+      "Workshop_Topics": "Digital credentials, Micro-credentials",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "Pellcomp",
+      "Type": "Technology Provider",
+      "Specialization": "Software solutions",
+      "Workshop_Topics": "MIS systems, Data management",
+      "Likely_2025_Zone": "Innovation Zone"
+    },
+    {
+      "Name": "Tribal",
+      "Type": "Technology Provider",
+      "Specialization": "Education software",
+      "Workshop_Topics": "Student information systems, Quality management",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "Ontrack",
+      "Type": "Technology Provider",
+      "Specialization": "Learning management",
+      "Workshop_Topics": "Apprenticeship delivery, Compliance tracking",
+      "Likely_2025_Zone": "Technology Zone"
+    },
+    {
+      "Name": "UVAC",
+      "Type": "Membership Organization",
+      "Specialization": "HE vocational awards",
+      "Workshop_Topics": "Degree apprenticeships, HE-FE collaboration",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "Holex",
+      "Type": "Membership Organization",
+      "Specialization": "Adult and community learning",
+      "Workshop_Topics": "Adult education, Community learning",
+      "Likely_2025_Zone": "Gen Z Zone, Teaching Zone"
+    },
+    {
+      "Name": "Collab Group",
+      "Type": "Membership Organization",
+      "Specialization": "Leading colleges",
+      "Workshop_Topics": "College collaboration, Best practice sharing",
+      "Likely_2025_Zone": "Partnership Zone"
+    },
+    {
+      "Name": "NATSPEC",
+      "Type": "Membership Organization",
+      "Specialization": "Specialist colleges",
+      "Workshop_Topics": "SEND provision, Inclusive learning",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "NHS Employers",
+      "Type": "Sector Body",
+      "Specialization": "NHS workforce",
+      "Workshop_Topics": "Healthcare apprenticeships, NHS skills needs",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "CITB",
+      "Type": "Sector Body",
+      "Specialization": "Construction training",
+      "Workshop_Topics": "Construction skills, Industry standards",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Energy & Utility Skills",
+      "Type": "Sector Body",
+      "Specialization": "Energy sector skills",
+      "Workshop_Topics": "Green skills, Energy apprenticeships",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "ECITB",
+      "Type": "Sector Body",
+      "Specialization": "Engineering construction",
+      "Workshop_Topics": "Engineering skills, Technical training",
+      "Likely_2025_Zone": "Employer Zone"
+    },
+    {
+      "Name": "Learning and Work Institute",
+      "Type": "Research Organization",
+      "Specialization": "Employment and skills research",
+      "Workshop_Topics": "Labour market insights, Skills policy",
+      "Likely_2025_Zone": "Policy Zone, Innovation Zone"
+    },
+    {
+      "Name": "Edge Foundation",
+      "Type": "Research Organization",
+      "Specialization": "Technical education",
+      "Workshop_Topics": "VET research, Technical education policy",
+      "Likely_2025_Zone": "Policy Zone"
+    },
+    {
+      "Name": "NIESR",
+      "Type": "Research Organization",
+      "Specialization": "Economic research",
+      "Workshop_Topics": "Skills economics, Labour market analysis",
+      "Likely_2025_Zone": "Innovation Zone"
+    },
+    {
+      "Name": "Education and Training Foundation",
+      "Type": "Improvement Body",
+      "Specialization": "Workforce development",
+      "Workshop_Topics": "CPD, Teaching excellence, Professional standards",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Quality Assurance Agency",
+      "Type": "Quality Body",
+      "Specialization": "HE quality",
+      "Workshop_Topics": "Quality assurance, HE apprenticeships",
+      "Likely_2025_Zone": "Teaching & Learning Zone"
+    },
+    {
+      "Name": "Matrix Standard",
+      "Type": "Quality Body",
+      "Specialization": "IAG quality",
+      "Workshop_Topics": "Information advice guidance, Quality standards",
+      "Likely_2025_Zone": "Gen Z Zone"
+    },
+    {
+      "Name": "The Careers & Enterprise Company",
+      "Type": "Careers Organization",
+      "Specialization": "Careers education",
+      "Workshop_Topics": "Careers guidance, Employer engagement",
+      "Likely_2025_Zone": "Gen Z Zone"
+    },
+    {
+      "Name": "Career Ready",
+      "Type": "Careers Organization",
+      "Specialization": "Work experience",
+      "Workshop_Topics": "Work readiness, Employer mentoring",
+      "Likely_2025_Zone": "Gen Z Zone"
+    },
+    {
+      "Name": "CDI",
+      "Type": "Professional Body",
+      "Specialization": "Career development",
+      "Workshop_Topics": "Career guidance, Professional development",
+      "Likely_2025_Zone": "Gen Z Zone"
+    }
+  ]
+}
