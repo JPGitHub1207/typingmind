@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download Processed CSV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .download-link {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 12px 24px;
+            background-color: #4285f4;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .download-link:hover {
+            background-color: #357ae8;
+        }
+        .info {
+            background-color: #e8f0fe;
+            padding: 15px;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Processed Company Data</h1>
+        <div class="info">
+            <p><strong>File:</strong> companies_data_processed.csv</p>
+            <p><strong>Rows:</strong> 1,441 companies</p>
+            <p><strong>New Columns Added:</strong></p>
+            <ul>
+                <li>"In London or Surrounding Boroughs" (Yes/No)</li>
+                <li>"County" (County name)</li>
+            </ul>
+        </div>
+        <a href="companies_data_processed.csv" download class="download-link">⬇️ Download CSV File</a>
+        <h2>Instructions for Google Sheets:</h2>
+        <ol>
+            <li>Download the CSV file using the button above</li>
+            <li>Open your Google Sheet: <a href="https://docs.google.com/spreadsheets/d/1RwQutEFOjZWJMnZtl2MncGIkarNTLYAG2JJwOMAOGDQ/edit" target="_blank">Click here</a></li>
+            <li>Go to <strong>File → Import</strong></li>
+            <li>Click <strong>Upload</strong> and select the downloaded CSV file</li>
+            <li>Choose <strong>"Replace spreadsheet"</strong> or <strong>"Insert new sheet"</strong></li>
+            <li>Click <strong>Import data</strong></li>
+        </ol>
+    </div>
+</body>
+</html>
