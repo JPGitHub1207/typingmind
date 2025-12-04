@@ -1,472 +1,486 @@
-# Membership Tier Model Analysis
+# Membership Tier Analysis: Low Entry + Upsell Strategy
 
-## Your Proposed Model
+## Business Model Overview
 
-### Entry: £100/month (£1,200/year)
+**Strategy:** Low entry price to get people in, then upsell to higher tiers and training courses.
+
+**Three Tiers:**
+1. **Entry:** £100/month - Basic access, discount on training
+2. **Member:** £280/month - More access, free training
+3. **Growth:** £420/month - Maximum access, unlimited training
+
+**Upsell:** Training courses as additional revenue
+
+---
+
+## 💰 PRICING ANALYSIS
+
+### Tier 1: Entry - £100/month (£1,200/year)
+
+**What's Included:**
 - 1 full day event per quarter (4 per year)
-- Monthly meetups
-- 20% off training (2 half days per quarter)
+- Monthly meetups (12 per year)
+- 20% off training courses
+- 2 half-day training courses per quarter (8 per year) - at 20% discount
 
-### Member: £280/month (£3,360/year)
-- 2 places
+**Value Calculation:**
+- Full day events: 4 × £X (what's the value?)
+- Monthly meetups: 12 × £X (what's the value?)
+- Training discount: 20% off (saves money, but still pay)
+
+**Questions:**
+1. What's the perceived value of full day events?
+2. What's the perceived value of monthly meetups?
+3. What's the training course price? (Need to know discount value)
+4. Is £100/month attractive enough to get people in?
+
+**Analysis:**
+- ✅ Low barrier to entry
+- ✅ Gets people committed (monthly payment)
+- ⚠️ Need to know training course prices to assess value
+- ⚠️ 20% discount may not be enough incentive
+- ⚠️ What's the value of "monthly meetups"? (Need clarity)
+
+---
+
+### Tier 2: Member - £280/month (£3,360/year)
+
+**What's Included:**
+- 2 places (2 people can attend)
 - Rising star network (shadow, supported)
 - All training included (free)
-- 1 full day event per quarter
-- Monthly meetups
-- 2 online half days per month
+- 1 full day event per quarter (4 per year)
+- Monthly meetups (12 per year)
+- 2 online half-days per month (24 per year)
 
-### Growth: £420/month (£5,040/year)
-- 3 places
-- All above benefits
+**Value Calculation:**
+- 2 places = 2× value (good for teams)
+- Rising star network = unique value
+- Free training = significant value (if training is expensive)
+- More online training = more value
+
+**Questions:**
+1. What's "Rising star network"? (Need clarity)
+2. What's the value of "shadow, supported"?
+3. What's the training course value? (Need to know to assess "free")
+4. Is £280/month vs £100/month worth 2.8× the price?
+
+**Analysis:**
+- ✅ 2 places = good for teams
+- ✅ Free training = strong value proposition
+- ✅ More online training = more value
+- ⚠️ Need to clarify "Rising star network"
+- ⚠️ Price jump from £100 to £280 is significant (2.8×)
+- ⚠️ Need to justify the extra £180/month
+
+---
+
+### Tier 3: Growth - £420/month (£5,040/year)
+
+**What's Included:**
+- 3 places (3 people can attend)
+- All Member benefits
 - All training free
-- 6 online half days (unlimited)
+- 6 online half-days per month (unlimited) - 72+ per year
 
-**Upsell:** Training courses (additional revenue)
-
----
-
-## 🔴 CRITICAL ISSUES
-
-### 1. PRICING CONFUSION - What Are You Actually Charging?
-
-**The Problem:**
-- Entry: £100/month = £1,200/year
-- Member: £280/month = £3,360/year
-- Growth: £420/month = £5,040/year
+**Value Calculation:**
+- 3 places = 3× value (good for larger teams)
+- Unlimited online training = significant value
+- All benefits from Member tier
 
 **Questions:**
-- Is this per person or per company?
-- If per company, how many people can attend?
-- If per person, why would companies pay £420/month per person?
+1. What else could be included? (You asked "What else?")
+2. Is £420/month vs £280/month worth 1.5× the price?
+3. Is unlimited training sustainable? (Costs?)
+4. What's the value of 3 places vs 2?
 
-**Reality Check:**
-- Most networks charge **per company**, not per person
-- If per person, your prices are VERY high
-- If per company, need to clarify how many people
-
-**Recommendation:** Clarify pricing model - per company or per person?
-
----
-
-### 2. VALUE PROPOSITION IS WEAK - What's the Core Value?
-
-**The Problem:**
-- Entry tier: Just events + discount on training
-- Member tier: More events + free training
-- Growth tier: Even more events
-
-**What's Missing:**
-- **Core value proposition unclear**
-- What problem are you solving?
-- Why would they pay £100-420/month?
-- What makes this different from other networks?
-
-**Reality Check:**
-- Events alone don't justify £100-420/month
-- Training discounts aren't compelling
-- Need clearer value proposition
-
-**Recommendation:** Define core value - what's the main benefit?
+**Analysis:**
+- ✅ 3 places = good for larger teams
+- ✅ Unlimited training = strong value
+- ⚠️ Price jump from £280 to £420 is smaller (1.5×) - good
+- ⚠️ Need additional benefits to justify tier
+- ⚠️ "Unlimited" could be expensive if not managed
 
 ---
 
-### 3. "RISING STAR NETWORK" - What Is This?
+## 🎯 STRATEGY ANALYSIS: "Cheap Entry + Upsell"
 
-**The Problem:**
-- Mentioned in Member tier: "Rising star network (shadow, supported)"
-- **What does this mean?**
-- Unclear value
-- How does it work?
-- Why is it valuable?
+### Pros:
+
+1. **Low Barrier to Entry:**
+   - £100/month is accessible
+   - Gets people in the door
+   - Lower commitment risk
+
+2. **Upsell Opportunity:**
+   - People already committed
+   - Can upsell to higher tiers
+   - Can upsell training courses
+
+3. **Recurring Revenue:**
+   - Monthly payments = predictable
+   - Easier to budget
+   - Lower churn (harder to cancel)
+
+### Cons:
+
+1. **Low Revenue Per Customer:**
+   - £100/month = £1,200/year
+   - Need many customers to make money
+   - Lower margin
+
+2. **Upsell Challenge:**
+   - Not everyone will upsell
+   - Need strong value proposition
+   - Conversion rate matters
+
+3. **Training Course Economics:**
+   - If training is "free" in higher tiers, where's the revenue?
+   - Need to understand training costs
+   - Upsell to non-members?
+
+---
+
+## 💡 CRITICAL QUESTIONS
+
+### 1. Training Course Economics
 
 **Questions:**
-- Is this mentoring?
-- Is this for junior staff?
-- Is this shadowing senior leaders?
-- How is it delivered?
-- What's the format?
+- What's the price of training courses?
+- What's the cost to deliver?
+- If "free" in Member/Growth tiers, how do you make money?
+- Are you upselling to non-members?
+- What's the margin on training?
 
-**Recommendation:** Clarify what "rising star network" is and why it's valuable.
+**Analysis Needed:**
+- Training course pricing structure
+- Cost per course delivery
+- Revenue model (members vs non-members)
+- Upsell strategy
 
----
-
-### 4. TRAINING AS CORE VALUE - Risky Model
-
-**The Problem:**
-- Training is positioned as main value
-- But training is expensive to deliver
-- If "all training free" in Member/Growth, where's your margin?
-
-**Math Problem:**
-- Member: £280/month = £3,360/year
-- If you deliver 2 half days/month = 24 half days/year
-- Cost per half day: £3,360 / 24 = £140 per half day
-- But consultant fees: £500-2,000 per half day
-- **You're losing money on training**
-
-**Reality Check:**
-- "Free training" = expensive for you
-- Need to either:
-  - Charge more for membership
-  - Limit training
-  - Use cheaper trainers
-  - Make training the upsell (not included)
-
-**Recommendation:** Reconsider "free training" model - it may not be sustainable.
-
----
-
-### 5. PRICING TOO LOW OR TOO HIGH?
-
-**The Problem:**
-- Entry: £100/month = £1,200/year
-- Member: £280/month = £3,360/year
-- Growth: £420/month = £5,040/year
-
-**Comparison:**
-- CIPD: £120-200/year (much cheaper)
-- LPI: £95-195/year (much cheaper)
-- Your Entry: £1,200/year (6x more expensive)
+### 2. Value Proposition Clarity
 
 **Questions:**
-- Why would they pay 6x more than CIPD?
-- What's the value justification?
-- Is this per company or per person?
+- What's the value of "monthly meetups"?
+- What's "Rising star network"?
+- What's "shadow, supported"?
+- What's the value of full day events?
+- What's the value of online half-days?
 
-**If Per Company:**
-- £1,200-5,040/year might be reasonable
-- But need to justify value
+**Analysis Needed:**
+- Clear value proposition for each tier
+- Quantify benefits
+- Make it easy to understand
 
-**If Per Person:**
-- Way too expensive
-- Companies won't pay this per person
-
-**Recommendation:** Clarify pricing model and justify value.
-
----
-
-### 6. "UPSELL TRAINING" - But Training Is Already Included?
-
-**The Problem:**
-- Member/Growth tiers include "all training free"
-- But you want to upsell training courses
-- **Contradiction**
+### 3. Pricing Justification
 
 **Questions:**
-- If training is free, what are you upselling?
-- Additional training beyond what's included?
-- Different type of training?
-- How does this work?
+- Why £100 vs £150 vs £80?
+- Why £280 vs £250 vs £300?
+- Why £420 vs £400 vs £500?
+- What's the competition charging?
+- What's the value at each tier?
 
-**Reality Check:**
-- If training is core value, hard to upsell
-- Need to clarify what's included vs. upsell
+**Analysis Needed:**
+- Competitive analysis
+- Value-based pricing
+- Price sensitivity testing
 
-**Recommendation:** Clarify training model - what's included vs. upsell?
-
----
-
-## 🟡 MODERATE CONCERNS
-
-### 7. Event Frequency - Is This Enough?
-
-**Entry:**
-- 1 full day per quarter (4 per year)
-- Monthly meetups (12 per year)
-- **Total: 16 events/year**
-
-**Member:**
-- 1 full day per quarter (4 per year)
-- Monthly meetups (12 per year)
-- 2 online half days per month (24 per year)
-- **Total: 40 events/year**
+### 4. Upsell Conversion
 
 **Questions:**
-- Is this enough value?
-- Can you deliver this quality?
-- What's the cost per event?
+- What % will upgrade from Entry to Member?
+- What % will upgrade from Member to Growth?
+- What's the conversion rate on training upsells?
+- How do you drive upsells?
 
-**Reality Check:**
-- 40 events/year for Member tier = significant cost
-- Need to ensure quality
-- May be too much to deliver
-
----
-
-### 8. "2 Places" / "3 Places" - What Does This Mean?
-
-**The Problem:**
-- Member: "2 places"
-- Growth: "3 places"
-- **What are "places"?**
-- Places at events?
-- People who can attend?
-- Unclear
-
-**Recommendation:** Clarify what "places" means.
+**Analysis Needed:**
+- Upsell strategy
+- Conversion tactics
+- Value demonstration
 
 ---
 
-### 9. Training Delivery - How Will You Deliver?
+## 🎯 RECOMMENDATIONS
 
-**The Problem:**
-- 2 online half days per month (Member)
-- 6 online half days per month (Growth)
-- **Who delivers this?**
-- What's the cost?
-- How do you ensure quality?
+### 1. Clarify Value Propositions
 
-**Reality Check:**
-- Need trainers/consultants
-- Expensive to deliver
-- Quality control needed
+**Entry Tier - Make It Clear:**
+- "Get started with quarterly events and monthly networking"
+- "Save 20% on all training courses"
+- "Perfect for individuals getting started"
 
----
+**Member Tier - Emphasize Value:**
+- "2 places - bring a colleague"
+- "All training included - save £X per year"
+- "Rising star network - exclusive development program"
+- "24 online training sessions per year"
 
-## 🟢 WHAT COULD WORK
+**Growth Tier - Maximum Value:**
+- "3 places - bring your team"
+- "Unlimited online training"
+- "All benefits + [additional benefits]"
 
-### Potential Strengths:
+### 2. Add Value to Growth Tier
 
-1. **Tiered Model:**
-   - Good for different needs
-   - Upsell path (Entry → Member → Growth)
-   - Multiple price points
+**What Else Could Be Included:**
 
-2. **Training Included:**
-   - Could be valuable
-   - Differentiates from other networks
-   - But need to manage costs
+1. **Exclusive Access:**
+   - Private Growth tier events
+   - Exclusive speakers
+   - VIP networking
 
-3. **Multiple Touchpoints:**
-   - Events + meetups + training
-   - Regular engagement
-   - Good for retention
+2. **Additional Services:**
+   - 1:1 coaching sessions (quarterly)
+   - Priority support
+   - Custom training requests
 
----
+3. **Resources:**
+   - Exclusive resource library
+   - Templates and tools
+   - Best practice guides
 
-## 💡 RECOMMENDED MODEL (Revised)
+4. **Recognition:**
+   - Growth tier badge/certificate
+   - Featured on website
+   - Case study opportunity
 
-### Core Principle: Events + Training Upsell
+5. **Community:**
+   - Private Growth tier community
+   - Peer mentoring
+   - Mastermind groups
 
-**Don't make training "free" - make it the upsell.**
+### 3. Training Course Upsell Strategy
 
-### Entry: £100/month (£1,200/year)
-**Core Value:** Network access
-- 1 full day event per quarter (4 per year)
-- Monthly meetups (12 per year)
-- Access to online community
-- 20% discount on training courses
+**For Non-Members:**
+- Full price training courses
+- One-off purchases
+- Corporate training packages
 
-**Upsell:** Training courses (separate pricing)
+**For Entry Tier:**
+- 20% discount (as planned)
+- Upsell to Member tier for free training
 
-### Member: £200/month (£2,400/year)
-**Core Value:** Network + Some Training
-- 2 places at events
-- 1 full day event per quarter (4 per year)
-- Monthly meetups (12 per year)
-- 1 online half day training per month (12 per year) - **included**
-- Rising star network (mentoring/shadowing)
-- 50% discount on additional training
+**For Member/Growth Tiers:**
+- Training is "free" (included)
+- But: Limited to X per quarter/month
+- Upsell: Additional training at discount
 
-**Upsell:** Additional training courses
+**Revenue Model:**
+- Non-members: Full price
+- Entry members: 20% discount
+- Member/Growth: Included, but limited
+- Upsell: Additional training
 
-### Growth: £350/month (£4,200/year)
-**Core Value:** Network + More Training
-- 3 places at events
-- 1 full day event per quarter (4 per year)
-- Monthly meetups (12 per year)
-- 2 online half day training per month (24 per year) - **included**
-- Rising star network
-- Unlimited access to training library (recorded)
-- 75% discount on additional training
+### 4. Pricing Adjustments (Consider)
 
-**Upsell:** Premium training, 1-on-1 consulting
+**Option A: Current Pricing**
+- Entry: £100/month
+- Member: £280/month
+- Growth: £420/month
 
----
+**Option B: Slightly Higher Entry**
+- Entry: £120/month (20% higher)
+- Member: £300/month
+- Growth: £450/month
+- **Rationale:** Higher perceived value, still accessible
 
-## 🎯 KEY CHANGES
+**Option C: Annual Discounts**
+- Entry: £100/month or £1,000/year (save £200)
+- Member: £280/month or £3,000/year (save £360)
+- Growth: £420/month or £4,500/year (save £540)
+- **Rationale:** Lock in revenue, better cash flow
 
-### 1. Clarify Pricing Model
-- **Per company, not per person**
-- Specify how many people can attend
-- Justify value at each tier
+### 5. Upsell Tactics
 
-### 2. Training as Upsell, Not Core
-- Entry: Discount on training
-- Member: Some training included (manageable amount)
-- Growth: More training included
-- **Upsell:** Additional training courses
+**From Entry to Member:**
+- "Save £X per year on training"
+- "Bring a colleague - 2 places"
+- "Exclusive Rising star network"
+- "24 online training sessions included"
 
-### 3. Define "Rising Star Network"
-- What is it?
-- How does it work?
-- Why is it valuable?
-- How is it delivered?
+**From Member to Growth:**
+- "Bring your team - 3 places"
+- "Unlimited online training"
+- "Additional exclusive benefits"
+- "Maximum value"
 
-### 4. Justify Pricing
-- Why £1,200-4,200/year?
-- What's the value?
-- How does it compare to alternatives?
-
-### 5. Manage Training Costs
-- Don't make all training "free"
-- Limit included training
-- Make additional training upsell
-- Control costs
-
----
-
-## 💰 FINANCIAL MODEL
-
-### Revised Model:
-
-**Entry: £100/month (£1,200/year)**
-- Revenue: £1,200 per company
-- Costs: 4 events + 12 meetups = ~£2,000-3,000 per company
-- **Margin: Negative (need to limit costs or charge more)**
-
-**Member: £200/month (£2,400/year)**
-- Revenue: £2,400 per company
-- Costs: 4 events + 12 meetups + 12 half day training = ~£5,000-8,000
-- **Margin: Negative (training is expensive)**
-
-**Growth: £350/month (£4,200/year)**
-- Revenue: £4,200 per company
-- Costs: 4 events + 12 meetups + 24 half day training = ~£10,000-15,000
-- **Margin: Very negative**
-
-**The Problem:** Training is too expensive to include "free"
-
-**Solution:** Limit included training, make rest upsell
+**Training Course Upsells:**
+- "Members get 20% off"
+- "Upgrade to Member for free training"
+- "Limited time offer"
+- "Popular course - book now"
 
 ---
 
-## 🎯 RECOMMENDED PRICING
+## 📊 FINANCIAL MODEL CONSIDERATIONS
 
-### Option 1: Events-Focused (Lower Training)
+### Revenue Scenarios
 
-**Entry: £150/month (£1,800/year)**
-- 4 full day events per year
-- 12 monthly meetups
-- Online community
-- 20% off training
+**Scenario 1: Low Conversion**
+- 50 Entry members × £100 = £5,000/month
+- 10 Member members × £280 = £2,800/month
+- 5 Growth members × £420 = £2,100/month
+- **Total: £9,900/month = £118,800/year**
+- Training upsells: £20,000/year
+- **Total Revenue: £138,800/year**
 
-**Member: £300/month (£3,600/year)**
-- 2 places
-- 4 full day events
-- 12 monthly meetups
-- 1 online half day training per quarter (4 per year) - **included**
-- Rising star network
-- 50% off additional training
+**Scenario 2: Medium Conversion**
+- 30 Entry members × £100 = £3,000/month
+- 20 Member members × £280 = £5,600/month
+- 10 Growth members × £420 = £4,200/month
+- **Total: £12,800/month = £153,600/year**
+- Training upsells: £40,000/year
+- **Total Revenue: £193,600/year**
 
-**Growth: £500/month (£6,000/year)**
-- 3 places
-- 4 full day events
-- 12 monthly meetups
-- 1 online half day training per month (12 per year) - **included**
-- Rising star network
-- Training library access
-- 75% off additional training
+**Scenario 3: High Conversion**
+- 20 Entry members × £100 = £2,000/month
+- 30 Member members × £280 = £8,400/month
+- 20 Growth members × £420 = £8,400/month
+- **Total: £18,800/month = £225,600/year**
+- Training upsells: £60,000/year
+- **Total Revenue: £285,600/year**
 
-**Upsell:** Training courses (£500-2,000 per course)
+### Cost Considerations
 
-### Option 2: Training-Focused (Higher Price)
+**Fixed Costs:**
+- Full day events: £X per event × 4 per year
+- Monthly meetups: £X per meetup × 12 per year
+- Online training: £X per session
+- Platform/tech: £X per month
+- Your time: £X per month
 
-**Entry: £200/month (£2,400/year)**
-- 4 full day events
-- 12 monthly meetups
-- 20% off training
+**Variable Costs:**
+- Training delivery costs
+- Speaker fees
+- Materials
+- Marketing
 
-**Member: £400/month (£4,800/year)**
-- 2 places
-- 4 full day events
-- 12 monthly meetups
-- 2 online half day training per quarter (8 per year) - **included**
-- Rising star network
-- 50% off additional training
-
-**Growth: £600/month (£7,200/year)**
-- 3 places
-- 4 full day events
-- 12 monthly meetups
-- 1 online half day training per month (12 per year) - **included**
-- Rising star network
-- Training library
-- 75% off additional training
-
-**Upsell:** Premium training, consulting
+**Break-Even Analysis:**
+- Need to calculate based on your costs
+- How many members to break even?
+- What's the margin?
 
 ---
 
-## 🚨 CRITICAL QUESTIONS TO ANSWER
+## 🚨 CRITICAL ISSUES TO ADDRESS
 
-1. **Pricing Model:**
-   - Per company or per person?
-   - How many people can attend?
+### 1. Training Course Economics
 
-2. **Core Value:**
-   - What's the main benefit?
-   - Why would they pay this?
+**Problem:** If training is "free" in Member/Growth tiers, where's the revenue?
 
-3. **Training Model:**
-   - What's included vs. upsell?
-   - How do you manage costs?
+**Solutions:**
+- Limit number of "free" training sessions
+- Upsell additional training
+- Focus on non-member training sales
+- Corporate training packages
 
-4. **Rising Star Network:**
-   - What is it?
-   - How does it work?
-   - Why is it valuable?
+### 2. Value Clarity
 
-5. **Financial Viability:**
-   - What are your costs?
-   - What's your margin?
-   - Does the math work?
+**Problem:** Unclear value propositions (e.g., "Rising star network")
 
----
+**Solutions:**
+- Define clearly what each benefit means
+- Quantify value
+- Make it easy to understand
+- Test with potential customers
 
-## ✅ FINAL RECOMMENDATION
+### 3. Upsell Conversion
 
-### Don't Make Training "Free" - Make It Upsell
+**Problem:** Not everyone will upsell
 
-**Better Model:**
+**Solutions:**
+- Strong value proposition
+- Clear upgrade path
+- Demonstrate value
+- Make it easy to upgrade
 
-**Entry: £150/month**
-- Core network (events + meetups)
-- 20% off training
+### 4. Pricing Justification
 
-**Member: £300/month**
-- Core network
-- Limited training included (manageable)
-- Rising star network
-- 50% off additional training
+**Problem:** Why these prices?
 
-**Growth: £500/month**
-- Core network
-- More training included (still manageable)
-- Rising star network
-- Training library
-- 75% off additional training
-
-**Upsell:** Training courses (£500-2,000 per course)
-
-**Why This Works:**
-- ✅ Training is upsell (additional revenue)
-- ✅ Included training is limited (manageable costs)
-- ✅ Clear value at each tier
-- ✅ Upsell path exists
-- ✅ Financial model works
+**Solutions:**
+- Competitive analysis
+- Value-based pricing
+- Test with customers
+- Adjust based on feedback
 
 ---
 
-## 💬 NEXT STEPS
+## ✅ RECOMMENDED NEXT STEPS
 
-1. **Clarify pricing model** - Per company or per person?
-2. **Define core value** - What's the main benefit?
-3. **Clarify "rising star network"** - What is it?
-4. **Revise training model** - Limit included, make rest upsell
-5. **Create financial model** - Prove the math works
-6. **Test pricing** - Validate with customers
+### 1. Clarify Value Propositions
+
+**Action:**
+- Define "Rising star network" clearly
+- Quantify value of each benefit
+- Create clear tier descriptions
+- Test with potential customers
+
+### 2. Calculate Training Economics
+
+**Action:**
+- Determine training course prices
+- Calculate delivery costs
+- Model revenue from training
+- Plan upsell strategy
+
+### 3. Test Pricing
+
+**Action:**
+- Test with 5-10 potential customers
+- Ask: "Would you pay £X for this?"
+- Test different price points
+- Adjust based on feedback
+
+### 4. Develop Upsell Strategy
+
+**Action:**
+- Create upgrade path
+- Develop upsell messaging
+- Plan conversion tactics
+- Test and iterate
+
+### 5. Financial Modeling
+
+**Action:**
+- Calculate costs
+- Model revenue scenarios
+- Determine break-even
+- Plan for growth
 
 ---
 
-*The model has potential, but needs clarification on pricing, value proposition, and training costs. Don't make training "free" - make it the upsell.*
+## 💬 FINAL THOUGHTS
+
+### What Works:
+
+✅ **Low entry price** - Gets people in
+✅ **Clear upgrade path** - Entry → Member → Growth
+✅ **Recurring revenue** - Monthly payments
+✅ **Upsell opportunity** - Training courses
+
+### What Needs Work:
+
+⚠️ **Value clarity** - Define benefits clearly
+⚠️ **Training economics** - Need to understand revenue model
+⚠️ **Pricing justification** - Test with customers
+⚠️ **Upsell conversion** - Need strategy
+
+### Key Questions to Answer:
+
+1. What's the value of each benefit?
+2. What's the training course pricing?
+3. What's the cost to deliver?
+4. What's the upsell conversion rate?
+5. What's the break-even?
+
+**Bottom Line:** The model has potential, but needs clarity on value propositions and training economics. Test with customers before launching.
+
+---
+
+*The "cheap entry + upsell" strategy can work, but you need to:*
+1. *Clarify value propositions*
+2. *Understand training economics*
+3. *Test pricing with customers*
+4. *Develop strong upsell strategy*
