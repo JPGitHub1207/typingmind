@@ -1,16 +1,22 @@
 # Four Corners research
 
-## Peer exchange / Corner model (August 2026)
+## Read this first (13 August 2026)
 
-Fresh strategic review of a 10–12 person facilitated peer-group (“Corner”) model for UK L&D, HR, People, Talent and OD professionals.
+The live strategic question is **what company Four Corners is**, not how to price a community.
 
-**Do not treat any earlier Four Corners business model as given.** This review challenges the concept, tests paid vs sponsored vs hybrid economics, and recommends a launch model.
+| File | Role |
+|---|---|
+| [Four_Corners_Economic_Engine_Decision.md](Four_Corners_Economic_Engine_Decision.md) | **Current recommendation.** Identity vs cash engine. Kill-test of the “independent learning intelligence” catalogue. Glenister/iVentiv access vs buyer-paid Decision Reviews. |
+| [Four_Corners_Peer_Exchange_Corner_Model_Report.md](Four_Corners_Peer_Exchange_Corner_Model_Report.md) | Prior Corner report. Use for market sizing and analogues. Do **not** use its membership-company recommendation. |
+
+## Data
 
 | File | Contents |
 |---|---|
-| [Four_Corners_Peer_Exchange_Corner_Model_Report.md](Four_Corners_Peer_Exchange_Corner_Model_Report.md) | Full report (20 sections + Questions for James) |
-| [data/audience_analysis.csv](data/audience_analysis.csv) | Audience sizing and attractiveness |
+| [data/value_creation_vs_payer.csv](data/value_creation_vs_payer.csv) | Four value sources + access/MLS: who pays |
+| [data/strategic_options.csv](data/strategic_options.csv) | Options A community / B access / C catalogue / D decision engine |
+| [data/audience_analysis.csv](data/audience_analysis.csv) | Audience sizing |
 | [data/analogue_comparison.csv](data/analogue_comparison.csv) | Competitor / analogue comparison |
-| [data/financial_scenarios.csv](data/financial_scenarios.csv) | Six financial scenarios at 100–1,000 members |
+| [data/financial_scenarios.csv](data/financial_scenarios.csv) | Membership-framed scenarios (superseded as a plan; still useful as club economics) |
 
 Live product context: [fourcornersclub.co.uk](https://www.fourcornersclub.co.uk/).

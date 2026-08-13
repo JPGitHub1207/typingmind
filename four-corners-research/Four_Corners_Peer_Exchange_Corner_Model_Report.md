@@ -3,6 +3,8 @@
 **Independent commercial review**  
 13 August 2026
 
+**Superseded recommendation.** This report’s market sizing, analogue notes and iVentiv analysis still stand. Its conclusion that Four Corners should be a **paid membership community** does not. See the follow-on decision memo: [Four_Corners_Economic_Engine_Decision.md](Four_Corners_Economic_Engine_Decision.md).
+
 This is a fresh assessment of a 10–12 person facilitated peer-group product (“a Corner”). It does not assume the previous Four Corners service list, price point or TAM framing is correct.
 
 Evidence is labelled throughout:
