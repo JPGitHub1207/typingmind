@@ -1,0 +1,36 @@
+audience,evidence_type,metric,value,unit,period,source,notes
+HR_managers_directors,verified,UK employment,217300,people,2019 APS (SOC 2010 1135),CIPD analysis of ONS APS,Dated; SOC 2010. Latest 4-digit APS 2025 not extracted in this project.
+HR_related_four_SOC_codes,verified,UK employment,562000,people,2019 APS,CIPD 2020,Includes managers 1135; officers 3562; trainers 3563; HR admin 4138.
+HR_managers_directors,verified,UK employment,131100,people,2011 APS,CIPD 2020,+66% to 2019.
+CIPD_members_global,verified,membership,165000,people,year to 30 Jun 2025,CIPD Annual Report 2024-25,c165k.
+CIPD_members_UK,verified,membership,144577,people,year to 30 Jun 2025,CIPD Annual Report 2024-25,UK-based members.
+CIPD_chartered_member_fee,verified,annual fee,231,GBP,Jul 2026-Jun 2027,CIPD membership fees page,Associate/Foundation £199; Student £118; joining fee £40.
+ASHE_HR_managers_median_pay,verified,median gross annual earnings,54474,GBP,2025 provisional,Third-party compilation of ONS ASHE 2025 SOC 1136,Treat as directional; confirm against ONS ad-hoc 3145 if using in a board pack.
+ASHE_HR_managers_London_median,verified,median gross annual earnings,66725,GBP,2025,Same ASHE compilation,London.
+UK_enterprises_250plus,verified,enterprises,11415,organisations,March 2025,ONS/Nomis UK Business Counts NM_142_1,All legal statuses.
+UK_enterprises_250_499,verified,enterprises,5485,organisations,March 2025,Nomis NM_142_1,
+UK_enterprises_500_999,verified,enterprises,2900,organisations,March 2025,Nomis NM_142_1,
+UK_enterprises_1000plus,verified,enterprises,3030,organisations,March 2025,Nomis NM_142_1,
+UK_private_large_BPE,verified,businesses,8335,organisations,start 2025,DBT BPE 2025,Excludes government and not-for-profit.
+London_SE_share_250plus_HQ,calculated,share,0.372,proportion,March 2025,Nomis regional extract,2570+1680 / 11415.
+Heads_of_LD_in_250plus_orgs,estimated,people,4000-8000,people,2026,Derived from org counts x dedicated L&D incidence,Not a census. CIPD 2020: large orgs usually have an L&D function; 250-999 median team 4.
+Talent_leaders_named,estimated,people,2500-5000,people,2026,Informed assumption,Often combined with L&D/HR below ~2000 employees. Unknown without LinkedIn scrape.
+OD_specialists_inhouse,estimated,people,1500-4000,people,2026,Informed assumption,Small specialist field; CIPD launched national OD&D network because the audience is thin and previously London-centric.
+HRD_CHRO_UK_250plus,estimated,people,8000-11000,people,2026,Roughly 1 per 250+ enterprise minus some shared services,Many 250-499 have HR Manager not HRD.
+Learning_Technologies_visitors,verified,claimed attendance,15000,people,2026 edition,Learning Technologies / Learning News,Exhibition claim; not independently audited here.
+CIPD_Festival_of_Work,verified,claimed attendance,12500,people,2026,festivalofwork.com,Marketing figure.
+Talent_and_Leadership_Club,verified,membership,2000,people,site 2026,talentandleadership.co.uk,Free; in-house only; 35 countries; founded 2010.
+iVentiv_events_lifetime,verified,events,300+,events,18 years,iventiv.com,Also states 93% all-time satisfaction.
+iVentiv_max_delegates,verified,cap,40,people,current,iventiv.com FAQ,
+iVentiv_org_threshold,verified,employees,10000+,employees,current,iventiv.com FAQ,VP/Director; HQ; global/regional remit.
+World50_reported_fee,informed_secondary,annual fee,50000,USD,reported 2024-26,Community Inc / secondary journalism,Not a World50 price list. Eligibility $1bn+ revenue.
+Chief_core_VP_fee,informed_secondary,annual fee,5900,USD,2024-26,Bizjournals 2024; secondary 2026 commentary,Public list historically ~$5,900 VP / $7,500 coaching. Confirm current.
+Vistage_CEO_US_dues,informed_secondary,annual dues,16500,USD,2026 reviews,Independent reviews not Vistage UK list,Plus ~$2,500 initiation. UK CEO list price not published.
+Vistage_UK_Emerging_Leaders,verified,annual fee,3600,GBP,product sheet,pages.vistage.co.uk HubSpot PDF,Emerging Leaders programme not CEO group.
+Evanta_CHRO_member_price,verified,member fee,0,GBP,current,Fortune/Yahoo 2024 citing Evanta; evanta.com,Complimentary if C-suite and typically $500m+ revenue. Sponsor-funded.
+SHRM26_roundtable_sponsor,verified,sponsorship,35000,USD,2026,annual.shrm.org/sponsorships,Includes up to 3 min remarks; badge scans shared.
+FETC_leadership_roundtables,verified,sponsorship,15950,USD,2025,events.fetc.org sponsorship gallery,
+HRO_Today_bronze,verified,sponsorship_from,10000,USD,2026,HRO Today Forum prospectus,
+Gartner_CHRO_GCloud_seat,verified,annual licence,24100,GBP,Digital Marketplace,G-Cloud listing GCHROTLAE,One published public-sector price point; commercial varies.
+CIPD_L_and_D_budget_owner_large,verified,share,0.31,proportion,2020 survey,CIPD Learning and Skills at Work 2020,L&D owns budget in 31% of large orgs. Material for WTP.
+ESS_external_fees,verified,UK total,3.8,GBP billion,2024,DfE Employer Skills Survey 2024,7% of £53bn training spend.
