@@ -16,3 +16,15 @@ unpaid_40x350,350,40,14000,4800,300,700,400,6200,7800,3800,56,yes,Uses founder c
 star_40x350,350,40,14000,4800,15000,700,400,20900,-6900,-10900,-49,yes,Jennings-class commercial fees cannot sit under a £350 ticket.
 halfday_40x350,350,40,14000,4000,1500,700,300,6500,7500,3500,54,yes,Chiswell-class lunch min-spend analogue. Matches current 14:30-17:00 shape better than a full training day.
 coldcac_40x350,350,40,14000,4800,1500,700,6400,13400,600,-3400,4,yes,Adds £150 CAC x 40. Paid ads make this a bad business. Warm list is mandatory.
+actual_25x250,250,25,6250,2000,1000,313,400,3713,2537,-1463,41,yes,Founder venue+speaker costs. Thin after labour.
+actual_25x350,350,25,8750,2000,1000,438,400,3838,4912,912,56,yes,Works as a practice date. Do not build the year on 25 heads.
+actual_30x350,350,30,10500,2000,1000,525,400,3925,6575,2575,63,yes,First honest paid-fill target under actual costs.
+actual_40x250,250,40,10000,2000,1000,500,400,3900,6100,2100,61,yes,Undercut ticket still contributes because venue is cheap. Fill remains the risk.
+actual_40x350,350,40,14000,2000,1000,700,400,4100,9900,5900,71,yes,Previous memo's 40x350 with real costs. Contribution nearly 50% higher than the £120pp venue model.
+actual_40x400,400,40,16000,2000,1000,800,400,4200,11800,7800,74,yes,Better default. Still cheaper than Hemsley Fraser.
+actual_50x250,250,50,12500,2000,1000,625,400,4025,8475,4475,68,borderline,Package sized for 50. Intimacy is the constraint not cost.
+actual_50x350,350,50,17500,2000,1000,875,400,4275,13225,9225,76,borderline,ChatGPT 40x350 example beaten by 50x350 at actual costs. £13.2k cash contribution.
+actual_50x400,400,50,20000,2000,1000,1000,400,4400,15600,11600,78,borderline,Strong date if filled. USP is 5-6 tables not a circle.
+actual_50x500,500,50,25000,2000,1000,1250,400,4650,20350,16350,81,borderline,Do this if buyers treat it as training. Do not need to undercut.
+actual_50x350_fb_extra,350,50,17500,3250,1000,875,400,5525,11975,7975,68,borderline,Sensitivity: £2k room plus £25pp canapés/drinks if F&B is extra.
+actual_50x350_speakers_revert,350,50,17500,2000,3000,875,400,6275,11225,7225,64,borderline,If £500 launch fees become £1.5k each after proof. Still fine. Bureau £3k each would be £8k speakers.

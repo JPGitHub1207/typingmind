@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** the format can be a small events company at ~40 paid heads and **£400–£500 + VAT** with network-rate contributors. It is not a substitute for a £500–£850 open course, and it is not a year-1 multi-brand portfolio. Complimentary 25 August 2026 is not the paid-fill test.
+**Working conclusion:** with founder-quoted costs (Chiswell **£2k / 50**, speakers **£500** each) a paid date can contribute ~**£10–13k** cash at 40–50 × £350. The constraint is fill, independence, and 50-person intimacy — not venue maths. Complimentary 25 August is still not the paid test. Do not launch four brands. **No-suppliers:** do not put sellers in the Corner; a quiet sponsor that never enters the discussion is a different trade.
 
 | File | Contents |
 |---|---|

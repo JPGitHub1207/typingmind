@@ -16,9 +16,11 @@ This is not a yes. It is also not the old no.
 
 The educational architecture is a real product. It is closer to an **events company** than to a membership, a peer network, a training provider, or a multi-brand portfolio.
 
-It can be a profitable practice **if, and only if**, a warm list fills a **paid** room.
+This can be a profitable practice **if, and only if**, a warm list fills a **paid** room.
 
-It is **not** a clever undercut of a £500–£850 open training day. That comparison is the weakest part of the hypothesis. Those products do different jobs. Commodity one-day public courses in London already sell at **£490** (PTP). **Verified**, ptp.co.uk, August 2026 dates. Hemsley Fraser public programmes start at **£625 + VAT**. **Verified**, hemsleyfraser.com schedule 2025/26. CIPD Festival of Work 2026 is **free** in person. **Verified**. iVentiv is **free** for the senior L&D people the current site invites. **Verified**.
+**Founder-quoted year-1 costs change the P&L, not the fill test.** Chiswell at **£2,000 for 50** and two speakers at **£500** each means 50 × £350 can contribute about **£13,200** cash (**calculated**, section 12). The old £120/pp venue model was conservative relative to the deal you have. It was not wrong as a *market* rate; you appear to have beaten it.
+
+It is **not** a clever undercut of a £500–£850 open training day. That comparison remains the weakest part of the hypothesis.
 
 So: do not lead with “cheaper than a training day, better venue, better talks.” Lead with “a room of the right people, designed as learning, in a place you would actually want to spend an afternoon.” Price for contribution, not for a discount story.
 
@@ -219,19 +221,19 @@ The educational IP (contributor → idea → small-group interrogation → lived
 
 **Company:** Four Corners as a **small events and learning-design practice**. One brand. One list until it repeats.
 
-**Default offer:** weekday **half or full day**, 28–40 people, Chiswell-class room, two provoked conversations, facilitated interrogation, named takeaway, optional Corner for people who want to continue (priced separately, later).
+**Default offer:** weekday afternoon, **up to 50** at Chiswell, two provoked conversations, facilitated interrogation at tables, named takeaway, **optional** monthly Corner for people who want to continue.
 
-**Default price:** **£400–£500 + VAT**, not £250. Employer-paid. No undercut story.
+**Default price:** **£350–£450 + VAT** is now arithmetically fine. **£400 + VAT** is still the better *sale* than £250. The cost base no longer forces £500.
 
-**Default contributor cost:** network / associate rate or expenses. If a name like Jennings is coming, treat it as a **launch gift**, not a cost model.
+**Default contributor cost:** **£500** is a launch rate. Put **three dates** in writing. After proof, budget **£1,000–£1,500** each so a successful concept does not inflate overnight.
 
 **Year-1 volume:** 4–6 dates. If 4 dates fail to average 30 paid, stop. If they average 35+ and NPS is high, add dates before adding verticals.
 
 **Kill-tests (any one is enough to stop or reprice):**
 
-1. Cannot get **30 paid** at £400 for the first charged date.
+1. Cannot get **30 paid** at £350–£400 for the first charged date.
 2. Need bureau speakers to fill.
-3. Need sponsors, and you still want to claim independence.
+3. Suppliers sit in the **Corner**, or get 1-2-1s, and you still claim “built for trust, not access.”
 4. The only way to “scale” is a 75-person room.
 5. You feel the need to launch a second brand because the first list is thin. That is not scale. That is avoidance.
 
@@ -251,4 +253,100 @@ The educational IP (contributor → idea → small-group interrogation → lived
 - Hire Space — Science Gallery DDR £79 + VAT min 40; Chiswell Samuel lunch min spend £4,000  
 - tobecome.org — Become Coaching Conference 26 Sep 2026, St Ermins, peer circles  
 - agencyhackers.com/events — 2026 live calendar  
-- Prior repo memos on peer-exchange / economic-engine / agency-owner branches — membership and agency kill-tests used as evidence only  
+- Prior repo memos on peer-exchange / economic-engine / agency-owner branches — membership and agency kill-tests used as evidence only
+
+---
+
+## 12. Founder-quoted costs (14 August 2026)
+
+New primary numbers from James, not from venue listings:
+
+| Line | Amount | Status |
+|---|---|---|
+| Chiswell Street Dining Rooms, 50 people | **£2,000** | **Founder-quoted.** Unknown whether food and drink sit inside the £2k |
+| Two speakers | **£500 each** | **Founder-quoted.** Launch rate because the concept is new |
+| Claimed speaker day rates | **£10k–£20k** | Treat as **marketing**, not as your avoided cost. People who regularly clear that do not take £500 for a new club |
+
+£2,000 / 50 = **£40 per head**. **Calculated.** The ETM group dining menu is **£30 / £35** for two / three courses **before** room hire and service. **Verified.** So £2k all-in is a **strong deal for a canapé-and-drinks afternoon**, and tight if it is meant to be a sit-down lunch. Confirm in writing: room only, or room + canapés + wine. Sensitivity if F&B is extra at £25/head: venue-equivalent **£3,250**, 50 × £350 contribution still about **£12,000**. **Calculated.**
+
+### 12.1 Recast P&L (ex-VAT)
+
+Fixed cash: venue **£2,000** + speakers **£1,000** + other **£400** + 5% card fees.
+
+| Paid heads | Ticket | Revenue | Cash cost | Contribution | After 4 founder days at £1k |
+|---|---:|---:|---:|---:|---:|
+| 25 | £350 | 8,750 | 3,838 | **4,912** | 912 |
+| 30 | £350 | 10,500 | 3,925 | **6,575** | 2,575 |
+| 40 | £350 | 14,000 | 4,100 | **9,900** | 5,900 |
+| 50 | £350 | 17,500 | 4,275 | **13,225** | 9,225 |
+| 50 | £400 | 20,000 | 4,400 | **15,600** | 11,600 |
+| 40 | £250 | 10,000 | 3,900 | **6,100** | 2,100 |
+
+**Calculated** from `data/event_unit_economics.csv` rows prefixed `actual_`.
+
+This is a different business from the conservative model. Event-level contribution is **no longer the constraint** once 30 people pay. Fill is. So is whether £500 speakers remain £500 after the second date.
+
+On the £10–20k day-rate point: agreed. Bureau cards are asking prices. Regular clearing of £10k is a small set of names. £500 for a new room is rational for a practitioner who wants a good audience. It is **launch pricing**. If Four Corners works, they will update. Contract **three dates at £500** or budget a step-up. Even at **£1,500 each** (£3,000 speakers) a 50 × £350 date still contributes about **£11,200**. **Calculated.** The undercut thesis does not depend on forever-£500 speakers. It would die if you started paying true bureau rates.
+
+### 12.2 Fifty people versus the intimacy USP
+
+£2k is priced for **50**. That pulls you to fill 50.
+
+50 is not a conference. It is also not a 12-person Glenister dinner. iVentiv caps at **40**. At 50 you are running **five or six tables**, not one conversation. Honesty can survive if you **facilitate the tables** and keep plenary short. It does not survive if 50 people face a stage. Design for 50 as table-work or the venue deal will quietly change the product.
+
+Do not add a 75-person date because the contribution looks nicer.
+
+### 12.3 Monthly Corners are not “little to no cost”
+
+Cash: Zoom, a WhatsApp, maybe a side room. Near zero. **Agreed.**
+
+The cost is **you**.
+
+If 40% of a 50-person room opt in (20 people, **estimated**), that is two groups of 10. Ninety minutes plus scheduling, notes, no-shows: about **four to six hours a month**. That is **six to nine founder-days a year** if it runs. At a £1,000 day that is **£6–9k** of labour you are bundling into the ticket. Fine if it creates repeat purchase and a list. Not fine if you describe it as free infrastructure.
+
+Rules that keep Corners cheap and clean:
+
+- Optional, not promised to all 50.
+- Time-boxed: **three sessions** after each gathering, then they re-join at the next paid date or stop.
+- You facilitate. Contributors do not. Suppliers **do not**.
+- No obligation to produce “research outputs” until someone pays for that separately.
+
+Corners are the right *after-event* product. They are how a £350 ticket feels like more than a PTP day. They are also how a one-person events company becomes an unpaid membership ops job. Cap them.
+
+### 12.4 Relaxing “no suppliers” — do not smudge this
+
+The live FAQ currently says there are **no exhibition stands, supplier presentations or sales pitches**. **Verified**, fourcornersclub.co.uk.
+
+iVentiv’s engine is the opposite: free delegates, sponsors buy 1-2-1s and contact details. **Verified.**
+
+If you put suppliers in the room so attendees “get much more,” name **who** gets more.
+
+| Design | Attendee gets | Supplier gets | What you can still say |
+|---|---|---|---|
+| **A. Hard no** (current site) | Honesty | Nothing | Trust, not access |
+| **B. Quiet underwriter** | Same room, maybe better F&B / funded Corners | Logo, a drinks reception **after** the discussion, no list, no 1-2-1s, not in Corners | Mostly trust. Disclose the underwriter |
+| **C. Contributor who happens to sell** | A talk | Pipeline if they are any good at the coffee break | You are already grey. Curate the talk, forbid the pitch |
+| **D. iVentiv-lite** | Free or cheap ticket | Access | You are an access business. Stop saying independence |
+
+**B is the only relaxation I would take** while keeping the values you wrote down. Attendees then *do* get more (Corners that you can afford to run well; hospitality that is not squeezed). Suppliers get a brand in a room they cannot hunt. That is a worse deal for them than iVentiv, which is why you will not raise iVentiv money this way — and that is the point.
+
+**D is how the £2k venue and £500 speakers start to look like a loss-leader for someone else’s pipeline.** You have run training companies. You know what that feels like from the other side.
+
+Do not put suppliers in the **Corner**. That is the Glenister line. A sponsored dinner of 10–12 at £10k was access. A monthly peer group with a vendor in it is the same product with worse wine.
+
+If a supplier is also a genuine provocateur, they can take a **contributor** slot under the same £500 and the same “no pitch” rule as everyone else. That is C, used sparingly, named on the agenda as a practitioner, not as “partner.”
+
+### 12.5 “They are getting much much more”
+
+Bundle that is honest at these costs:
+
+- Chiswell afternoon (deal you already have)
+- Two contributors at £500
+- Educational table design (your actual IP)
+- Three optional Corners
+
+That **is** more than a PTP £490 skills day, and more than a free CIPD walkabout, for a different job. You do not need suppliers in the discussion to make that sentence true. You need **30 people to pay**.
+
+Price: **£350 + VAT** is now defensible on cost. **£400 + VAT** is still what I would print, because you are selling the room and the design, not a discount. £250 is optional only as an early-bird for the first paid date.
+
+First charged date kill-test, updated: **30 paid at £350–£400**, not “50 invited to a complimentary.” The venue deal makes 50 a **target**, not a minimum for the P&L. 30 already contributes.  
