@@ -1,0 +1,7 @@
+segment,employees,likely_fee_income_gbp,owner_role,management,isolation,ability_to_pay,diary,wtp_vs_ah,recommended
+micro,1-4,mostly under £250k (ONS 0-4 is 83% of ad+PR enterprises),player-coach / freelancer with a Ltd,none,high,low - CIPD/PRCA/free Slack,erratic,will not pay £3k,kill
+small,5-9,often £250k-£1m,still delivers client work,maybe an AM,high,weak-moderate,poor,£500-£1500 if anything,not first
+growth,10-19,often £0.75m-£2m,founder is MD and rainmaker,thin leadership,very high,moderate - company can expense £2-4k,still client-heavy,best overlap with Agency Hackers Standard,only if launching
+established_independent,20-49,often £2m-£8m,founder still active; some have ops/FD,forming leadership team,high on P&L/exit,strongest WTP £3-8k,better if they have a deputy,best commercial segment,recommended IF launch
+larger_independent,50-99,often £5m-£15m,founder or hired MD,real exec team,lower isolation,can pay Vistage/AH Large £5.4k,can attend,already have options,later
+network_or_100plus,100+,£10m+,professional management / network,board,low for this product,pay for analysts not peers,protected diaries,wrong product,kill

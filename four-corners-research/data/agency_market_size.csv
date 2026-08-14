@@ -1,0 +1,18 @@
+sic,description,emp_0_4,emp_5_9,emp_10_19,emp_20_49,emp_50_99,emp_100_249,emp_250plus,total,source,evidence
+73.11,Advertising agencies,14465,1355,775,535,210,85,60,17485,ONS UK business 2025 Table 4 March 2025,verified_rounded_base_5
+70.21,Public relations and communication activities,5170,455,280,175,45,25,5,6155,ONS UK business 2025 Table 4 March 2025,verified_rounded_base_5
+73.12,Media representation,3345,240,135,70,30,15,15,3850,ONS UK business 2025 Table 4 March 2025,verified_rounded_base_5
+73.20,Market research and public opinion polling,2055,225,205,150,75,35,30,2775,ONS UK business 2025 Table 4 March 2025,verified_rounded_base_5_not_core_TAM
+74.10,Specialised design activities,21430,1445,655,315,60,15,0,23920,ONS UK business 2025 Table 4 March 2025,verified_too_broad_for_agency_TAM
+73.11_plus_70.21,Core advertising + PR enterprises,19635,1810,1055,710,255,110,65,23640,Sum of ONS Table 4,calculated
+core_5_to_99,Core 5-99 employees (payer-ish band),0,1810,1055,710,255,0,0,3830,Sum of ONS bands,calculated
+core_10_to_49,Core 10-49 employees (recommended if launching),0,0,1055,710,0,0,0,1765,Sum of ONS bands,calculated
+core_london,Advertising+PR enterprises in London,0,0,0,0,0,0,0,8000,ONS Table 2 London 5600+2400,calculated
+core_london_se,Advertising+PR London + South East,0,0,0,0,0,0,0,11995,ONS Table 2,calculated
+ad_turnover_1m_plus,Advertising agencies turnover £1m+,0,0,0,0,0,0,0,2095,ONS Table 9 800+645+270+270+110,calculated
+pr_turnover_1m_plus,PR enterprises turnover £1m+,0,0,0,0,0,0,0,505,ONS Table 9 220+170+55+50+10,calculated
+core_turnover_1m_to_10m,Ad+PR £1m-£9.999m turnover,0,0,0,0,0,0,0,2160,ONS Table 9,calculated
+core_turnover_500k_to_10m,Ad+PR £0.5m-£9.999m turnover,0,0,0,0,0,0,0,3865,ONS Table 9,calculated
+agency_by_agency_mapped,ML-mapped UK agencies all specialisms,0,0,0,0,0,0,0,25667,Agency by Agency Nov 2025 with The Data City,verified_broader_and_overlapping
+agency_by_agency_100plus,Mapped agencies with 100+ people,0,0,0,0,0,0,0,401,Agency by Agency Nov 2025,verified
+ipa_member_headcount,IPA member agency employees 1 Sep 2025,0,0,0,0,0,0,0,24963,IPA Agency Census 2025,verified_members_only

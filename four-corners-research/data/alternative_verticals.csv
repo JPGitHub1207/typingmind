@@ -1,0 +1,9 @@
+vertical,ons_enterprises,isolation,shared_problems,ability_to_pay,sponsor_attractiveness,competitive_intensity,peer_suitability,acquisition_ease,overall,notes
+marketing_pr_agencies,23640 (73.11+70.21),high,high,moderate-high,high (software accountants recruiters),very high - Agency Hackers + TAC + Wow,high,easy to find via LinkedIn/The Drum,do_not_launch,Best problem fit; worst whitespace.
+recruitment_agencies,18220 (78.10 only),high,high (margin temp/perm cash),high,high (job boards ATS),medium - REC exists; no AH equivalent found,high,easy,stronger_whitespace,Worth a separate kill-test. Not a free pass.
+accountancy_practices,39975 (69.20),medium,high (pipeline pricing M&A),high,high (software banks),high - ICAEW / practice networks / Xero communities,medium,harder (professional-body capture),crowded_differently,Owners often already in practice associations.
+law_firms,33550 (69.10),medium,medium-high,very high,high,high - Law Society / local managing-partner groups,medium,hard,regulatory_and_partnership_politics
+architecture,16275 (71.11),high,high (fees procurement cash),moderate,moderate,lower than agencies,high,moderate,interesting_but_cyclical
+IT_MSP_consultancy,SIC 62 is huge (62.01 31400; 62.02 73855) and mixed with product/software,high for true MSPs,high,high,very high,high globally (IT Nation ConnectWise peer groups),high if you can filter MSPs,hard to filter from SIC,do_not_use_raw_SIC
+training_companies,8559 other education is mixed,high,medium,moderate,moderate,lower,medium,hard to define,fuzzy_universe
+management_consultancies,140730 (70.22),medium,mixed,high,high,very high and heterogeneous,low as one group,easy but wrong,too_broad
