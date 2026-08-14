@@ -1,0 +1,18 @@
+scenario,ticket_ex_vat,attendees,gross_revenue,venue_cost,speaker_cost,payment_fees_5pct,other_direct,cash_cost,contribution,contrib_after_founder_labour_4k,contrib_margin_pct,intimate_usp_holds,notes
+lean_25x200,200,25,5000,3000,1500,250,400,5150,-150,-4150,-3,yes,Below breakeven before founder time. Do not price here.
+lean_25x300,300,25,7500,3000,1500,375,400,5275,2225,-1775,30,yes,Cash positive only if founder labour is free.
+lean_25x350,350,25,8750,3000,1500,438,400,5338,3412,-588,39,yes,Fragile. One weak date wipes the year.
+lean_25x400,400,25,10000,3000,1500,500,400,5400,4600,600,46,yes,Minimum honest full-day price at 25 heads.
+lean_25x500,500,25,12500,3000,1500,625,400,5525,6975,2975,56,yes,Looks like a workshop not an undercut.
+lean_40x200,200,40,8000,4800,1500,400,400,7100,900,-3100,11,yes,Premium venue plus cheap ticket is a trap.
+lean_40x300,300,40,12000,4800,1500,600,400,7300,4700,700,39,yes,Works if fill is reliable and speakers are network-rate.
+lean_40x350,350,40,14000,4800,1500,700,400,7400,6600,2600,47,yes,The ChatGPT example. Arithmetic works. Fill is the risk.
+lean_40x400,400,40,16000,4800,1500,800,400,7500,8500,4500,53,yes,Better default than undercutting.
+lean_40x500,500,40,20000,4800,1500,1000,400,7700,12300,8300,62,yes,Closest to a real events company.
+lean_50x350,350,50,17500,6000,1500,875,400,8775,8725,4725,50,borderline,Room still workable. Honesty harder.
+lean_75x350,350,75,26250,9000,1500,1313,600,12413,13837,9837,53,no,This is a conference. USP of small-group honesty is gone.
+bureau_40x350,350,40,14000,4800,6000,700,400,11900,2100,-1900,15,yes,Two £3k bureau speakers kill the undercut thesis.
+unpaid_40x350,350,40,14000,4800,300,700,400,6200,7800,3800,56,yes,Uses founder contributor network. Independence risk if speakers are selling.
+star_40x350,350,40,14000,4800,15000,700,400,20900,-6900,-10900,-49,yes,Jennings-class commercial fees cannot sit under a £350 ticket.
+halfday_40x350,350,40,14000,4000,1500,700,300,6500,7500,3500,54,yes,Chiswell-class lunch min-spend analogue. Matches current 14:30-17:00 shape better than a full training day.
+coldcac_40x350,350,40,14000,4800,1500,700,6400,13400,600,-3400,4,yes,Adds £150 CAC x 40. Paid ads make this a bad business. Warm list is mandatory.
