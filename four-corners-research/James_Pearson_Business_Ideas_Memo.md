@@ -10,7 +10,9 @@ This is not legal, tax, or employment advice. Gardening-leave, non-compete and n
 
 ---
 
-**WORKING RECOMMENDATION:** Run **15 paid-conversation tests** for a retained **fractional commercial director** offer to independent training-provider MDs. Price sketch: **£3k–£6k/month** for one day a week equivalent, or **£8k–£15k** for a 90-day commercial sprint. **Estimated**.
+**WORKING RECOMMENDATION:** The product is a retained **fractional commercial director** for owner-managed firms that can deliver and cannot sell. Education ITPs are the fastest beachhead, not a requirement. Price sketch: **£3k–£6k/month** for one day a week equivalent, or **£8k–£15k** for a 90-day commercial sprint. **Estimated**.
+
+**DO NOT** take NED seats at competitors. That cash-bridge is withdrawn.
 
 **DO NOT LEAD WITH:** relaunching WBLA as a membership / lobbying body; “I will get you onto APAR as an employer-provider”; a trainer / coach / speaker network; a discount training company.
 
@@ -188,9 +190,9 @@ Already researched on the peer-exchange / economic-engine branch: identity is he
 
 Only if eight named MDs will pay. Price in the £3.5k–£5k/year band is too low for your skill; think **£6k–£12k/year** employer-paid for a serious commercial board, or fold the board into retainers from A. **Estimated**. Do not call it WBLA. Do not compete with AELP on lobbying.
 
-### H. Portfolio NED / commercial director seats
+### H. Portfolio NED at competing providers — withdrawn
 
-Not a startup. It is the cash bridge you already know. Useful while testing A–C. Watch conflicts and gardening leave.
+Agreed. Do not sit on competitor boards. See section 10 for interim (a job) versus fractional (the practice) versus a one-off NED favour in an unrelated industry.
 
 ---
 
@@ -225,13 +227,13 @@ What “online with AI” should not mean in year 1: building an LMS, an associa
 
 ---
 
-## 7. One primary, one backup, one cash bridge
+## 7. One primary, one backup, one path out of the sector
 
 If investing your own time on gardening leave:
 
 1. **Primary:** Fractional commercial director for ITPs (A). Highest skill match, recurring, you already know the buyer language.
 2. **Backup if the ITP list is thin but levy names are strong:** Independent levy decision reviews (B). Same skills, different payer, independence is the product.
-3. **Cash bridge:** NED / commercial director seats (H) plus, if energy is high, a weekly email that can become C.
+3. **If leaving education:** same product, different door. Use BNI / Action Coach / Sporting Club / Evolve to find owner-managed B2B service MDs (section 10). Do not take NED seats at competitors.
 
 WBLA and “become an employer-provider” become **features** inside A or B (a peer room for MDs; a go/no-go chapter in the levy review). They are not the company.
 
@@ -259,7 +261,62 @@ These were open before and still are:
 - Income need in the next six months versus appetite to build a list first.
 - Whether you will still deliver training yourself or only operate commercially.
 - Whether government-funded delivery is ever again a yes.
-- Ranked energy: ITP owners vs levy HR vs L&D decision reviews vs running events.
-- A written list of 20 people who take your call **this month**.
+- Ranked energy: ITP owners vs levy HR vs L&D decision reviews vs running events vs **leaving the sector entirely**.
+- A written list of 20 people who take your call **this month** — including names from BNI / Action Coach / Sporting Club / Evolve if education is off the table.
 
 The ideas above can all be started as conversations. None of them requires a website, a membership platform, or an AI product first.
+
+---
+
+## 10. Leaving L&D / education (14 August 2026 addendum)
+
+**NED at competitors is withdrawn.** Agreed. Sitting on a rival provider’s board would not feel right, and it is a poor cash bridge anyway (conflicts, slow, still education-shaped). Interim or fractional *inside* a non-competing company is a different job. A friend’s NED in an unrelated industry is a favour, not a plan.
+
+**You do not have to stay in education.** The 20-year director skill that transfers is not “I know Ofsted.” It is: run a P&L, build a pipeline, run on/offline events, write and win bids, keep a sales team honest, put a quality loop on a commercial process, and keep going. That is useful anywhere an owner still does the selling.
+
+**“Any sector” is true for the skill and false for the first ten clients.** Generic fractional CMO is already a category. **The Marketing Centre** publicly positions as the UK’s largest fractional CMO network (100+ leaders, 1,400+ client engagements claimed). **Verified**, themarketingcentre.com, retrieved 14 August 2026. Published UK fractional CMO retainers commonly sit around **£3k–£8k/month** for one to two days a week. **Verified** as published 2026 buyer-guide ranges, not your quote. ActionCOACH already sells generic owner coaching, and you have been in that world. If you walk in as “fractional marketing director / business coach,” you are a late copy. If you walk in as **the sitting commercial operator** (sales + events + bids + team + QC of revenue), you are rarer.
+
+The door out of education is already in your memberships: **BNI, Action Coach, Sporting Club, Evolve**. Those rooms are cross-sector. You do not need an FE list to start 15 conversations. You need to ask owner-MDs what is lumpy in the commercial engine, not whether they need training.
+
+### What to sell if the sector is allowed to change
+
+Same offer as A: 90-day commercial sprint, then a day-a-week retainer. Change only the **beachhead**. Pick one. Do not pick “SMEs.”
+
+| Beachhead | Why the skill maps | Crowding / catch | 15-conversation door |
+|---|---|---|---|
+| **Owner-managed B2B service firms** (security, FM, cleaning, waste, specialist contractors, B2B installers) | They deliver. The MD is still the closer. Many live on tenders and account-management, not brand marketing. | The Marketing Centre (CMO). Lead-gen agencies. ActionCOACH. Your wedge is sitting in the seat, not writing a plan. | Names from BNI / Evolve / Sporting Club this month |
+| **Public-sector contractors** (FM, homecare, security, specialist construction on frameworks) | Closest analogue to funded training: bids, compliance, quality evidence, lumpy pipeline | Bid factories already exist (e.g. care tender writers). You are not a CQC inspector. Sell commercial operating system, not clinical expertise. | MDs who already moan about frameworks |
+| **Trade associations / professional bodies with a weak commercial engine** | You already know memberships can be poorly run and still survive. Events, email, retention, sponsor sales. | Association management companies (CJAM, TAS, The AMC) do secretariat. Few sell a commercial director. | Chairs who are volunteers drowning in events |
+| **Independent recruitment boutiques** | Owner-led, sales-team management, utilisation of fee-earners (cousin of associate management). Prior ONS pull: **18,220** enterprises in SIC 78.10. **Verified** on the agency-owner branch. | APSCo SME forums, REC, The Recruitment Network. Not empty. Needs its own kill-test before you marry it. | Recruiters in your existing clubs |
+| **Architecture / engineering / environmental consultancies** | Fees, procurement, cash, owner still selling. Prior note: less “Agency Hackers” density than marketing. | Cyclical. Technical credibility is borrowed, not owned. | Only if you already know five principals |
+| **Productised online commercial OS for owner-MDs** | Email, events calendar, bid calendar, AI drafts, weekly pack. Sector-agnostic delivery. | Becomes a generic marketing agency if you skip the sitting-in-the-seat phase. | After two retainers, not before |
+
+### What not to switch into just because it is “not education”
+
+- **Marketing/PR agencies** — already killed. Agency Hackers owns the owner product.
+- **Accountancy / law** — professional-body capture and partnership politics. Prior research: crowded differently.
+- **Care as a CQC specialism** — you would be a tourist next to people who have run homes.
+- **Affiliate of The Marketing Centre or ActionCOACH** — you would be renting someone else’s brand to do a weaker version of what you already know.
+- **Generic AI consultancy** — no director advantage.
+
+### Interim vs NED vs fractional
+
+| Shape | Use? |
+|---|---|
+| NED at a competing training provider | **No** |
+| NED at an unrelated firm because a friend asks | Optional favour. Not the business. |
+| **Interim commercial director** (fixed term, non-competing sector, employed or contractor) | Yes as cash, if a recruiter or a club introduction appears. It is a job with a start and end date, not a company. |
+| **Fractional commercial director retainer** (several clients, you own the practice) | Yes. This is the company. |
+
+### Honest trade-off
+
+Education ITPs still give the **fastest** first invoice, because the stories and the language are already yours. Leaving the sector is cleaner ethically (no competitor boards, less gardening-leave grey area **if** the restriction is sector-shaped — **unknown**, check the contract) and uses the clubs you already pay for. It is slower only if you wait for a website instead of booking 15 owner-MD conversations from BNI / Action Coach / Sporting Club / Evolve this month.
+
+Script if the sector is allowed to move:
+
+1. What is actually lumpy — new business, running the sales people, events, tenders, or cash?
+2. What have you already paid for (coach, agency, fractional marketer) that did not stick?
+3. If a commercial director sat with you one day a week for 90 days, what number would make that worth **£12k**?
+4. Who else in this room has the same problem?
+
+Count the answers. The cluster **is** the beachhead. You do not choose “any sector” in the abstract. You choose the first five MDs who will pay.

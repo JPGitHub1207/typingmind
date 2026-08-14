@@ -4,7 +4,7 @@
 
 Skill-fit ideas after killing trainer-supply models. Date: 14 August 2026.
 
-**Working recommendation:** test a retained **fractional commercial director** offer to independent training-provider MDs. Do not relaunch WBLA as a membership body. Do not lead with “help levy employers become employer-providers.”
+**Working recommendation:** the product is a retained **fractional commercial director** for owner-managed B2B firms that can deliver and cannot sell. Education ITPs are the fastest beachhead, not a requirement. Do not take NED seats at competitors. Do not relaunch WBLA. Do not lead with employer-provider APAR builds.
 
 | File | Contents |
 |---|---|
