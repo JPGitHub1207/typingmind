@@ -18,7 +18,9 @@ The educational architecture is a real product. It is closer to an **events comp
 
 This can be a profitable practice **if, and only if**, a warm list fills a **paid** room.
 
-**Founder-quoted year-1 costs change the P&L, not the fill test.** Chiswell at **£2,000 for 50** and two speakers at **£500** each means 50 × £350 can contribute about **£13,200** cash (**calculated**, section 12). The old £120/pp venue model was conservative relative to the deal you have. It was not wrong as a *market* rate; you appear to have beaten it.
+**Founder-quoted year-1 costs change the P&L, not the fill test.** Chiswell is a **£2,000 F&B spend** that unlocks the **125-cover restaurant plus a training room from 12:00**. Two speakers at **£500**. 50 × £350 can contribute about **£13,200** cash (**calculated**, section 12). That is an unusually good City deal. It is also a 125-seat room: do not fill it because you have it.
+
+The product is now specific: **14:00–17:30**, two talks, table work, **four Corners named from the room**, QR join, later sessions at the Clubhouse on coffee. That architecture is the IP. Speakers may make contacts; they may not sell; you do not hand them the list.
 
 It is **not** a clever undercut of a £500–£850 open training day. That comparison remains the weakest part of the hypothesis.
 
@@ -26,7 +28,7 @@ So: do not lead with “cheaper than a training day, better venue, better talks.
 
 **Do not launch Four Corners L&D + Coaches + Agency Owners + Founders as a portfolio in year 1.** One repeating paid date. Then clone the run-of-show, not the brand, and only into a vertical that does not already have the calendar.
 
-**The test that matters:** 30 people pay **£400 + VAT** for a named weekday, eight weeks out, no complimentary inventory. The 25 August 2026 gathering cannot be that test. It is advertised as a **complimentary ticket**. **Verified**, fourcornersclub.co.uk.
+**The test that matters:** 30 people pay **£350–£400 + VAT** for a named weekday, eight weeks out, no complimentary inventory. The 25 August 2026 gathering cannot be that test. It is advertised as a **complimentary ticket**. **Verified**, fourcornersclub.co.uk.
 
 ---
 
@@ -263,11 +265,15 @@ New primary numbers from James, not from venue listings:
 
 | Line | Amount | Status |
 |---|---|---|
-| Chiswell Street Dining Rooms, 50 people | **£2,000** | **Founder-quoted.** Unknown whether food and drink sit inside the £2k |
-| Two speakers | **£500 each** | **Founder-quoted.** Launch rate because the concept is new |
-| Claimed speaker day rates | **£10k–£20k** | Treat as **marketing**, not as your avoided cost. People who regularly clear that do not take £500 for a new club |
+| Chiswell F&B spend | **£2,000** | **Founder-quoted.** Entire sum spendable on food and drink |
+| What that unlocks | **125-cover restaurant + training room, from 12:00** | **Founder-quoted.** Room hire effectively bundled |
+| Two speakers | **£500 each** | **Founder-quoted.** He believes he can hold decent keynote names here |
+| Intended programme | **14:00–17:30** then canapés | **Founder-quoted** |
+| After | **Four Corners** harvested from the room, QR / email join, Clubhouse on coffee | **Founder-quoted** |
 
-£2,000 / 50 = **£40 per head**. **Calculated.** The ETM group dining menu is **£30 / £35** for two / three courses **before** room hire and service. **Verified.** So £2k all-in is a **strong deal for a canapé-and-drinks afternoon**, and tight if it is meant to be a sit-down lunch. Confirm in writing: room only, or room + canapés + wine. Sensitivity if F&B is extra at £25/head: venue-equivalent **£3,250**, 50 × £350 contribution still about **£12,000**. **Calculated.**
+£2,000 / 50 = **£40 per head** of hospitality. **Calculated.** For a 3.5-hour afternoon plus canapés in a City restaurant that seats 125, that is an **amazing deal**. Agreed. It is not a sit-down lunch for 50 (ETM two-course group menu **£30** before service, **verified**). Spend the credit on the 17:30 canapés and drinks. Do not also try to serve lunch from the same £2k unless the room is smaller.
+
+If only 30 pay, you still spend £2k (**£67/head**). Hospitality gets better; contribution is still about **£6,600**. **Calculated.** The deal does not require 50 for the P&L. It requires 50 only if you want the room to look full. In a 125-cover restaurant, 50 already looks generous; 30 can look sparse unless they sit in the **training room** for the work and come through to the restaurant only for food.
 
 ### 12.1 Recast P&L (ex-VAT)
 
@@ -286,32 +292,29 @@ Fixed cash: venue **£2,000** + speakers **£1,000** + other **£400** + 5% card
 
 This is a different business from the conservative model. Event-level contribution is **no longer the constraint** once 30 people pay. Fill is. So is whether £500 speakers remain £500 after the second date.
 
-On the £10–20k day-rate point: agreed. Bureau cards are asking prices. Regular clearing of £10k is a small set of names. £500 for a new room is rational for a practitioner who wants a good audience. It is **launch pricing**. If Four Corners works, they will update. Contract **three dates at £500** or budget a step-up. Even at **£1,500 each** (£3,000 speakers) a 50 × £350 date still contributes about **£11,200**. **Calculated.** The undercut thesis does not depend on forever-£500 speakers. It would die if you started paying true bureau rates.
+On the £10–20k day-rate point: agreed, and the later note that these are people he has **seen keynote big conferences** is the right filter. Bureau cards are asking prices. £500 for a new room they believe in is rational. Hold the “no pitch” in a **contributor brief**, not in chemistry. Contacts at canapés are human. The list is not. See 13.3.
 
-### 12.2 Fifty people versus the intimacy USP
+Even at **£1,500 each** a 50 × £350 date still contributes about **£11,200**. **Calculated.**
 
-£2k is priced for **50**. That pulls you to fill 50.
+### 12.2 Fifty people, a 125-cover restaurant, and the training room
 
-50 is not a conference. It is also not a 12-person Glenister dinner. iVentiv caps at **40**. At 50 you are running **five or six tables**, not one conversation. Honesty can survive if you **facilitate the tables** and keep plenary short. It does not survive if 50 people face a stage. Design for 50 as table-work or the venue deal will quietly change the product.
+The deal unlocks a restaurant that seats **125** plus a training room. That is the spatial version of the product: **work in the training room, hospitality in the restaurant.** Do not run 50 people as a thin scatter in a 125-cover dining room. It will feel like a restaurant that failed to fill, not like a club.
+
+50 is table-work (five or six groups), not one circle. Honesty survives if plenary is short and the talks happen so tables can interrogate them. iVentiv caps at **40**. You can hold 50 if the training room is the classroom.
+
+**Do not fill toward 80 or 100 because the restaurant would take them.** That is how this deal becomes a conference and the USP dies. The unused covers are part of what you are buying: space, not density.
 
 Do not add a 75-person date because the contribution looks nicer.
 
 ### 12.3 Monthly Corners are not “little to no cost”
 
-Cash: Zoom, a WhatsApp, maybe a side room. Near zero. **Agreed.**
+Corners at the Clubhouse on coffee, curtains, not breakfast: cash can be **£5–8 a head** if Chiswell honours a written off-peak rate. **Estimated.** A 125-cover restaurant does not make money on ten coffees. They will do it because of the £2k gatherings. That is a **relationship**, not a right. Get the coffee tariff, permitted hours, and curtain partition in an email. If the GM changes, the Clubhouse can vanish.
 
-The cost is **you**.
+The cost is still **you**.
 
-If 40% of a 50-person room opt in (20 people, **estimated**), that is two groups of 10. Ninety minutes plus scheduling, notes, no-shows: about **four to six hours a month**. That is **six to nine founder-days a year** if it runs. At a £1,000 day that is **£6–9k** of labour you are bundling into the ticket. Fine if it creates repeat purchase and a list. Not fine if you describe it as free infrastructure.
+If 40% of a 50-person room opt in (20 people, **estimated**) across four QR Corners, that is four groups of about five — or one group of 18 and three ghosts. Cap each Corner at **10–12** on the day. Ninety minutes plus scheduling: if all four run, that is **two to three half-days a month**, not one. Four Corners is four diaries. Launch **one or two** that actually filled, not all four because the wall had four QR codes.
 
-Rules that keep Corners cheap and clean:
-
-- Optional, not promised to all 50.
-- Time-boxed: **three sessions** after each gathering, then they re-join at the next paid date or stop.
-- You facilitate. Contributors do not. Suppliers **do not**.
-- No obligation to produce “research outputs” until someone pays for that separately.
-
-Corners are the right *after-event* product. They are how a £350 ticket feels like more than a PTP day. They are also how a one-person events company becomes an unpaid membership ops job. Cap them.
+Time-box: **three sessions** after each gathering. You facilitate. Contributors do not. Nobody selling sits in.
 
 ### 12.4 Relaxing “no suppliers” — do not smudge this
 
@@ -349,4 +352,68 @@ That **is** more than a PTP £490 skills day, and more than a free CIPD walkabou
 
 Price: **£350 + VAT** is now defensible on cost. **£400 + VAT** is still what I would print, because you are selling the room and the design, not a discount. £250 is optional only as an early-bird for the first paid date.
 
-First charged date kill-test, updated: **30 paid at £350–£400**, not “50 invited to a complimentary.” The venue deal makes 50 a **target**, not a minimum for the P&L. 30 already contributes.  
+First charged date kill-test, updated: **30 paid at £350–£400**, not “50 invited to a complimentary.” The venue deal makes 50 a **target**, not a minimum for the P&L. 30 already contributes.
+
+---
+
+## 13. The 14:00–17:30 machine (founder design, 14 August 2026)
+
+This is the first time the product has a spine. Keep it.
+
+### 13.1 Run of show
+
+Rooms from 12:00. Guests **14:00–17:30**, then complimentary food and canapés. Two talks. Table discussions. By the end of the working block, **four Corners** (themes the room wants to go deeper on with non-competitive peers). Join via **QR on the wall** or email within a week.
+
+A 3.5-hour working block is tight. It only works if talks are short and tables do the learning. **Estimated** spine:
+
+| Time | What |
+|---|---|
+| 12:00–14:00 | You and venue. Training room set as tables of 8. Restaurant set for later. No guest lunch from the £2k unless the room is small |
+| 14:00–14:15 | In, names, one sentence on why they are here |
+| 14:15–14:35 | Talk 1 (20 minutes, not a keynote hour) |
+| 14:35–15:10 | Table interrogation: what landed, what they do not buy, what they would do |
+| 15:10–15:30 | Talk 2 |
+| 15:30–16:05 | Tables again |
+| 16:05–16:25 | Harvest. Name four Corners. Vote / cap |
+| 16:25–17:30 | Restaurant: canapés, drinks, QR codes, human contacts |
+| Later | Corners at Clubhouse on coffee |
+
+If talks run 40 minutes you will not harvest four Corners before people are drinking. The educational claim lives in the **tables**, not in the speakers. That matches “created for conversation, not speakers.” Enforce it with a visible clock.
+
+Having from 12:00 is for **setup and atmosphere**, not for turning this into a full training day. A morning add-on would compete with Hemsley Fraser and spend the £2k twice.
+
+### 13.2 Four QR Corners
+
+Generating the four themes **from that room** is the IP. A pre-printed agenda of four topics would be a conference. Live harvest is why this is a learning design.
+
+Rules that stop it going mushy:
+
+- **Cap** each Corner (10–12). Popularity is not “everyone in the biggest QR.”
+- **Non-competitive** needs a rule, not a vibe. Same employer: one seat. Two people who buy from each other: fine. Two who sell the same category: not in the same Corner.
+- QR on the day **plus** email within a week is right. Expect drop-off: **estimated** half of QR-joiners attend the first Clubhouse. Over-recruit slightly.
+- Do not run four Corners because four codes went on the wall. Run the **one or two** that hit the cap. The others get a note and a seat at the next gathering.
+- Contributors do not host “their” Corner. That would be a sales funnel with a QR code.
+
+### 13.3 Speakers at £500: contacts versus selling
+
+Selection filter is good: not desperate facilitators; people he has seen keynote; they buy the delegate experience. Chemistry is not a contract.
+
+Write a one-page contributor brief:
+
+- **£500**, no pitch from the stage, no slides that end on “how we can help.”
+- You do **not** give them the attendee list, emails, or job titles after.
+- You do **not** schedule 1-2-1s.
+- At canapés, **human conversation is allowed.** If a delegate asks what they do, they may answer. If they work the room with a stack of cards, they do not come back.
+- They are not in the Corner unless they are a delegate who paid and passed the non-compete rule — which, if they sell to this audience, they do not.
+
+That is design **C** from 12.4, applied to speakers rather than logo-sponsors. It is honest. It is also how every decent “non-selling” event actually works. The difference from iVentiv is the **list and the 1-2-1 diary**, not the fact that two humans might exchange numbers.
+
+If a speaker only comes because the room is a pipeline, you will feel it in the 20-minute talk. Trust that instinct. You have seen enough rooms.
+
+### 13.4 Clubhouse on coffee
+
+Calling Chiswell the Clubhouse, curtains, coffee-only, not breakfast: good theatre, cheap cash, **venue goodwill**.
+
+Get in writing: hours, partition, coffee price, whether a Corner of eight can sit without a room-hire. Do not brand the company as “the Chiswell club” in a way you cannot move. The deal is founder-relationship leverage. It is a year-1 asset, not the moat.
+
+Delegates paying coffee is the right price for a Corner. Charging £0 makes no-shows. Charging a second ticket makes it a product launch you have not sold yet. Coffee is the friction that says “this is real” without becoming a membership company.  

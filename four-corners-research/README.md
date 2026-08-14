@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** with founder-quoted costs (Chiswell **£2k / 50**, speakers **£500** each) a paid date can contribute ~**£10–13k** cash at 40–50 × £350. The constraint is fill, independence, and 50-person intimacy — not venue maths. Complimentary 25 August is still not the paid test. Do not launch four brands. **No-suppliers:** do not put sellers in the Corner; a quiet sponsor that never enters the discussion is a different trade.
+**Working conclusion:** £2k is F&B spend on a **125-cover restaurant + training room from 12:00**. Speakers **£500**. Format: **14:00–17:30** then canapés; four Corners harvested from the room; QR join; Clubhouse coffees. Contribution at 40–50 × £350 is strong. Do not fill 125 seats. Speakers: contacts yes, list and pitch no. Write the Clubhouse coffee deal down. Complimentary 25 August is still not the paid test.
 
 | File | Contents |
 |---|---|
