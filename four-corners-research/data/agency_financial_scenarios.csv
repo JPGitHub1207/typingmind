@@ -1,0 +1,14 @@
+scenario,members,price_gbp,membership_revenue,sponsor_low,sponsor_high,direct_costs,founder_draw,contribution_mid,notes
+A_paid_membership_ah_price,50,3000,150000,0,0,40000,80000,30000,Assumes you somehow take 50 from AH. Unlikely.
+A_paid_membership_ah_price,100,3000,300000,0,0,80000,100000,120000,AH-scale community ops. You are now copying AH with less archive and fewer events.
+A_paid_membership_ah_price,250,3000,750000,50000,200000,250000,180000,370000,This is Agency Hackers after years. Not Four Corners year 3.
+B_premium_peer_board_only,24,6000,144000,0,0,25000,80000,39000,3 groups of 8. Honest year-2 if validation passes. Lifestyle.
+B_premium_peer_board_only,48,6000,288000,0,0,50000,100000,138000,6 groups. Needs hired chairs or founder burnout.
+C_sponsor_funded_free,50,0,0,40000,120000,50000,80000,-20000,Access business. Trust dies. AH already sells partners.
+D_hybrid_token_plus_sponsor,50,1200,60000,20000,80000,45000,80000,-15000,Worst of both: cheap club plus sponsor smell.
+E_membership_plus_advisory,50,3000,150000,0,0,40000,80000,30000,1:1 advisory extra unknown; founder time is the constraint. Becomes coaching practice.
+F_membership_plus_benchmarking,50,3000,150000,0,0,60000,80000,10000,Wow already does this. Extra cost for a weaker n.
+G_membership_plus_events,50,3000,150000,20000,80000,90000,80000,20000,Events subsidise nothing at 50 members. AH owns the festival.
+assumption_venue_halfday, ,90, , , , , , ,ESTIMATE London private room+food £75-120pp. Not a quote.
+assumption_churn, ,0.35, , , , , , ,ASSUMPTION. Owner groups churn when a bad year hits or chemistry fails. Unknown.
+assumption_conversion, ,0.05, , , , , , ,UNKNOWN. 5% of qualified conversations to paid seat is optimistic against AH.
