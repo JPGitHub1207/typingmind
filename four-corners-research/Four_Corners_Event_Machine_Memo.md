@@ -14,7 +14,9 @@ This is not a yes. It is also not the old no.
 
 **WORKING CONCLUSION**
 
-The educational architecture is a real product. It is closer to an **events company** than to a membership, a peer network, a training provider, or a multi-brand portfolio.
+**Drop the membership model.** Sell dated tickets. Corners are aftercare on coffee, not a member benefit. Invitation is door policy, not a club. Do not put “membership community” on the homepage.
+
+The educational architecture is a real product. It is an **events company**.
 
 This can be a profitable practice **if, and only if**, a warm list fills a **paid** room.
 

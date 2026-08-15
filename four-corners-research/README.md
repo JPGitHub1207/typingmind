@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Target **in-house Heads of L&D / Talent / OD (or the People Director who still owns learning)** in **250–5,000 employee** organisations, **London-commutable**. That is the paying peer room. Do not build the list on iVentiv’s 10,000+ Group CLOs, and do not fill paid seats with coordinators or suppliers. Complimentary 25 August is still not the paid test.
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD (or the People Director who still owns learning) in **250–5,000 employee** organisations, London-commutable. Sell the afternoon. Complimentary 25 August is still not the paid test.
 
 | File | Contents |
 |---|---|
