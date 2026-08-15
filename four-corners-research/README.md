@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** £2k is F&B spend on a **125-cover restaurant + training room from 12:00**. Speakers **£500**. Format: **14:00–17:30** then canapés; four Corners harvested from the room; QR join; Clubhouse coffees. Contribution at 40–50 × £350 is strong. Do not fill 125 seats. Speakers: contacts yes, list and pitch no. Write the Clubhouse coffee deal down. Complimentary 25 August is still not the paid test.
+**Working conclusion:** Target **in-house Heads of L&D / Talent / OD (or the People Director who still owns learning)** in **250–5,000 employee** organisations, **London-commutable**. That is the paying peer room. Do not build the list on iVentiv’s 10,000+ Group CLOs, and do not fill paid seats with coordinators or suppliers. Complimentary 25 August is still not the paid test.
 
 | File | Contents |
 |---|---|
@@ -15,3 +15,4 @@ Deep dive on a **repeatable premium professional-learning event**, not an L&D me
 | [data/event_unit_economics.csv](data/event_unit_economics.csv) | Ticket × headcount grid |
 | [data/comparables.csv](data/comparables.csv) | iVentiv, CIPD, Hemsley Fraser, PTP, School of Life, Become, Agency Hackers |
 | [data/vertical_fit.csv](data/vertical_fit.csv) | L&D, coaches, agencies, founders |
+| [data/target_persona.csv](data/target_persona.csv) | Role, seniority, company size: who to invite |

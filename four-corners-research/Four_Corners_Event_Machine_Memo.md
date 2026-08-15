@@ -28,7 +28,7 @@ So: do not lead with “cheaper than a training day, better venue, better talks.
 
 **Do not launch Four Corners L&D + Coaches + Agency Owners + Founders as a portfolio in year 1.** One repeating paid date. Then clone the run-of-show, not the brand, and only into a vertical that does not already have the calendar.
 
-**The test that matters:** 30 people pay **£350–£400 + VAT** for a named weekday, eight weeks out, no complimentary inventory. The 25 August 2026 gathering cannot be that test. It is advertised as a **complimentary ticket**. **Verified**, fourcornersclub.co.uk.
+**The test that matters:** 30 people who match the **Head of L&D / 250–5,000 / London-commutable** spec pay **£350–£400 + VAT** for a named weekday, eight weeks out, no complimentary inventory. The 25 August 2026 gathering cannot be that test. It is advertised as a **complimentary ticket**. **Verified**, fourcornersclub.co.uk.
 
 ---
 
@@ -223,7 +223,7 @@ The educational IP (contributor → idea → small-group interrogation → lived
 
 **Company:** Four Corners as a **small events and learning-design practice**. One brand. One list until it repeats.
 
-**Default offer:** weekday afternoon, **up to 50** at Chiswell, two provoked conversations, facilitated interrogation at tables, named takeaway, **optional** monthly Corner for people who want to continue.
+**Default offer:** **14:00–17:30** in the training room, canapés in the restaurant, two short talks, table interrogation, four Corners harvested from the room, QR join, Clubhouse coffee later.
 
 **Default price:** **£350–£450 + VAT** is now arithmetically fine. **£400 + VAT** is still the better *sale* than £250. The cost base no longer forces £500.
 
@@ -416,4 +416,85 @@ Calling Chiswell the Clubhouse, curtains, coffee-only, not breakfast: good theat
 
 Get in writing: hours, partition, coffee price, whether a Corner of eight can sit without a room-hire. Do not brand the company as “the Chiswell club” in a way you cannot move. The deal is founder-relationship leverage. It is a year-1 asset, not the moat.
 
-Delegates paying coffee is the right price for a Corner. Charging £0 makes no-shows. Charging a second ticket makes it a product launch you have not sold yet. Coffee is the friction that says “this is real” without becoming a membership company.  
+Delegates paying coffee is the right price for a Corner. Charging £0 makes no-shows. Charging a second ticket makes it a product launch you have not sold yet. Coffee is the friction that says “this is real” without becoming a membership company.
+
+---
+
+## 14. Who to target (role, seniority, company size)
+
+For a **paid** 14:00–17:30 at Chiswell, the room is the product. Mix altitude and the honesty dies. Mix buyers and sellers and the FAQ dies.
+
+This reverses a previous caution, on purpose. The old memo said do not build a *sponsored access* product for Heads of L&D in 500–10,000 employee firms. That still holds. Those same people are the **right paying delegates** for this events company, because iVentiv is not built for them.
+
+### 14.1 Primary target (fill the 30–50 seats from here)
+
+| Dimension | Spec | Why |
+|---|---|---|
+| **Role** | Most senior **in-house** learning person in that organisation (UK or site). Typical titles: Head of L&D, Head of Learning, Head of Talent, Head of Talent & Development, Head of OD, Head of People Development, Learning Director, Leadership Development Lead where they own the agenda | CIPD lists Head / Director of L&D as the top of the specialist ladder. **Verified**, cipd.org careers. In firms this size the “Head” often *is* the strategy, not a report to a Group CLO |
+| **Also in the same room** | People Director / HR Director **only if they still own learning** (no separate Head of L&D underneath them) | Common at 250–800 employees. Same problems, same budget. Different title |
+| **Seniority** | They can approve or recommend a **£350–£400 + VAT** afternoon without a six-week procurement. They spend or shape a real programme budget (leadership, capability, culture). They are not delivering the courses themselves as their main job | CIPD 2020: L&D owns the budget in only **31%** of large organisations. **Verified.** So “budget owner” is too narrow. “Decision shaper” is enough. L&D advisor / trainer / coordinator is too junior for this room |
+| **Company size** | **250–5,000 employees** as the core. Stretch **200–8,000** if the person is still the UK lead | CIPD 2020: 250–999 median L&D team of **4**; 1,000+ median **12**; under 250 median **1**. **Verified.** Dedicated Head of L&D becomes a real job around 250+. Below that it is usually a generalist HR task |
+| **Geography** | Function based in **Greater London or commutable to EC1** on a weekday afternoon. London office of a UK/European group is fine | Current site says “near EC1” and “large organisations.” Walkable is a launch tactic, not a TAM. Repeating dates need the whole commutable list |
+| **Employer type** | In-house only. Private, public, charity, housing, health, professional services, FS, tech — mixed in one room is good | The problem (capability, culture, spend) travels. The seller does not belong in the room as a delegate |
+
+**Do not chase:** Group CLO / VP Learning / Global Head at **10,000+** employee multinationals. iVentiv is **free** for that seat, caps at 40, and says the average participant’s firm has **~100,000** employees. **Verified**, iventiv.com FAQ and LinkedIn company page. They will not pay £400 for 3.5 hours when a two-day London Exchange exists for £0. If one of them asks to come, yes. Do not build the list around them.
+
+**Do not fill with:** L&D officers, coordinators, instructional designers, HRBPs, in-house trainers, coaches, facilitators, training-provider MDs, LMS/EPAO sales. They will come if the ticket is cheap. They change the room.
+
+### 14.2 Size bands, in plain English
+
+| Employees | What L&D usually looks like | Ticket reality | Use |
+|---|---|---|---|
+| **< 200** | Generalist HR, no dedicated Head of L&D. Median L&D “team” is one person | Often own card or “too busy.” Weak peer match with a 2,000-person Head of L&D | Invite only if they are unusually senior (People Director) and you are short. Not the list |
+| **200–249** | Borderline. Sometimes a named L&D manager | Employer can pay £400 if they have a budget line | Stretch, case by case |
+| **250–999** | Median team of **4**. Head of L&D / L&D Manager is a real job. 85% of 250+ orgs reported an L&D budget in CIPD 2015 | **Sweet spot.** Enough spend to care, not enough status to get iVentiv | **Primary** |
+| **1,000–4,999** | Median team heading toward **12** at 1,000+. UK Head of L&D, sometimes a small leadership-dev lead under them | Employer-paid, diary is the constraint | **Primary** |
+| **5,000–9,999** | UK Head or Director. May have a Group person above them | If *they* are the UK decision shaper, yes. If they are a skip-level under a Global CLO who already does iVentiv, skip | Secondary |
+| **10,000+** | Group CLO / VP; iVentiv / Evanta altitude | Free alternatives. Different conversation (global operating model, not “how do I spend this year’s leadership pot”) | Trophy guests only |
+
+UK enterprise counts, March 2025, Nomis UK Business Counts (**verified** in prior extract): **250–499: 5,485**; **500–999: 2,900**; **1,000+: 3,030**; **250+ total: 11,415**. London + South East are about **37%** of the 250+ stock (**calculated**: 2,570 + 1,680 / 11,415). That is roughly **4,250** large organisations in the two regions that can reach EC1 without a hotel.
+
+You need **30–50 paying seats** a date, not 4,000. The constraint is **list quality and altitude match**, not shortage of firms.
+
+### 14.3 Seniority test (use this on every invite)
+
+Invite if **all four** are true:
+
+1. In-house, not a supplier.
+2. They are the most senior person who spends serious time on learning / talent / OD in that employer (UK or site).
+3. They can get £400 + VAT on a cost code this quarter.
+4. They would not be embarrassed to sit next to the other 49, and the other 49 would not be bored.
+
+If (4) fails, you have mixed a CLO and a coordinator. Kill that invite even if they pay.
+
+Title translation (same human, different badge):
+
+- Head of L&D, Head of Learning, Head of Talent Development, Head of OD, Head of Capability, Head of Leadership Development, Learning Director → **yes**, in the size band.
+- People Director / HR Director in a 250–800 employer with no Head of L&D → **yes**.
+- CHRO / Group HRD in a 5,000+ employer → **usually no** (wrong diary, wrong peers).
+- L&D Manager in a 3,000-person firm reporting to a Head of L&D → **no** (send the Head). Exception: the Manager *is* the UK lead and the Head sits overseas.
+- “Head of L&D” in a 40-person training company → **no**. They are a supplier.
+
+### 14.4 Sectors and geography
+
+EC1 pulls **City, Shoreditch, Clerkenwell, Farringdon, Liverpool Street, Canary Wharf via Elizabeth line**. Bias the first list to employers who already sit there:
+
+- Financial and professional services, insurance, law, fintech, business services
+- Public bodies, housing, health, education groups with a London HQ
+- Tech and media with a real London people function
+
+Do not restrict the *brand* to “EC1 members only.” Restrict the *first 50 names* to people who can be in Moorgate by 14:00 without a drama. Widen after two paid dates.
+
+### 14.5 Who the current site is targeting, and what to change
+
+Live copy: “senior HR, People, Learning and Organisational Development leaders from **large organisations**,” “near EC1.” **Verified**, fourcornersclub.co.uk.
+
+“Large” will be read as iVentiv’s world. Change it to something like: **in-house Heads of L&D, Talent and OD in organisations of roughly 250–5,000 people, who own or shape the learning agenda in the UK.**
+
+Complimentary 25 August can be a mixed seniority room because it is free. **Do not copy that mix onto a paid date.** Free rooms fill down. Paid rooms must be held up.
+
+### 14.6 Practical list size
+
+Year-1 you need a working list of about **400–600** named humans who match 14.1, to sell **30–50** seats six times with repeats. **Estimated** (5–10% of a warm list converting is generous; invite-only should beat cold 3–8% landing-page conversion). That is a few weeks of LinkedIn against London 250–5,000 employers, not a census.
+
+If you cannot name **80** people who pass the four-part test *this month*, the format is not the problem. The list is.  
