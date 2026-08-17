@@ -3,7 +3,7 @@ primary,Head of L&D; Head of Learning; Head of Talent; Head of Talent & Developm
 primary_title_variant,People Director or HR Director with no Head of L&D underneath,Still owns learning not only ER/reward,250-800,Same,Employer,yes,Same human different badge. Common below ~800 employees.
 secondary,UK Head of L&D or Director of Learning under a Group CLO,They are the UK decision shaper not a skip-level,5000-9999,Same,Employer,yes_if_they_own_UK_agenda,Diary tighter. Include if they spend the UK pot.
 trophy,Group CLO; VP Learning; Global Head of L&D,iVentiv altitude,10000+,Global HQ often London,Would not pay,inbound_only,iVentiv free for VP/Director at 10000+; average firm ~100000 employees. Do not build the list here.
-exclude_junior,L&D officer; coordinator; advisor; instructional designer; in-house trainer; HRBP,Cannot shape the programme budget,any,any,Sometimes employer,no,Fills the room down. Free 25 Aug mix must not become the paid mix.
+exclude_junior,L&D officer; coordinator; advisor; instructional designer; in-house trainer; HRBP,Cannot shape the programme budget,any,any,Sometimes employer,no,Fills the room down. 25 Aug complimentary is canceled; do not copy a free-room mix onto the paid date.
 exclude_supplier,Training-provider MD; coach; facilitator; LMS or EPAO sales; consultant buying a ticket to meet buyers,Seller,any,any,Own P&L,no,Breaks independence and non-competitive Corners.
 exclude_too_small,HR Manager in a sub-200 employer with no L&D identity,Generalist,under 200,any,Own card often,rare_exception,CIPD 2020 median L&D team of 1 under 250. Weak peer match.
 exclude_chro_large,CHRO / Group HRD in 5000+ with a Head of L&D below them,Too senior / wrong peers,5000+,any,Employer,no,Wrong conversation. Send the Head of L&D instead.

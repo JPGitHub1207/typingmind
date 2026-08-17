@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date:** follow the 6-week letter + HubSpot plan. Letters are agency / robot-written — bottleneck is list quality, paid page, and follow-up, not writing time.
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **25 August complimentary is canceled** (17 Aug 2026); take it off the live site before letters post. **First paid date:** follow the 6-week letter + HubSpot plan. Letters are agency / robot-written — bottleneck is list quality, paid page, and follow-up, not writing time.
 
 | File | Contents |
 |---|---|

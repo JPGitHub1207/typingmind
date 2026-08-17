@@ -30,7 +30,9 @@ So: do not lead with “cheaper than a training day, better venue, better talks.
 
 **Do not launch Four Corners L&D + Coaches + Agency Owners + Founders as a portfolio in year 1.** One repeating paid date. Then clone the run-of-show, not the brand, and only into a vertical that does not already have the calendar.
 
-**The test that matters:** 30 people who match the **Head of L&D / 250–5,000 / London-commutable** spec pay **£350–£400 + VAT** for a named weekday, eight weeks out, no complimentary inventory. The 25 August 2026 gathering cannot be that test. It is advertised as a **complimentary ticket**. **Verified**, fourcornersclub.co.uk.
+**The test that matters:** 30 people who match the **Head of L&D / 250–5,000 / London-commutable** spec pay **£350–£400 + VAT** for a named weekday, six to eight weeks out, no complimentary inventory.
+
+**17 August 2026 addendum:** founder canceled the 25 August complimentary gathering. That removes the collision with the paid campaign. The homepage still advertised “25/08/26 … Complimentary ticket” when fetched the same afternoon. **Verified**, fourcornersclub.co.uk. Take it down before letters post.
 
 ---
 
@@ -63,7 +65,7 @@ These are inventoried in `data/usps_and_founder_assets.csv`. The ones that are a
 
 **Not scarce:** “premium London venue.” Chiswell Street Dining Rooms is a good room. It is also a private-hire restaurant inside a hotel, with a published group menu from **£30 / £35** for two / three courses and a Samuel Room lunch **minimum spend of £4,000**. **Verified**, ETM menu PDF and Hire Space. Lots of people hire it.
 
-**Not scarce:** “great speakers.” Charles Jennings and Petra Velzeboer are real draws. Jennings chairs iVentiv. Using him on a complimentary afternoon is goodwill, not a repeatable cost line.
+**Not scarce:** “great speakers.” Charles Jennings and Petra Velzeboer are real draws. Jennings chairs iVentiv. The 25 August complimentary that listed them is **canceled**. Using that calibre of name on a free afternoon would have been goodwill, not a repeatable cost line.
 
 **Founder capability that research must not dismiss:** you have run training organisations, managed associates for ~15 years, and believe you can get people in the room. Room-fill is the economic question. It is not dismissed. It is also **not proven at a price**. Complimentary RSVPs measure something else.
 
@@ -100,7 +102,7 @@ James’s band (£500–£850 for an open training day) is a real market. It is 
 | CIPD Festival of Work 2026 | **£0** in person | Volume content, exhibition, being seen |
 | iVentiv Exchange | **£0** if you qualify | Peer room of 10,000+ employee VP/Directors |
 | School of Life Festival of Ideas | **£210–£360** excl fees | Sunday ideas day, hospitality, brand |
-| Four Corners 25 Aug | **£0** | Taste of the format |
+| Four Corners 25 Aug | **£0** (canceled 17 Aug 2026) | Was a taste of the format. Not the paid test |
 
 A £350 Four Corners day can be *better hospitality and better conversation* than a PTP £490 skills course and still lose the booking, because the L&D admin is buying **“Conducting Challenging Conversations”** with a named outcome, not “an afternoon with interesting people.” Those budgets often sit in different pots (training vs conferences/networking). **Assumption**, but a common one; treat as unknown until you ask 15 buyers which code they would use.
 
@@ -177,7 +179,7 @@ What would count as evidence:
 
 | Signal | What it proves | What it does not |
 |---|---|---|
-| 25 Aug complimentary fills | You can invite; the format is curious; Jennings/Petra/Boulting draw | Anyone will **pay** |
+| 25 Aug complimentary fills | **Canceled 17 Aug 2026.** Would have proved invite + curiosity, not payment | Anyone will **pay** |
 | LinkedIn DMs answered | Access | Budget |
 | “I’d come to the next one” on the door | NPS | A card transaction |
 | **30 paid tickets eight weeks out at £400 + VAT** | The business | Multi-vertical |
@@ -192,7 +194,7 @@ Independence constraint: if fill depends on contributors bringing their own foll
 
 | Vertical | Incumbent that already is the calendar | Ticket reality | Year-1 |
 |---|---|---|---|
-| **L&D / HR / OD** (your current site) | iVentiv free (big firms); CIPD FoW free; your own next date free | Employer can pay £400 if the room is mid-senior not iVentiv-eligible | **Prove paid fill here first** because the list and language exist |
+| **L&D / HR / OD** (your current site) | iVentiv free (big firms); CIPD FoW free; 25 Aug complimentary **canceled** | Employer can pay £400 if the room is mid-senior not iVentiv-eligible | **Prove paid fill here first** because the list and language exist |
 | **Coaches** | Become Coaching Conference 26 Sep 2026: keynote, workshop, panel, **peer circles**, drinks, CCEUs, St Ermins | They often pay personally → price compresses | Do not lead. Format copy risk is high |
 | **Agency owners** | Agency Hackers Live (Hilton/Hyatt afternoons; invite socials selling out) | Membership already bundles events | **Kill** as a Four Corners brand |
 | **Founders / directors** | IoD, Vistage, EO, breakfast clubs, ActionCOACH | Noisy | Only with 20 named people from BNI / Sporting Club / Evolve |
@@ -207,7 +209,7 @@ The educational IP (contributor → idea → small-group interrogation → lived
 1. **Caring about the user** is necessary and not a strategy. Become, iVentiv, School of Life and Agency Hackers also care, or at least perform care well enough to fill rooms.
 2. **“Most events don’t focus on education enough”** is partly true and already being answered in-category (Become’s peer circles are the Corner by another name).
 3. **Undercut + amazing venue + great speakers** cannot all be true if speakers are commercially priced. Pick two. The two that fit you are: **good room + educational design**, at a **serious ticket**, using **network contributors** you can actually direct.
-4. The live site still sells **membership community + complimentary gathering**. That is the old object. A paid events company needs a different page and a different sentence.
+4. The live site still sells **membership community** and, as of 17 August 2026 afternoon, still showed the **canceled** 25 August complimentary date. That is the old object. A paid events company needs a different page and a different sentence. Take the free date down before letters post.
 5. Multi-brand “if scaled properly” is how operators go from one good afternoon to a thin company. Scale **dates in one list**, not logos.
 
 ---
@@ -247,7 +249,7 @@ The educational IP (contributor → idea → small-group interrogation → lived
 
 ## 11. Sources (retrieved 14 August 2026)
 
-- fourcornersclub.co.uk — complimentary 25 Aug 2026, Chiswell Street Dining Rooms, Jennings / Velzeboer / Boulting, no suppliers FAQ  
+- fourcornersclub.co.uk — complimentary 25 Aug 2026 listed on homepage (fetched 14 Aug and again 17 Aug afternoon). Founder canceled that date 17 Aug 2026; page had not yet been updated at time of fetch. Jennings / Velzeboer / Boulting, no suppliers FAQ  
 - iventiv.com — free for approved 10,000+ employee VP/Directors; max 40; sponsor packages with 1-2-1s and delegate details  
 - cipd.org press — Festival of Work 10–11 June 2026, free in-person  
 - hemsleyfraser.com/course-schedule — public from £625 + VAT  
@@ -493,7 +495,7 @@ Live copy: “senior HR, People, Learning and Organisational Development leaders
 
 “Large” will be read as iVentiv’s world. Change it to something like: **in-house Heads of L&D, Talent and OD in organisations of roughly 250–5,000 people, who own or shape the learning agenda in the UK.**
 
-Complimentary 25 August can be a mixed seniority room because it is free. **Do not copy that mix onto a paid date.** Free rooms fill down. Paid rooms must be held up.
+25 August is **canceled** (founder, 17 August 2026). Do not copy a free-room mix onto the paid date. Free rooms fill down. Paid rooms must be held up. Anyone who RSVP’d the canceled date: cancel first, invite to paid later, and only if they match the persona.
 
 ### 14.6 Practical list size
 

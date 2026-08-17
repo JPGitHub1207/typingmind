@@ -1,12 +1,14 @@
 # First paid session: 6-week sales plan
 
 **Operational plan**  
-17 August 2026 (updated: letters are agency / robot-written, not founder time)  
+17 August 2026 (updated: letters are agency / robot-written; **25 August complimentary is canceled**)  
 Channels you already have: **1,500 handwritten-look letters** (outside agency, robot-written — already paid), **email data**, **HubSpot**.  
 Fill target: **30 paid** (kill-test) · **50 paid** (full room).  
 Persona: in-house Head of L&D / Talent / OD, or People Director who still owns learning · **250–5,000 employees** · London-commutable. See section 14 of the event-machine memo.
 
-This is a **ticket campaign**, not a membership launch. The live homepage still says “invitation-only membership community” and the 25 August gathering is still **complimentary**. **Verified**, fourcornersclub.co.uk, 17 August 2026. If a paid landing page is not live this week, the letters will send people into a free event. Fix that first.
+This is a **ticket campaign**, not a membership launch. **25 August is off.** That is the right call: a free afternoon eight days out would have trained the list that Four Corners is complimentary, and collided with the paid campaign.
+
+The homepage still advertised it when fetched **17 August 2026, afternoon**: “25/08/26 14:30–17:00”, “Complimentary ticket. No cost to you or your oganisation.” **Verified**, fourcornersclub.co.uk. **Take that date down today.** If letters land on a page that still says free, you have paid to contradict yourself.
 
 **Bottleneck is not writing.** The agency can drop the batch once the page is live. Your six weeks are **list quality, the paid page, HubSpot timing to delivery, and follow-up**. Unused paper still beats a wrong room.
 
@@ -25,7 +27,7 @@ Do not post 1,500 letters into a fog. Production is not the wait; **copy, URL, a
 | Speakers | Names, 15 words each, no bios |
 | Book URL | One HubSpot form or meeting link. Reply-to-this-letter also counts |
 | Cost code line | “Training / conference. No procurement. Invoice same week” |
-| 25 August | If it is still happening: **harvest**, do not sell membership. Capture “paid date” interest on the door |
+| 25 August | **Canceled.** Take it off the site. Email anyone who RSVP’d (template below). Do not harvest a room that is not sitting |
 
 **Landing page copy (replace membership language):**
 
@@ -62,11 +64,11 @@ If the agency has **already written all 1,500**, hold B and C in a box. Do not p
 
 **Your job in these 6 weeks (not the pen):**
 
-- Paid page live
+- Paid page live (and the canceled 25 August date **gone**)
 - HubSpot lists and sequences timed to **delivery**
 - Same-day replies and invoices
 - LinkedIn / phone on the A list
-- 25 August harvest if that afternoon still runs
+- Week of 24–30 August is now **selling time**, not an event to run
 
 **Honesty on the letter:** robot handwriting looks personal. Do not claim you sat down and wrote 1,500 notes. Recipients will compare. The letter is **from you**. That is enough.
 
@@ -87,7 +89,7 @@ In HubSpot (or a sheet, then import):
 
 **Kill (`FC_do_not_invite`):** coordinator, officer, advisor, trainer, HRBP, supplier, “Head of L&D” at a 12-person training company.
 
-**25 August attendees / RSVPs:** list `FC_25aug`. They get a **different** email (you were in the room / you were invited to the complimentary afternoon → paid date). Do not send them the cold letter as if they were strangers.
+**Anyone who RSVP’d 25 August:** list `FC_25aug_canceled`. They are not strangers and they are not a warm room you hosted. **Cancel first. Sell later.** Do not put them in the cold letter. Do not attach a £400 ticket to the cancellation.
 
 If you do not have employee-band data, filter on **title + London + not a supplier** and spot-check company size on the first 400.
 
@@ -114,8 +116,9 @@ Do not add ads, a new brand, or a membership funnel.
 
 **Lists**
 
-- `FC_paid_A` / `FC_paid_B` / `FC_25aug` / `FC_booked` / `FC_waitlist`
-- Enrollment: A and B into the paid sequence. 25 Aug into the warm sequence. Booked = unenroll from all sales mail.
+- `FC_paid_A` / `FC_paid_B` / `FC_25aug_canceled` / `FC_booked` / `FC_waitlist`
+- Enrollment: A and B into the paid sequence. Booked = unenroll from all sales mail.
+- `FC_25aug_canceled`: cancellation email only this week. If they match the persona, enroll on the **paid** sequence **no earlier than 1 September** (a week after the date they thought they were coming).
 
 **Properties worth having**
 
@@ -144,18 +147,26 @@ Do not add ads, a new brand, or a membership funnel.
 
 Set email 3 from the **agency post date + 4 working days**, not from “week 3 because writing was slow.” If they post Friday, email 3 is the following Thursday/Friday.
 
-**Warm sequence (25 Aug list, 3 emails)**
+**Cancellation email (25 Aug RSVPs only — send today)**
 
-- Day after 25 Aug: thank you / sorry we missed you. One paragraph. Paid date, price, book.
-- Day 7: Corners / what we heard in the room (if you ran it).
-- Day 21: last call.
+Subject: 25 August at Chiswell Street — this date is off
+
+> [Name],
+>
+> I’m writing to let you know the afternoon on 25 August is no longer going ahead.
+>
+> Sorry for the change of plan. I’ll be in touch separately about the next date.
+>
+> James
+
+No price. No URL. No “instead, buy this.” If they reply asking what is next, then you can send the paid invitation.
 
 **Rules**
 
 - From **you**, not “the Four Corners team.”
 - Subject lines: date + place, not “Join our community.”
 - Unsubscribe and a real reply address.
-- Never send “complimentary” and “£400” in the same email.
+- Never send “complimentary” and “£400” in the same email. The canceled date is gone; do not keep teaching the list that Four Corners is free.
 
 ---
 
@@ -181,7 +192,7 @@ Set email 3 from the **agency post date + 4 working days**, not from “week 3 b
 
 **Envelope:** Four Corners is not needed on the front. Their name, title, company. First class for Wave A (lands before email 3).
 
-**Do not** mention membership, “club,” or 25 August on this letter.
+**Do not** mention membership, “club,” or the canceled 25 August date on this letter.
 
 **Do not** write “I sat down this evening and wrote to you.” The letter is signed by you. That is the claim. Robot script that pretends at a kitchen table will look cheap the moment two Heads of L&D compare.
 
@@ -225,34 +236,34 @@ Keep emails shorter than this memo. If they want the philosophy they will come. 
 
 ## 7. Week-by-week (start Monday 17 August)
 
-Assume the paid date is **~6 weeks out** (week of 28 September if you counted from today). Slide the week numbers if the agreed date is different. **25 August is week 1**, and it is a complimentary gathering on the current site.
+Assume the paid date is **~6 weeks out** (week of 28 September if you counted from today). Slide the week numbers if the agreed date is different. **25 August is canceled.** Week of 24–30 August is selling time, not an event.
 
-### Week 0–1 (17–23 Aug) — page, filter, agency drop
+### Week 0–1 (17–23 Aug) — kill the free page, then drop letters
 
-- [ ] Landing page: paid date, price, persona, book form. Membership language off that page.
-- [ ] HubSpot lists A/B/25 Aug. Sequence built. Email 1 to list A (and B if A < 400).
+- [ ] **Today:** take 25 August off fourcornersclub.co.uk. Membership language off the page that letters will hit.
+- [ ] **Today:** cancellation email to anyone who RSVP’d 25 August (no paid pitch in that email). Courtesy note to Jennings / Velzeboer / Boulting if they were held for that date.
+- [ ] Landing page: paid date, price, persona, book form.
+- [ ] HubSpot lists A/B. Sequence built. Email 1 to list A (and B if A < 400).
 - [ ] Filter 1,500 names. Give the agency **Wave A (400)** only.
 - [ ] Spot-check 20 letters. Agency posts Wave A **first class as one batch**.
 - [ ] Diary the expected delivery window. Set HubSpot email 3 to that window.
-- [ ] LinkedIn connection + 4-line note to **the top 80 of Wave A** (not 15 a day because you were writing).
-- [ ] If 25 Aug is on: confirm numbers, print a **paid-date card** for the door (date, price, QR). Do not pitch membership.
+- [ ] LinkedIn connection + 4-line note to **the top 80 of Wave A**.
 
-**End of week 1 target:** Email 1 sent. **Wave A in the post.** Page live. 5 conversations in the diary.
+**End of week 1 target:** Canceled date **gone from the site**. Email 1 sent. **Wave A in the post.** 5 conversations in the diary.
 
-### Week 2 (24–30 Aug) — 25 Aug + letters landing
+### Week 2 (24–30 Aug) — letters landing (no event)
 
 - [ ] Email 2 to paid list.
 - [ ] Letters should be landing. Email 3 this week if first class has had 4 working days.
-- [ ] **25 August:** run the complimentary afternoon if it is happening. Clipboard: name, email, “interested in [paid date] Y/N.” Same-day HubSpot add to `FC_25aug`.
-- [ ] 26 Aug: warm email to 25 Aug list.
 - [ ] Confirm every booking with a human email: you are in; invoice; calendar hold; who else is in the room (persona, not names).
-- [ ] Phone/LinkedIn the A names whose letters have landed.
+- [ ] Phone/LinkedIn the A names whose letters have landed. This week used to be an event. Use the hours.
 
 **End of week 2 target:** Wave A delivered. **8–12 paid or firmly committed.** If fewer than 5, the offer or the list is wrong — do not respond by posting Wave B. Call 20 people.
 
 ### Week 3 (31 Aug–6 Sep) — follow the post
 
 - [ ] Email 3 if it has not already gone (must follow delivery).
+- [ ] From **1 September**: if 25 Aug RSVPs match the persona, enroll them on the paid sequence (not before).
 - [ ] Release Wave B to the agency **only if** Wave A is converting (on track for 15+ paid).
 - [ ] Phone/LinkedIn every open-but-no-reply on Wave A.
 - [ ] Weekly count: booked / maybe / no / no-reply.
@@ -300,7 +311,7 @@ Same day, from you:
 
 | Metric | Healthy by week 3 | Panic |
 |---|---|---|
-| Wave A letters posted | 400 (week 1) | Still not posted because the page is not live |
+| Wave A letters posted | 400 (week 1) | Still not posted because the page is not live, or the site still shows 25 August as free |
 | Email 1 open rate (warm-ish list) | 40%+ | < 25% |
 | Conversations (reply or call) | 40 | < 15 |
 | Paid / committed | 15–20 | < 8 |
@@ -316,7 +327,7 @@ If opens are fine and bookings are not, the **price/page/persona** is the issue.
 - Do not post all 1,500 because the robot is fast. Filter first; hold B and C.
 - Do not say in email or on the letter that you personally wrote each one.
 - Do not send a membership join page.
-- Do not advertise 25 August as free and the paid date in the same paragraph.
+- Do not leave 25 August on the website. Do not mention the canceled free date in the paid invitation.
 - Do not fill remaining seats with facilitators, coaches, or “interested people.”
 - Do not add a fourth channel (ads, Eventbrite public, a new brand).
 - Do not ask the agency for 1,500 original essays. One merge line, then a plate.
