@@ -4,11 +4,11 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD (or the People Director who still owns learning) in **250–5,000 employee** organisations, London-commutable. Sell the afternoon. Complimentary 25 August is still not the paid test.
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date:** follow the 6-week letter + HubSpot plan; do not write all 1,500 letters before sending email.
 
 | File | Contents |
 |---|---|
-| [Four_Corners_Event_Machine_Memo.md](Four_Corners_Event_Machine_Memo.md) | Full decision memo |
+| [Four_Corners_First_Session_6_Week_Marketing_Plan.md](Four_Corners_First_Session_6_Week_Marketing_Plan.md) | 6-week letter + HubSpot plan to sell the first paid date |
 | [data/usps_and_founder_assets.csv](data/usps_and_founder_assets.csv) | Claimed USPs, values, founder skills |
 | [data/five_models.csv](data/five_models.csv) | Events / learning / membership / peer-network / portfolio |
 | [data/cost_build.csv](data/cost_build.csv) | Venue, speaker, open-course and comparable prices |
