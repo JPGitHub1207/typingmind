@@ -1,18 +1,20 @@
 # First paid session: 6-week sales plan
 
 **Operational plan**  
-17 August 2026  
-Channels you already have: **1,500 handwritten letters**, **email data**, **HubSpot**.  
+17 August 2026 (updated: letters are agency / robot-written, not founder time)  
+Channels you already have: **1,500 handwritten-look letters** (outside agency, robot-written — already paid), **email data**, **HubSpot**.  
 Fill target: **30 paid** (kill-test) · **50 paid** (full room).  
 Persona: in-house Head of L&D / Talent / OD, or People Director who still owns learning · **250–5,000 employees** · London-commutable. See section 14 of the event-machine memo.
 
 This is a **ticket campaign**, not a membership launch. The live homepage still says “invitation-only membership community” and the 25 August gathering is still **complimentary**. **Verified**, fourcornersclub.co.uk, 17 August 2026. If a paid landing page is not live this week, the letters will send people into a free event. Fix that first.
 
+**Bottleneck is not writing.** The agency can drop the batch once the page is live. Your six weeks are **list quality, the paid page, HubSpot timing to delivery, and follow-up**. Unused paper still beats a wrong room.
+
 ---
 
-## 0. Lock in 48 hours (before a single letter)
+## 0. Lock in 48 hours (before the agency posts)
 
-Do not write 1,500 letters into a fog.
+Do not post 1,500 letters into a fog. Production is not the wait; **copy, URL, and the filter** are.
 
 | Item | Decision |
 |---|---|
@@ -32,33 +34,45 @@ Do not write 1,500 letters into a fog.
 - CTA: Request a place / Book.
 - FAQ: who it is for, cost, no supplier pitches, not a training course, not iVentiv, not CIPD Festival.
 
-Until that page exists, **do not post the letters**. Email can wait 24 hours; letters cannot be unsent.
+Until that page exists, **do not release the agency to post**. Email can wait 24 hours; letters cannot be unsent.
+
+**Agency briefing (same 48 hours):**
+
+- Merge file = filtered names only (see section 1). Do not send the raw 1,500.
+- Template: **one merge opening** (name / company) + **fixed body** + price + URL. Thin extra merge fields (job history, “I noticed you spoke at X”) will look fake to Heads of L&D when they compare notes.
+- Spot-check **20 letters** (body, name, company, address, URL) before the rest leave.
+- First class. Ask the agency for the **actual post date** so HubSpot email 3 hits **after** delivery, not before.
+- Envelopes in the same hand as the letter if they offer it.
 
 ---
 
-## 1. The maths (so 1,500 letters do not become the job)
+## 1. The maths (list quality, not calligraphy)
 
-**1,500 fully handwritten unique letters in 6 weeks will consume you.** At 4 minutes each that is **100 hours** of writing, before envelopes, stamps, and follow-up. You would finish the last letter in week 6 with nobody left to call.
-
-Use the stock. Do not treat every name as equal.
+The 1,500 are a **stock of invitations**, not a six-week writing job. You can post Wave A as soon as the page is live. Do not treat every name as equal.
 
 | Wave | Who | Letters | When they land | Why |
 |---|---|---|---|---|
-| **A** | Pass the four-part test (in-house, most senior learning person, can expense £400, peer altitude). London-commutable | **400** | End of week 1 / start of week 2 | These are the 30 seats |
-| **B** | Same titles, slightly wider geography or 200–249 / 5,000–8,000 stretch | **500** | Week 3 | Backup fill |
-| **C** | Remainder of the 1,500 after a hard filter | **up to 600** | Week 4 only if A+B have not produced 25 paid | Do not write these “just because you paid for paper” |
+| **A** | Pass the four-part test (in-house, most senior learning person, can expense £400, peer altitude). London-commutable | **400** | Posted **this week** once the page is live. First class → ~3–5 working days | These are the 30 seats |
+| **B** | Same titles, slightly wider geography or 200–249 / 5,000–8,000 stretch | **500** | Week 3, **only if** Wave A is converting | Backup fill |
+| **C** | Remainder of the 1,500 after a hard filter | **up to 600** | Week 4 only if A+B have not produced 25 paid | Do not post these “just because you paid for paper” |
 
-If after filtering you have fewer than 400 true A names, **that is the list problem**. Do not invent 1,100 extra Heads of L&D by writing to coordinators. Unused paper is cheaper than a room full of the wrong people.
+If after filtering you have fewer than 400 true A names, **that is the list problem**. Do not invent 1,100 extra Heads of L&D by mailing coordinators. Unused paper is cheaper than a room full of the wrong people. Postage on a bad name is still a bad name, even when the robot is free to you.
 
-**Daily writing rate that still leaves time to sell:** **40 letters a day**, six days a week, in the morning. That is 240 a week. Wave A is done in **10 mornings**. HubSpot, replies, and LinkedIn happen after 11:30.
+If the agency has **already written all 1,500**, hold B and C in a box. Do not post them until A proves the offer. Writing is sunk; **Royal Mail is not a reason to dump the lot on day one**.
 
-Envelope: handwritten on Wave A. Printed labels on B and C if you are slipping.
+**Your job in these 6 weeks (not the pen):**
 
-Personalisation: **one opening sentence**, then a fixed body. Not 1,500 original essays.
+- Paid page live
+- HubSpot lists and sequences timed to **delivery**
+- Same-day replies and invoices
+- LinkedIn / phone on the A list
+- 25 August harvest if that afternoon still runs
+
+**Honesty on the letter:** robot handwriting looks personal. Do not claim you sat down and wrote 1,500 notes. Recipients will compare. The letter is **from you**. That is enough.
 
 ---
 
-## 2. Filter the data before HubSpot or the pen
+## 2. Filter the data before HubSpot or the agency
 
 In HubSpot (or a sheet, then import):
 
@@ -82,10 +96,12 @@ If you do not have employee-band data, filter on **title + London + not a suppli
 ## 3. Two engines, one offer
 
 ```
-Wave A letter posts  →  arrives ~3–5 working days later
-HubSpot sequence     →  starts this week, does not wait for Royal Mail
-LinkedIn (top 80)    →  same week as their letter, 4–5 lines
-Replies              →  you, same day, invoice
+Agency posts Wave A   →  first class, one batch, once page is live
+Letter arrives        →  ~3–5 working days later
+HubSpot sequence      →  Email 1 this week (does not wait for Royal Mail)
+                         Email 3 timed to *delivery*, not to post day
+LinkedIn (top 80)     →  same week the letters land, 4–5 lines
+Replies               →  you, same day, invoice
 ```
 
 Letters create the feeling of an invitation. Email does the volume and the reminder. LinkedIn closes the people you actually want in the 50. **Phone anyone who opens twice or replies with a question.**
@@ -104,7 +120,8 @@ Do not add ads, a new brand, or a membership funnel.
 **Properties worth having**
 
 - Wave (A/B/C)
-- Letter posted date
+- Letter posted date (from the agency)
+- Expected delivery window
 - Company employees (rough)
 - Persona pass (Y/N)
 - Seat status (invited / maybe / booked / no)
@@ -120,10 +137,12 @@ Do not add ads, a new brand, or a membership funnel.
 |---|---|---|
 | 1 | Day 0 (this week) | The invitation. Date, room, who, price, one CTA |
 | 2 | Day 4 | What the afternoon actually is (talks are 20 min; tables do the work; Corners from the room) |
-| 3 | Day 10 | “You may also get a note from me in the post” / or “I wrote to you” if letter has gone |
+| 3 | ~Day 8–12 | Timed to **first-class delivery**. “I’ve sent you an invitation” — **not** “I sat down and wrote to you” |
 | 4 | Day 18 | Social proof of the *room* (persona, not fake testimonials). Remaining places |
 | 5 | Day 28 | Last 10 days. Invoice this week. Colleague of the same altitude only |
 | 6 | Day 35 | 48-hour close. Then stop |
+
+Set email 3 from the **agency post date + 4 working days**, not from “week 3 because writing was slow.” If they post Friday, email 3 is the following Thursday/Friday.
 
 **Warm sequence (25 Aug list, 3 emails)**
 
@@ -140,13 +159,13 @@ Do not add ads, a new brand, or a membership funnel.
 
 ---
 
-## 5. Letter: one personal line, then a plate
+## 5. Letter: one merge line, then a plate
 
-**Handwritten opening (change every time):**
+**Merge opening (name / company only):**
 
 > [Name] — saw you leading learning at [Company] and wanted this to reach you rather than a generic invite.
 
-**Fixed body (you can write this 400 times without inventing a new argument):**
+**Fixed body (same for the wave):**
 
 > I’m running a small afternoon on [date], 14:00–17:30, at Chiswell Street Dining Rooms in EC1.
 >
@@ -163,6 +182,8 @@ Do not add ads, a new brand, or a membership funnel.
 **Envelope:** Four Corners is not needed on the front. Their name, title, company. First class for Wave A (lands before email 3).
 
 **Do not** mention membership, “club,” or 25 August on this letter.
+
+**Do not** write “I sat down this evening and wrote to you.” The letter is signed by you. That is the claim. Robot script that pretends at a kitchen table will look cheap the moment two Heads of L&D compare.
 
 ---
 
@@ -186,6 +207,16 @@ Do not add ads, a new brand, or a membership funnel.
 
 **Email 2 subject:** The talks are 20 minutes. The tables are the point.
 
+**Email 3 subject:** An invitation in the post
+
+> [Name],
+>
+> I’ve sent you an invitation for the afternoon at Chiswell Street on **[date]**.
+>
+> If it has arrived, you already have the detail. If you want a place, reply here or book: [URL]
+>
+> James
+
 **Email 4 subject:** [N] places left · [date]
 
 Keep emails shorter than this memo. If they want the philosophy they will come. If they want a community they will not pay.
@@ -196,31 +227,33 @@ Keep emails shorter than this memo. If they want the philosophy they will come. 
 
 Assume the paid date is **~6 weeks out** (week of 28 September if you counted from today). Slide the week numbers if the agreed date is different. **25 August is week 1**, and it is a complimentary gathering on the current site.
 
-### Week 0–1 (17–23 Aug) — pipe, not prose
+### Week 0–1 (17–23 Aug) — page, filter, agency drop
 
 - [ ] Landing page: paid date, price, persona, book form. Membership language off that page.
 - [ ] HubSpot lists A/B/25 Aug. Sequence built. Email 1 to list A (and B if A < 400).
-- [ ] Filter 1,500 names. Print Wave A (400) as a writing stack.
-- [ ] Write **40 letters a day**. Post Wave A first class as you finish each day’s stack (do not wait for 400).
-- [ ] LinkedIn connection + 4-line note to **15 Wave A names a day** (the ones you wrote that morning).
+- [ ] Filter 1,500 names. Give the agency **Wave A (400)** only.
+- [ ] Spot-check 20 letters. Agency posts Wave A **first class as one batch**.
+- [ ] Diary the expected delivery window. Set HubSpot email 3 to that window.
+- [ ] LinkedIn connection + 4-line note to **the top 80 of Wave A** (not 15 a day because you were writing).
 - [ ] If 25 Aug is on: confirm numbers, print a **paid-date card** for the door (date, price, QR). Do not pitch membership.
 
-**End of week 1 target:** Email 1 sent. ≥200 letters in the post. Page live. 5 conversations in the diary.
+**End of week 1 target:** Email 1 sent. **Wave A in the post.** Page live. 5 conversations in the diary.
 
 ### Week 2 (24–30 Aug) — 25 Aug + letters landing
 
-- [ ] Finish Wave A letters.
 - [ ] Email 2 to paid list.
+- [ ] Letters should be landing. Email 3 this week if first class has had 4 working days.
 - [ ] **25 August:** run the complimentary afternoon if it is happening. Clipboard: name, email, “interested in [paid date] Y/N.” Same-day HubSpot add to `FC_25aug`.
 - [ ] 26 Aug: warm email to 25 Aug list.
 - [ ] Confirm every booking with a human email: you are in; invoice; calendar hold; who else is in the room (persona, not names).
+- [ ] Phone/LinkedIn the A names whose letters have landed.
 
-**End of week 2 target:** Wave A posted. **8–12 paid or firmly committed.** If fewer than 5, the offer or the list is wrong — do not respond by writing faster. Call 20 people.
+**End of week 2 target:** Wave A delivered. **8–12 paid or firmly committed.** If fewer than 5, the offer or the list is wrong — do not respond by posting Wave B. Call 20 people.
 
 ### Week 3 (31 Aug–6 Sep) — follow the post
 
-- [ ] Email 3 (“the note in the post”).
-- [ ] Start Wave B letters only if Wave A is gone.
+- [ ] Email 3 if it has not already gone (must follow delivery).
+- [ ] Release Wave B to the agency **only if** Wave A is converting (on track for 15+ paid).
 - [ ] Phone/LinkedIn every open-but-no-reply on Wave A.
 - [ ] Weekly count: booked / maybe / no / no-reply.
 
@@ -238,7 +271,7 @@ Assume the paid date is **~6 weeks out** (week of 28 September if you counted fr
 
 - [ ] Email 5. Invoice this week. Dietary. Stop inventing copy.
 - [ ] Personal notes only to maybes.
-- [ ] If < 25: you go through the A list by phone. Not more paper.
+- [ ] If < 25: you go through the A list by phone. **Not more paper.**
 
 **End of week 5 target:** **30 paid** (kill-test passed) or you decide to run a smaller room honestly.
 
@@ -267,7 +300,7 @@ Same day, from you:
 
 | Metric | Healthy by week 3 | Panic |
 |---|---|---|
-| Wave A letters posted | 400 | < 200 |
+| Wave A letters posted | 400 (week 1) | Still not posted because the page is not live |
 | Email 1 open rate (warm-ish list) | 40%+ | < 25% |
 | Conversations (reply or call) | 40 | < 15 |
 | Paid / committed | 15–20 | < 8 |
@@ -279,11 +312,13 @@ If opens are fine and bookings are not, the **price/page/persona** is the issue.
 
 ## 10. What not to do in these 6 weeks
 
-- Do not wait until all 1,500 letters are written to send email.
+- Do not wait on the letters. The agency posts Wave A as soon as the **paid page** is live.
+- Do not post all 1,500 because the robot is fast. Filter first; hold B and C.
+- Do not say in email or on the letter that you personally wrote each one.
 - Do not send a membership join page.
 - Do not advertise 25 August as free and the paid date in the same paragraph.
 - Do not fill remaining seats with facilitators, coaches, or “interested people.”
 - Do not add a fourth channel (ads, Eventbrite public, a new brand).
-- Do not write a different letter for each of 1,500 people.
+- Do not ask the agency for 1,500 original essays. One merge line, then a plate.
 
-You already have the only two channels that fit an invited room: **a note with your name on it**, and **email from you**. The strategy is sequence and filter, not more ideas.
+You already have the only two channels that fit an invited room: **a note with your name on it**, and **email from you**. The strategy is sequence and filter, not more ideas. Your time is the page, HubSpot, and the A-list conversations — not the pen.
