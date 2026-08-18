@@ -17,12 +17,14 @@ These two already argue the **same case from two directions**. You do not need t
 - Boulting has spent 2026 saying **skills gaps are often not a skills problem** — the taxonomy sits unused because **managers hoard or release** capability, and the environment is the constraint. **Verified**: CIPD Festival of Work panel June 2026 (~400 in the room); CIPD podcast 231 (24 June 2026); his own line: “The specification was never the constraint. The environment was.”
 
 **Day question (print this on the page and the letter):**  
-**Is it a skills problem — or an environment problem?**
+**Another programme isn’t the answer. What if skills gaps aren’t the problem?**
 
-**Talk 1 — Charles (20 min):** *You already know 70:20:10. Why hasn’t Monday changed?*  
-**Talk 2 — Alex (20 min):** *Are skills gaps a skills problem?*
+**Talk 1 — Charles (20 min):** *Another learning programme isn’t the answer* — why programmes fail as a system.  
+**Talk 2 — Alex (20 min):** *What if skills gaps aren’t the problem?* — why diagnosing performance problems as “skills problems” leads to the wrong solutions.
 
-That is one problem, two angles. Not a 70:20:10 explainer plus a GSK case study.
+Your titles. One problem (misdiagnosis), two angles (the solution L&D keeps buying / the diagnosis the board keeps using). Better than putting 70:20:10 on the tin.
+
+**One edit:** take **mapping** off Charles’s subtitle. If both men attack taxonomies, you get the same talk twice. Charles owns **programmes as a system**. Alex owns **the skills-gap diagnosis** (and mapping). Charles may mention mapping as a symptom. He should not do a mapping talk.
 
 ---
 
@@ -91,47 +93,50 @@ Jennings has been saying that for 20 years in 70:20:10 language. Boulting is say
 
 ## 4. Recommended pairing (send this)
 
-**Afternoon title:** Is it a skills problem — or an environment problem?
+**Afternoon title:** Another programme isn’t the answer. What if skills gaps aren’t the problem?
 
-**Who is in the room:** in-house Heads of L&D / Talent / OD, organisations of about 250–5,000, London-commutable. Not iVentiv. Not Festival of Work. They expense £400 + VAT. They have small teams. They cannot buy GSK’s stack.
+**Who is in the room:** in-house Heads of L&D / Talent / OD, organisations of about 250–5,000, London-commutable. Not iVentiv. Not Festival of Work. They expense £400 + VAT. They have small teams. They cannot buy GSK’s stack. They **run programmes**. The title is not “your job is pointless.” It is “another programme as the automatic move isn’t the answer.”
 
 **Run of show they need to know:** 20 minutes, then tables interrogate. They do not take questions from the floor instead of tables. They are not in the Corners. No pitch. No list. Human conversation at canapés is allowed.
 
 ### Talk 1 — Charles Jennings (14:15)
 
-**Title:** You already know 70:20:10. Why hasn’t Monday changed?
+**Title:** Another learning programme isn’t the answer  
+**Subtitle:** Why programmes fail as a system
 
-**Job of the talk:** Kill the slide, keep the idea. Why programmes and mapping fail *as a system*. Teams as the unit. Performance analysis vs learning analysis. One punch at GenAI-as-more-content if he wants — not an AI keynote.
+**Job of the talk:** The *solution* side. Why L&D keeps commissioning the next cohort, the next academy, the next “manager as coach” module — and why that fails as a system, not as a bit of content. Performance analysis vs learning analysis. Teams as the unit. Order-taker vs value creator. 70:20:10 may appear as the frame; **do not teach the numbers.**
 
 **Ask him to end on this table question:**  
-*What are you still funding that only makes sense if courses were the constraint?*
+*What are you still funding that only makes sense if another programme were the answer?*
 
-**Ask him not to:** explain the 70/20/10 split; recap Reuters; do the Fuse/LT AI-platform talk; sell Institute accreditation.
+**Ask him not to:** explain 70/20/10; recap Reuters; do a mapping/taxonomy talk (that’s Alex); do the Fuse/LT AI-platform talk; sell Institute accreditation; sneer at people whose job is programmes.
 
 ### Talk 2 — Alex Boulting (15:10)
 
-**Title:** Are skills gaps a skills problem?
+**Title:** What if skills gaps aren’t the problem?  
+**Subtitle:** Why diagnosing performance problems as “skills problems” leads to the wrong solutions
 
-**Job of the talk:** Take the 2026 board fashion (“we should become skills-based”) and tell the truth about friction. Two minutes of GSK for credibility, then **what a 2,000-person organisation can actually do** — including “don’t.” Managers who will not release people. The four questions. Completions vs “was it used on real work.”
+**Job of the talk:** The *diagnosis* side. Why calling it a skills gap sends you to the wrong prescription (a programme, a taxonomy, a platform). Two minutes of GSK for credibility, then **what a 2,000-person organisation can actually do** — including “you may not have a skills problem.” Managers who will not release people. The four questions. Completions vs “was it used on real work.” Mapping and taxonomies live here.
 
 **Ask him to end on this table question:**  
 *Can you name a specific outcome you can’t achieve because capability is in the wrong place — and if you can’t, what problem do you actually have?*
 
-**Ask him not to:** replay the FoW panel; walk through a taxonomy; demo an LXP; make this an Ebbnflow method.
+**Ask him not to:** replay the FoW panel; walk through a taxonomy as a how-to; demo an LXP; make this an Ebbnflow method; spend the 20 minutes on “how to become skills-based.”
 
 ### Why this order
 
-Charles first: shared language they already have (70:20:10, performance).  
-Alex second: the live 2026 argument their FD is about to fund.  
-If you reverse it, the afternoon will be heard as “the skills-based event,” which is already oversupplied.
+Charles first: they walked in having just commissioned a programme. Meet that.  
+Alex second: names the misdiagnosis underneath.  
+If you reverse it (diagnosis then prescription) it also works. Do not let them both do mapping.
 
 ### Alternative pairings if they push back
 
 | If they say | Offer instead | Still the same day? |
 |---|---|---|
-| Charles wants AI | *AI will make more courses faster. That’s not the point.* Keep it as a lens inside Talk 1. Not a second topic | Yes |
-| Charles wants atomic teams as the whole talk | Fine as Talk 1 title: *The unit of performance is the team, not the HiPo* | Yes, if Alex still does environment/managers |
-| Alex wants “how GSK did it” | Cap GSK at **four minutes**. Rest must be “what transfers to a 400-person org” | Only if the question stays |
+| Charles wants mapping in the subtitle | He may *mention* it. Alex owns the 15 minutes on taxonomies | Yes |
+| Charles wants AI | *AI will make more programmes faster. That’s not the point.* Lens, not a second topic | Yes |
+| Charles wants atomic teams as the whole talk | Fold teams into “why programmes fail as a system.” Don’t retitle | Yes |
+| Alex wants “how GSK did it” | Cap GSK at **four minutes**. Rest must transfer to 400 people | Only if the diagnosis question stays |
 | Either wants 40 minutes | No. The educational claim is the tables | — |
 
 Do not accept: 70:20:10 101 + “journey to skills-based.” That is two conference sessions they have already heard.
@@ -148,17 +153,16 @@ Copy, put your name on, send separately so each owns their 20 minutes. Then send
 >
 > For 29 September at Chiswell Street I’d like you to take the first 20 minutes, then the room works the idea in tables. Not a keynote. Not Q&A from the floor.
 >
-> The afternoon is for in-house Heads of L&D in organisations of about 250–5,000. Not the iVentiv room. They already know 70:20:10. Please don’t teach the numbers.
+> The afternoon is for in-house Heads of L&D in organisations of about 250–5,000. Not the iVentiv room. They run programmes. The title is not “your job is pointless.” It is that another programme as the automatic move isn’t the answer.
 >
-> **Title:** You already know 70:20:10. Why hasn’t Monday changed?
+> **Title:** Another learning programme isn’t the answer  
+> **Subtitle:** Why programmes fail as a system
 >
-> **The day question:** Is it a skills problem — or an environment problem?
+> Alex Boulting follows you on “What if skills gaps aren’t the problem?” — the misdiagnosis. You own the *solution* side: why we keep commissioning the next cohort. Please leave mapping and taxonomies to him; you may mention them, don’t make them the talk. They already know 70:20:10 — don’t teach the numbers.
 >
-> What I need from you: why programmes and mapping fail as a *system*; why the team (not the individual course) is the unit of performance; what you’d stop funding. End with one question for the tables: “What are you still funding that only makes sense if courses were the constraint?”
+> End with one question for the tables: “What are you still funding that only makes sense if another programme were the answer?”
 >
 > Please don’t do the Learning Technologies AI-platform version, and please don’t pitch the Institute.
->
-> Alex Boulting follows you on “Are skills gaps a skills problem?” — managers, job design, what not to copy from a GSK-scale stack. You’re the frame. He’s the 2026 fashion.
 >
 > 20 minutes, then you sit down. Happy to hop on a 15-minute call if useful.
 >
@@ -172,15 +176,12 @@ Copy, put your name on, send separately so each owns their 20 minutes. Then send
 >
 > The afternoon is for in-house Heads of L&D in organisations of about 250–5,000. They cannot buy GSK’s stack. Two minutes of GSK for credibility is plenty. The rest needs to transfer.
 >
-> **Title:** Are skills gaps a skills problem?
+> **Title:** What if skills gaps aren’t the problem?  
+> **Subtitle:** Why diagnosing performance problems as “skills problems” leads to the wrong solutions
 >
-> **The day question:** Is it a skills problem — or an environment problem?
+> Charles opens with “Another learning programme isn’t the answer.” You own the *diagnosis* side: why calling it a skills gap sends people to the wrong prescription. Mapping, managers who hoard or release, your four questions — especially “Can you name a specific outcome you can’t achieve because skills are in the wrong place?” End on that for the tables.
 >
-> What I need from you: the line you’ve already published — the taxonomy isn’t the constraint, the environment is; managers who release or hoard; your four questions, especially “Can you name a specific outcome you can’t achieve because skills are in the wrong place?” End on that for the tables.
->
-> Please don’t walk through a taxonomy or a platform. Please don’t pitch Ebbnflow from the stage.
->
-> Charles opens with why 70:20:10 hasn’t changed Monday. You’re the 2026 version of the same argument.
+> Please don’t walk through a taxonomy as a how-to or a platform. Please don’t pitch Ebbnflow from the stage. Please don’t make this “how to become skills-based.”
 >
 > 20 minutes, then you sit down. Happy to hop on a 15-minute call if useful.
 >
@@ -190,8 +191,8 @@ Copy, put your name on, send separately so each owns their 20 minutes. Then send
 
 ## 6. Letter / page copy (15 words each)
 
-- **Charles Jennings** — 70:20:10 Institute; why programmes don’t change the work.
-- **Alex Boulting** — OD lead, formerly GSK; when a skills gap isn’t a skills problem.
+- **Charles Jennings** — why another learning programme isn’t the answer.
+- **Alex Boulting** — what if skills gaps aren’t the problem.
 
 Do not use “world-renowned” or “transformation expert.” The room is allergic.
 

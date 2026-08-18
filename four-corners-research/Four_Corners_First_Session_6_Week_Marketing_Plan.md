@@ -3,7 +3,7 @@
 **Operational plan**  
 18 August 2026 (date and speakers locked; letters agency / robot-written; **25 August complimentary is canceled**)  
 Paid date: **Tuesday 29 September 2026**, 14:00–17:30, Chiswell Street Dining Rooms.  
-Contributors: **Charles Jennings** and **Alex Boulting**. Day question: **Is it a skills problem — or an environment problem?** See `Four_Corners_29_Sept_Speaker_Brief.md`.  
+Contributors: **Charles Jennings** and **Alex Boulting**. Day question: **Another programme isn’t the answer. What if skills gaps aren’t the problem?** See `Four_Corners_29_Sept_Speaker_Brief.md`.  
 Channels you already have: **1,500 handwritten-look letters** (outside agency, robot-written — already paid), **email data**, **HubSpot**.  
 Fill target: **30 paid** (kill-test) · **50 paid** (full room).  
 Persona: in-house Head of L&D / Talent / OD, or People Director who still owns learning · **250–5,000 employees** · London-commutable. See section 14 of the event-machine memo.
@@ -26,8 +26,8 @@ Do not post 1,500 letters into a fog. Production is not the wait; **copy, URL, a
 | Venue | Chiswell Street Dining Rooms, EC1 |
 | Price | **£400 + VAT** (or £350 + VAT if you have already quoted it). One price. No “member rate” |
 | Who it is for | One sentence from section 14 |
-| Speakers | **Charles Jennings** — why 70:20:10 hasn’t changed Monday. **Alex Boulting** — when a skills gap isn’t a skills problem. 15 words each, no bios |
-| Day question | Is it a skills problem — or an environment problem? |
+| Speakers | **Charles Jennings** — another programme isn’t the answer. **Alex Boulting** — what if skills gaps aren’t the problem. 15 words each, no bios |
+| Day question | Another programme isn’t the answer. What if skills gaps aren’t the problem? |
 | Book URL | One HubSpot form or meeting link. Reply-to-this-letter also counts |
 | Cost code line | “Training / conference. No procurement. Invoice same week” |
 | 25 August | **Canceled.** Take it off the site. Email anyone who RSVP’d (template below). Do not harvest a room that is not sitting |
@@ -185,7 +185,7 @@ No price. No URL. No “instead, buy this.” If they reply asking what is next,
 >
 > In the room: in-house Heads of L&D, Talent and OD from organisations of about 250–5,000 people. Two short talks, then table conversations. We finish by naming a few “Corners” — themes people actually want to go deeper on — and those who want to continue meet later over coffee. No stands. No pitches.
 >
-> The question for the afternoon: is it a skills problem, or an environment problem?
+> The question for the afternoon: another programme isn’t the answer — what if skills gaps aren’t the problem?
 >
 > Charles Jennings and Alex Boulting are contributing. They are not there to sell.
 >
@@ -213,7 +213,7 @@ No price. No URL. No “instead, buy this.” If they reply asking what is next,
 >
 > Not a conference. Not a training course. Two short contributions, then the room does the work in tables. We end by naming a few themes people want to go deeper on together.
 >
-> The question for the afternoon: is it a skills problem, or an environment problem? Charles Jennings and Alex Boulting are contributing. They are not there to sell.
+> The question for the afternoon: another programme isn’t the answer — what if skills gaps aren’t the problem? Charles Jennings and Alex Boulting are contributing. They are not there to sell.
 >
 > Who it’s for: people who own or shape learning in organisations of about 250–5,000, who can get to EC1 on a weekday afternoon.
 >

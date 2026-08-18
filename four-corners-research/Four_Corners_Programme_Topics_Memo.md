@@ -17,7 +17,7 @@ Evidence labels: **Verified** · **Calculated** · **Estimated / assumption** ·
 
 **Steal iVentiv’s good bit, which you already designed:** the room names what continues. That is the Corners harvest. Keep the talks as a **shared problem with two angles**, not two guest spots.
 
-**First paid date spine (updated 18 Aug, speakers locked):** 29 September. Jennings then Boulting. One problem — **is it a skills problem, or an environment problem?** Not a 70:20:10 explainer plus a GSK case. See `Four_Corners_29_Sept_Speaker_Brief.md`. Petra is out; wellbeing does not share a table question with this pair.
+**First paid date spine (updated 18 Aug, speakers locked):** 29 September. Jennings: *Another learning programme isn’t the answer.* Boulting: *What if skills gaps aren’t the problem?* Not a 70:20:10 explainer plus a GSK case. See `Four_Corners_29_Sept_Speaker_Brief.md`. Petra is out.
 
 ---
 

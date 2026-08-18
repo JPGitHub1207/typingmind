@@ -4,7 +4,7 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date: 29 September 2026** with Jennings and Boulting on **is it a skills problem, or an environment problem?** Petra does not fit this pair. **25 August complimentary is canceled.**
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date: 29 September 2026.** Jennings: another programme isn’t the answer. Boulting: what if skills gaps aren’t the problem. Petra does not fit this pair. **25 August complimentary is canceled.**
 
 | File | Contents |
 |---|---|
