@@ -4,11 +4,13 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date: 29 September 2026.** Jennings: another programme isn’t the answer. Boulting: what if skills gaps aren’t the problem. Petra does not fit this pair. **25 August complimentary is canceled.**
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **29 September 2026: The Real Problem Behind Performance.** Jennings: another programme isn’t the answer. Boulting: what if skills gaps aren’t the problem.
 
 | File | Contents |
 |---|---|
 | [Four_Corners_29_Sept_Website_and_Marketing_Copy.md](Four_Corners_29_Sept_Website_and_Marketing_Copy.md) | Paste-ready page, letter, email, LinkedIn, FAQ |
+| [Four_Corners_Website_Layout_Brief.md](Four_Corners_Website_Layout_Brief.md) | Keep the Wix templates: hide duplicates, one job per slot |
+| [Four_Corners_29_Sept_Speaker_Brief.md](Four_Corners_29_Sept_Speaker_Brief.md) | Jennings + Boulting: titles and emails to send |
 | [Four_Corners_Programme_Topics_Memo.md](Four_Corners_Programme_Topics_Memo.md) | Two talks vs iVentiv-loose; 2026 conference topics and paid courses |
 | [Four_Corners_First_Session_6_Week_Marketing_Plan.md](Four_Corners_First_Session_6_Week_Marketing_Plan.md) | 6-week letter + HubSpot plan to sell the first paid date |
 | [data/usps_and_founder_assets.csv](data/usps_and_founder_assets.csv) | Claimed USPs, values, founder skills |
