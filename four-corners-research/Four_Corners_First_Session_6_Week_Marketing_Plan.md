@@ -1,7 +1,9 @@
 # First paid session: 6-week sales plan
 
 **Operational plan**  
-17 August 2026 (updated: letters are agency / robot-written; **25 August complimentary is canceled**)  
+18 August 2026 (date and speakers locked; letters agency / robot-written; **25 August complimentary is canceled**)  
+Paid date: **Tuesday 29 September 2026**, 14:00–17:30, Chiswell Street Dining Rooms.  
+Contributors: **Charles Jennings** and **Alex Boulting**. Day question: **Is it a skills problem — or an environment problem?** See `Four_Corners_29_Sept_Speaker_Brief.md`.  
 Channels you already have: **1,500 handwritten-look letters** (outside agency, robot-written — already paid), **email data**, **HubSpot**.  
 Fill target: **30 paid** (kill-test) · **50 paid** (full room).  
 Persona: in-house Head of L&D / Talent / OD, or People Director who still owns learning · **250–5,000 employees** · London-commutable. See section 14 of the event-machine memo.
@@ -20,11 +22,12 @@ Do not post 1,500 letters into a fog. Production is not the wait; **copy, URL, a
 
 | Item | Decision |
 |---|---|
-| Date / time | The date already agreed with facilitators. Print **14:00–17:30** plus canapés |
+| Date / time | **Tuesday 29 September 2026**, 14:00–17:30 plus canapés |
 | Venue | Chiswell Street Dining Rooms, EC1 |
 | Price | **£400 + VAT** (or £350 + VAT if you have already quoted it). One price. No “member rate” |
 | Who it is for | One sentence from section 14 |
-| Speakers | Names, 15 words each, no bios |
+| Speakers | **Charles Jennings** — why 70:20:10 hasn’t changed Monday. **Alex Boulting** — when a skills gap isn’t a skills problem. 15 words each, no bios |
+| Day question | Is it a skills problem — or an environment problem? |
 | Book URL | One HubSpot form or meeting link. Reply-to-this-letter also counts |
 | Cost code line | “Training / conference. No procurement. Invoice same week” |
 | 25 August | **Canceled.** Take it off the site. Email anyone who RSVP’d (template below). Do not harvest a room that is not sitting |
@@ -178,11 +181,13 @@ No price. No URL. No “instead, buy this.” If they reply asking what is next,
 
 **Fixed body (same for the wave):**
 
-> I’m running a small afternoon on [date], 14:00–17:30, at Chiswell Street Dining Rooms in EC1.
+> I’m running a small afternoon on **29 September**, 14:00–17:30, at Chiswell Street Dining Rooms in EC1.
 >
 > In the room: in-house Heads of L&D, Talent and OD from organisations of about 250–5,000 people. Two short talks, then table conversations. We finish by naming a few “Corners” — themes people actually want to go deeper on — and those who want to continue meet later over coffee. No stands. No pitches.
 >
-> [Speaker 1] and [Speaker 2] are contributing. They are not there to sell.
+> The question for the afternoon: is it a skills problem, or an environment problem?
+>
+> Charles Jennings and Alex Boulting are contributing. They are not there to sell.
 >
 > The ticket is £[400] + VAT. Most people put it to training or conference.
 >
@@ -200,13 +205,15 @@ No price. No URL. No “instead, buy this.” If they reply asking what is next,
 
 ## 6. Email copy (steal and send)
 
-**Email 1 subject:** [Date] · Chiswell Street · Heads of L&D
+**Email 1 subject:** 29 September · Chiswell Street · Heads of L&D
 
 > [Name],
 >
-> I’m inviting a small number of in-house Heads of L&D, Talent and OD to an afternoon at Chiswell Street Dining Rooms on **[date], 14:00–17:30**.
+> I’m inviting a small number of in-house Heads of L&D, Talent and OD to an afternoon at Chiswell Street Dining Rooms on **29 September, 14:00–17:30**.
 >
 > Not a conference. Not a training course. Two short contributions, then the room does the work in tables. We end by naming a few themes people want to go deeper on together.
+>
+> The question for the afternoon: is it a skills problem, or an environment problem? Charles Jennings and Alex Boulting are contributing. They are not there to sell.
 >
 > Who it’s for: people who own or shape learning in organisations of about 250–5,000, who can get to EC1 on a weekday afternoon.
 >
@@ -222,7 +229,7 @@ No price. No URL. No “instead, buy this.” If they reply asking what is next,
 
 > [Name],
 >
-> I’ve sent you an invitation for the afternoon at Chiswell Street on **[date]**.
+> I’ve sent you an invitation for the afternoon at Chiswell Street on **29 September**.
 >
 > If it has arrived, you already have the detail. If you want a place, reply here or book: [URL]
 >
@@ -236,7 +243,7 @@ Keep emails shorter than this memo. If they want the philosophy they will come. 
 
 ## 7. Week-by-week (start Monday 17 August)
 
-Assume the paid date is **~6 weeks out** (week of 28 September if you counted from today). Slide the week numbers if the agreed date is different. **25 August is canceled.** Week of 24–30 August is selling time, not an event.
+Assume the paid date is **Tuesday 29 September 2026**. **25 August is canceled.** Week of 24–30 August is selling time, not an event.
 
 ### Week 0–1 (17–23 Aug) — kill the free page, then drop letters
 

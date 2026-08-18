@@ -17,9 +17,7 @@ Evidence labels: **Verified** · **Calculated** · **Estimated / assumption** ·
 
 **Steal iVentiv’s good bit, which you already designed:** the room names what continues. That is the Corners harvest. Keep the talks as a **shared problem with two angles**, not two guest spots.
 
-**First paid date spine (recommended):** one problem — **why leadership programmes still don’t change managers** — two 20-minute provocations that both serve that problem. AI, skills, culture, and measurement show up as *lenses*, not as a second afternoon bolted on.
-
-The canceled 25 August lineup (wellbeing / 70:20:10 / skills-based OD) is the anti-pattern: three famous topics, no shared job. Do not rebuild it paid.
+**First paid date spine (updated 18 Aug, speakers locked):** 29 September. Jennings then Boulting. One problem — **is it a skills problem, or an environment problem?** Not a 70:20:10 explainer plus a GSK case. See `Four_Corners_29_Sept_Speaker_Brief.md`. Petra is out; wellbeing does not share a table question with this pair.
 
 ---
 

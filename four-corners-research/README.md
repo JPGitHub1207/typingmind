@@ -4,10 +4,11 @@
 
 Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **25 August complimentary is canceled** (17 Aug 2026); take it off the live site before letters post. **Programme:** one shared problem, two 20-minute angles — not two loosely connected talks, and not an empty iVentiv-style agenda in 3.5 hours. See the topics memo. **First paid date:** follow the 6-week letter + HubSpot plan. Letters are agency / robot-written — bottleneck is list quality, paid page, and follow-up, not writing time.
+**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **First paid date: 29 September 2026** with Jennings and Boulting on **is it a skills problem, or an environment problem?** Petra does not fit this pair. **25 August complimentary is canceled.**
 
 | File | Contents |
 |---|---|
+| [Four_Corners_29_Sept_Speaker_Brief.md](Four_Corners_29_Sept_Speaker_Brief.md) | Jennings + Boulting: specialisms, past talks, titles, emails to send |
 | [Four_Corners_Programme_Topics_Memo.md](Four_Corners_Programme_Topics_Memo.md) | Two talks vs iVentiv-loose; 2026 conference topics and paid courses |
 | [Four_Corners_First_Session_6_Week_Marketing_Plan.md](Four_Corners_First_Session_6_Week_Marketing_Plan.md) | 6-week letter + HubSpot plan to sell the first paid date |
 | [data/usps_and_founder_assets.csv](data/usps_and_founder_assets.csv) | Claimed USPs, values, founder skills |
