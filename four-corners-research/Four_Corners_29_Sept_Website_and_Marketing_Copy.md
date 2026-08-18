@@ -16,6 +16,67 @@ From **you**, not “the Four Corners team.” No “club.” No 25 August. No 7
 
 ---
 
+## 0. Abstracts (event + two talks) — draft for Charles and Alex to amend
+
+Send these as a starting point. They should rewrite in their own voice. Keep the titles, the 20-minute length, and the split: Charles owns **programmes as a solution system**; Alex owns **the skills-gap diagnosis**. Do not both do mapping.
+
+### Event overview
+
+**The Real Problem Behind Performance**  
+Another learning programme isn’t the answer. What if skills gaps aren’t the problem?
+
+Tuesday 29 September 2026, 14:00–17:30, Chiswell Street Dining Rooms, EC1.
+
+When performance stalls, organisations reach for a familiar pair: name a skills gap, then commission another learning programme. Completions rise. The work often does not.
+
+This afternoon is a working session for in-house Heads of L&D, Talent and OD — people who own that budget in organisations of about 250–5,000, and who can get to EC1 on a weekday. It is not a conference, not a training course, and not a vendor room. Two contributors speak for 20 minutes each. The tables do the learning. We finish by naming a few “Corners”: themes this room actually wants to continue, later, over coffee.
+
+Charles Jennings opens on why another programme is the wrong default — why programmes fail as a *solution system*, not as a bit of content that needs a better slide. Alex Boulting follows on the diagnosis underneath: what if the performance problem was never a skills problem? Mislabel it, and you buy the wrong fix.
+
+The point of the afternoon is not to leave with a toolkit. It is to leave having tested whether last year’s programme failed because it was badly designed, or because it was the answer to the wrong question.
+
+Ticket £400 + VAT. No stands. No pitches. The attendee list stays in the room.
+
+---
+
+### Talk 1 — Charles Jennings (20 minutes)
+
+**Another learning programme isn’t the answer**  
+Why programmes fail as a solution system
+
+*Draft abstract — Charles to amend.*
+
+Most Heads of L&D in this room already run programmes. This talk is not “programmes are pointless.” It is that **another programme, as the automatic next move, is not a solution system.** It is a habit.
+
+Charles will argue that programmes fail less because the content is weak, and more because they sit inside a system that treats learning as the product: a need is named, a cohort is designed, people attend, completions are reported, and the organisation assumes the work will change. It often doesn’t — because the constraint was never a missing course. It was how work is designed, how managers spend their time, how teams actually perform, and whether anyone asked a performance question before a learning one.
+
+He will not teach 70:20:10. This room can recite the numbers. He will use the idea the way it was meant: most capability is built in the work, with other people, not in the classroom — and L&D that only commissions the 10% will keep being surprised by Monday.
+
+Twenty minutes. Then tables. Suggested question for the room: *What are you still funding that only makes sense if another programme were the answer?*
+
+Please leave mapping and taxonomies for Alex. Mention them if you need to; don’t make them the talk. No Institute pitch. No Reuters memoir. Stories should transfer to a 400-person organisation, not only to a global CLO.
+
+---
+
+### Talk 2 — Alex Boulting (20 minutes)
+
+**What if skills gaps aren’t the problem?**  
+Are we misdiagnosing performance problems as skills problems?
+
+*Draft abstract — Alex to amend.*
+
+If you call it a skills gap, the next purchase is almost always learning: a programme, a taxonomy, a platform. Alex will ask whether that diagnosis is doing the real work — or hiding it.
+
+He has led skills-based change at GSK scale. This room cannot buy that stack, and should not try to copy it. Two minutes of GSK for credibility; the rest must transfer to organisations of about 250–5,000. The useful question is not “how do we become a skills-based organisation?” It is: **can you name a specific outcome you can’t achieve because capability is in the wrong place?** If you can’t, you may not have a skills problem yet. You may have a job-design problem, a manager problem, a slack problem, or a problem of capability being hoarded rather than used.
+
+Skills platforms specify and deliver. Completions are easy to count. What matters is whether the skill was used on real work, with an outcome. A perfectly mapped taxonomy can sit unused. The specification was never the constraint. The environment was.
+
+Twenty minutes. Then tables. Suggested question for the room: *If this isn’t a skills gap, what is it — and what would you stop calling a skills problem this year?*
+
+Please don’t replay Festival of Work, walk through a taxonomy as a how-to, or demo a platform. No Ebbnflow pitch. Mapping and misdiagnosis live in this talk. Programmes-as-a-system belong to Charles.
+
+---
+
 ## 1. Website — hero (above the fold)
 
 **Eyebrow:** Tuesday 29 September · 14:00–17:30 · Chiswell Street Dining Rooms, EC1
