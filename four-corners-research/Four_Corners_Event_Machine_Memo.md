@@ -384,6 +384,8 @@ A 3.5-hour working block is tight. It only works if talks are short and tables d
 
 If talks run 40 minutes you will not harvest four Corners before people are drinking. The educational claim lives in the **tables**, not in the speakers. That matches “created for conversation, not speakers.” Enforce it with a visible clock.
 
+**18 August addendum:** the two talks must be **one problem, two angles**, not two loosely connected topics, and not an empty iVentiv-style agenda. See `Four_Corners_Programme_Topics_Memo.md`.
+
 Having from 12:00 is for **setup and atmosphere**, not for turning this into a full training day. A morning add-on would compete with Hemsley Fraser and spend the £2k twice.
 
 ### 13.2 Four QR Corners

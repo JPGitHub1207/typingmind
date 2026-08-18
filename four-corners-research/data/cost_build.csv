@@ -13,6 +13,10 @@ founder_day_opportunity_cost,1000,estimated,Director-level day; not a cash cost 
 payment_fees_pct,0.05,estimated,Eventbrite/Stripe blended on card tickets,fees
 hemsley_fraser_open_from,625,verified,hemsleyfraser.com public schedule 2025/26 individual from £625+VAT,open_course_comp
 ptp_london_one_day,490,verified,ptp.co.uk London one-day public courses listed £490 August 2026,open_course_comp
+ptp_half_day_from,290,verified,ptp.co.uk half-day public from £290 August 2026,open_course_comp
+cipd_ace_conference_standard,830,verified,cipd.org ACE 4-5 Nov 2026 Manchester standard conference pass £830; member early bird £675,l_and_d_comp
+learning_technologies_conference_standard,1395,verified,Learning News listing CloserStill LT 2026 Standard £1395+VAT (EB £1295); Premium £1595+VAT,l_and_d_comp
+cipd_l7_strategic_ld_typical_low,3000,verified,cipd.org Advanced Diploma in Strategic L&D typical UK band £3000-£7000,qualification_comp
 school_of_life_festival_ga,360,verified,theschooloflife.com Festival of Ideas 2026 general admission £360 excl fees,consumer_event_comp
 school_of_life_festival_member,210,verified,Community member early bird £210,consumer_event_comp
 cipd_festival_of_work_in_person,0,verified,CIPD press: Festival of Work 10-11 June 2026 ExCeL free in-person pass,l_and_d_comp
