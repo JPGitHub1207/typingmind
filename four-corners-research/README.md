@@ -8,7 +8,7 @@ Deep dive on a **repeatable premium professional-learning event**, not an L&D me
 
 | File | Contents |
 |---|---|
-| [Four_Corners_29_Sept_Speaker_Brief.md](Four_Corners_29_Sept_Speaker_Brief.md) | Jennings + Boulting: specialisms, past talks, titles, emails to send |
+| [Four_Corners_29_Sept_Website_and_Marketing_Copy.md](Four_Corners_29_Sept_Website_and_Marketing_Copy.md) | Paste-ready page, letter, email, LinkedIn, FAQ |
 | [Four_Corners_Programme_Topics_Memo.md](Four_Corners_Programme_Topics_Memo.md) | Two talks vs iVentiv-loose; 2026 conference topics and paid courses |
 | [Four_Corners_First_Session_6_Week_Marketing_Plan.md](Four_Corners_First_Session_6_Week_Marketing_Plan.md) | 6-week letter + HubSpot plan to sell the first paid date |
 | [data/usps_and_founder_assets.csv](data/usps_and_founder_assets.csv) | Claimed USPs, values, founder skills |

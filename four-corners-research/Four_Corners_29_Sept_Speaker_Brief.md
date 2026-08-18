@@ -17,12 +17,13 @@ These two already argue the **same case from two directions**. You do not need t
 - Boulting has spent 2026 saying **skills gaps are often not a skills problem** — the taxonomy sits unused because **managers hoard or release** capability, and the environment is the constraint. **Verified**: CIPD Festival of Work panel June 2026 (~400 in the room); CIPD podcast 231 (24 June 2026); his own line: “The specification was never the constraint. The environment was.”
 
 **Day question (print this on the page and the letter):**  
-**Another programme isn’t the answer. What if skills gaps aren’t the problem?**
+**The Real Problem Behind Performance.**  
+Another learning programme isn’t the answer. What if skills gaps aren’t the problem?
 
-**Talk 1 — Charles (20 min):** *Another learning programme isn’t the answer* — why programmes fail as a system.  
-**Talk 2 — Alex (20 min):** *What if skills gaps aren’t the problem?* — why diagnosing performance problems as “skills problems” leads to the wrong solutions.
+**Talk 1 — Charles (20 min):** *Another learning programme isn’t the answer* — why programmes fail as a solution system.  
+**Talk 2 — Alex (20 min):** *What if skills gaps aren’t the problem?* — are we misdiagnosing performance problems as skills problems?
 
-Your titles. One problem (misdiagnosis), two angles (the solution L&D keeps buying / the diagnosis the board keeps using). Better than putting 70:20:10 on the tin.
+Website and campaign copy: `Four_Corners_29_Sept_Website_and_Marketing_Copy.md`.
 
 **One edit:** take **mapping** off Charles’s subtitle. If both men attack taxonomies, you get the same talk twice. Charles owns **programmes as a system**. Alex owns **the skills-gap diagnosis** (and mapping). Charles may mention mapping as a symptom. He should not do a mapping talk.
 
@@ -102,7 +103,7 @@ Jennings has been saying that for 20 years in 70:20:10 language. Boulting is say
 ### Talk 1 — Charles Jennings (14:15)
 
 **Title:** Another learning programme isn’t the answer  
-**Subtitle:** Why programmes fail as a system
+**Subtitle:** Why programmes fail as a solution system
 
 **Job of the talk:** The *solution* side. Why L&D keeps commissioning the next cohort, the next academy, the next “manager as coach” module — and why that fails as a system, not as a bit of content. Performance analysis vs learning analysis. Teams as the unit. Order-taker vs value creator. 70:20:10 may appear as the frame; **do not teach the numbers.**
 
@@ -114,7 +115,7 @@ Jennings has been saying that for 20 years in 70:20:10 language. Boulting is say
 ### Talk 2 — Alex Boulting (15:10)
 
 **Title:** What if skills gaps aren’t the problem?  
-**Subtitle:** Why diagnosing performance problems as “skills problems” leads to the wrong solutions
+**Subtitle:** Are we misdiagnosing performance problems as skills problems?
 
 **Job of the talk:** The *diagnosis* side. Why calling it a skills gap sends you to the wrong prescription (a programme, a taxonomy, a platform). Two minutes of GSK for credibility, then **what a 2,000-person organisation can actually do** — including “you may not have a skills problem.” Managers who will not release people. The four questions. Completions vs “was it used on real work.” Mapping and taxonomies live here.
 
@@ -156,7 +157,7 @@ Copy, put your name on, send separately so each owns their 20 minutes. Then send
 > The afternoon is for in-house Heads of L&D in organisations of about 250–5,000. Not the iVentiv room. They run programmes. The title is not “your job is pointless.” It is that another programme as the automatic move isn’t the answer.
 >
 > **Title:** Another learning programme isn’t the answer  
-> **Subtitle:** Why programmes fail as a system
+> **Subtitle:** Why programmes fail as a solution system
 >
 > Alex Boulting follows you on “What if skills gaps aren’t the problem?” — the misdiagnosis. You own the *solution* side: why we keep commissioning the next cohort. Please leave mapping and taxonomies to him; you may mention them, don’t make them the talk. They already know 70:20:10 — don’t teach the numbers.
 >
@@ -177,7 +178,7 @@ Copy, put your name on, send separately so each owns their 20 minutes. Then send
 > The afternoon is for in-house Heads of L&D in organisations of about 250–5,000. They cannot buy GSK’s stack. Two minutes of GSK for credibility is plenty. The rest needs to transfer.
 >
 > **Title:** What if skills gaps aren’t the problem?  
-> **Subtitle:** Why diagnosing performance problems as “skills problems” leads to the wrong solutions
+> **Subtitle:** Are we misdiagnosing performance problems as skills problems?
 >
 > Charles opens with “Another learning programme isn’t the answer.” You own the *diagnosis* side: why calling it a skills gap sends people to the wrong prescription. Mapping, managers who hoard or release, your four questions — especially “Can you name a specific outcome you can’t achieve because skills are in the wrong place?” End on that for the tables.
 >

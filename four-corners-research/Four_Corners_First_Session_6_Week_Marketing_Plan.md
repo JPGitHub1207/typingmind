@@ -3,7 +3,9 @@
 **Operational plan**  
 18 August 2026 (date and speakers locked; letters agency / robot-written; **25 August complimentary is canceled**)  
 Paid date: **Tuesday 29 September 2026**, 14:00–17:30, Chiswell Street Dining Rooms.  
-Contributors: **Charles Jennings** and **Alex Boulting**. Day question: **Another programme isn’t the answer. What if skills gaps aren’t the problem?** See `Four_Corners_29_Sept_Speaker_Brief.md`.  
+Contributors: **Charles Jennings** and **Alex Boulting**.  
+Afternoon: **The Real Problem Behind Performance.** Another learning programme isn’t the answer. What if skills gaps aren’t the problem?  
+Copy: `Four_Corners_29_Sept_Website_and_Marketing_Copy.md`. Brief: `Four_Corners_29_Sept_Speaker_Brief.md`.  
 Channels you already have: **1,500 handwritten-look letters** (outside agency, robot-written — already paid), **email data**, **HubSpot**.  
 Fill target: **30 paid** (kill-test) · **50 paid** (full room).  
 Persona: in-house Head of L&D / Talent / OD, or People Director who still owns learning · **250–5,000 employees** · London-commutable. See section 14 of the event-machine memo.
@@ -32,12 +34,7 @@ Do not post 1,500 letters into a fog. Production is not the wait; **copy, URL, a
 | Cost code line | “Training / conference. No procurement. Invoice same week” |
 | 25 August | **Canceled.** Take it off the site. Email anyone who RSVP’d (template below). Do not harvest a room that is not sitting |
 
-**Landing page copy (replace membership language):**
-
-- Headline: afternoon, not community.
-- Date, time, venue, price, who is in the room, two speakers, what happens (talk → tables → Corners).
-- CTA: Request a place / Book.
-- FAQ: who it is for, cost, no supplier pitches, not a training course, not iVentiv, not CIPD Festival.
+**Landing page copy:** paste from `Four_Corners_29_Sept_Website_and_Marketing_Copy.md`. Headline is the afternoon, not a community. Take 25 August and “complimentary” off the live site first.
 
 Until that page exists, **do not release the agency to post**. Email can wait 24 hours; letters cannot be unsent.
 
