@@ -25,6 +25,16 @@ Do not mail CFOs for 29 September. They do not own the learning diagnosis, and t
 
 LIVE (1,062 “already checked”): only **533** pass the title test. The other 529 stay on LIVE with employment fields untouched; they should not get 29 September letters.
 
-## Company size next
+## Company size (done)
 
-Look up **unique employers**, not each person. LIVE keep = **269 companies** (75 of those have a P1 L&D/OD person). Size those first. Do not use ChatGPT tags to choose the company list.
+Looked up **353 unique LIVE employers**, not 1,062 people. `size_band` uses UK employees if known, else group. Employment and `Outreach readiness` were not changed.
+
+| Size band | LIVE companies | LIVE people |
+|---|---:|---:|
+| 250–5,000 | 242 | 629 |
+| over 5,000 | 51 | 350 |
+| under 250 | 60 | 83 |
+
+Leftover BounceBan P1 L&D/OD not on LIVE: **83** people (50 still there / 28 moved / 5 Unclear). **36** of those are still there, deliverable, and 250–5,000.
+
+Counts-only write-up: [`List_Hygiene_Results.md`](List_Hygiene_Results.md). Spreadsheets stay off GitHub.
