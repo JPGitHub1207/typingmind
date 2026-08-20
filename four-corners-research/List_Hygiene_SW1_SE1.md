@@ -30,12 +30,30 @@ P1 split: 50 SW1 / 35 SE1.
 
 This is a **new** London-commutable slice, not a duplicate of the EC file. It does not replace EC; it sits beside it.
 
-## 29 September implication
+## P1 company size (63 employers)
 
-Do not mail all 2,331. Core buyer is P1 (maybe P2), then size 250–5,000 and still-in-post.
+UK employees if known, else group. Same bands as LIVE.
 
-P1 employers are being sized the same way as LIVE (once per company, UK if known else group). Employment check of the 85 is next, after size.
+| Size band | P1 employers | P1 people |
+|---|---:|---:|
+| 250–5,000 | 46 | 54 |
+| over 5,000 | 12 | 24 |
+| under 250 | 5 | 7 |
 
-Kubrick “Head of Learning Operations” is on P1 because the title contains Learning; treat as borderline ops.
+Over 5,000 includes EY, Shell, BP, Civil Service, Mitie, G4S, Pret, Cera Care, BAE, DP World, DIT, Dowlais. They fail the 29 September persona even if still in post.
 
-Working file (local, PII): `SW1_SE1_title_keep.xlsx` in uploads. Not in this repo.
+## P1 still in post (Google snippets, no LinkedIn login)
+
+| Still at recorded company | People |
+|---|---:|
+| Yes | 56 |
+| No | 17 |
+| Unclear | 12 |
+
+**Wave from this file:** still Yes + 250–5,000 + has an email = **30 people / 26 employers** (17 SW1, 13 SE1). No BounceBan column on this extract — emails are un-verified.
+
+P2 (34) and P3 (383) are parked. Unclear names are for James on LinkedIn.
+
+Kubrick “Head of Learning Operations” stayed Unclear / borderline ops; not in the 30.
+
+Working files (local, PII): `SW1_SE1_title_keep.xlsx`, `SW1_SE1_P1_wave.xlsx`. Not in this repo.
