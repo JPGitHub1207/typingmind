@@ -94,7 +94,13 @@ Unclear names are for James on LinkedIn.
 
 ## Working files (local, PII)
 
-`SW1_SE1_title_keep.xlsx`, `SW1_SE1_P1_wave.xlsx`, `SW1_SE1_keep_full_hygiene.xlsx`, `SW1_SE1_keep_2500_5000_still_yes.xlsx`, `SW1_SE1_P2_wave.xlsx`, `SW1_SE1_P3_wave.xlsx`. Not in this repo.
+Same packaging as EC. Names stay off GitHub.
+
+- `SW1_SE1_full_original_columns.xlsx` — all 502 title-keep people, every original Pearl column (address, phone, website, sector, title) plus size and still-in-role. Sheets: all keep / 188-row wave / unique emails for BounceBan / P1 / P2 / P3.
+- `SW1_SE1_bounceban.xlsx` — **188 unique emails** with original columns, for you to BounceBan (this extract had no BounceBan column). Sheets: all / P1 30 / P2 11 / P3 147.
+- `SW1_SE1_P1_full_original_columns.xlsx`, `SW1_SE1_P2_full_original_columns.xlsx`, `SW1_SE1_P3_full_original_columns.xlsx` — the three wave slices.
+
+Unclear names are for James on LinkedIn.
 
 ## Not in this file
 
