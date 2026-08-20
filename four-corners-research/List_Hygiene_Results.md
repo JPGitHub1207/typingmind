@@ -32,7 +32,27 @@ Mids inherited size via their employer. They are not a 29 September mail pass.
 
 ## Phase 2 — leftover senior L&D / OD
 
-BounceBan P1 L&D/OD = **178**. Already on LIVE by email = **95**. Leftover = **83**. All 83 have a Google still-in-post check and a company size.
+Two leftover cuts exist. The **plan as specified** uses ChatGPT Senior + Audience L&D, plus OD in the job title. The **letter wave** still uses title-only P1 (ignore Audience / Seniority / Moorgate). Senior HR / People / Talent were parked for a later pass, except Talent Development titles already handled in Phase 3.
+
+### Plan filter (Senior + Audience L&D, plus OD in title)
+
+BounceBan Senior + Audience L&D = **221**. Senior + OD in title adds **1** person not already in that L&D set. Already on LIVE by email: **113** of the 221 L&D seniors. **Leftover: 105 rows / 102 unique emails.** Every leftover row has a Google still-in-post check and a company size. New employers not on LIVE: AWS (banded over 5,000 on Amazon group 1,576,000; AWS-only split is not published), Argent (UK under 250), Ropes & Gray (group 1,500+ attorneys, 250–5,000), TTEC (group ~51,000, over 5,000).
+
+| Still at recorded company | People |
+|---|---:|
+| Yes | 61 |
+| No | 34 |
+| Unclear | 10 |
+
+Of the 61 still there: **41** are deliverable **and** 250–5,000. Fourteen are still there but over 5,000. Three are under 250.
+
+The 19 people who were not on the title-P1 leftover sheet were mostly “Head of Training” / academy / QA-training titles. Two real L&D/OD titles were missed by the title classifier because they say **Head** without **of** (UBS wealth-management L&D — public post says redundant; Standard Chartered OD — still there, group over 5,000).
+
+Unclear names are for James on LinkedIn. This agent does not log in.
+
+### Title-only P1 leftover (letter wave)
+
+BounceBan title P1 L&D/OD = **178**. Already on LIVE by email = **95**. Leftover = **83**. All 83 have a Google still-in-post check and a company size.
 
 | Still at recorded company | People |
 |---|---:|
@@ -41,8 +61,6 @@ BounceBan P1 L&D/OD = **178**. Already on LIVE by email = **95**. Leftover = **8
 | Unclear | 5 |
 
 Of the 50 still there: 36 are deliverable **and** 250–5,000. Nine are still there but over 5,000. Three are under 250.
-
-The five Unclear are for James on LinkedIn. This agent does not log in.
 
 Unity on the leftover sheet is **Unity Software Inc** (group 4,412 FT at 31 Dec 2025, 10-K). The BounceBan website `hellounity.com` is a different London PR firm and was ignored.
 
@@ -91,7 +109,7 @@ Do not mail the 4,043 killed titles. Do not mail over-5,000 or under-250 as the 
 ## Working files (local only — PII)
 
 - `LIVE_with_company_size.xlsx` — working copy of LIVE with size columns + `size_band`. Employment/outreach untouched.
-- `phase2_ld_od_not_on_live.xlsx` — the 83 leftover L&D/OD names.
+- `phase2_ld_od_not_on_live.xlsx` — plan leftover L&D/OD (105 rows / 102 emails); title-P1 leftover 83 is the in-plan 75 plus 8 extras. Names stay off GitHub.
 - `EC_keep_full_hygiene.xlsx` — all 1,047 title-keep people with size + still-in-role.
 - `EC_keep_2500_5000_still_yes.xlsx` — 481 in the 29 September band.
 - `EC_P2_wave.xlsx` / `EC_P3_wave.xlsx` — P2 and P3 slices of that band.
