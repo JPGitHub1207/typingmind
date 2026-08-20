@@ -1,0 +1,6 @@
+model,who_pays,unit_of_sale,year1_engine,inherits_old_membership_verdict,fit_to_new_hypothesis,verdict
+events_company,Attendee or their employer,A dated ticket,Date-by-date contribution after venue speakers fees,no,high,Test this. The new object.
+learning_company,L&D / line manager,A skills outcome often with CPD/qualification,Utilisation of a course calendar,no,low,Do not pretend a conversation day replaces Hemsley Fraser / PTP. Different job.
+membership_company,Member organisation annual,Belonging,Recurring fee whether or not they attend,yes_still_weak,drop,Drop as the company model. Do not sell annual belonging. Invitation and Corners are door policy and aftercare not a membership SKU.
+peer_network_company,Same 8-12 people,Confidential ongoing group,Retainer for the Corner,yes_as_moat_not_pl,medium_as_follow_on,Corners can be the after-event product. Not the year-1 P&L.
+multi_vertical_portfolio,Several professional lists,A shared format cloned onto new brands,Shared ops plus N lists,no,only_after_one_vertical_repeats,Do not launch Four Corners Coaches and Agency and Founders in year 1.

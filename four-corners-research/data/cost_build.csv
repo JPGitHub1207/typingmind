@@ -1,0 +1,30 @@
+line,amount_gbp,source_type,source,applies_to
+science_gallery_ddr_pp,79,verified,Hire Space listing Science Gallery London DDR £79+VAT min 40 people 08:30-17:00 incl AV technician catering,lean_full_day
+mayfair_townhouse_ddr_pp_inc_vat,90,verified,Tagvenue Mayfair Townhouse Q1 special DDR from £90 inc VAT,lean_full_day
+chiswell_samuel_lunch_min_spend,4000,verified,Hire Space Samuel Room Chiswell Street Dining Rooms lunch window min spend £4000,half_day_premium
+chiswell_group_menu_2_course_pp,30,verified,ETM CSDR group dining set menu two courses £30,food_only_not_room
+chiswell_tagvenue_exclusive_hire_estimate,9997,verified,Tagvenue exclusive hire listing ~£9997 for 55 seated - treat as platform estimate not a quote,do_not_use_as_quote
+speaker_band_a_emerging_pp,1000,verified,Speaker Agency 2026 Band A emerging £1000-£3000,paid_keynote
+speaker_band_b_specialist_pp,3000,verified,Speaker Agency 2026 Band B specialists £3000-£7500,paid_keynote
+speaker_practitioner_network_pp,750,estimated,Founder associate network; below bureau; typical practitioner thank-you,network_rate
+speaker_expenses_only_pp,150,estimated,Travel and a bottle; unpaid because they want the room,unpaid
+founder_days_per_event,4,estimated,Outreach design run follow-up; 3-6 is the live range,labour
+founder_day_opportunity_cost,1000,estimated,Director-level day; not a cash cost if you are the firm,labour
+payment_fees_pct,0.05,estimated,Eventbrite/Stripe blended on card tickets,fees
+hemsley_fraser_open_from,625,verified,hemsleyfraser.com public schedule 2025/26 individual from £625+VAT,open_course_comp
+ptp_london_one_day,490,verified,ptp.co.uk London one-day public courses listed £490 August 2026,open_course_comp
+ptp_half_day_from,290,verified,ptp.co.uk half-day public from £290 August 2026,open_course_comp
+cipd_ace_conference_standard,830,verified,cipd.org ACE 4-5 Nov 2026 Manchester standard conference pass £830; member early bird £675,l_and_d_comp
+learning_technologies_conference_standard,1395,verified,Learning News listing CloserStill LT 2026 Standard £1395+VAT (EB £1295); Premium £1595+VAT,l_and_d_comp
+cipd_l7_strategic_ld_typical_low,3000,verified,cipd.org Advanced Diploma in Strategic L&D typical UK band £3000-£7000,qualification_comp
+school_of_life_festival_ga,360,verified,theschooloflife.com Festival of Ideas 2026 general admission £360 excl fees,consumer_event_comp
+school_of_life_festival_member,210,verified,Community member early bird £210,consumer_event_comp
+cipd_festival_of_work_in_person,0,verified,CIPD press: Festival of Work 10-11 June 2026 ExCeL free in-person pass,l_and_d_comp
+iventiv_delegate_ticket,0,verified,iventiv.com: free for approved VP/Director from 10000+ employee firms,l_and_d_comp
+four_corners_25_aug_ticket,0,verified_then_canceled,fourcornersclub.co.uk complimentary 25 Aug 2026 14:30-17:00 Chiswell Street. Founder canceled 17 Aug 2026; homepage still listed it that afternoon,current_product_canceled
+founder_chiswell_package_50,2000,founder_quoted,James Pearson 14 Aug 2026: £2k is F&B spend unlocking 125-cover restaurant PLUS training room from 12:00. Entire £2k spendable on food and drink,actual_year1
+founder_chiswell_restaurant_covers,125,founder_quoted,Restaurant seats 125. Learning should stay in the training room. Do not fill the restaurant,capacity_risk
+founder_format_window,14:00-17:30,founder_quoted,Programme then complimentary food and canapés. Rooms available from 12:00,run_of_show
+founder_corners,4_emergent,founder_quoted,Four themes harvested from tables and talks; QR join same day or email within a week; later sessions at Clubhouse on coffee,product_ip
+founder_speaker_fee_each,500,founder_quoted,James Pearson 14 Aug 2026: contributors accepting £500 because new concept; claimed £10-20k day rates not regularly achieved,actual_year1
+founder_speakers_per_event,2,founder_quoted,Two contributors at £500,actual_year1
