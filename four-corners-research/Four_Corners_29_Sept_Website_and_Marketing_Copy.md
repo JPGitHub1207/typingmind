@@ -231,6 +231,8 @@ Do not auto-confirm. Manual yes/no.
 
 ## 11. Letter body (replace the previous plate)
 
+Three agency-ready approaches (direct / diagnosis / the room), with a printed QR footer: [Four_Corners_29_Sept_Letter_Approaches.md](Four_Corners_29_Sept_Letter_Approaches.md). Default for Wave A is version A below.
+
 > [Name] — saw you leading learning at [Company] and wanted this to reach you rather than a generic invite.
 >
 > I’m running a small afternoon on **29 September**, 14:00–17:30, at Chiswell Street Dining Rooms in EC1.
