@@ -7,7 +7,7 @@ Counts only. Names, emails and the two working workbooks stay off GitHub.
 - Size once per employer. Store **UK** and **group** when they differ. `size_band` uses UK employees if known, else group.
 - Bands: under 250 / 250–5,000 / over 5,000.
 - Do **not** change `Outreach readiness` or any LIVE employment field.
-- Phase 2 is leftover senior **L&D / OD** (title classifier P1) not already on LIVE. Not the extra HR / People / Talent pass.
+- Phase 2 was leftover senior **L&D / OD** (P1) not already on LIVE. Phase 3 finished leftover P2 talent development and P3 People / HR Directors.
 - Classify from **Position**. Ignore ChatGPT Audience / Seniority / Keep for Moorgate.
 - No LinkedIn login. Unclear names are for James on a logged-in profile.
 
@@ -46,15 +46,62 @@ The five Unclear are for James on LinkedIn. This agent does not log in.
 
 Unity on the leftover sheet is **Unity Software Inc** (group 4,412 FT at 31 Dec 2025, 10-K). The BounceBan website `hellounity.com` is a different London PR firm and was ignored.
 
+## Phase 3 — finish the EC keep list (P2 + P3)
+
+The EC BounceBan file is **5,090 people / 665 companies**. Title filter keeps **1,047** (P1 178 / P2 98 / P3 771) and kills **4,043** (CEOs, CFOs, HRBPs, recruiters, managers, etc.). Those 4,043 were not sized or googled.
+
+Phase 3 sized the remaining **70** title-keep employers that were not already on LIVE or leftover P1, and Google-checked still-in-role for the remaining **426** keep people (84 P2 + 342 P3) who were not on LIVE and not in leftover P1. Same rules: UK employees if known else group; Google snippets of LinkedIn; no login.
+
+New leftover-employer bands: 44 in 250–5,000 / 21 under 250 / 3 over 5,000 / 2 unknown.
+
+New leftover-person still-in-role: **255 Yes / 109 No / 62 Unclear**.
+
+### All 1,047 title-keep people (LIVE July + leftover P1 Google + Phase 3 Google)
+
+| Size band | People |
+|---|---:|
+| 250–5,000 | 633 |
+| over 5,000 | 314 |
+| under 250 | 96 |
+| unknown | 4 |
+
+| Still at recorded company | People |
+|---|---:|
+| Yes | 833 |
+| No | 138 |
+| Unclear | 76 |
+
+Unclear names are for James on a logged-in LinkedIn. Four unknown-size employers are P3.
+
+### 29 September working band
+
+Still Yes + 250–5,000 + BounceBan deliverable:
+
+| Priority | People |
+|---|---:|
+| P1 L&D / OD | 97 (92 unique emails) |
+| P2 Talent development | 39 |
+| P3 People / HR Director | 345 |
+| **Total** | **481** (468 unique emails) |
+
+P1 remains the letter wave for the L&D room. P2 is the same altitude of buyer (talent *development*, not acquisition). P3 is a different room (People / HR Director). Do not mix P3 into the same 29 September posted letter as Heads of L&D unless that is a deliberate second product.
+
+Do not mail the 4,043 killed titles. Do not mail over-5,000 or under-250 as the 29 September kill-test.
+
 ## Working files (local only — PII)
 
 - `LIVE_with_company_size.xlsx` — working copy of LIVE with size columns + `size_band`. Employment/outreach untouched.
 - `phase2_ld_od_not_on_live.xlsx` — the 83 leftover L&D/OD names.
+- `EC_keep_full_hygiene.xlsx` — all 1,047 title-keep people with size + still-in-role.
+- `EC_keep_2500_5000_still_yes.xlsx` — 481 in the 29 September band.
+- `EC_P2_wave.xlsx` / `EC_P3_wave.xlsx` — P2 and P3 slices of that band.
+- `EC_P2_P3_leftover_checked.xlsx` — the 426 Phase 3 Google checks.
 
-Do not commit either file to `typingmind`.
+Do not commit these files to `typingmind`.
 
 ## Not in this pass
 
-- Do not mail all 1,062.
+- Do not mail all 1,062 LIVE rows or all 5,090 BounceBan rows.
 - Do not treat 353 employers as 353 campaign contacts.
-- Parked: P3 HR / People Directors; changing Outreach from size bands; Wave A mail-merge file; non-EC London postcodes (the BounceBan file has none).
+- SW1/SE1 P2 and P3 are still parked (only P1 was sized and googled on that file).
+- Changing LIVE `Outreach readiness` from size bands.

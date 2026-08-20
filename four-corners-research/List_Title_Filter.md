@@ -37,4 +37,4 @@ Looked up **353 unique LIVE employers**, not 1,062 people. `size_band` uses UK e
 
 Leftover BounceBan P1 L&D/OD not on LIVE: **83** people (50 still there / 28 moved / 5 Unclear). **36** of those are still there, deliverable, and 250–5,000.
 
-Counts-only write-up: [`List_Hygiene_Results.md`](List_Hygiene_Results.md). Spreadsheets stay off GitHub.
+Phase 3 finished the rest of the **1,047** title-keep people (P2 + P3 leftover). See [`List_Hygiene_Results.md`](List_Hygiene_Results.md). Spreadsheets stay off GitHub.
