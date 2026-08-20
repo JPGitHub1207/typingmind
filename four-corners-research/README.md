@@ -14,7 +14,7 @@ Deep dive on a **repeatable premium professional-learning event**, not an L&D me
 | [Four_Corners_Website_Layout_Brief.md](Four_Corners_Website_Layout_Brief.md) | Keep the Wix templates: hide duplicates, one job per slot |
 | [List_Title_Filter.md](List_Title_Filter.md) | Ignore ChatGPT Audience/Seniority/Moorgate columns; classify from job title |
 | [List_Hygiene_Results.md](List_Hygiene_Results.md) | EC keep list finished: size + still-in-role counts (no names/emails) |
-| [List_Hygiene_SW1_SE1.md](List_Hygiene_SW1_SE1.md) | W1-named file is actually SW1+SE1; title-keep counts |
+| [List_Hygiene_SW1_SE1.md](List_Hygiene_SW1_SE1.md) | SW1+SE1 keep list finished: size + still-in-role counts (no names/emails) |
 | [Four_Corners_29_Sept_Speaker_Brief.md](Four_Corners_29_Sept_Speaker_Brief.md) | Jennings + Boulting: titles and emails to send |
 | [Four_Corners_Programme_Topics_Memo.md](Four_Corners_Programme_Topics_Memo.md) | Two talks vs iVentiv-loose; 2026 conference topics and paid courses |
 | [Four_Corners_First_Session_6_Week_Marketing_Plan.md](Four_Corners_First_Session_6_Week_Marketing_Plan.md) | 6-week letter + HubSpot plan to sell the first paid date |

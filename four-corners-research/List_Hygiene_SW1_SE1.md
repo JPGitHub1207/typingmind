@@ -50,10 +50,52 @@ Over 5,000 includes EY, Shell, BP, Civil Service, Mitie, G4S, Pret, Cera Care, B
 | No | 17 |
 | Unclear | 12 |
 
-**Wave from this file:** still Yes + 250–5,000 + has an email = **30 people / 26 employers** (17 SW1, 13 SE1). No BounceBan column on this extract — emails are un-verified.
-
-P2 (34) and P3 (383) are parked. Unclear names are for James on LinkedIn.
+**P1 wave:** still Yes + 250–5,000 + has an email = **30 people / 26 employers** (17 SW1, 13 SE1). No BounceBan column on this extract — emails are un-verified.
 
 Kubrick “Head of Learning Operations” stayed Unclear / borderline ops; not in the 30.
 
-Working files (local, PII): `SW1_SE1_title_keep.xlsx`, `SW1_SE1_P1_wave.xlsx`. Not in this repo.
+## P2 + P3 size and still-in-role (finished)
+
+Same method as EC: size once per remaining title-keep employer; Google snippets of LinkedIn; no login. **141** leftover keep-employers sized. **417** leftover P2+P3 people role-checked (34 P2 + 383 P3).
+
+New leftover-employer bands: 81 in 250–5,000 / 40 under 250 / 17 over 5,000 / 3 unknown.
+
+New leftover-person still-in-role: **302 Yes / 82 No / 33 Unclear**.
+
+### All 502 title-keep people on this file
+
+| Size band | People |
+|---|---:|
+| 250–5,000 | 272 |
+| over 5,000 | 154 |
+| under 250 | 71 |
+| unknown | 5 |
+
+| Still at recorded company | People |
+|---|---:|
+| Yes | 358 |
+| No | 99 |
+| Unclear | 45 |
+
+### 29 September working band (this file)
+
+Still Yes + 250–5,000 + has an email:
+
+| Priority | People |
+|---|---:|
+| P1 L&D / OD | 30 |
+| P2 Talent development | 11 |
+| P3 People / HR Director | 147 |
+| **Total** | **188** (115 SW1 / 73 SE1) |
+
+P1 remains the letter for the L&D room. P2 is the same kind of buyer. P3 is a different room. Emails on this file have not been BounceBan-checked.
+
+Unclear names are for James on LinkedIn.
+
+## Working files (local, PII)
+
+`SW1_SE1_title_keep.xlsx`, `SW1_SE1_P1_wave.xlsx`, `SW1_SE1_keep_full_hygiene.xlsx`, `SW1_SE1_keep_2500_5000_still_yes.xlsx`, `SW1_SE1_P2_wave.xlsx`, `SW1_SE1_P3_wave.xlsx`. Not in this repo.
+
+## Not in this file
+
+There is still **no true W1** extract. No other non-EC London postcode files (N, E, SW except SW1, etc.) were uploaded. The 4,043 killed titles on EC, and the killed titles on this 2,331-row file, were not sized or googled.

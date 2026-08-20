@@ -103,5 +103,5 @@ Do not commit these files to `typingmind`.
 
 - Do not mail all 1,062 LIVE rows or all 5,090 BounceBan rows.
 - Do not treat 353 employers as 353 campaign contacts.
-- SW1/SE1 P2 and P3 are still parked (only P1 was sized and googled on that file).
+- True **W1** and other non-EC London postcodes were never uploaded; SW1/SE1 P2+P3 size and still-in-role are in `List_Hygiene_SW1_SE1.md`.
 - Changing LIVE `Outreach readiness` from size bands.
