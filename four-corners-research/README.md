@@ -17,6 +17,7 @@ James has already chosen dated tickets over membership. Keep the strategic repor
 | [Four_Corners_29_Sept_Website_and_Marketing_Copy.md](Four_Corners_29_Sept_Website_and_Marketing_Copy.md) | Paste-ready page, letter, email, LinkedIn, FAQ |
 | [Four_Corners_29_Sept_Letter_Approaches.md](Four_Corners_29_Sept_Letter_Approaches.md) | Three robot-handwriting letter bodies + printed QR footer |
 | [Four_Corners_29_Sept_Letters.docx](Four_Corners_29_Sept_Letters.docx) | Same letters as a clean Word file |
+| [How_to_get_the_named_lists.md](How_to_get_the_named_lists.md) | Why Word downloads from GitHub and the Excel lists cannot |
 | [Four_Corners_Website_Layout_Brief.md](Four_Corners_Website_Layout_Brief.md) | Keep the Wix templates: hide duplicates, one job per slot |
 | [List_Title_Filter.md](List_Title_Filter.md) | Ignore ChatGPT Audience/Seniority/Moorgate columns; classify from job title |
 | [List_Hygiene_Results.md](List_Hygiene_Results.md) | EC keep list finished: size + still-in-role counts (no names/emails) |
