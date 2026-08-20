@@ -1,13 +1,19 @@
-# Four Corners — event machine research
+# Four Corners research
 
-**Read first:** [Four_Corners_Event_Machine_Memo.md](Four_Corners_Event_Machine_Memo.md)
+Two workstreams live in this folder. They do not agree on the offer.
 
-Deep dive on a **repeatable premium professional-learning event**, not an L&D membership. Date: 14 August 2026.
+**Current working path (this branch):** a repeatable premium professional-learning event, not an L&D membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **29 September 2026: The Real Problem Behind Performance.** Jennings: another programme isn’t the answer. Boulting: what if skills gaps aren’t the problem.
 
-**Working conclusion:** Drop membership. Target in-house Heads of L&D / Talent / OD in **250–5,000** employee organisations, London-commutable. Sell dated tickets. **29 September 2026: The Real Problem Behind Performance.** Jennings: another programme isn’t the answer. Boulting: what if skills gaps aren’t the problem.
+**Read first for the event:** [Four_Corners_Event_Machine_Memo.md](Four_Corners_Event_Machine_Memo.md)
+
+**Earlier independent challenge (merged from `main`):** [Four_Corners_Strategic_Research_Report.md](Four_Corners_Strategic_Research_Report.md) — UK market sizing and analogue competitors. It does not validate the concept. Headline findings in that report: **11,415** UK enterprises have 250+ employees (ONS/Nomis, March 2025); realistic year-3 SOM **£0.8–1.8 million**; do not launch free managed learning, public programme reviews, or a resource library; recommended beachhead there is **paid peer councils** plus decision-record shortlisting for Heads of L&D in **1,000–9,999** employee organisations.
+
+James has already chosen dated tickets over membership. Keep the strategic report as the market/analogue challenge; do not treat its peer-council beachhead as the live 29 September plan.
 
 | File | Contents |
 |---|---|
+| [Four_Corners_Event_Machine_Memo.md](Four_Corners_Event_Machine_Memo.md) | Event-machine conclusion: drop membership, sell 29 September tickets |
+| [Four_Corners_Strategic_Research_Report.md](Four_Corners_Strategic_Research_Report.md) | Independent UK market sizing and analogue strategy (from `main`) |
 | [Four_Corners_29_Sept_Website_and_Marketing_Copy.md](Four_Corners_29_Sept_Website_and_Marketing_Copy.md) | Paste-ready page, letter, email, LinkedIn, FAQ |
 | [Four_Corners_29_Sept_Letter_Approaches.md](Four_Corners_29_Sept_Letter_Approaches.md) | Three robot-handwriting letter bodies + printed QR footer |
 | [Four_Corners_29_Sept_Letters.docx](Four_Corners_29_Sept_Letters.docx) | Same letters as a clean Word file |
