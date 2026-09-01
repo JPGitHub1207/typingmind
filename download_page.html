@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download CSV Data</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .download-btn { 
+            background: #4285f4; 
+            color: white; 
+            padding: 15px 30px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            font-size: 16px;
+            margin: 10px 0;
+            display: block;
+        }
+        .download-btn:hover { background: #3367d6; }
+    </style>
+</head>
+<body>
+    <h1>📊 Operations Management Providers Data</h1>
+    <p>Click the button below to download the CSV file with all 472 providers:</p>
+    
+    <button class="download-btn" onclick="downloadCSV()">📥 Download Clean CSV (Recommended)</button>
+    
+    <p><strong>File contains:</strong></p>
+    <ul>
+        <li>472 Operations Management Training Providers</li>
+        <li>Provider names, UKPRNs, training options</li>
+        <li>Employer and apprentice reviews</li>
+        <li>Achievement rates and detail URLs</li>
+    </ul>
+    
+    <script>
+    function downloadCSV() {
+        // This will trigger a download of the CSV file
+        const link = document.createElement('a');
+        link.href = 'operations_management_providers_clean.csv';
+        link.download = 'operations_management_providers_clean.csv';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    }
+    </script>
+</body>
+</html>
