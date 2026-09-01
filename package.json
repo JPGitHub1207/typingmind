@@ -5,10 +5,23 @@
   "name": "typingmind",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:TypingMind/typingmind.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TypingMind/typingmind.git"
+  },
   "author": "Tony Dinh <support@typingmind.com>",
   "license": "N/A",
   "devDependencies": {
     "http-server": "^14.1.1"
+  },
+  "description": "<h2 align=\"center\">   <img height=\"150\" alt=\"Typing Mind - A better UI for ChatGPT\" src=\"https://www.typingmind.com/banner.png\" /> <br/> Static Self-host Version </h2> <div align=\"center\">",
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/TypingMind/typingmind/issues"
+  },
+  "homepage": "https://github.com/TypingMind/typingmind#readme",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "node-fetch": "^2.7.0"
   }
 }
