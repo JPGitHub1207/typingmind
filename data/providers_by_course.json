@@ -1,0 +1,3118 @@
+[
+  {
+    "larsCode": "274",
+    "title": "Abattoir worker (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10056013",
+        "name": "MERCURI INTERNATIONAL (UK) LIMITED"
+      },
+      {
+        "ukprn": "10027269",
+        "name": "WORKFORCE TRAINING & DEVELOPMENT LTD"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "272",
+    "title": "Academic professional (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007775",
+        "name": "QUEEN MARY UNIVERSITY OF LONDON"
+      },
+      {
+        "ukprn": "10007792",
+        "name": "UNIVERSITY OF EXETER"
+      },
+      {
+        "ukprn": "10007851",
+        "name": "UNIVERSITY OF DERBY"
+      },
+      {
+        "ukprn": "10004797",
+        "name": "NOTTINGHAM TRENT UNIVERSITY"
+      },
+      {
+        "ukprn": "10007767",
+        "name": "UNIVERSITY OF KEELE"
+      },
+      {
+        "ukprn": "10021243",
+        "name": "OXFORD HEALTH NHS FOUNDATION TRUST"
+      },
+      {
+        "ukprn": "10007144",
+        "name": "UNIVERSITY OF EAST LONDON"
+      },
+      {
+        "ukprn": "10007145",
+        "name": "UNIVERSITY OF GLOUCESTERSHIRE"
+      },
+      {
+        "ukprn": "10004351",
+        "name": "MIDDLESEX UNIVERSITY"
+      },
+      {
+        "ukprn": "10006299",
+        "name": "STAFFORDSHIRE UNIVERSITY"
+      },
+      {
+        "ukprn": "10004078",
+        "name": "LONDON SOUTH BANK UNIVERSITY"
+      },
+      {
+        "ukprn": "10005977",
+        "name": "SOUTH DEVON COLLEGE"
+      },
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      },
+      {
+        "ukprn": "10030870",
+        "name": "CAPTIVA LEARNING LIMITED"
+      },
+      {
+        "ukprn": "10091009",
+        "name": "CU APPRENTICESHIPS (BETTER FUTURES) LIMITED"
+      },
+      {
+        "ukprn": "10001143",
+        "name": "CANTERBURY CHRIST CHURCH UNIVERSITY"
+      }
+    ],
+    "providerCount": 16
+  },
+  {
+    "larsCode": "176",
+    "title": "Accident repair technician (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10000754",
+        "name": "BLACKPOOL AND THE FYLDE COLLEGE"
+      },
+      {
+        "ukprn": "10000878",
+        "name": "BRIDGWATER AND TAUNTON COLLEGE"
+      },
+      {
+        "ukprn": "10004577",
+        "name": "NOTTINGHAM COLLEGE"
+      },
+      {
+        "ukprn": "10006963",
+        "name": "NEW CITY COLLEGE"
+      },
+      {
+        "ukprn": "10005599",
+        "name": "S & B AUTOMOTIVE ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10007938",
+        "name": "TEC PARTNERSHIP"
+      },
+      {
+        "ukprn": "10037348",
+        "name": "INSPIRO LEARNING LIMITED"
+      },
+      {
+        "ukprn": "10019065",
+        "name": "CALEX UK LTD"
+      },
+      {
+        "ukprn": "10002923",
+        "name": "EAST SUSSEX COLLEGE GROUP"
+      }
+    ],
+    "providerCount": 9
+  },
+  {
+    "larsCode": "204",
+    "title": "Accountancy or taxation professional (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10005422",
+        "name": "REED BUSINESS SCHOOL LIMITED"
+      },
+      {
+        "ukprn": "10063574",
+        "name": "CIPFA BUSINESS LIMITED"
+      },
+      {
+        "ukprn": "10056050",
+        "name": "FIRST INTUITION LEEDS LIMITED"
+      },
+      {
+        "ukprn": "10030926",
+        "name": "FIRST INTUITION CAMBRIDGE LIMITED"
+      },
+      {
+        "ukprn": "10040718",
+        "name": "FIRST INTUITION SOUTH LIMITED"
+      },
+      {
+        "ukprn": "10055777",
+        "name": "HTFT PARTNERSHIP LIMITED"
+      },
+      {
+        "ukprn": "10000446",
+        "name": "KAPLAN FINANCIAL LIMITED"
+      },
+      {
+        "ukprn": "10029952",
+        "name": "BPP PROFESSIONAL EDUCATION LIMITED"
+      },
+      {
+        "ukprn": "10056738",
+        "name": "FIRST INTUITION LIMITED"
+      },
+      {
+        "ukprn": "10042003",
+        "name": "FIRST INTUITION CHELMSFORD LIMITED"
+      },
+      {
+        "ukprn": "10023129",
+        "name": "RELX (UK) LIMITED"
+      },
+      {
+        "ukprn": "10000494",
+        "name": "BABINGTON BUSINESS COLLEGE LIMITED"
+      },
+      {
+        "ukprn": "10009059",
+        "name": "ACCESS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10042735",
+        "name": "ACCOUNTANCY LEARNING LTD"
+      },
+      {
+        "ukprn": "10001309",
+        "name": "COVENTRY AND WARWICKSHIRE CHAMBERS OF COMMERCE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10005077",
+        "name": "INSPIRE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10011880",
+        "name": "P.T.P. TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10041891",
+        "name": "EMA TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10010657",
+        "name": "HAYS SPECIALIST RECRUITMENT LIMITED"
+      }
+    ],
+    "providerCount": 20
+  },
+  {
+    "larsCode": "698",
+    "title": "Accounting finance manager (level 6)",
+    "level": "6",
+    "providers": [
+      {
+        "ukprn": "10004180",
+        "name": "MANCHESTER METROPOLITAN UNIVERSITY"
+      },
+      {
+        "ukprn": "10007792",
+        "name": "UNIVERSITY OF EXETER"
+      },
+      {
+        "ukprn": "10007138",
+        "name": "UNIVERSITY OF NORTHAMPTON, THE"
+      },
+      {
+        "ukprn": "10007141",
+        "name": "UNIVERSITY OF CENTRAL LANCASHIRE"
+      },
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      },
+      {
+        "ukprn": "10007759",
+        "name": "ASTON UNIVERSITY"
+      },
+      {
+        "ukprn": "10000824",
+        "name": "BOURNEMOUTH UNIVERSITY"
+      },
+      {
+        "ukprn": "10007137",
+        "name": "THE UNIVERSITY OF CHICHESTER"
+      },
+      {
+        "ukprn": "10048199",
+        "name": "NORTHEASTERN UNIVERSITY - LONDON"
+      }
+    ],
+    "providerCount": 9
+  },
+  {
+    "larsCode": "488",
+    "title": "Accounts or finance assistant (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10056050",
+        "name": "FIRST INTUITION LEEDS LIMITED"
+      },
+      {
+        "ukprn": "10002917",
+        "name": "HARTLEPOOL COLLEGE OF FURTHER EDUCATION"
+      },
+      {
+        "ukprn": "10004177",
+        "name": "THE GROWTH COMPANY LIMITED"
+      },
+      {
+        "ukprn": "10001005",
+        "name": "BURY COLLEGE"
+      },
+      {
+        "ukprn": "10007339",
+        "name": "WARRINGTON & VALE ROYAL COLLEGE"
+      },
+      {
+        "ukprn": "10003035",
+        "name": "HERTFORD REGIONAL COLLEGE"
+      },
+      {
+        "ukprn": "10001378",
+        "name": "CHESTERFIELD COLLEGE"
+      },
+      {
+        "ukprn": "10001515",
+        "name": "C.M.S. VOCATIONAL TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004657",
+        "name": "NORFOLK COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10006174",
+        "name": "ST HELENS COLLEGE"
+      },
+      {
+        "ukprn": "10007500",
+        "name": "WIGAN AND LEIGH COLLEGE"
+      },
+      {
+        "ukprn": "10003558",
+        "name": "KENDAL COLLEGE"
+      },
+      {
+        "ukprn": "10001000",
+        "name": "BURNLEY COLLEGE"
+      },
+      {
+        "ukprn": "10006987",
+        "name": "TRAINING 2000 LIMITED"
+      },
+      {
+        "ukprn": "10003189",
+        "name": "KIRKLEES COLLEGE"
+      },
+      {
+        "ukprn": "10000055",
+        "name": "ABINGDON AND WITNEY COLLEGE"
+      },
+      {
+        "ukprn": "10001309",
+        "name": "COVENTRY AND WARWICKSHIRE CHAMBERS OF COMMERCE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004576",
+        "name": "NEW COLLEGE DURHAM"
+      },
+      {
+        "ukprn": "10005979",
+        "name": "HAVANT AND SOUTH DOWNS COLLEGE"
+      },
+      {
+        "ukprn": "10003768",
+        "name": "LANCASTER AND MORECAMBE COLLEGE"
+      },
+      {
+        "ukprn": "10004257",
+        "name": "MCARTHUR DEAN TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004603",
+        "name": "NEWCASTLE AND STAFFORD COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10003026",
+        "name": "HEREFORDSHIRE AND WORCESTERSHIRE GROUP TRAINING ASSOCIATION LIMITED"
+      },
+      {
+        "ukprn": "10007817",
+        "name": "CHICHESTER COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10042003",
+        "name": "FIRST INTUITION CHELMSFORD LIMITED"
+      },
+      {
+        "ukprn": "10002863",
+        "name": "RIVERSIDE COLLEGE"
+      },
+      {
+        "ukprn": "10007431",
+        "name": "WEST SUFFOLK COLLEGE"
+      },
+      {
+        "ukprn": "10036578",
+        "name": "THE APPRENTICE ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10005946",
+        "name": "SOLIHULL COLLEGE AND UNIVERSITY CENTRE"
+      },
+      {
+        "ukprn": "10000747",
+        "name": "BLACKBURN COLLEGE"
+      },
+      {
+        "ukprn": "10005977",
+        "name": "SOUTH DEVON COLLEGE"
+      },
+      {
+        "ukprn": "10006549",
+        "name": "TELFORD COLLEGE"
+      },
+      {
+        "ukprn": "10007553",
+        "name": "WIRRAL METROPOLITAN COLLEGE"
+      },
+      {
+        "ukprn": "10003753",
+        "name": "LAKES COLLEGE WEST CUMBRIA"
+      },
+      {
+        "ukprn": "10001850",
+        "name": "DARLINGTON COLLEGE"
+      },
+      {
+        "ukprn": "10004344",
+        "name": "MIDDLESBROUGH COLLEGE"
+      },
+      {
+        "ukprn": "10004772",
+        "name": "CITY COLLEGE NORWICH"
+      },
+      {
+        "ukprn": "10006442",
+        "name": "BIRMINGHAM METROPOLITAN COLLEGE"
+      },
+      {
+        "ukprn": "10005788",
+        "name": "SHEFFIELD COLLEGE, THE"
+      },
+      {
+        "ukprn": "10000754",
+        "name": "BLACKPOOL AND THE FYLDE COLLEGE"
+      },
+      {
+        "ukprn": "10001174",
+        "name": "CT SKILLS LIMITED"
+      },
+      {
+        "ukprn": "10000948",
+        "name": "LONDON SOUTH EAST COLLEGES"
+      },
+      {
+        "ukprn": "10006341",
+        "name": "THE EDUCATION TRAINING COLLECTIVE"
+      },
+      {
+        "ukprn": "10025133",
+        "name": "SOLVEWAY LIMITED"
+      },
+      {
+        "ukprn": "10036143",
+        "name": "SOUTH GLOUCESTERSHIRE AND STROUD COLLEGE"
+      },
+      {
+        "ukprn": "10009059",
+        "name": "ACCESS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10040664",
+        "name": "LMP Education"
+      },
+      {
+        "ukprn": "10032052",
+        "name": "TRAIN TOGETHER LIMITED"
+      },
+      {
+        "ukprn": "10030926",
+        "name": "FIRST INTUITION CAMBRIDGE LIMITED"
+      },
+      {
+        "ukprn": "10002696",
+        "name": "GLOUCESTERSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10007945",
+        "name": "CITY OF PORTSMOUTH COLLEGE"
+      },
+      {
+        "ukprn": "10005488",
+        "name": "RIVERSIDE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10011880",
+        "name": "P.T.P. TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10005575",
+        "name": "RUNSHAW COLLEGE"
+      },
+      {
+        "ukprn": "10000794",
+        "name": "BOLTON COLLEGE"
+      },
+      {
+        "ukprn": "10000446",
+        "name": "KAPLAN FINANCIAL LIMITED"
+      },
+      {
+        "ukprn": "10007977",
+        "name": "HEART OF WORCESTERSHIRE COLLEGE"
+      }
+    ],
+    "providerCount": 60
+  },
+  {
+    "larsCode": "463",
+    "title": "Acoustics technician (level 4)",
+    "level": "4",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "17",
+    "title": "Actuarial technician (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10029952",
+        "name": "BPP PROFESSIONAL EDUCATION LIMITED"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "255",
+    "title": "Actuary (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10029952",
+        "name": "BPP PROFESSIONAL EDUCATION LIMITED"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "119",
+    "title": "Adult care worker (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10005077",
+        "name": "INSPIRE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10057050",
+        "name": "ASSOCIATED NEIGHBOUR TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10065571",
+        "name": "UNIVERSAL VIBES LIMITED"
+      },
+      {
+        "ukprn": "10003872",
+        "name": "LEICESTERSHIRE COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10037723",
+        "name": "EXCEL TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10029676",
+        "name": "WINNOVATION LIMITED"
+      },
+      {
+        "ukprn": "10007817",
+        "name": "CHICHESTER COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10007500",
+        "name": "WIGAN AND LEIGH COLLEGE"
+      },
+      {
+        "ukprn": "10004603",
+        "name": "NEWCASTLE AND STAFFORD COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10023357",
+        "name": "ACHIEVING EXCELLENCE UK LTD"
+      },
+      {
+        "ukprn": "10004177",
+        "name": "THE GROWTH COMPANY LIMITED"
+      },
+      {
+        "ukprn": "10005509",
+        "name": "ROCHDALE TRAINING ASSOCIATION LIMITED"
+      },
+      {
+        "ukprn": "10002111",
+        "name": "EAST DURHAM COLLEGE"
+      },
+      {
+        "ukprn": "10041239",
+        "name": "DYNAMO HEALTHCARE TRAINING LTD"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10019736",
+        "name": "UNIQUE TRAINING SOLUTIONS LIMITED"
+      },
+      {
+        "ukprn": "10032119",
+        "name": "SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED"
+      },
+      {
+        "ukprn": "10003193",
+        "name": "HUGH BAIRD COLLEGE"
+      },
+      {
+        "ukprn": "10003558",
+        "name": "KENDAL COLLEGE"
+      },
+      {
+        "ukprn": "10004727",
+        "name": "NORTH YORKSHIRE COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10007553",
+        "name": "WIRRAL METROPOLITAN COLLEGE"
+      },
+      {
+        "ukprn": "10056831",
+        "name": "PARTNERS IN TRAINING (NORTH WEST) LIMITED"
+      },
+      {
+        "ukprn": "10001928",
+        "name": "DERBYSHIRE COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10002370",
+        "name": "EXETER COLLEGE"
+      },
+      {
+        "ukprn": "10022627",
+        "name": "IMPACT LEARNING & DATA SOLUTIONS LIMITED"
+      },
+      {
+        "ukprn": "10001093",
+        "name": "CALDERDALE COLLEGE"
+      },
+      {
+        "ukprn": "10036548",
+        "name": "PARTNERSHIP TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10003289",
+        "name": "INDEPENDENT TRAINING SERVICES LIMITED"
+      },
+      {
+        "ukprn": "10000536",
+        "name": "BARNSLEY COLLEGE"
+      },
+      {
+        "ukprn": "10002078",
+        "name": "E-TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004552",
+        "name": "NELSON AND COLNE COLLEGE"
+      },
+      {
+        "ukprn": "10000082",
+        "name": "TRN (TRAIN) LTD."
+      },
+      {
+        "ukprn": "10007924",
+        "name": "DUDLEY COLLEGE OF TECHNOLOGY"
+      },
+      {
+        "ukprn": "10032315",
+        "name": "KYP KNOW YOUR POTENTIAL CONSULTANCY LTD"
+      },
+      {
+        "ukprn": "10037348",
+        "name": "INSPIRO LEARNING LIMITED"
+      },
+      {
+        "ukprn": "10027873",
+        "name": "TRAINING STRATEGIES LTD."
+      },
+      {
+        "ukprn": "10036240",
+        "name": "RICHMOND TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10001934",
+        "name": "DERWENTSIDE COLLEGE"
+      },
+      {
+        "ukprn": "10008155",
+        "name": "CENTRAL YOUNG MEN'S CHRISTIAN ASSOCIATION"
+      },
+      {
+        "ukprn": "10036736",
+        "name": "K S TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10002085",
+        "name": "E.QUALITY TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10036194",
+        "name": "AVEREE LTD"
+      },
+      {
+        "ukprn": "10005788",
+        "name": "SHEFFIELD COLLEGE, THE"
+      },
+      {
+        "ukprn": "10001309",
+        "name": "COVENTRY AND WARWICKSHIRE CHAMBERS OF COMMERCE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000754",
+        "name": "BLACKPOOL AND THE FYLDE COLLEGE"
+      },
+      {
+        "ukprn": "10005810",
+        "name": "SHIPLEY COLLEGE"
+      },
+      {
+        "ukprn": "10013515",
+        "name": "NORTHERN CARE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10025700",
+        "name": "VISION TRAINING (NORTH EAST) LIMITED"
+      },
+      {
+        "ukprn": "10007431",
+        "name": "WEST SUFFOLK COLLEGE"
+      },
+      {
+        "ukprn": "10005032",
+        "name": "SALFORD CITY COLLEGE"
+      },
+      {
+        "ukprn": "10018297",
+        "name": "NORTON WEBB LIMITED"
+      },
+      {
+        "ukprn": "10018942",
+        "name": "STEADFAST TRAINING LTD"
+      },
+      {
+        "ukprn": "10000061",
+        "name": "ACACIA TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000421",
+        "name": "ASPIRATION TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10002327",
+        "name": "ESSEX COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10022117",
+        "name": "DAWN HODGE ASSOCIATES LIMITED"
+      },
+      {
+        "ukprn": "10004977",
+        "name": "PARAGON EDUCATION & SKILLS LIMITED"
+      },
+      {
+        "ukprn": "10054118",
+        "name": "BESPOKE CONSULTANCY & EDUCATION LIMITED"
+      },
+      {
+        "ukprn": "10012467",
+        "name": "HIT TRAINING LTD"
+      },
+      {
+        "ukprn": "10005457",
+        "name": "REWARDS TRAINING RECRUITMENT CONSULTANCY LIMITED"
+      }
+    ],
+    "providerCount": 60
+  },
+  {
+    "larsCode": "545",
+    "title": "Advanced and creative hair professional (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10003380",
+        "name": "INTROTRAIN & FORUM LIMITED"
+      },
+      {
+        "ukprn": "10048792",
+        "name": "PLUMS LIMITED"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10007063",
+        "name": "TRURO AND PENWITH COLLEGE"
+      },
+      {
+        "ukprn": "10028919",
+        "name": "EXCEED TRAINING COMPANY LIMITED"
+      },
+      {
+        "ukprn": "10000285",
+        "name": "COLLINGE & CO TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10003889",
+        "name": "LESLIE FRANCES (HAIR FASHIONS) LIMITED"
+      },
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10006770",
+        "name": "THE OLDHAM COLLEGE"
+      },
+      {
+        "ukprn": "10012892",
+        "name": "Michael John Training Manchester"
+      },
+      {
+        "ukprn": "10002565",
+        "name": "FRANCESCO GROUP (HOLDINGS) LIMITED"
+      },
+      {
+        "ukprn": "10005426",
+        "name": "HOUSE OF CLIVE (HAIR AND BEAUTY) LIMITED"
+      },
+      {
+        "ukprn": "10000536",
+        "name": "BARNSLEY COLLEGE"
+      },
+      {
+        "ukprn": "10065400",
+        "name": "WOW HAIR ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10005642",
+        "name": "KLEEK APPRENTICESHIPS LIMITED"
+      },
+      {
+        "ukprn": "10003440",
+        "name": "J & E TRAINING CONSULTANTS LIMITED"
+      },
+      {
+        "ukprn": "10057910",
+        "name": "EVOLVE ACADEMY LTD"
+      },
+      {
+        "ukprn": "10009091",
+        "name": "SPAN TRAINING & DEVELOPMENT LIMITED"
+      },
+      {
+        "ukprn": "10007427",
+        "name": "WEST NOTTINGHAMSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10007500",
+        "name": "WIGAN AND LEIGH COLLEGE"
+      },
+      {
+        "ukprn": "10034309",
+        "name": "REALISE LEARNING AND EMPLOYMENT LIMITED"
+      },
+      {
+        "ukprn": "10002976",
+        "name": "HEART OF ENGLAND TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10024686",
+        "name": "RESOURCES (N E) LIMITED"
+      },
+      {
+        "ukprn": "10044729",
+        "name": "MOMENTUM TRAINING AND CONSULTANCY LTD"
+      },
+      {
+        "ukprn": "10035171",
+        "name": "THE LONDON HAIRDRESSING APPRENTICESHIP ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10004632",
+        "name": "NHTA LIMITED"
+      },
+      {
+        "ukprn": "10001259",
+        "name": "CENTRAL TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10053951",
+        "name": "ACHIEVEMENT TRAINING & SKILLS LTD"
+      },
+      {
+        "ukprn": "10000747",
+        "name": "BLACKBURN COLLEGE"
+      },
+      {
+        "ukprn": "10002863",
+        "name": "RIVERSIDE COLLEGE"
+      },
+      {
+        "ukprn": "10003354",
+        "name": "CHEYNES TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004603",
+        "name": "NEWCASTLE AND STAFFORD COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10005172",
+        "name": "POULTEC TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10021018",
+        "name": "QDOS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10047356",
+        "name": "TOTAL TRAINING PROVISION LIMITED"
+      },
+      {
+        "ukprn": "10001309",
+        "name": "COVENTRY AND WARWICKSHIRE CHAMBERS OF COMMERCE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10002696",
+        "name": "GLOUCESTERSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10003189",
+        "name": "KIRKLEES COLLEGE"
+      },
+      {
+        "ukprn": "10003955",
+        "name": "THE CITY OF LIVERPOOL COLLEGE"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10004927",
+        "name": "ACTIVATE LEARNING"
+      },
+      {
+        "ukprn": "10005200",
+        "name": "PRESTON COLLEGE"
+      },
+      {
+        "ukprn": "10005946",
+        "name": "SOLIHULL COLLEGE AND UNIVERSITY CENTRE"
+      },
+      {
+        "ukprn": "10007578",
+        "name": "CITY OF WOLVERHAMPTON COLLEGE"
+      },
+      {
+        "ukprn": "10007722",
+        "name": "YORKSHIRE TRAINING PARTNERSHIP LIMITED"
+      },
+      {
+        "ukprn": "10056770",
+        "name": "CEDARS TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10065020",
+        "name": "PROFESSIONAL APPRENTICESHIPS LTD"
+      },
+      {
+        "ukprn": "10003193",
+        "name": "HUGH BAIRD COLLEGE"
+      },
+      {
+        "ukprn": "10000565",
+        "name": "NOTTINGHAMSHIRE TRAINING GROUP LIMITED"
+      },
+      {
+        "ukprn": "10004232",
+        "name": "MASTER CUTTERS LIMITED"
+      },
+      {
+        "ukprn": "10005277",
+        "name": "SKILLS TO GROUP LIMITED"
+      },
+      {
+        "ukprn": "10005534",
+        "name": "RNN GROUP"
+      },
+      {
+        "ukprn": "10028007",
+        "name": "THAT NAIL PLACE LIMITED"
+      },
+      {
+        "ukprn": "10030099",
+        "name": "HALLS OF IVY BEAUTY ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10037678",
+        "name": "HAHA TRAINING LTD"
+      },
+      {
+        "ukprn": "10037723",
+        "name": "EXCEL TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10049191",
+        "name": "MONTEBELLO TRAINING LTD"
+      },
+      {
+        "ukprn": "10054811",
+        "name": "MIKE TAYLOR"
+      },
+      {
+        "ukprn": "10005457",
+        "name": "REWARDS TRAINING RECRUITMENT CONSULTANCY LIMITED"
+      },
+      {
+        "ukprn": "10000610",
+        "name": "BEDFORD COLLEGE"
+      }
+    ],
+    "providerCount": 60
+  },
+  {
+    "larsCode": "271",
+    "title": "Advanced baker (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10006378",
+        "name": "STRODE COLLEGE"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "563",
+    "title": "Advanced beauty therapist (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10008699",
+        "name": "YORKSHIRE COLLEGE OF BEAUTY LIMITED"
+      },
+      {
+        "ukprn": "10000747",
+        "name": "BLACKBURN COLLEGE"
+      },
+      {
+        "ukprn": "10031912",
+        "name": "DEBUT TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10003380",
+        "name": "INTROTRAIN & FORUM LIMITED"
+      },
+      {
+        "ukprn": "10007484",
+        "name": "THE WHITE ROSE SCHOOL OF BEAUTY AND COMPLEMENTARY THERAPIES LIMITED"
+      },
+      {
+        "ukprn": "10047356",
+        "name": "TOTAL TRAINING PROVISION LIMITED"
+      },
+      {
+        "ukprn": "10002976",
+        "name": "HEART OF ENGLAND TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004440",
+        "name": "M I T SKILLS LIMITED"
+      },
+      {
+        "ukprn": "10005200",
+        "name": "PRESTON COLLEGE"
+      },
+      {
+        "ukprn": "10007427",
+        "name": "WEST NOTTINGHAMSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10056770",
+        "name": "CEDARS TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10003193",
+        "name": "HUGH BAIRD COLLEGE"
+      },
+      {
+        "ukprn": "10028007",
+        "name": "THAT NAIL PLACE LIMITED"
+      },
+      {
+        "ukprn": "10030099",
+        "name": "HALLS OF IVY BEAUTY ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10037723",
+        "name": "EXCEL TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001000",
+        "name": "BURNLEY COLLEGE"
+      },
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10002743",
+        "name": "GRANTHAM COLLEGE"
+      },
+      {
+        "ukprn": "10002917",
+        "name": "HARTLEPOOL COLLEGE OF FURTHER EDUCATION"
+      },
+      {
+        "ukprn": "10003768",
+        "name": "LANCASTER AND MORECAMBE COLLEGE"
+      },
+      {
+        "ukprn": "10004144",
+        "name": "MACCLESFIELD COLLEGE"
+      },
+      {
+        "ukprn": "10004344",
+        "name": "MIDDLESBROUGH COLLEGE"
+      },
+      {
+        "ukprn": "10005642",
+        "name": "KLEEK APPRENTICESHIPS LIMITED"
+      },
+      {
+        "ukprn": "10007500",
+        "name": "WIGAN AND LEIGH COLLEGE"
+      },
+      {
+        "ukprn": "10007851",
+        "name": "UNIVERSITY OF DERBY"
+      },
+      {
+        "ukprn": "10007938",
+        "name": "TEC PARTNERSHIP"
+      },
+      {
+        "ukprn": "10002412",
+        "name": "FARNBOROUGH COLLEGE OF TECHNOLOGY"
+      },
+      {
+        "ukprn": "10006770",
+        "name": "THE OLDHAM COLLEGE"
+      },
+      {
+        "ukprn": "10053951",
+        "name": "ACHIEVEMENT TRAINING & SKILLS LTD"
+      },
+      {
+        "ukprn": "10000061",
+        "name": "ACACIA TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000536",
+        "name": "BARNSLEY COLLEGE"
+      },
+      {
+        "ukprn": "10001116",
+        "name": "CAMBRIDGE REGIONAL COLLEGE"
+      },
+      {
+        "ukprn": "10001743",
+        "name": "CRAVEN COLLEGE"
+      },
+      {
+        "ukprn": "10002923",
+        "name": "EAST SUSSEX COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10005128",
+        "name": "CITY COLLEGE PLYMOUTH"
+      },
+      {
+        "ukprn": "10007709",
+        "name": "YORK COLLEGE"
+      },
+      {
+        "ukprn": "10000099",
+        "name": "ACHIEVEMENT TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001736",
+        "name": "CRACKERJACK TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10006574",
+        "name": "THE ACADEMY HAIR & BEAUTY LTD"
+      },
+      {
+        "ukprn": "10009213",
+        "name": "FASHION RETAIL ACADEMY"
+      },
+      {
+        "ukprn": "10035171",
+        "name": "THE LONDON HAIRDRESSING APPRENTICESHIP ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10044334",
+        "name": "OMNI ACADEMY OF BEAUTY LIMITED"
+      }
+    ],
+    "providerCount": 42
+  },
+  {
+    "larsCode": "152",
+    "title": "Advanced butcher (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10004140",
+        "name": "MEAT EAST ANGLIA TRADES (IPSWICH) LIMITED"
+      },
+      {
+        "ukprn": "10005172",
+        "name": "POULTEC TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10005124",
+        "name": "PLUMPTON COLLEGE"
+      },
+      {
+        "ukprn": "10056494",
+        "name": "BENSON-SMITH LIMITED"
+      },
+      {
+        "ukprn": "10034952",
+        "name": "CROSBY MANAGEMENT TRAINING LTD"
+      },
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10056013",
+        "name": "MERCURI INTERNATIONAL (UK) LIMITED"
+      },
+      {
+        "ukprn": "10027269",
+        "name": "WORKFORCE TRAINING & DEVELOPMENT LTD"
+      }
+    ],
+    "providerCount": 9
+  },
+  {
+    "larsCode": "252",
+    "title": "Advanced clinical practitioner (integrated degree) (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007154",
+        "name": "UNIVERSITY OF NOTTINGHAM, THE"
+      },
+      {
+        "ukprn": "10007148",
+        "name": "THE UNIVERSITY OF HUDDERSFIELD"
+      },
+      {
+        "ukprn": "10003861",
+        "name": "LEEDS BECKETT UNIVERSITY"
+      },
+      {
+        "ukprn": "10007159",
+        "name": "UNIVERSITY OF SUNDERLAND"
+      },
+      {
+        "ukprn": "10007141",
+        "name": "UNIVERSITY OF CENTRAL LANCASHIRE"
+      },
+      {
+        "ukprn": "10006841",
+        "name": "THE UNIVERSITY OF BOLTON"
+      },
+      {
+        "ukprn": "10001883",
+        "name": "DE MONTFORT UNIVERSITY"
+      },
+      {
+        "ukprn": "10006566",
+        "name": "THE UNIVERSITY OF WEST LONDON"
+      },
+      {
+        "ukprn": "10001282",
+        "name": "UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE"
+      },
+      {
+        "ukprn": "10003957",
+        "name": "LIVERPOOL JOHN MOORES UNIVERSITY"
+      },
+      {
+        "ukprn": "10004180",
+        "name": "MANCHESTER METROPOLITAN UNIVERSITY"
+      },
+      {
+        "ukprn": "10007151",
+        "name": "UNIVERSITY OF LINCOLN"
+      },
+      {
+        "ukprn": "10007157",
+        "name": "THE UNIVERSITY OF SHEFFIELD"
+      },
+      {
+        "ukprn": "10007823",
+        "name": "EDGE HILL UNIVERSITY"
+      },
+      {
+        "ukprn": "10006840",
+        "name": "THE UNIVERSITY OF BIRMINGHAM"
+      },
+      {
+        "ukprn": "10007156",
+        "name": "UNIVERSITY OF SALFORD, THE"
+      },
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      },
+      {
+        "ukprn": "10007785",
+        "name": "THE UNIVERSITY OF BRADFORD"
+      },
+      {
+        "ukprn": "10007795",
+        "name": "THE UNIVERSITY OF LEEDS"
+      },
+      {
+        "ukprn": "10000824",
+        "name": "BOURNEMOUTH UNIVERSITY"
+      },
+      {
+        "ukprn": "10007792",
+        "name": "UNIVERSITY OF EXETER"
+      },
+      {
+        "ukprn": "10007164",
+        "name": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL"
+      },
+      {
+        "ukprn": "10000291",
+        "name": "ANGLIA RUSKIN UNIVERSITY"
+      },
+      {
+        "ukprn": "10005790",
+        "name": "SHEFFIELD HALLAM UNIVERSITY"
+      },
+      {
+        "ukprn": "10007801",
+        "name": "UNIVERSITY OF PLYMOUTH"
+      },
+      {
+        "ukprn": "10000975",
+        "name": "BUCKINGHAMSHIRE NEW UNIVERSITY"
+      },
+      {
+        "ukprn": "10006842",
+        "name": "THE UNIVERSITY OF LIVERPOOL"
+      },
+      {
+        "ukprn": "10001478",
+        "name": "CITY, UNIVERSITY OF LONDON"
+      },
+      {
+        "ukprn": "10007842",
+        "name": "THE UNIVERSITY OF CUMBRIA"
+      },
+      {
+        "ukprn": "10007784",
+        "name": "UNIVERSITY COLLEGE LONDON"
+      },
+      {
+        "ukprn": "10001726",
+        "name": "COVENTRY UNIVERSITY"
+      },
+      {
+        "ukprn": "10004930",
+        "name": "OXFORD BROOKES UNIVERSITY"
+      },
+      {
+        "ukprn": "10001143",
+        "name": "CANTERBURY CHRIST CHURCH UNIVERSITY"
+      },
+      {
+        "ukprn": "10004797",
+        "name": "NOTTINGHAM TRENT UNIVERSITY"
+      },
+      {
+        "ukprn": "10007145",
+        "name": "UNIVERSITY OF GLOUCESTERSHIRE"
+      },
+      {
+        "ukprn": "10007147",
+        "name": "UNIVERSITY OF HERTFORDSHIRE"
+      },
+      {
+        "ukprn": "10007138",
+        "name": "UNIVERSITY OF NORTHAMPTON, THE"
+      },
+      {
+        "ukprn": "10007163",
+        "name": "THE UNIVERSITY OF WARWICK"
+      },
+      {
+        "ukprn": "10007767",
+        "name": "UNIVERSITY OF KEELE"
+      },
+      {
+        "ukprn": "10007789",
+        "name": "THE UNIVERSITY OF EAST ANGLIA"
+      },
+      {
+        "ukprn": "10007851",
+        "name": "UNIVERSITY OF DERBY"
+      },
+      {
+        "ukprn": "10091009",
+        "name": "CU APPRENTICESHIPS (BETTER FUTURES) LIMITED"
+      },
+      {
+        "ukprn": "10007167",
+        "name": "UNIVERSITY OF YORK"
+      },
+      {
+        "ukprn": "10000961",
+        "name": "BRUNEL UNIVERSITY LONDON"
+      },
+      {
+        "ukprn": "10007139",
+        "name": "UNIVERSITY OF WORCESTER"
+      },
+      {
+        "ukprn": "10007140",
+        "name": "BIRMINGHAM CITY UNIVERSITY"
+      },
+      {
+        "ukprn": "10007146",
+        "name": "UNIVERSITY OF GREENWICH"
+      },
+      {
+        "ukprn": "10007149",
+        "name": "THE UNIVERSITY OF HULL"
+      },
+      {
+        "ukprn": "10007152",
+        "name": "UNIVERSITY OF BEDFORDSHIRE"
+      },
+      {
+        "ukprn": "10007776",
+        "name": "ROEHAMPTON UNIVERSITY"
+      },
+      {
+        "ukprn": "10007791",
+        "name": "THE UNIVERSITY OF ESSEX"
+      },
+      {
+        "ukprn": "10007848",
+        "name": "UNIVERSITY OF CHESTER"
+      },
+      {
+        "ukprn": "10000163",
+        "name": "AECC UNIVERSITY COLLEGE"
+      }
+    ],
+    "providerCount": 53
+  },
+  {
+    "larsCode": "764",
+    "title": "Advanced digital forensic professional (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007822",
+        "name": "CRANFIELD UNIVERSITY"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "489",
+    "title": "Advanced forensic practitioner (custody or sexual offence) (level 7)",
+    "level": "7",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "509",
+    "title": "Advanced furniture CNC technician (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10003402",
+        "name": "ENGINEERING TRUST TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004692",
+        "name": "NORTH LANCS. TRAINING GROUP CIC"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "535",
+    "title": "Advanced golf greenkeeper (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10000415",
+        "name": "ASKHAM BRYAN COLLEGE"
+      },
+      {
+        "ukprn": "10032052",
+        "name": "TRAIN TOGETHER LIMITED"
+      },
+      {
+        "ukprn": "10033815",
+        "name": "GREY SEAL ACADEMY LIMITED"
+      }
+    ],
+    "providerCount": 4
+  },
+  {
+    "larsCode": "826",
+    "title": "Advanced paralegal (level 5)",
+    "level": "5",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "759",
+    "title": "Advanced robotics engineer (level 7)",
+    "level": "7",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "689",
+    "title": "Advanced sports turf technician (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10000878",
+        "name": "BRIDGWATER AND TAUNTON COLLEGE"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10003571",
+        "name": "KEITS TRAINING SERVICES LTD"
+      },
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10005124",
+        "name": "PLUMPTON COLLEGE"
+      },
+      {
+        "ukprn": "10000415",
+        "name": "ASKHAM BRYAN COLLEGE"
+      },
+      {
+        "ukprn": "10006050",
+        "name": "SPARSHOLT COLLEGE"
+      },
+      {
+        "ukprn": "10007527",
+        "name": "WILTSHIRE COLLEGE AND UNIVERSITY CENTRE"
+      },
+      {
+        "ukprn": "10032052",
+        "name": "TRAIN TOGETHER LIMITED"
+      },
+      {
+        "ukprn": "10004835",
+        "name": "OAKLANDS COLLEGE"
+      },
+      {
+        "ukprn": "10002107",
+        "name": "THE WINDSOR FOREST COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10006770",
+        "name": "THE OLDHAM COLLEGE"
+      },
+      {
+        "ukprn": "10005128",
+        "name": "CITY COLLEGE PLYMOUTH"
+      },
+      {
+        "ukprn": "10004721",
+        "name": "NORTH KENT COLLEGE"
+      }
+    ],
+    "providerCount": 15
+  },
+  {
+    "larsCode": "525",
+    "title": "Advanced upholsterer (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10004692",
+        "name": "NORTH LANCS. TRAINING GROUP CIC"
+      },
+      {
+        "ukprn": "10007375",
+        "name": "WEBS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10003190",
+        "name": "HUDDERSFIELD TEXTILE TRAINING LIMITED"
+      }
+    ],
+    "providerCount": 3
+  },
+  {
+    "larsCode": "373",
+    "title": "Advertising and media executive (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10002230",
+        "name": "BAUER RADIO LIMITED"
+      },
+      {
+        "ukprn": "10007424",
+        "name": "THE WEST MIDLANDS CREATIVE ALLIANCE LIMITED"
+      },
+      {
+        "ukprn": "10048380",
+        "name": "Ginger Nut Training"
+      },
+      {
+        "ukprn": "10065784",
+        "name": "BLUE LION TRAINING ACADEMY LIMITED"
+      }
+    ],
+    "providerCount": 4
+  },
+  {
+    "larsCode": "739",
+    "title": "Advertising creative (level 6)",
+    "level": "6",
+    "providers": [
+      {
+        "ukprn": "10002230",
+        "name": "BAUER RADIO LIMITED"
+      },
+      {
+        "ukprn": "10093558",
+        "name": "FEARLESS ADVENTURES ACADEMY LIMITED"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "37",
+    "title": "Aerospace engineer (level 6)",
+    "level": "6",
+    "providers": [
+      {
+        "ukprn": "10007851",
+        "name": "UNIVERSITY OF DERBY"
+      },
+      {
+        "ukprn": "10007459",
+        "name": "WESTON COLLEGE OF FURTHER AND HIGHER EDUCATION"
+      },
+      {
+        "ukprn": "10007696",
+        "name": "YEOVIL COLLEGE"
+      },
+      {
+        "ukprn": "10000754",
+        "name": "BLACKPOOL AND THE FYLDE COLLEGE"
+      },
+      {
+        "ukprn": "10007164",
+        "name": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL"
+      },
+      {
+        "ukprn": "10006408",
+        "name": "SUNDERLAND ENGINEERING TRAINING ASSOCIATION LIMITED"
+      },
+      {
+        "ukprn": "10002412",
+        "name": "FARNBOROUGH COLLEGE OF TECHNOLOGY"
+      }
+    ],
+    "providerCount": 7
+  },
+  {
+    "larsCode": "827",
+    "title": "Aerospace engineering technician (level 3)",
+    "level": "3",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "56",
+    "title": "Aerospace manufacturing electrical, mechanical and systems fitter (level 3)",
+    "level": "3",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "3",
+    "title": "Aerospace manufacturing fitter (level 3)",
+    "level": "3",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "572",
+    "title": "Agriculture or horticulture professional adviser (level 6)",
+    "level": "6",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "490",
+    "title": "Air traffic controller (level 5)",
+    "level": "5",
+    "providers": [
+      {
+        "ukprn": "10002696",
+        "name": "GLOUCESTERSHIRE COLLEGE"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "114",
+    "title": "Aircraft certifying technician (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10020604",
+        "name": "LRTT LIMITED"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "113",
+    "title": "Aircraft maintenance fitter or technician (fixed and rotary wing) (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10002370",
+        "name": "EXETER COLLEGE"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "762",
+    "title": "Aircraft maintenance technician (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10002370",
+        "name": "EXETER COLLEGE"
+      },
+      {
+        "ukprn": "10028607",
+        "name": "KLM UK ENGINEERING LIMITED"
+      },
+      {
+        "ukprn": "10000610",
+        "name": "BEDFORD COLLEGE"
+      },
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10002899",
+        "name": "HARLOW COLLEGE"
+      },
+      {
+        "ukprn": "10002917",
+        "name": "HARTLEPOOL COLLEGE OF FURTHER EDUCATION"
+      },
+      {
+        "ukprn": "10003928",
+        "name": "LINCOLN COLLEGE"
+      },
+      {
+        "ukprn": "10007928",
+        "name": "SOUTH HAMPSHIRE COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10002412",
+        "name": "FARNBOROUGH COLLEGE OF TECHNOLOGY"
+      },
+      {
+        "ukprn": "10020604",
+        "name": "LRTT LIMITED"
+      },
+      {
+        "ukprn": "10000105",
+        "name": "APPRENTICESHIP LEARNING SOLUTIONS LIMITED"
+      }
+    ],
+    "providerCount": 11
+  },
+  {
+    "larsCode": "121",
+    "title": "Airside operator (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10002899",
+        "name": "HARLOW COLLEGE"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "298",
+    "title": "Ambulance support worker (emergency, urgent and non-urgent) (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10023428",
+        "name": "MEDIPRO LIMITED"
+      },
+      {
+        "ukprn": "10085759",
+        "name": "BASEGREEN ACADEMY LTD"
+      },
+      {
+        "ukprn": "10041501",
+        "name": "WEST MIDLANDS AMBULANCE SERVICE NHS FOUNDATION TRUST"
+      },
+      {
+        "ukprn": "10044523",
+        "name": "MED LEARN TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10088339",
+        "name": "CIPHER MEDICAL CONSULTANCY LIMITED"
+      },
+      {
+        "ukprn": "10090016",
+        "name": "MEDICARE EMS GROUP UK LIMITED"
+      },
+      {
+        "ukprn": "10091705",
+        "name": "AMBUTECH PRE-HOSPITAL CARE LTD"
+      },
+      {
+        "ukprn": "10097279",
+        "name": "ECHO FIRE AND MEDICAL LIMITED"
+      }
+    ],
+    "providerCount": 8
+  },
+  {
+    "larsCode": "332",
+    "title": "Animal care and welfare assistant (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10028269",
+        "name": "ABBEYDALE VETLINK VETERINARY TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10044886",
+        "name": "GODDARD VETERINARY GROUP"
+      },
+      {
+        "ukprn": "10000878",
+        "name": "BRIDGWATER AND TAUNTON COLLEGE"
+      },
+      {
+        "ukprn": "10008354",
+        "name": "LITE (STOCKPORT) LIMITED"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10007859",
+        "name": "WARWICKSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10037391",
+        "name": "BOTTLE GREEN TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10045754",
+        "name": "CVS (UK) LIMITED"
+      },
+      {
+        "ukprn": "10055021",
+        "name": "LYNWOOD VETS LIMITED"
+      },
+      {
+        "ukprn": "10001539",
+        "name": "THE COLLEGE OF ANIMAL WELFARE LIMITED"
+      },
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10001919",
+        "name": "DCG"
+      },
+      {
+        "ukprn": "10003571",
+        "name": "KEITS TRAINING SERVICES LTD"
+      },
+      {
+        "ukprn": "10002841",
+        "name": "HADDON TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10005172",
+        "name": "POULTEC TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10005124",
+        "name": "PLUMPTON COLLEGE"
+      },
+      {
+        "ukprn": "10005946",
+        "name": "SOLIHULL COLLEGE AND UNIVERSITY CENTRE"
+      },
+      {
+        "ukprn": "10056024",
+        "name": "CANINE GROOM SCHOOL LTD"
+      },
+      {
+        "ukprn": "10063519",
+        "name": "SHELDRAKE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10006050",
+        "name": "SPARSHOLT COLLEGE"
+      },
+      {
+        "ukprn": "10006174",
+        "name": "ST HELENS COLLEGE"
+      },
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10005404",
+        "name": "REASEHEATH COLLEGE"
+      },
+      {
+        "ukprn": "10094574",
+        "name": "WRITTLE COLLEGE LIMITED"
+      },
+      {
+        "ukprn": "10002130",
+        "name": "EAST SURREY COLLEGE"
+      },
+      {
+        "ukprn": "10003558",
+        "name": "KENDAL COLLEGE"
+      },
+      {
+        "ukprn": "10004442",
+        "name": "MOULTON COLLEGE"
+      },
+      {
+        "ukprn": "10083948",
+        "name": "TRENDY POOCHES TRAINING ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10091242",
+        "name": "RASE VY LTD"
+      }
+    ],
+    "providerCount": 32
+  },
+  {
+    "larsCode": "730",
+    "title": "Animal care and welfare manager (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10005172",
+        "name": "POULTEC TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10002841",
+        "name": "HADDON TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10003571",
+        "name": "KEITS TRAINING SERVICES LTD"
+      },
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10056024",
+        "name": "CANINE GROOM SCHOOL LTD"
+      },
+      {
+        "ukprn": "10001539",
+        "name": "THE COLLEGE OF ANIMAL WELFARE LIMITED"
+      },
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10001919",
+        "name": "DCG"
+      },
+      {
+        "ukprn": "10094574",
+        "name": "WRITTLE COLLEGE LIMITED"
+      },
+      {
+        "ukprn": "10008915",
+        "name": "COMMON COUNCIL OF THE CITY OF LONDON"
+      },
+      {
+        "ukprn": "10083948",
+        "name": "TRENDY POOCHES TRAINING ACADEMY LIMITED"
+      }
+    ],
+    "providerCount": 13
+  },
+  {
+    "larsCode": "179",
+    "title": "Animal technologist (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "379",
+    "title": "Animal training instructor (level 4)",
+    "level": "4",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "645",
+    "title": "Anti-social behaviour and community safety officer (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10040417",
+        "name": "PIER TECHNOLOGY LTD"
+      },
+      {
+        "ukprn": "10062322",
+        "name": "INTELLIGENCIA TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10084984",
+        "name": "Resolve ASB"
+      }
+    ],
+    "providerCount": 3
+  },
+  {
+    "larsCode": "663",
+    "title": "Applications support lead (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10002639",
+        "name": "GATESHEAD COUNCIL"
+      },
+      {
+        "ukprn": "10028279",
+        "name": "LEARNING FOR FUTURES LTD"
+      },
+      {
+        "ukprn": "10058007",
+        "name": "LearnTech"
+      },
+      {
+        "ukprn": "10010335",
+        "name": "FIREBRAND TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10007434",
+        "name": "WEST THAMES COLLEGE"
+      },
+      {
+        "ukprn": "10024404",
+        "name": "LONDON VESTA COLLEGE LIMITED"
+      },
+      {
+        "ukprn": "10047354",
+        "name": "VELOCITY 1ST LIMITED"
+      },
+      {
+        "ukprn": "10004607",
+        "name": "NEWHAM COLLEGE OF FURTHER EDUCATION"
+      },
+      {
+        "ukprn": "10088861",
+        "name": "KEIBRA LTD"
+      }
+    ],
+    "providerCount": 9
+  },
+  {
+    "larsCode": "660",
+    "title": "Arboriculturist (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10005124",
+        "name": "PLUMPTON COLLEGE"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "180",
+    "title": "Arborist (level 2)",
+    "level": "2",
+    "providers": [
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10002111",
+        "name": "EAST DURHAM COLLEGE"
+      },
+      {
+        "ukprn": "10001919",
+        "name": "DCG"
+      },
+      {
+        "ukprn": "10002107",
+        "name": "THE WINDSOR FOREST COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10006050",
+        "name": "SPARSHOLT COLLEGE"
+      },
+      {
+        "ukprn": "10005124",
+        "name": "PLUMPTON COLLEGE"
+      },
+      {
+        "ukprn": "10000415",
+        "name": "ASKHAM BRYAN COLLEGE"
+      },
+      {
+        "ukprn": "10007859",
+        "name": "WARWICKSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10004927",
+        "name": "ACTIVATE LEARNING"
+      },
+      {
+        "ukprn": "10008155",
+        "name": "CENTRAL YOUNG MEN'S CHRISTIAN ASSOCIATION"
+      },
+      {
+        "ukprn": "10094574",
+        "name": "WRITTLE COLLEGE LIMITED"
+      },
+      {
+        "ukprn": "10001148",
+        "name": "CAPEL MANOR COLLEGE"
+      },
+      {
+        "ukprn": "10008915",
+        "name": "COMMON COUNCIL OF THE CITY OF LONDON"
+      }
+    ],
+    "providerCount": 16
+  },
+  {
+    "larsCode": "484",
+    "title": "Archaeological specialist (degree) (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007811",
+        "name": "BISHOP GROSSETESTE UNIVERSITY"
+      },
+      {
+        "ukprn": "10007858",
+        "name": "UNIVERSITY OF WALES: TRINITY SAINT DAVID"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "429",
+    "title": "Archaeological technician (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10001446",
+        "name": "CIRENCESTER COLLEGE"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "300",
+    "title": "Architect (integrated degree) (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007164",
+        "name": "UNIVERSITY OF THE WEST OF ENGLAND, BRISTOL"
+      },
+      {
+        "ukprn": "10001282",
+        "name": "UNIVERSITY OF NORTHUMBRIA AT NEWCASTLE"
+      },
+      {
+        "ukprn": "10004930",
+        "name": "OXFORD BROOKES UNIVERSITY"
+      },
+      {
+        "ukprn": "10007155",
+        "name": "UNIVERSITY OF PORTSMOUTH"
+      },
+      {
+        "ukprn": "10007788",
+        "name": "UNIVERSITY OF CAMBRIDGE"
+      },
+      {
+        "ukprn": "10004078",
+        "name": "LONDON SOUTH BANK UNIVERSITY"
+      },
+      {
+        "ukprn": "10004797",
+        "name": "NOTTINGHAM TRENT UNIVERSITY"
+      },
+      {
+        "ukprn": "10007154",
+        "name": "UNIVERSITY OF NOTTINGHAM, THE"
+      },
+      {
+        "ukprn": "10005790",
+        "name": "SHEFFIELD HALLAM UNIVERSITY"
+      },
+      {
+        "ukprn": "10007150",
+        "name": "THE UNIVERSITY OF KENT"
+      },
+      {
+        "ukprn": "10003861",
+        "name": "LEEDS BECKETT UNIVERSITY"
+      },
+      {
+        "ukprn": "10007140",
+        "name": "BIRMINGHAM CITY UNIVERSITY"
+      },
+      {
+        "ukprn": "10004048",
+        "name": "LONDON METROPOLITAN UNIVERSITY"
+      }
+    ],
+    "providerCount": 13
+  },
+  {
+    "larsCode": "299",
+    "title": "Architectural assistant (integrated degree) (level 6)",
+    "level": "6",
+    "providers": [
+      {
+        "ukprn": "10004078",
+        "name": "LONDON SOUTH BANK UNIVERSITY"
+      },
+      {
+        "ukprn": "10007155",
+        "name": "UNIVERSITY OF PORTSMOUTH"
+      }
+    ],
+    "providerCount": 2
+  },
+  {
+    "larsCode": "668",
+    "title": "Archivist and records manager (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10001464",
+        "name": "WESTMINSTER CITY COUNCIL"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "561",
+    "title": "Artificial intelligence (AI) data specialist (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10063309",
+        "name": "CAMBRIDGE SPARK LIMITED"
+      },
+      {
+        "ukprn": "10003375",
+        "name": "QA LIMITED"
+      },
+      {
+        "ukprn": "10048199",
+        "name": "NORTHEASTERN UNIVERSITY - LONDON"
+      },
+      {
+        "ukprn": "10058007",
+        "name": "LearnTech"
+      },
+      {
+        "ukprn": "10088850",
+        "name": "THE S&A TRANSFORM GROUP LIMITED"
+      },
+      {
+        "ukprn": "10001883",
+        "name": "DE MONTFORT UNIVERSITY"
+      },
+      {
+        "ukprn": "10052858",
+        "name": "DIGITAL NATIVE (UK) LIMITED"
+      },
+      {
+        "ukprn": "10065767",
+        "name": "DECODED LIMITED"
+      },
+      {
+        "ukprn": "10045070",
+        "name": "CHERITH SIMMONS LEARNING & DEVELOPMENT LLP"
+      },
+      {
+        "ukprn": "10085696",
+        "name": "FOUNDERS & CODERS C.I.C."
+      },
+      {
+        "ukprn": "10082136",
+        "name": "PROJECTING SUCCESS LTD"
+      },
+      {
+        "ukprn": "10007806",
+        "name": "UNIVERSITY OF SUSSEX"
+      }
+    ],
+    "providerCount": 12
+  },
+  {
+    "larsCode": "432",
+    "title": "Arts therapist (level 7)",
+    "level": "7",
+    "providers": [
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      }
+    ],
+    "providerCount": 1
+  },
+  {
+    "larsCode": "303",
+    "title": "Asbestos analyst and surveyor (level 3)",
+    "level": "3",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "601",
+    "title": "Asbestos removal operative (level 2)",
+    "level": "2",
+    "providers": [],
+    "providerCount": 0
+  },
+  {
+    "larsCode": "401",
+    "title": "Assessor coach (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10004657",
+        "name": "NORFOLK COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10003915",
+        "name": "LIFETIME TRAINING GROUP LIMITED"
+      },
+      {
+        "ukprn": "10021018",
+        "name": "QDOS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10032119",
+        "name": "SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED"
+      },
+      {
+        "ukprn": "10048380",
+        "name": "Ginger Nut Training"
+      },
+      {
+        "ukprn": "10002841",
+        "name": "HADDON TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10005032",
+        "name": "SALFORD CITY COLLEGE"
+      },
+      {
+        "ukprn": "10029736",
+        "name": "IGNITE SPORT UK LIMITED"
+      },
+      {
+        "ukprn": "10042241",
+        "name": "THE IT SKILLS MANAGEMENT COMPANY LIMITED"
+      },
+      {
+        "ukprn": "10046679",
+        "name": "KIWI & YUZU LTD"
+      },
+      {
+        "ukprn": "10054679",
+        "name": "JLMS MANAGEMENT LTD."
+      },
+      {
+        "ukprn": "10000610",
+        "name": "BEDFORD COLLEGE"
+      },
+      {
+        "ukprn": "10003529",
+        "name": "JUNIPER TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10004144",
+        "name": "MACCLESFIELD COLLEGE"
+      },
+      {
+        "ukprn": "10007431",
+        "name": "WEST SUFFOLK COLLEGE"
+      },
+      {
+        "ukprn": "10007938",
+        "name": "TEC PARTNERSHIP"
+      },
+      {
+        "ukprn": "10038931",
+        "name": "PENSHAW VIEW TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10040011",
+        "name": "RM TRAINING (UK) LIMITED"
+      },
+      {
+        "ukprn": "10000560",
+        "name": "BASINGSTOKE COLLEGE OF TECHNOLOGY"
+      },
+      {
+        "ukprn": "10005972",
+        "name": "CHESHIRE COLLEGE SOUTH AND WEST"
+      },
+      {
+        "ukprn": "10005891",
+        "name": "SKILLNET LIMITED"
+      },
+      {
+        "ukprn": "10023516",
+        "name": "ESSEX PARTNERSHIP UNIVERSITY NHS FOUNDATION TRUST"
+      },
+      {
+        "ukprn": "10029195",
+        "name": "RHG CONSULT LTD"
+      },
+      {
+        "ukprn": "10007123",
+        "name": "UK TRAINING & DEVELOPMENT LIMITED"
+      },
+      {
+        "ukprn": "10015933",
+        "name": "ALAN HESTER ASSOCIATES LIMITED"
+      },
+      {
+        "ukprn": "10020932",
+        "name": "THE COLLEGES' PARTNERSHIP LIMITED"
+      },
+      {
+        "ukprn": "10032555",
+        "name": "ALL DIMENSION LIMITED"
+      }
+    ],
+    "providerCount": 28
+  },
+  {
+    "larsCode": "624",
+    "title": "Asset manager (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10030871",
+        "name": "WATERTRAIN LIMITED"
+      },
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      },
+      {
+        "ukprn": "10030102",
+        "name": "MERIT SKILLS LIMITED"
+      }
+    ],
+    "providerCount": 3
+  },
+  {
+    "larsCode": "133",
+    "title": "Assistant accountant (level 3)",
+    "level": "3",
+    "providers": [
+      {
+        "ukprn": "10003023",
+        "name": "HEREFORDSHIRE, LUDLOW, AND NORTH SHROPSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10001000",
+        "name": "BURNLEY COLLEGE"
+      },
+      {
+        "ukprn": "10004576",
+        "name": "NEW COLLEGE DURHAM"
+      },
+      {
+        "ukprn": "10007553",
+        "name": "WIRRAL METROPOLITAN COLLEGE"
+      },
+      {
+        "ukprn": "10002370",
+        "name": "EXETER COLLEGE"
+      },
+      {
+        "ukprn": "10001515",
+        "name": "C.M.S. VOCATIONAL TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10036578",
+        "name": "THE APPRENTICE ACADEMY LIMITED"
+      },
+      {
+        "ukprn": "10032119",
+        "name": "SOUTH WEST ASSOCIATION OF TRAINING PROVIDERS LIMITED"
+      },
+      {
+        "ukprn": "10000754",
+        "name": "BLACKPOOL AND THE FYLDE COLLEGE"
+      },
+      {
+        "ukprn": "10055777",
+        "name": "HTFT PARTNERSHIP LIMITED"
+      },
+      {
+        "ukprn": "10004257",
+        "name": "MCARTHUR DEAN TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10002863",
+        "name": "RIVERSIDE COLLEGE"
+      },
+      {
+        "ukprn": "10001378",
+        "name": "CHESTERFIELD COLLEGE"
+      },
+      {
+        "ukprn": "10003189",
+        "name": "KIRKLEES COLLEGE"
+      },
+      {
+        "ukprn": "10004344",
+        "name": "MIDDLESBROUGH COLLEGE"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10004177",
+        "name": "THE GROWTH COMPANY LIMITED"
+      },
+      {
+        "ukprn": "10004603",
+        "name": "NEWCASTLE AND STAFFORD COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10041891",
+        "name": "EMA TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001535",
+        "name": "COLCHESTER INSTITUTE"
+      },
+      {
+        "ukprn": "10001743",
+        "name": "CRAVEN COLLEGE"
+      },
+      {
+        "ukprn": "10001005",
+        "name": "BURY COLLEGE"
+      },
+      {
+        "ukprn": "10005979",
+        "name": "HAVANT AND SOUTH DOWNS COLLEGE"
+      },
+      {
+        "ukprn": "10003026",
+        "name": "HEREFORDSHIRE AND WORCESTERSHIRE GROUP TRAINING ASSOCIATION LIMITED"
+      },
+      {
+        "ukprn": "10007817",
+        "name": "CHICHESTER COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10056050",
+        "name": "FIRST INTUITION LEEDS LIMITED"
+      },
+      {
+        "ukprn": "10033482",
+        "name": "E-CAREERS EDUCATION LIMITED"
+      },
+      {
+        "ukprn": "10011880",
+        "name": "P.T.P. TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10002923",
+        "name": "EAST SUSSEX COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10000747",
+        "name": "BLACKBURN COLLEGE"
+      },
+      {
+        "ukprn": "10040718",
+        "name": "FIRST INTUITION SOUTH LIMITED"
+      },
+      {
+        "ukprn": "10032740",
+        "name": "LEARNING SKILLS PARTNERSHIP LTD"
+      },
+      {
+        "ukprn": "10004657",
+        "name": "NORFOLK COUNTY COUNCIL"
+      },
+      {
+        "ukprn": "10004112",
+        "name": "LOUGHBOROUGH COLLEGE"
+      },
+      {
+        "ukprn": "10003558",
+        "name": "KENDAL COLLEGE"
+      },
+      {
+        "ukprn": "10042003",
+        "name": "FIRST INTUITION CHELMSFORD LIMITED"
+      },
+      {
+        "ukprn": "10036143",
+        "name": "SOUTH GLOUCESTERSHIRE AND STROUD COLLEGE"
+      },
+      {
+        "ukprn": "10000536",
+        "name": "BARNSLEY COLLEGE"
+      },
+      {
+        "ukprn": "10007455",
+        "name": "Capital City College Group"
+      },
+      {
+        "ukprn": "10039527",
+        "name": "Peak Accountancy Training"
+      },
+      {
+        "ukprn": "10030926",
+        "name": "FIRST INTUITION CAMBRIDGE LIMITED"
+      },
+      {
+        "ukprn": "10005077",
+        "name": "INSPIRE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10032052",
+        "name": "TRAIN TOGETHER LIMITED"
+      },
+      {
+        "ukprn": "10060902",
+        "name": "RICHARD HUISH TRUST"
+      },
+      {
+        "ukprn": "10025133",
+        "name": "SOLVEWAY LIMITED"
+      },
+      {
+        "ukprn": "10056738",
+        "name": "FIRST INTUITION LIMITED"
+      },
+      {
+        "ukprn": "10001309",
+        "name": "COVENTRY AND WARWICKSHIRE CHAMBERS OF COMMERCE TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001174",
+        "name": "CT SKILLS LIMITED"
+      },
+      {
+        "ukprn": "10007938",
+        "name": "TEC PARTNERSHIP"
+      },
+      {
+        "ukprn": "10002852",
+        "name": "HALESOWEN COLLEGE"
+      },
+      {
+        "ukprn": "10009059",
+        "name": "ACCESS TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10001831",
+        "name": "DAMAR LIMITED"
+      },
+      {
+        "ukprn": "10000794",
+        "name": "BOLTON COLLEGE"
+      },
+      {
+        "ukprn": "10007696",
+        "name": "YEOVIL COLLEGE"
+      },
+      {
+        "ukprn": "10005575",
+        "name": "RUNSHAW COLLEGE"
+      },
+      {
+        "ukprn": "10004599",
+        "name": "NCG"
+      },
+      {
+        "ukprn": "10042735",
+        "name": "ACCOUNTANCY LEARNING LTD"
+      },
+      {
+        "ukprn": "10007193",
+        "name": "HRUC (HARROW, RICHMOND AND UXBRIDGE COLLEGES)"
+      },
+      {
+        "ukprn": "10000055",
+        "name": "ABINGDON AND WITNEY COLLEGE"
+      },
+      {
+        "ukprn": "10006987",
+        "name": "TRAINING 2000 LIMITED"
+      }
+    ],
+    "providerCount": 60
+  },
+  {
+    "larsCode": "485",
+    "title": "Assistant buyer and merchandiser (level 6)",
+    "level": "6",
+    "providers": [
+      {
+        "ukprn": "10009213",
+        "name": "FASHION RETAIL ACADEMY"
+      },
+      {
+        "ukprn": "10002407",
+        "name": "FAREPORT TRAINING ORGANISATION LIMITED"
+      },
+      {
+        "ukprn": "10043208",
+        "name": "SCL EDUCATION & TRAINING LIMITED"
+      }
+    ],
+    "providerCount": 3
+  },
+  {
+    "larsCode": "726",
+    "title": "Assistant farm manager (level 4)",
+    "level": "4",
+    "providers": [
+      {
+        "ukprn": "10000721",
+        "name": "BISHOP BURTON COLLEGE"
+      },
+      {
+        "ukprn": "10004478",
+        "name": "MYERSCOUGH COLLEGE"
+      },
+      {
+        "ukprn": "10005886",
+        "name": "SKERN LODGE LIMITED"
+      },
+      {
+        "ukprn": "10007527",
+        "name": "WILTSHIRE COLLEGE AND UNIVERSITY CENTRE"
+      },
+      {
+        "ukprn": "10006398",
+        "name": "SUFFOLK NEW COLLEGE"
+      },
+      {
+        "ukprn": "10003558",
+        "name": "KENDAL COLLEGE"
+      }
+    ],
+    "providerCount": 6
+  },
+  {
+    "larsCode": "102",
+    "title": "Assistant practitioner (health) (level 5)",
+    "level": "5",
+    "providers": [
+      {
+        "ukprn": "10018942",
+        "name": "STEADFAST TRAINING LTD"
+      },
+      {
+        "ukprn": "10007140",
+        "name": "BIRMINGHAM CITY UNIVERSITY"
+      },
+      {
+        "ukprn": "10000712",
+        "name": "UNIVERSITY COLLEGE BIRMINGHAM"
+      },
+      {
+        "ukprn": "10004695",
+        "name": "DN COLLEGES GROUP"
+      },
+      {
+        "ukprn": "10007459",
+        "name": "WESTON COLLEGE OF FURTHER AND HIGHER EDUCATION"
+      },
+      {
+        "ukprn": "10005977",
+        "name": "SOUTH DEVON COLLEGE"
+      },
+      {
+        "ukprn": "10003193",
+        "name": "HUGH BAIRD COLLEGE"
+      },
+      {
+        "ukprn": "10001726",
+        "name": "COVENTRY UNIVERSITY"
+      },
+      {
+        "ukprn": "10004772",
+        "name": "CITY COLLEGE NORWICH"
+      },
+      {
+        "ukprn": "10007161",
+        "name": "TEESSIDE UNIVERSITY"
+      },
+      {
+        "ukprn": "10005788",
+        "name": "SHEFFIELD COLLEGE, THE"
+      },
+      {
+        "ukprn": "10006841",
+        "name": "THE UNIVERSITY OF BOLTON"
+      },
+      {
+        "ukprn": "10007141",
+        "name": "UNIVERSITY OF CENTRAL LANCASHIRE"
+      },
+      {
+        "ukprn": "10007791",
+        "name": "THE UNIVERSITY OF ESSEX"
+      },
+      {
+        "ukprn": "10004676",
+        "name": "PETROC"
+      },
+      {
+        "ukprn": "10000291",
+        "name": "ANGLIA RUSKIN UNIVERSITY"
+      },
+      {
+        "ukprn": "10001696",
+        "name": "CORNWALL COLLEGE"
+      },
+      {
+        "ukprn": "10007842",
+        "name": "THE UNIVERSITY OF CUMBRIA"
+      },
+      {
+        "ukprn": "10024124",
+        "name": "MARR CORPORATION LIMITED"
+      },
+      {
+        "ukprn": "10023516",
+        "name": "ESSEX PARTNERSHIP UNIVERSITY NHS FOUNDATION TRUST"
+      },
+      {
+        "ukprn": "10018916",
+        "name": "IMPACT FUTURES TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10007851",
+        "name": "UNIVERSITY OF DERBY"
+      },
+      {
+        "ukprn": "10000878",
+        "name": "BRIDGWATER AND TAUNTON COLLEGE"
+      },
+      {
+        "ukprn": "10002370",
+        "name": "EXETER COLLEGE"
+      },
+      {
+        "ukprn": "10005077",
+        "name": "INSPIRE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10006022",
+        "name": "SOLENT UNIVERSITY, SOUTHAMPTON"
+      },
+      {
+        "ukprn": "10005534",
+        "name": "RNN GROUP"
+      },
+      {
+        "ukprn": "10000820",
+        "name": "BOURNEMOUTH AND POOLE COLLEGE, THE"
+      },
+      {
+        "ukprn": "10000886",
+        "name": "UNIVERSITY OF BRIGHTON"
+      },
+      {
+        "ukprn": "10002599",
+        "name": "FURNESS COLLEGE"
+      },
+      {
+        "ukprn": "10004144",
+        "name": "MACCLESFIELD COLLEGE"
+      },
+      {
+        "ukprn": "10004579",
+        "name": "NEW COLLEGE SWINDON"
+      },
+      {
+        "ukprn": "10007431",
+        "name": "WEST SUFFOLK COLLEGE"
+      },
+      {
+        "ukprn": "10007767",
+        "name": "UNIVERSITY OF KEELE"
+      },
+      {
+        "ukprn": "10007938",
+        "name": "TEC PARTNERSHIP"
+      },
+      {
+        "ukprn": "10022788",
+        "name": "THE CHILD CARE COMPANY (OLD WINDSOR) LIMITED"
+      },
+      {
+        "ukprn": "10024962",
+        "name": "LUMINATE EDUCATION GROUP"
+      },
+      {
+        "ukprn": "10091009",
+        "name": "CU APPRENTICESHIPS (BETTER FUTURES) LIMITED"
+      },
+      {
+        "ukprn": "10003678",
+        "name": "KINGSTON UNIVERSITY"
+      },
+      {
+        "ukprn": "10049233",
+        "name": "VARSITY TRAINING LIMITED"
+      },
+      {
+        "ukprn": "10000536",
+        "name": "BARNSLEY COLLEGE"
+      },
+      {
+        "ukprn": "10000975",
+        "name": "BUCKINGHAMSHIRE NEW UNIVERSITY"
+      },
+      {
+        "ukprn": "10002923",
+        "name": "EAST SUSSEX COLLEGE GROUP"
+      },
+      {
+        "ukprn": "10004690",
+        "name": "NORTH HERTFORDSHIRE COLLEGE"
+      },
+      {
+        "ukprn": "10006566",
+        "name": "THE UNIVERSITY OF WEST LONDON"
+      },
+      {
+        "ukprn": "10007139",
+        "name": "UNIVERSITY OF WORCESTER"
+      },
+      {
+        "ukprn": "10007152",
+        "name": "UNIVERSITY OF BEDFORDSHIRE"
+      },
+      {
+        "ukprn": "10022721",
+        "name": "UNIVERSITY HOSPITALS OF LEICESTER NATIONAL HEALTH SERVICE TRUST"
+      },
+      {
+        "ukprn": "10037449",
+        "name": "UNIVERSITY OF ST MARK & ST JOHN"
+      },
+      {
+        "ukprn": "10000163",
+        "name": "AECC UNIVERSITY COLLEGE"
+      }
+    ],
+    "providerCount": 50
+  },
+  {
+    "larsCode": "526",
+    "title": "Assistant puppet maker (level 3)",
+    "level": "3",
+    "providers": [],
+    "providerCount": 0
+  }
+]
