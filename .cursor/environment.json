@@ -1,0 +1,17 @@
+{
+  "name": "TypingMind Static Self-host",
+  "install": "yarn install --frozen-lockfile",
+  "terminals": [
+    {
+      "name": "web-server",
+      "command": "yarn start",
+      "description": "Static web server (http-server) serving ./src on port 3000."
+    }
+  ],
+  "ports": [
+    {
+      "name": "web server",
+      "port": 3000
+    }
+  ]
+}
