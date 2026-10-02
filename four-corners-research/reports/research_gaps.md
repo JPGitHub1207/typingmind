@@ -2,7 +2,7 @@
 
 Living log of unresolved evidence. Updated after each batch. Facts are not inferred to fill these gaps.
 
-Latest pass: 2026-10-02, after batch 3.
+Latest pass: 2026-10-02, after batch 4.
 
 ## Controlled labels
 
@@ -60,9 +60,25 @@ Recorded programme families only. Ambition: NPQH, NPQEYL and NPQLTD. Best Practi
 - National Institute of Teaching executive leadership, early headship coaching and early years leadership prices were not opened. VAT is unstated on the four recorded prices. National Institute of Teaching and Education, company 13888847, is a rejected namesake.
 - LLSE, UCL Institute of Education and Church of England NPQ provision are not yet verified.
 
+## Batch 4 recorded
+
+Organisations: SSAT; Chartered College of Teaching; Teacher Development Trust; National Governance Association; Confederation of School Trusts; ISBL; The National College; The Key.
+
+Teacher Development Trust has an organisation row and no product row. Its homepage says it is now part of the Chartered College, and the old core-access URL no longer showed a price.
+
+## Unresolved after batch 4
+
+- SSAT legal entity is unresolved. Company 08073410 is a candidate only. Leading Edge and the culture-survey non-member price were not re-opened. Non-member prices for included leadership programmes are unpublished.
+- Chartered College group-membership numbers and Chartered Status fees were not opened. A January 2026 handbook was not used against the live monthly fees. VAT is unstated.
+- National Governance Association Learning Link price is unpublished on the membership page. VAT is unstated on £155 and £315.
+- Confederation of School Trusts trust-band calculator did not render numbers. Emeritus membership was not opened.
+- ISBL income-generation masterclass URL returned 404, so those prices were not recorded. Marketing webinar prices were not opened. Membership VAT is unstated. OpEx practice periods are described in two ways on the same page. Contact emails use ceoe.org.uk.
+- The National College numeric prices did not render. Discount percentages are published without the base price. The National College for School Leadership Limited 04014904 is a rejected namesake.
+- The Key has no public national list price. Local traded-services PDFs were not used.
+
 ## Seed organisations not yet verified
 
-LLSE; UCL Institute of Education; Church of England NPQ provision; SSAT; The National College; The Key CPD; Chartered College of Teaching; Teacher Development Trust; National Governance Association; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; ISBL; Confederation of School Trusts; Advance HE; Jisc.
+LLSE; UCL Institute of Education; Church of England NPQ provision; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; Advance HE; Jisc.
 
 ## Discovered and not yet recorded
 
