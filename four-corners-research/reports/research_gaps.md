@@ -2,7 +2,7 @@
 
 Living log of unresolved evidence. Updated after each batch. Facts are not inferred to fill these gaps.
 
-Latest pass: 2026-10-02, after batch 1.
+Latest pass: 2026-10-02, after batch 2.
 
 ## Controlled labels
 
@@ -29,9 +29,29 @@ The Stickman Consultancy and Chameleon Consultancy & Training were added from di
 - Stickman £1,996 + VAT is published only on a page titled January sale, with no crossed-out list price. Main course pages omit the fee. Strategic marketing plan price is unpublished. Check-in length is unpublished.
 - Chameleon Marketing Your School masterclass price is unpublished. Bid-writing half day is £250 on a blog, not on the course page, and VAT is unstated. Marketing Essentials is described as a launch offer against £225 + VAT. Done-for-you bid writing fees are unpublished.
 
+## Batch 2 recorded
+
+Organisations: AELP; AMCIS; SDN Mesma Group; FE Business; Education and Training Foundation; The Education and Skills Consultancy; ESS Assist; LX Group (including the Apprenticeship Accelerator); SCLO Consulting.
+
+## Unresolved after batch 2
+
+- AELP membership fees do not state VAT. A Day with the Department on 24 March 2026 showed £120 + VAT and £395 + VAT, but the member and non-member labels did not survive extraction, and the date has passed. Current conference prices were not captured.
+- AMCIS legal entity is unresolved. Marketing diploma price is unpublished. Workshop tariffs of £185 and £285 sit on a page whose printed dates had passed. Admissions diploma was seen on the calendar but not given its own row.
+- SDN compliance packages other than the December financial series have no price. Mesma Essentials at £27 a week does not state VAT. Companies House office and the terms address differ. Ofsted half-day at £150 + VAT was seen in search but not opened, so it is not a product row.
+- FE Business publishes six programme names and no prices, durations or toolkits. The Find Apprenticeship Training record also points at reflectlearning.com. Relationship between that site and febusiness.co.uk is not fully documented.
+- ETF catalogue is much larger than the three rows recorded. Introducing Leadership does not state VAT. In-house price is on request.
+- Education and Skills Consultancy Ofsted support, monthly quality retainers and the new-provider workshop mentioned in a testimonial have no prices. Registered office and Doncaster trading address differ. Company number is not printed on the site.
+- ESS Assist simultaneously shows £99 + VAT and £120 + VAT for an initial session. The £99 offer was described on LinkedIn as running to the end of May 2026. The guide at £49.99 was not opened. Daily bid-writer rates and win bonuses are unpublished.
+- LX Digital pricing page did not render numeric rates. Apprenticeship Mastery and audit fees are unpublished. "Free" for the Accelerator is a founder LinkedIn statement, not the case-study page.
+- SCLO project fees are unpublished. Webinar prices via AELP are unpublished.
+
 ## Seed organisations not yet verified
 
-AMCIS; AELP; SDN Mesma Group; FE Business; Education Training Foundation; Education & Skills Consultancy; ESS Assist; Apprenticeship Accelerator / LX Group; SCLO Consulting; Ambition Institute; Best Practice Network; ASCL Professional Development; Teach First; National Institute of Teaching; LLSE; UCL Institute of Education; Church of England NPQ provision; SSAT; The National College; The Key CPD; Chartered College of Teaching; Teacher Development Trust; National Governance Association; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; ISBL; Confederation of School Trusts; Advance HE; Jisc.
+Ambition Institute; Best Practice Network; ASCL Professional Development; Teach First; National Institute of Teaching; LLSE; UCL Institute of Education; Church of England NPQ provision; SSAT; The National College; The Key CPD; Chartered College of Teaching; Teacher Development Trust; National Governance Association; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; ISBL; Confederation of School Trusts; Advance HE; Jisc.
+
+## Discovered and not yet recorded
+
+Seren Skills Network: Ofsted and quality consultancy for apprenticeship providers, seen on serenskills.co.uk. No price captured. ISA marketing course of 4 June 2026 at £130 member and £160 non-member is past. RSAcademics trains the AMCIS diploma and is not yet a separate organisation row.
 
 ## Discovery queries still to run or finish
 
