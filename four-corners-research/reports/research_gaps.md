@@ -2,7 +2,7 @@
 
 Living log of unresolved evidence. Updated after each batch. Facts are not inferred to fill these gaps.
 
-Latest pass: 2026-10-02, after batch 4.
+Latest pass: 2026-10-02, after batch 6.
 
 ## Controlled labels
 
@@ -76,9 +76,41 @@ Teacher Development Trust has an organisation row and no product row. Its homepa
 - The National College numeric prices did not render. Discount percentages are published without the base price. The National College for School Leadership Limited 04014904 is a rejected namesake.
 - The Key has no public national list price. Local traded-services PDFs were not used.
 
+## Batch 5 recorded
+
+Organisations: EduCare; High Speed Training; NSPCC Learning; nasen, including Whole School SEND pages; Autism Education Trust.
+
+Catalogue businesses are one commercial model plus any priced premium, not one row per module.
+
+## Unresolved after batch 5
+
+- EduCare legal entity is unresolved. EDUCARE LEARNING LTD 01741045 is a name match only. VAT is unstated on the £410 starting price. A Tes brand link was not on the page used. Larger-school prices are quotes.
+- High Speed Training company 06428976 is a candidate only. The INSET pack has no price on the KCSIE page. Some courses on that page have no figure.
+- NSPCC volume discounts for the £35 course were not on the course page. The refresher does publish a ladder. Consultancy is mentioned and not priced. A company number was not recorded. Charity 216401 is the society.
+- nasen company 02674379 comes from the Charity Commission record. The Tamworth office was not re-checked against Companies House. VAT is unstated on Plus at £19.99 and on the £500 programme. Academy tiers above £375 + VAT are on request.
+- Autism Education Trust licence and delegate fees are unpublished. The Autism Trust Limited was rejected as a namesake. Partner prices were not used as a national fee.
+
+## Batch 6 recorded
+
+Organisations: Advance HE; Jisc; Independent Schools Association.
+
+The Independent Schools Association was discovered. Marketing Works on 13 October 2026 was open at £140 for members and £170 for non-members. A 4 June 2026 ISA marketing course is closed and is not a product row.
+
+## Unresolved after batch 6
+
+- Advance HE institutional membership price is unpublished. VAT is unstated on fellowship fees. Programmes and consultancy beyond fellowship were not priced.
+- Jisc direct fetch of the AI module was blocked. The £50 + VAT non-member price and one-hour length are from the public page text. The listed dates 1 March 2026 and 1 April 2026 had passed. A general current training tariff was not found. The 2023 module list was not used. Building digital capability subscriber discounts were seen on a service page without a base price.
+- LLSE, UCL Institute of Education and Church of England NPQ provision still have no verified current offer in this file.
+- Seren Skills was seen earlier as an Ofsted and quality consultancy and was not given a product row because no price or inclusion page was opened.
+- RSAcademics trains the AMCIS diploma and the ISA course biography names RHL Consulting. Neither has its own priced row.
+
+## Discovery
+
+Queries sampled after the seed batches returned the same patterns already recorded: independent-school marketing workshops, NPQ lead providers, safeguarding catalogues, and unpublished consultancy. New names were added only where an official current page showed an education offer: The Stickman Consultancy, Chameleon Consultancy & Training, and the Independent Schools Association. Further names that only repeated those patterns were not added.
+
 ## Seed organisations not yet verified
 
-LLSE; UCL Institute of Education; Church of England NPQ provision; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; Advance HE; Jisc.
+LLSE; UCL Institute of Education; Church of England NPQ provision.
 
 ## Discovered and not yet recorded
 
