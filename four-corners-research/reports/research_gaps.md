@@ -2,7 +2,7 @@
 
 Living log of unresolved evidence. Updated after each batch. Facts are not inferred to fill these gaps.
 
-Latest pass: 2026-10-02, after batch 2.
+Latest pass: 2026-10-02, after batch 3.
 
 ## Controlled labels
 
@@ -45,9 +45,24 @@ Organisations: AELP; AMCIS; SDN Mesma Group; FE Business; Education and Training
 - LX Digital pricing page did not render numeric rates. Apprenticeship Mastery and audit fees are unpublished. "Free" for the Accelerator is a founder LinkedIn statement, not the case-study page.
 - SCLO project fees are unpublished. Webinar prices via AELP are unpublished.
 
+## Batch 3 recorded
+
+Organisations: Ambition Institute; Best Practice Network; ASCL Professional Development; Teach First; National Institute of Teaching.
+
+Recorded programme families only. Ambition: NPQH, NPQEYL and NPQLTD. Best Practice Network: NPQLT and the levy apprenticeship row on the same page. ASCL: Trust Leaders Executive Programme cohort 5 and Leading Effective Disadvantaged Provision, January 2027. Teach First: the Autumn 2026 FAQ fee list, with specialist NPQs grouped where the price is shared. National Institute of Teaching: NPQH, NPQSL, NPQLT and NPQLTD.
+
+## Unresolved after batch 3
+
+- Ambition NPQs other than the three priced pages were not opened. International NPQH is stated at £2,049 on the England headship page; the international page itself was not opened. Partner cohorts may change the cost. The FAQ line that future funding is not guaranteed sits beside the autumn 2026 funded-place statements.
+- Best Practice Network NPQs other than Leading Teaching were not opened. The leader apprenticeship duration was not taken from a dedicated page. The £7,000 figure is a value claim. The apply-by date of 25 October does not print a year.
+- ASCL day courses other than the disadvantaged-provision programme were not opened. The additional-colleague fee on the executive programme is unpublished. The association is a trade union; the recorded company is the professional development subsidiary.
+- Teach First hours and session counts are not on the FAQ. SENCO duration is not itemised. An overview page with rounded bands was not re-checked against the FAQ, so only the FAQ list is used.
+- National Institute of Teaching executive leadership, early headship coaching and early years leadership prices were not opened. VAT is unstated on the four recorded prices. National Institute of Teaching and Education, company 13888847, is a rejected namesake.
+- LLSE, UCL Institute of Education and Church of England NPQ provision are not yet verified.
+
 ## Seed organisations not yet verified
 
-Ambition Institute; Best Practice Network; ASCL Professional Development; Teach First; National Institute of Teaching; LLSE; UCL Institute of Education; Church of England NPQ provision; SSAT; The National College; The Key CPD; Chartered College of Teaching; Teacher Development Trust; National Governance Association; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; ISBL; Confederation of School Trusts; Advance HE; Jisc.
+LLSE; UCL Institute of Education; Church of England NPQ provision; SSAT; The National College; The Key CPD; Chartered College of Teaching; Teacher Development Trust; National Governance Association; NSPCC Learning; EduCare / Tes; High Speed Training; nasen / Whole School SEND; Autism Education Trust; ISBL; Confederation of School Trusts; Advance HE; Jisc.
 
 ## Discovered and not yet recorded
 
