@@ -2,7 +2,7 @@
 
 Living log of unresolved evidence. Updated after each batch. Facts are not inferred to fill these gaps.
 
-Latest pass: 2026-10-02, after batch 6.
+Latest pass: 2 October 2026, after batch 6. The market summary and the opportunity report were written from the CSVs only.
 
 ## Controlled labels
 
