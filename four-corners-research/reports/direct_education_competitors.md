@@ -18,7 +18,17 @@ Nine organisations, 26 products:
 - Creative Collins
 - HubGem
 
-School and MAT marketing agencies (Attenger, The Stickman Consultancy, Chameleon Consultancy & Training, Sticky Note Studio, and others found in the same search) are direct competitors under the brief. They are **not yet in this file**. Their prices from the 2 October 2026 training-universe pass are not repeated here until those rows are appended and the school section is written.
+Phase 2, added on 5 October 2026, is school, MAT and independent-school marketing. Seven further direct competitors:
+
+- Attenger
+- The Stickman Consultancy
+- Chameleon Consultancy & Training
+- Sticky Note Studio
+- Marketing 4 Success
+- Tillison
+- AmbleGlow
+
+Use this group to learn product shape. Do not treat a school fee as the price an independent training provider will pay.
 
 ## How to read the prices
 
@@ -127,15 +137,38 @@ Beanstalk’s published relationship lead on the apprenticeship page is an accou
 
 Creative Collins prices the retainer as half-day or full-day capacity on a weekly, fortnightly or monthly rhythm. The rate is not published.
 
+## Phase 2: schools, MATs and independent schools
+
+These suppliers sell marketing, admissions or commercial income to schools. They are direct competitors under the brief. They are a different buyer from a training provider.
+
+**Attenger** is the priced school ladder. On 5 October 2026 the homepage still offered the AI Playbook at £697 one-time, VAT status not published, and the playbook page priced the SLT Strategy Pack at £2,497, VAT status not published, with a 45-minute virtual implementation call and board-ready materials. The playbook page says the buyer does the implementation. Course prices were not re-opened on 5 October 2026: AI workshop £350 per person for 4 hours; admissions social programme £1,295 per person; commercial-team social programme £995 per person; Paid Ads for Schools £645 on Attenger’s own 2026 article. Consultancy, audits and done-for-you campaigns are named and not priced. Homepage result claims name Queen’s College Taunton, Clongowes Wood College, Repton School Enterprises, Edgbaston High School and Cheltenham Ladies’ College. A claim of 120+ organisations is not a client list.
+
+**The Stickman Consultancy** still had its January-sale page live on 5 October 2026. Both the marketing course and the admissions course are £1,996 + VAT for up to two people, and £1,125 + VAT for each extra person. No crossed-out list price is shown, so this is a sale-page price. Each course is six modules, workbooks and a weekly live check-in whose length is not published. The free health check is a two-minute questionnaire with scores and tips, then a 20-minute call. The strategic marketing plan is three months and includes competitor, social, website and enquiry reviews. Its fee is not published. An optional second phase adds an action plan, monthly support and referrals to copy, photography and web partners.
+
+**Chameleon** re-confirmed on 5 October 2026 that the Marketing Your School masterclass is contact-for-price. It includes templates, an action plan, a year of FundEd, and 15% off for ISBL members. Marketing Essentials remains the 2 October figure: £150 + VAT on the provider page, with a checkout that also shows £180 including VAT and calls £150 a launch offer against £225 + VAT. Winning Bids, not re-opened on 5 October, is £950 + VAT for a small school or the online version, and £1,250 + VAT for a regional group or MAT. The bid-writing half day is £250 on a provider blog, VAT status not published.
+
+**Sticky Note Studio** published from-prices on 5 October 2026, VAT status not published: on-site creative session from £500 a day, admissions or recruitment or social campaign design and set-up from £100, website design or refresh from £1,000. The campaign budget is extra and set by the school. The Creative Partner retainer lists marketing, design, campaigns, advice and training, and does not publish a fee. The company number is still unresolved.
+
+**Marketing 4 Success** lists health checks, mystery-shopper admissions reviews, campaigns, mentoring, a School Awards Strategy pack and a PLUS version, and ongoing support. No fee is on the homepage. A case-study page that appeared in search was not fully fetched, so a days-per-week figure from that snippet is not recorded.
+
+**Tillison** sells SEO, paid search and paid social to independent schools and calls itself a growth partner. No fee. Testimonials name Portland Place School and a University of Portsmouth course launch. **AmbleGlow** sells school digital marketing, includes an Edumetric dashboard, and publishes a five-step onboarding path plus a free 30-minute discovery call. No fee. A company-number candidate was not confident enough to record.
+
+**Analysis.** The school market already buys a free diagnostic, a few-hundred-pound workshop, a four-figure course or playbook, and an unpriced retainer or plan. Attenger’s £2,497 pack buys 45 minutes plus materials. Sticky Note’s from-£100 campaign line is a production floor, not a managed recruitment programme. None of these pages publishes expert hours inside a monthly school retainer.
+
 ## Unresolved evidence
 
 - Skills Marketing: audit price, VAT, minimum term, cancellation, whether media spend is inside the fee, extra ghostwritten-profile price, legal name and company number. Companies House number 14832502 was a name-only candidate and is not recorded. SKIL MARKETING LTD 07073822 is a different company.
 - McCracken: a North West page snippet mentioned a Marketing Strategy and Audit from £750. Fractional-director pages in search snippets showed bands up to £8,000 a month and day-rate bands of £500 to £900. Those pages were not fully fetched. They are not in the price table. VAT is silent on the pages that were fetched. The llm-info page was not fully fetched.
 - Projects Marketing: a contact-page snippet mentioned a first month free. The same snippet contained a theme-author email address, so the free trial is not recorded. Companies House registered office is 1 Devon Way, Birmingham B31 2TS. The website prints 2 Devon Way, Longbridge, Birmingham B31 2TS. The company number 05566164 is recorded with that door-number difference in the evidence notes. No per-start fee is published. The claim of more than 200 apprenticeship sign-ups in the last year is a marketing claim, not a named-client result.
 - FE Business wider programmes page was not re-opened on 5 October 2026. The sales page was. Prices were still absent.
-- MarCommEd, Creative Collins and HubGem facts in this batch use the 2 October 2026 verification. They were not re-opened on 5 October 2026.
+- MarCommEd, Creative Collins and HubGem facts in the first batch use the 2 October 2026 verification. They were not re-opened on 5 October 2026.
 - A Contracts Finder proposal for Net Natives to one college is not a public price list and is not recorded.
+- Attenger course pages and Chameleon’s Essentials, bid half-day and Winning Bids pages were not re-opened on 5 October 2026. The playbook, the masterclass, the Stickman sale page, the Stickman plan, Sticky Note pricing, Marketing 4 Success, Tillison and AmbleGlow were.
+- Sticky Note Studio’s company number is unresolved. STICKY NOTES STUDIO LTD 07780717 is dissolved and is not this studio.
+- AmbleGlow’s company number is unresolved. AMBLEGLOW LIMITED 01540192 shares the name. Its registered office is Chandlers Ford. The school page does not print that address or the number.
+- Marketing 4 Success has no recorded company number. The AMCIS directory URL returned 404 on 5 October 2026. The complimentary Discover Call is described on that missing page and is not recorded as a live free offer.
+- AIM Digital appeared in search as an independent-school agency. Its pages were not fetched. It is not in the database.
 
-## Names found, not yet recorded
+## Names checked and not added
 
-Marketing 4 Success, Tillison, AmbleGlow and AIM Digital appeared in school-marketing search results. They are candidates for the school batch. Nothing in those snippets is treated as a verified price.
+AIM Digital was not fetched. Net Natives’ public site was not fetched, and a single-college tender is not its price list.
